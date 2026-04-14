@@ -8,7 +8,7 @@ This is the official GitHub home for CheatGrid — we use it for bug reports and
 
 ## What's CheatGrid?
 
-CheatGrid is a collection of 630+ (and growing) cheat sheets covering programming and development, data, cloud, AI, security, and professional skills and others. Everything follows the same 3-column format — concept, example, description and well categorized tables for each topic.
+CheatGrid is a collection of 700+ (and growing) cheat sheets covering programming and development, data, cloud, AI, security, and professional skills and others. Everything follows the same 3-column format — concept, example, description and well categorized tables for each topic.
 
 Each concept links out to its primary source, and every sheet ends with a reference list if you want to dig deeper. New topics are constantly being added.
 
