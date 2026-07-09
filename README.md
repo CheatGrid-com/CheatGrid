@@ -1,875 +1,136 @@
+<div align="center">
+
 # CheatGrid
 
-**→ [cheatgrid.com](https://www.cheatgrid.com)**
+### Discover, learn, and remember.
 
-This is the official GitHub home for CheatGrid — we use it for bug reports and issue tracking. The site itself lives at [cheatgrid.com](https://www.cheatgrid.com).
+**A learning platform for technical and professional skills, built on deeply researched, structured cheat sheets, then extended with spaced-repetition flashcards, practice tests, and full certification prep.**
 
----
+**→ [www.cheatgrid.com](https://www.cheatgrid.com)**
 
-## What's CheatGrid?
-
-CheatGrid is a collection of 700+ (and growing) cheat sheets covering programming and development, data, cloud, AI, security, and professional skills, personal development and others. Everything follows the same 3-column format — concept, example, description and well categorized tables for each topic.
-
-Each concept links out to its primary source, and every sheet ends with a reference list if you want to dig deeper. New topics are constantly being added and current topic are constantly being updated.
-
-A few things you'll find on the site:
-
-- full-text search across all sheets
-- an AI assistant to help you find the right sheet or talk through a concept
-- **My Vault** — save individual rows from any sheet into your own collection, reorder rows and topics in TOC, search, etc.
+</div>
 
 ---
 
-## Topics
+## What is CheatGrid?
 
-7 categories · 24 subcategories · 700+ sheets
+Most references give you a wall of prose, or stop at the obvious basics. CheatGrid is structured differently.
 
-| Category | Some of what's in there |
+Every topic starts as a **cheat sheet**: built from authoritative sources and broken into clean `concept → example → description` tables, sorted from most-used to most-advanced, with an **interactive mind map** and a **quick index** so you can see the whole landscape and scan to any concept in seconds. Each sheet aims to go beyond the basics (common techniques, advanced patterns, and the related concepts you didn't know to look for), so it works as much for **discovering** a subject as for looking things up in it.
+
+Many topics go further, to help you **keep** what you learn:
+
+- 🎴 **Intelligent Flashcards** that bring each idea back right before you'd forget it
+- 📝 **Practice Tests** to check that it really stuck, or to learn it Q&A-style in the first place
+
+And when you're preparing for a specific **certification**, the exam itself is the center: each 🎓 **[Certification](guides/certifications.md)** is built around one real exam (Azure, AWS, security, project management, and more) and comes with its own cheat sheet, practice tests, and flashcards focused on that exam's objectives.
+
+The pieces are **linked**, so you can move from exploring to studying to testing, and watch your progress add up as you go.
+
+---
+
+## What you can do
+
+| | Feature | In short |
+|---|---|---|
+| 📋 | **[Cheat Sheets](guides/cheat-sheets.md)** | 1,300+ topics as scannable 3-column tables, each with an interactive mind map, a quick index, and a link to every concept's source. |
+| 🎴 | **[Intelligent Flashcards](guides/intelligent-flashcards.md)** | Spaced-repetition decks written for *learning*: beginner-friendly explanations paired with concrete, real-world examples (a specific case rather than an abstract one). The schedule shows each card right before you'd forget it. |
+| 📝 | **[Practice Tests](guides/practice-tests.md)** | Multiple-choice questions with real-world "why it matters" explanations. Study, take a timed exam, or browse the answers. Your call. |
+| 🎓 | **[Certifications](guides/certifications.md)** | Exam-focused prep for in-demand certifications: each with a cheat sheet, a practice test, and flashcards. |
+| 📥 | **[My Vault](guides/my-vault.md)** | Save the rows you care about, and build your own custom cheat sheets, complete with an auto-generated mind map and quick index. |
+| 🔍 | **[Search & Assistant](guides/assistant-and-search.md)** | Instant fuzzy search across every sheet, plus an assistant that understands what you mean and points you to the right place, with sources. |
+| 📊 | **[Progress](guides/stats.md)** | Earn **[XP](guides/xp-and-levels.md)** and level up as you study, keep a daily **[streak](guides/streaks.md)** going, and see it all on your **[Stats](guides/stats.md)** page. |
+
+New to CheatGrid? The **[guides folder](guides/)** walks through each feature and how to get the most from it.
+
+---
+
+## How it all connects
+
+The pieces aren't separate apps; they're three angles on the **same topic**:
+
+- The **cheat sheet** is your reference and your map of the subject.
+- The **flashcards** are written from a learning standpoint (simpler wording and concrete examples), so a beginner can actually *understand* a concept, then spaced repetition makes it *stick*.
+- The **practice test** turns the topic into questions (one right answer, two tempting wrong ones) so you can pressure-test what you know, and it doubles as a fast, Q&A way to learn. Any practice test can also be flipped into **QA Flashcards** for review.
+
+Wherever a topic has more than one of these, you'll see quick links between them so you can jump from exploring to studying to testing without hunting through menus. And everything links out to primary sources when you want to go deeper.
+
+> Not every topic has all three yet, and the ones that exist don't stand still. We keep adding new pieces, pairing them up, and updating what's already there as the subjects evolve.
+
+---
+
+## Browse the content
+
+Full, always-up-to-date catalogs (every item links to its page on the site):
+
+- 📋 **[All Cheat Sheets](lists/cheat-sheets.md):** the complete library
+- 📝 **[Practice Tests](lists/practice-tests.md)**
+- 🎴 **[Flashcards](lists/flashcards.md)**
+- 🎓 **[Certifications](lists/certifications.md)**
+
+Or just start exploring at **[cheatgrid.com](https://www.cheatgrid.com)**.
+
+### What we cover
+
+Just a glimpse: each domain spans far more than this handful of examples. For the complete list of everything we've published, see the **[catalogs above](#browse-the-content)**, or just start exploring at **[cheatgrid.com](https://www.cheatgrid.com)**.
+
+| Domain | A taste of what's inside |
 |---|---|
-| 🤖 Artificial Intelligence | Machine Learning, Deep Learning, LLMs, Prompt Engineering, AI Agents |
-| ☁️ Cloud and Infrastructure | AWS, GCP, Azure, Kubernetes, Docker, Terraform, CI/CD |
-| 💾 Data and Databases | SQL, PostgreSQL, MongoDB, dbt, Spark, Tableau, Power BI |
-| 🎯 Programming and Development | Python, JavaScript, TypeScript, Go, Rust, REST APIs, GraphQL |
-| 🔒 Security and Networking | OWASP, OAuth, JWT, TLS, Firewalls, Penetration Testing |
-| 💼 Professional Skills | Agile, Scrum, Communication, Soft Skills, Productivity |
-| 📚 Specialized Topics | Operating Systems and CLI, Mathematics and Algorithms, Personal Development and Other Interesting Topics |
-
-Full topic list with links at the bottom of this page. ↓
-
----
-
-## Spotted a Bug?
-
-Feel free to [open an issue](../../issues) — we genuinely appreciate it. Doesn't matter if it's a broken layout, a search quirk, a wonky link, or something that just feels off.
-
-It helps if you include:
-
-- the URL where you saw it
-- what you expected vs. what happened
-- your browser + OS
-- a screenshot if it's something visual
-
-For content feedback, topic suggestions, or anything else — just drop us a line at [hello@cheatgrid.com](mailto:hello@cheatgrid.com). We're pretty responsive. 🙂
+| 🎓 Certifications | AWS Solutions Architect, Azure AZ-104/305, CKA, CISSP, CompTIA Security+, CEH, PMP, CFA Level I, CPA, Power BI PL-300, and more… |
+| 🤖 Artificial Intelligence | LLMs, Prompt Engineering, RAG, AI Agents, LangChain & LangGraph, Fine-tuning, Computer Vision, MLOps, and more… |
+| ☁️ Cloud & Infrastructure | AWS, Azure, GCP, Kubernetes, Docker, Terraform, Helm, CI/CD, GitOps, Serverless, and more… |
+| 💾 Data & Databases | SQL, PostgreSQL, MongoDB, Redis, Spark, Databricks, Kafka, Snowflake, Power BI, Tableau, Vector Databases, and more… |
+| 🎯 Programming & Development | Python, TypeScript, Go, Rust, React & Next.js, Node.js, REST & GraphQL APIs, System Design, Design Patterns, and more… |
+| 🔒 Security & Networking | OWASP, Ethical Hacking, Penetration Testing, Zero Trust, Incident Response, Network Security, Firewalls & VPNs, and more… |
+| 💼 Professional Skills | Agile & Scrum, Leadership, Communication, Interview Prep, Resume & Salary Negotiation, Time Management, and more… |
+| 📚 Specialized Topics | Linux & the CLI, Algorithms & Data Structures, Dynamic Programming, Big O, Blockchain, IoT, statistics & linear algebra, and more… |
 
 ---
 
-## Get in Touch
+## Free & subscriptions
 
-- 🌐 [cheatgrid.com](https://www.cheatgrid.com)
-- 📬 [hello@cheatgrid.com](mailto:hello@cheatgrid.com)
-- 🐛 [Open an issue](../../issues)
+A lot is free to try (free cheat sheets, plus previews of flashcards and practice tests), so you can get a real feel before deciding. A **Pro** or **Pro+** subscription unlocks the full library, every flashcard deck and practice test, unlimited study, and all of My Vault.
+
+See current plans at **[cheatgrid.com/subscription](https://www.cheatgrid.com/subscription)**.
 
 ---
 
-<!-- ============================================================
-     TOPICS LIST — DO NOT EDIT BELOW THIS LINE MANUALLY
-     Regenerate with: python Scripts/public_github_prep/generate_topics_list.py
-     Then paste the contents of topics_list.md here.
-     ============================================================ -->
+## Latest additions
 
-## 📋 Topics We Cover
-> Browse the full collection at **[cheatgrid.com](https://www.cheatgrid.com)**. Subcategory and topic names link directly to their page on the site.
+Newest first:
 
-### 🤖 Artificial Intelligence
+- 🎴 Intelligent Flashcards (spaced repetition)
+- 🃏 QA Flashcards (from practice tests)
+- 🔥 Study Streaks (with lives & milestones)
+- 🎓 Certifications & certification practice tests
+- 📝 Practice Tests: Practice / Exam / Browse modes
+- 🧠 Interactive Mind Maps
+- 📥 My Vault: custom tables & edit mode
+- ⭐ XP, levels & Stats
+- 💬 AI assistant & semantic search
 
-**[AI and Machine Learning](https://www.cheatgrid.com/ai-and-machine-learning)**
-- [Machine Learning Core Cheat Sheet](https://www.cheatgrid.com/ai-and-machine-learning/0015-machine-learning-core-cheat-sheet)
-- [MLOps Cheat Sheet](https://www.cheatgrid.com/ai-and-machine-learning/0049-mlops-cheat-sheet)
-- [Deep Learning Cheat Sheet](https://www.cheatgrid.com/ai-and-machine-learning/0067-deep-learning-cheat-sheet)
-- [Scikit-Learn Cheat Sheet](https://www.cheatgrid.com/ai-and-machine-learning/0128-scikit-learn-cheat-sheet)
-- [TensorFlow Cheat Sheet](https://www.cheatgrid.com/ai-and-machine-learning/0129-tensorflow-cheat-sheet)
-- [Neural Networks Core Cheat Sheet](https://www.cheatgrid.com/ai-and-machine-learning/0133-neural-networks-core-cheat-sheet)
-- [AI Bias & Fairness Cheat Sheet](https://www.cheatgrid.com/ai-and-machine-learning/0167-ai-bias-fairness-cheat-sheet)
-- [AI Ethics and Responsible AI Cheat Sheet](https://www.cheatgrid.com/ai-and-machine-learning/0168-ai-ethics-and-responsible-ai-cheat-sheet)
-- [AI in Production Cheat Sheet](https://www.cheatgrid.com/ai-and-machine-learning/0169-ai-in-production-cheat-sheet)
-- [AI Model Deployment Cheat Sheet](https://www.cheatgrid.com/ai-and-machine-learning/0170-ai-model-deployment-cheat-sheet)
-- [AutoML Cheat Sheet](https://www.cheatgrid.com/ai-and-machine-learning/0171-automl-cheat-sheet)
-- [Computer Vision Cheat Sheet](https://www.cheatgrid.com/ai-and-machine-learning/0172-computer-vision-cheat-sheet)
-- [Neural Networks Architecture Cheat Sheet](https://www.cheatgrid.com/ai-and-machine-learning/0175-neural-networks-architecture-cheat-sheet)
-- [Ensemble Methods Cheat Sheet](https://www.cheatgrid.com/ai-and-machine-learning/0176-ensemble-methods-cheat-sheet)
-- [Explainable AI (XAI) Cheat Sheet](https://www.cheatgrid.com/ai-and-machine-learning/0177-explainable-ai-xai-cheat-sheet)
-- [Feature Engineering Cheat Sheet](https://www.cheatgrid.com/ai-and-machine-learning/0178-feature-engineering-cheat-sheet)
-- [Hyperparameter Tuning Cheat Sheet](https://www.cheatgrid.com/ai-and-machine-learning/0179-hyperparameter-tuning-cheat-sheet)
-- [Machine Learning Fundamentals Cheat Sheet](https://www.cheatgrid.com/ai-and-machine-learning/0180-machine-learning-fundamentals-cheat-sheet)
-- [Model Evaluation Cheat Sheet](https://www.cheatgrid.com/ai-and-machine-learning/0181-model-evaluation-cheat-sheet)
-- [Model Training & Optimization Cheat Sheet](https://www.cheatgrid.com/ai-and-machine-learning/0182-model-training-optimization-cheat-sheet)
-- [Natural Language Processing (NLP) Cheat Sheet](https://www.cheatgrid.com/ai-and-machine-learning/0183-natural-language-processing-nlp-cheat-sheet)
-- [PyTorch Cheat Sheet](https://www.cheatgrid.com/ai-and-machine-learning/0184-pytorch-cheat-sheet)
-- [Reinforcement Learning Cheat Sheet](https://www.cheatgrid.com/ai-and-machine-learning/0185-reinforcement-learning-cheat-sheet)
-- [Recommender Systems Cheat Sheet](https://www.cheatgrid.com/ai-and-machine-learning/0186-recommender-systems-cheat-sheet)
-- [Supervised Learning Cheat Sheet](https://www.cheatgrid.com/ai-and-machine-learning/0187-supervised-learning-cheat-sheet)
-- [Time Series Forecasting Cheat Sheet](https://www.cheatgrid.com/ai-and-machine-learning/0188-time-series-forecasting-cheat-sheet)
-- [Transfer Learning Cheat Sheet](https://www.cheatgrid.com/ai-and-machine-learning/0189-transfer-learning-cheat-sheet)
-- [Unsupervised Learning Cheat Sheet](https://www.cheatgrid.com/ai-and-machine-learning/0190-unsupervised-learning-cheat-sheet)
-- [Azure ML Studio Cheat Sheet](https://www.cheatgrid.com/ai-and-machine-learning/0191-azure-ml-studio-cheat-sheet)
-- [Neural Architecture Search (NAS) Cheat Sheet](https://www.cheatgrid.com/ai-and-machine-learning/0442-neural-architecture-search-nas-cheat-sheet)
+---
 
-**[Generative AI](https://www.cheatgrid.com/generative-ai)**
-- [Generative AI Cheat Sheet](https://www.cheatgrid.com/generative-ai/0013-generative-ai-cheat-sheet)
-- [LLMOps Cheat Sheet](https://www.cheatgrid.com/generative-ai/0050-llmops-cheat-sheet)
-- [AI Engineering Cheat Sheet](https://www.cheatgrid.com/generative-ai/0083-ai-engineering-cheat-sheet)
-- [Prompt Engineering Cheat Sheet](https://www.cheatgrid.com/generative-ai/0084-prompt-engineering-cheat-sheet)
-- [Embeddings Cheat Sheet](https://www.cheatgrid.com/generative-ai/0148-embeddings-cheat-sheet)
-- [Semantic Search Cheat Sheet](https://www.cheatgrid.com/generative-ai/0149-semantic-search-cheat-sheet)
-- [RAG (Retrieval Augmented Generation) Cheat Sheet](https://www.cheatgrid.com/generative-ai/0156-rag-retrieval-augmented-generation-cheat-sheet)
-- [Hugging Face Ecosystem Cheat Sheet](https://www.cheatgrid.com/generative-ai/0173-hugging-face-ecosystem-cheat-sheet)
-- [Hugging Face Transformers Cheat Sheet](https://www.cheatgrid.com/generative-ai/0174-hugging-face-transformers-cheat-sheet)
-- [AI Agents Cheat Sheet](https://www.cheatgrid.com/generative-ai/0192-ai-agents-cheat-sheet)
-- [AI-LLM Memory & Reasoning Cheat Sheet](https://www.cheatgrid.com/generative-ai/0193-ai-llm-memory-reasoning-cheat-sheet)
-- [AI LLM Orchestration Frameworks Cheat Sheet](https://www.cheatgrid.com/generative-ai/0194-ai-llm-orchestration-frameworks-cheat-sheet)
-- [AI LLM Content Generation Cheat Sheet](https://www.cheatgrid.com/generative-ai/0195-ai-llm-content-generation-cheat-sheet)
-- [Claude (Anthropic) Cheat Sheet](https://www.cheatgrid.com/generative-ai/0196-claude-anthropic-cheat-sheet)
-- [Google Gemini Cheat Sheet](https://www.cheatgrid.com/generative-ai/0197-google-gemini-cheat-sheet)
-- [In-context Learning Cheat Sheet](https://www.cheatgrid.com/generative-ai/0197-in-context-learning-cheat-sheet)
-- [LangChain Cheat Sheet](https://www.cheatgrid.com/generative-ai/0198-langchain-cheat-sheet)
-- [LangSmith Cheat Sheet](https://www.cheatgrid.com/generative-ai/0198-langsmith-cheat-sheet)
-- [AI-LLM Task Capabilities Cheat Sheet](https://www.cheatgrid.com/generative-ai/0199-ai-llm-task-capabilities-cheat-sheet)
-- [LLM APIs and Integration Cheat Sheet](https://www.cheatgrid.com/generative-ai/0200-llm-apis-and-integration-cheat-sheet)
-- [LLM Observability Cheat Sheet](https://www.cheatgrid.com/generative-ai/0201-llm-observability-cheat-sheet)
-- [Multimodal AI Cheat Sheet](https://www.cheatgrid.com/generative-ai/0202-multimodal-ai-cheat-sheet)
-- [OpenAI API Cheat Sheet](https://www.cheatgrid.com/generative-ai/0202-openai-api-cheat-sheet)
-- [Stable Diffusion Cheat Sheet](https://www.cheatgrid.com/generative-ai/0203-stable-diffusion-cheat-sheet)
-- [Vector Embeddings Cheat Sheet](https://www.cheatgrid.com/generative-ai/0204-vector-embeddings-cheat-sheet)
-- [AI-LLM App Evaluation Cheat Sheet](https://www.cheatgrid.com/generative-ai/0205-ai-llm-app-evaluation-cheat-sheet)
-- [AI-LLM Hallucination Prevention Cheat Sheet](https://www.cheatgrid.com/generative-ai/0206-ai-llm-hallucination-prevention-cheat-sheet)
-- [DALL-E and Midjourney Cheat Sheet](https://www.cheatgrid.com/generative-ai/0207-dall-e-and-midjourney-cheat-sheet)
-- [GPT Models Cheat Sheet](https://www.cheatgrid.com/generative-ai/0208-gpt-models-cheat-sheet)
-- [LangGraph Cheat Sheet](https://www.cheatgrid.com/generative-ai/0209-langgraph-cheat-sheet)
-- [Large Language Models (LLMs) Cheat Sheet](https://www.cheatgrid.com/generative-ai/0210-large-language-models-llms-cheat-sheet)
-- [LlamaIndex Cheat Sheet](https://www.cheatgrid.com/generative-ai/0211-llamaindex-cheat-sheet)
-- [LLM Evaluation Cheat Sheet](https://www.cheatgrid.com/generative-ai/0212-llm-evaluation-cheat-sheet)
-- [LLM Fine-tuning Cheat Sheet](https://www.cheatgrid.com/generative-ai/0213-llm-fine-tuning-cheat-sheet)
-- [LLM Orchestration Cheat Sheet](https://www.cheatgrid.com/generative-ai/0214-llm-orchestration-cheat-sheet)
-- [LLM Security & Safety Cheat Sheet](https://www.cheatgrid.com/generative-ai/0215-llm-security-safety-cheat-sheet)
-- [RAG Evaluation Cheat Sheet](https://www.cheatgrid.com/generative-ai/0216-rag-evaluation-cheat-sheet)
-- [Token Management Cheat Sheet](https://www.cheatgrid.com/generative-ai/0217-token-management-cheat-sheet)
-- [Amazon Bedrock Cheat Sheet](https://www.cheatgrid.com/generative-ai/0384-amazon-bedrock-cheat-sheet)
-- [Context Engineering Cheat Sheet](https://www.cheatgrid.com/generative-ai/0386-context-engineering-cheat-sheet)
-- [Variational Autoencoders (VAEs) Cheat Sheet](https://www.cheatgrid.com/generative-ai/0434-variational-autoencoders-vaes-cheat-sheet)
-- [Diffusion Models Cheat Sheet](https://www.cheatgrid.com/generative-ai/0435-diffusion-models-cheat-sheet)
-- [Transformer Architecture Cheat Sheet](https://www.cheatgrid.com/generative-ai/0436-transformer-architecture-cheat-sheet)
-- [Generative Adversarial Networks (GANs) Cheat Sheet](https://www.cheatgrid.com/generative-ai/0437-generative-adversarial-networks-gans-cheat-sheet)
-- [Text-to-Speech (TTS) Synthesis Cheat Sheet](https://www.cheatgrid.com/generative-ai/0438-text-to-speech-tts-synthesis-cheat-sheet)
-- [Speech-to-Text (ASR) Models Cheat Sheet](https://www.cheatgrid.com/generative-ai/0439-speech-to-text-asr-models-cheat-sheet)
-- [Model Quantization Cheat Sheet](https://www.cheatgrid.com/generative-ai/0440-model-quantization-cheat-sheet)
-- [Knowledge Distillation Cheat Sheet](https://www.cheatgrid.com/generative-ai/0441-knowledge-distillation-cheat-sheet)
-- [LoRA and Parameter-Efficient Fine-Tuning Cheat Sheet](https://www.cheatgrid.com/generative-ai/0443-lora-and-parameter-efficient-fine-tuning-cheat-sheet)
-- [Foundation Models in AI Cheat Sheet](https://www.cheatgrid.com/generative-ai/0444-foundation-models-in-ai-cheat-sheet)
-- [Constitutional AI and Alignment Cheat Sheet](https://www.cheatgrid.com/generative-ai/0445-constitutional-ai-and-alignment-cheat-sheet)
-- [Synthetic Data Generation Cheat Sheet](https://www.cheatgrid.com/generative-ai/0446-synthetic-data-generation-cheat-sheet)
-- [Few-Shot and Zero-Shot Learning Cheat Sheet](https://www.cheatgrid.com/generative-ai/0447-few-shot-and-zero-shot-learning-cheat-sheet)
-- [Chain-of-Thought Reasoning Cheat Sheet](https://www.cheatgrid.com/generative-ai/0448-chain-of-thought-reasoning-cheat-sheet)
-- [Vision-Language Models (VLMs) Cheat Sheet](https://www.cheatgrid.com/generative-ai/0449-vision-language-models-vlms-cheat-sheet)
-- [Text-to-Image Prompting Cheat Sheet](https://www.cheatgrid.com/generative-ai/0450-text-to-image-prompting-cheat-sheet)
-- [AI Video Generation Cheat Sheet](https://www.cheatgrid.com/generative-ai/0451-ai-video-generation-cheat-sheet)
-- [AI Audio and Music Generation Cheat Sheet](https://www.cheatgrid.com/generative-ai/0452-ai-audio-and-music-generation-cheat-sheet)
-- [MCP Servers Implementation Cheat Sheet](https://www.cheatgrid.com/generative-ai/0619-mcp-servers-implementation-cheat-sheet)
-- [MCP Servers - Popular Concrete - Cheat Sheet](https://www.cheatgrid.com/generative-ai/0620-mcp-servers-popular-concrete-cheat-sheet)
+## Found a bug? Have an idea?
 
-### ☁️ Cloud and Infrastructure
+This project is still young and we'd genuinely love your help making it better.
 
-**[Cloud Computing](https://www.cheatgrid.com/cloud-computing)**
-- [Azure Cloud Computing Core Cheat Sheet](https://www.cheatgrid.com/cloud-computing/0009-azure-cloud-computing-core-cheat-sheet)
-- [Cloud Computing Basics Cheat Sheet](https://www.cheatgrid.com/cloud-computing/0017-cloud-computing-basics-cheat-sheet)
-- [Google Cloud Platform - GCP Core Cheat Sheet](https://www.cheatgrid.com/cloud-computing/0059-google-cloud-platform-gcp-core-cheat-sheet)
-- [Amazon Web Services (AWS) - Core Cheat Sheet](https://www.cheatgrid.com/cloud-computing/0060-amazon-web-services-aws-core-cheat-sheet)
-- [AWS CloudFormation Cheat Sheet](https://www.cheatgrid.com/cloud-computing/0218-aws-cloudformation-cheat-sheet)
-- [GCP BigQuery Cheat Sheet](https://www.cheatgrid.com/cloud-computing/0237-gcp-bigquery-cheat-sheet)
-- [Supabase Cheat Sheet](https://www.cheatgrid.com/cloud-computing/0239-supabase-cheat-sheet)
-- [Cloud Architecture Cheat Sheet](https://www.cheatgrid.com/cloud-computing/0244-cloud-architecture-cheat-sheet)
-- [Microsoft Fabric Cheat Sheet](https://www.cheatgrid.com/cloud-computing/0245-microsoft-fabric-cheat-sheet)
-- [Multi-Cloud Strategies Cheat Sheet](https://www.cheatgrid.com/cloud-computing/0246-multi-cloud-strategies-cheat-sheet)
-- [Serverless Architecture Cheat Sheet](https://www.cheatgrid.com/cloud-computing/0247-serverless-architecture-cheat-sheet)
-- [Cloud Deployment Architectures Cheat Sheet](https://www.cheatgrid.com/cloud-computing/0257-cloud-deployment-architectures-cheat-sheet)
-- [Cloud Migration Cheat Sheet](https://www.cheatgrid.com/cloud-computing/0274-cloud-migration-cheat-sheet)
-- [Edge Computing Cheat Sheet](https://www.cheatgrid.com/cloud-computing/0366-edge-computing-cheat-sheet)
-- [Cloud Deployment Archetypes Cheat Sheet](https://www.cheatgrid.com/cloud-computing/0376-cloud-deployment-archetypes-cheat-sheet)
-- [IaaS Cheat Sheet](https://www.cheatgrid.com/cloud-computing/0377-iaas-cheat-sheet)
-- [Cloud Storage Cheat Sheet](https://www.cheatgrid.com/cloud-computing/0378-cloud-storage-cheat-sheet)
-- [Cloud Compute Cheat Sheet](https://www.cheatgrid.com/cloud-computing/0379-cloud-compute-cheat-sheet)
-- [Azure Cloud Services Cheat Sheet](https://www.cheatgrid.com/cloud-computing/0381-azure-cloud-services-cheat-sheet)
-- [AWS Cloud Services Cheat Sheet](https://www.cheatgrid.com/cloud-computing/0382-aws-cloud-services-cheat-sheet)
-- [GCP Cloud Services Cheat Sheet](https://www.cheatgrid.com/cloud-computing/0383-gcp-cloud-services-cheat-sheet)
-- [FinOps (Financial Operations for Cloud) Cheat Sheet](https://www.cheatgrid.com/cloud-computing/0400-finops-financial-operations-for-cloud-cheat-sheet)
-- [Cloud IAM (Identity and Access Management) Cheat Sheet](https://www.cheatgrid.com/cloud-computing/0401-cloud-iam-identity-and-access-management-cheat-sheet)
-- [Cloud Cost Optimization Strategies Cheat Sheet](https://www.cheatgrid.com/cloud-computing/0402-cloud-cost-optimization-strategies-cheat-sheet)
-- [Cloud Well-Architected Framework Principles Cheat Sheet](https://www.cheatgrid.com/cloud-computing/0403-cloud-well-architected-framework-principles-cheat-sheet)
-- [Cloud Networking Core Cheat Sheet](https://www.cheatgrid.com/cloud-computing/0404-cloud-networking-core-cheat-sheet)
-- [Cloud Database Services Cheat Sheet](https://www.cheatgrid.com/cloud-computing/0405-cloud-database-services-cheat-sheet)
-- [Cloud Load Balancing Cheat Sheet](https://www.cheatgrid.com/cloud-computing/0406-cloud-load-balancing-cheat-sheet)
-- [Cloud API Gateway Patterns Cheat Sheet](https://www.cheatgrid.com/cloud-computing/0408-cloud-api-gateway-patterns-cheat-sheet)
-- [Cloud Message Queues and Event-Driven Architecture Cheat Sheet](https://www.cheatgrid.com/cloud-computing/0409-cloud-message-queues-and-event-driven-architecture-cheat-sheet)
-- [Cloud Disaster Recovery Cheat Sheet](https://www.cheatgrid.com/cloud-computing/0410-cloud-disaster-recovery-cheat-sheet)
-- [Serverless Compute Cheat Sheet](https://www.cheatgrid.com/cloud-computing/0411-serverless-compute-cheat-sheet)
-- [Managed Kubernetes Platforms Cheat Sheet](https://www.cheatgrid.com/cloud-computing/0412-managed-kubernetes-platforms-cheat-sheet)
-- [Cloud Auto-Scaling Cheat Sheet](https://www.cheatgrid.com/cloud-computing/0413-cloud-auto-scaling-cheat-sheet)
-- [Cloud Auto-Scaling Cheat Sheet](https://www.cheatgrid.com/cloud-computing/0414-cloud-auto-scaling-cheat-sheet)
-- [Cloud Secrets Management Cheat Sheet](https://www.cheatgrid.com/cloud-computing/0415-cloud-secrets-management-cheat-sheet)
-- [Cloud Compliance and Governance Cheat Sheet](https://www.cheatgrid.com/cloud-computing/0416-cloud-compliance-and-governance-cheat-sheet)
-- [Cloud Pricing Models and Commitments Cheat Sheet](https://www.cheatgrid.com/cloud-computing/0417-cloud-pricing-models-and-commitments-cheat-sheet)
-- [Cloud Resource Tagging and Cost Allocation Cheat Sheet](https://www.cheatgrid.com/cloud-computing/0418-cloud-resource-tagging-and-cost-allocation-cheat-sheet)
-- [Cloud Data Transfer and Egress Costs Cheat Sheet](https://www.cheatgrid.com/cloud-computing/0419-cloud-data-transfer-and-egress-costs-cheat-sheet)
+- 🐛 **[Report a bug](../../issues/new)**: a broken layout, a wonky link, a search quirk, anything that feels off. It helps to include the page URL, what you expected vs. what happened, your browser/OS, and a screenshot if it's visual.
+- 💡 **[Request a feature or a topic](../../issues/new)**: want a cheat sheet, deck, or certification we don't have yet? Tell us.
+- 💬 **General feedback**: what's working, what's confusing, what you wish existed.
 
-**[Containers Orchestration](https://www.cheatgrid.com/containers-orchestration)**
-- [Docker Cheat Sheet](https://www.cheatgrid.com/containers-orchestration/0119-docker-cheat-sheet)
-- [Kubernetes Cheat Sheet](https://www.cheatgrid.com/containers-orchestration/0121-kubernetes-cheat-sheet)
-- [Helm Cheat Sheet](https://www.cheatgrid.com/containers-orchestration/0248-helm-cheat-sheet)
-- [Container Management Cheat Sheet](https://www.cheatgrid.com/containers-orchestration/0258-container-management-cheat-sheet)
-- [Microservices with Containers Cheat Sheet](https://www.cheatgrid.com/containers-orchestration/0259-microservices-with-containers-cheat-sheet)
-- [CaaS (Containers as a Service) Cheat Sheet](https://www.cheatgrid.com/containers-orchestration/0380-caas-containers-as-a-service-cheat-sheet)
-- [Docker Compose Cheat Sheet](https://www.cheatgrid.com/containers-orchestration/0420-docker-compose-cheat-sheet)
-- [Dockerfile Cheat Sheet](https://www.cheatgrid.com/containers-orchestration/0421-dockerfile-cheat-sheet)
-- [Container Registries Cheat Sheet](https://www.cheatgrid.com/containers-orchestration/0422-container-registries-cheat-sheet)
-- [Container Networking Cheat Sheet](https://www.cheatgrid.com/containers-orchestration/0423-container-networking-cheat-sheet)
-- [Container Resource Management Cheat Sheet](https://www.cheatgrid.com/containers-orchestration/0424-container-resource-management-cheat-sheet)
-- [Container Storage and Persistent Volumes Cheat Sheet](https://www.cheatgrid.com/containers-orchestration/0425-container-storage-and-persistent-volumes-cheat-sheet)
-- [Container Base Images Cheat Sheet](https://www.cheatgrid.com/containers-orchestration/0426-container-base-images-cheat-sheet)
-- [Container Logging & Monitoring Cheat Sheet](https://www.cheatgrid.com/containers-orchestration/0427-container-logging-monitoring-cheat-sheet)
-- [Container CI CD Pipelines Cheat Sheet](https://www.cheatgrid.com/containers-orchestration/0428-container-ci-cd-pipelines-cheat-sheet)
-- [Container Lifecycle Management Cheat Sheet](https://www.cheatgrid.com/containers-orchestration/0429-container-lifecycle-management-cheat-sheet)
-- [Container Debugging & Troubleshooting Cheat Sheet](https://www.cheatgrid.com/containers-orchestration/0431-container-debugging-troubleshooting-cheat-sheet)
-- [Container Orchestration Patterns Cheat Sheet](https://www.cheatgrid.com/containers-orchestration/0432-container-orchestration-patterns-cheat-sheet)
-- [Docker Swarm Cheat Sheet](https://www.cheatgrid.com/containers-orchestration/0433-docker-swarm-cheat-sheet)
+Prefer email? Reach us any time at **[hello@cheatgrid.com](mailto:hello@cheatgrid.com)**. We read everything.
 
-**[DevOps](https://www.cheatgrid.com/devops)**
-- [DevOps Cheat Sheet](https://www.cheatgrid.com/devops/0048-devops-cheat-sheet)
-- [Azure DevOps Cheat Sheet](https://www.cheatgrid.com/devops/0051-azure-devops-cheat-sheet)
-- [Infrastructure as Code Cheat Sheet](https://www.cheatgrid.com/devops/0087-infrastructure-as-code-cheat-sheet)
-- [Terraform Cheat Sheet](https://www.cheatgrid.com/devops/0135-terraform-cheat-sheet)
-- [Bicep DSL Cheat Sheet](https://www.cheatgrid.com/devops/0157-bicep-dsl-cheat-sheet)
-- [CI CD Pipelines Cheat Sheet](https://www.cheatgrid.com/devops/0218-ci-cd-pipelines-cheat-sheet)
-- [Configuration Management Cheat Sheet](https://www.cheatgrid.com/devops/0219-configuration-management-cheat-sheet)
-- [GitOps Cheat Sheet](https://www.cheatgrid.com/devops/0220-gitops-cheat-sheet)
-- [Ansible Cheat Sheet](https://www.cheatgrid.com/devops/0221-ansible-cheat-sheet)
-- [CircleCI Cheat Sheet](https://www.cheatgrid.com/devops/0222-circleci-cheat-sheet)
-- [GitLab CI CD Cheat Sheet](https://www.cheatgrid.com/devops/0223-gitlab-ci-cd-cheat-sheet)
-- [Grafana Cheat Sheet](https://www.cheatgrid.com/devops/0224-grafana-cheat-sheet)
-- [Jenkins Cheat Sheet](https://www.cheatgrid.com/devops/0225-jenkins-cheat-sheet)
-- [Monitoring & Logging Cheat Sheet](https://www.cheatgrid.com/devops/0226-monitoring-logging-cheat-sheet)
-- [Prometheus Cheat Sheet](https://www.cheatgrid.com/devops/0227-prometheus-cheat-sheet)
-- [Caching Strategies Cheat Sheet](https://www.cheatgrid.com/devops/0319-caching-strategies-cheat-sheet)
-- [DevSecOps Cheat Sheet](https://www.cheatgrid.com/devops/0555-devsecops-cheat-sheet)
-- [Site Reliability Engineering (SRE) Cheat Sheet](https://www.cheatgrid.com/devops/0556-site-reliability-engineering-sre-cheat-sheet)
-- [Observability Cheat Sheet](https://www.cheatgrid.com/devops/0558-observability-cheat-sheet)
-- [Chaos Engineering Cheat Sheet](https://www.cheatgrid.com/devops/0560-chaos-engineering-cheat-sheet)
-- [Incident Management Cheat Sheet](https://www.cheatgrid.com/devops/0561-incident-management-cheat-sheet)
-- [DORA Metrics Cheat Sheet](https://www.cheatgrid.com/devops/0562-dora-metrics-cheat-sheet)
-- [Deployment Strategies Cheat Sheet](https://www.cheatgrid.com/devops/0563-deployment-strategies-cheat-sheet)
-- [Release Management Cheat Sheet](https://www.cheatgrid.com/devops/0564-release-management-cheat-sheet)
-- [Blameless Postmortems Cheat Sheet](https://www.cheatgrid.com/devops/0565-blameless-postmortems-cheat-sheet)
-- [Runbook Automation Cheat Sheet](https://www.cheatgrid.com/devops/0566-runbook-automation-cheat-sheet)
-- [Continuous Testing Cheat Sheet](https://www.cheatgrid.com/devops/0567-continuous-testing-cheat-sheet)
-- [Configuration Drift Cheat Sheet](https://www.cheatgrid.com/devops/0568-configuration-drift-cheat-sheet)
-- [DevOps Culture and Transformation Cheat Sheet](https://www.cheatgrid.com/devops/0569-devops-culture-and-transformation-cheat-sheet)
-- [Service Level Objectives Cheat Sheet](https://www.cheatgrid.com/devops/0570-service-level-objectives-cheat-sheet)
-- [Toil Management Cheat Sheet](https://www.cheatgrid.com/devops/0571-toil-management-cheat-sheet)
-- [Value Stream Mapping Cheat Sheet](https://www.cheatgrid.com/devops/0573-value-stream-mapping-cheat-sheet)
-- [Immutable Infrastructure Cheat Sheet](https://www.cheatgrid.com/devops/0574-immutable-infrastructure-cheat-sheet)
+---
 
-### 💾 Data and Databases
+## If CheatGrid helps you…
 
-**[Business Intelligence](https://www.cheatgrid.com/business-intelligence)**
-- [Power BI Cheat Sheet](https://www.cheatgrid.com/business-intelligence/0008-power-bi-cheat-sheet)
-- [QlikView Cheat Sheet](https://www.cheatgrid.com/business-intelligence/0065-qlikview-cheat-sheet)
-- [QlikSense Cheat Sheet](https://www.cheatgrid.com/business-intelligence/0066-qliksense-cheat-sheet)
-- [Business Intelligence Cheat Sheet](https://www.cheatgrid.com/business-intelligence/0134-business-intelligence-cheat-sheet)
-- [Data Visualization for BI Cheat Sheet](https://www.cheatgrid.com/business-intelligence/0228-data-visualization-for-bi-cheat-sheet)
-- [Tableau Cheat Sheet](https://www.cheatgrid.com/business-intelligence/0229-tableau-cheat-sheet)
-- [Dashboards & Reporting Cheat Sheet](https://www.cheatgrid.com/business-intelligence/0230-dashboards-reporting-cheat-sheet)
-- [Excel for Business Intelligence Cheat Sheet](https://www.cheatgrid.com/business-intelligence/0231-excel-for-business-intelligence-cheat-sheet)
-- [Data Analytics Cheat Sheet](https://www.cheatgrid.com/business-intelligence/0235-data-analytics-cheat-sheet)
-- [MDX (Multidimensional Expressions) Cheat Sheet](https://www.cheatgrid.com/business-intelligence/0453-mdx-multidimensional-expressions-cheat-sheet)
-- [M Language (Power Query Formula) Cheat Sheet](https://www.cheatgrid.com/business-intelligence/0454-m-language-power-query-formula-cheat-sheet)
-- [DAX (Data Analysis Expressions) Cheat Sheet](https://www.cheatgrid.com/business-intelligence/0455-dax-data-analysis-expressions-cheat-sheet)
-- [Self-Service BI Cheat Sheet](https://www.cheatgrid.com/business-intelligence/0456-self-service-bi-cheat-sheet)
-- [Data Storytelling Cheat Sheet](https://www.cheatgrid.com/business-intelligence/0457-data-storytelling-cheat-sheet)
-- [KPI Dashboard Design Cheat Sheet](https://www.cheatgrid.com/business-intelligence/0458-kpi-dashboard-design-cheat-sheet)
-- [Predictive Analytics in BI Cheat Sheet](https://www.cheatgrid.com/business-intelligence/0459-predictive-analytics-in-bi-cheat-sheet)
-- [Embedded Analytics Cheat Sheet](https://www.cheatgrid.com/business-intelligence/0460-embedded-analytics-cheat-sheet)
-- [Real-Time Business Intelligence Cheat Sheet](https://www.cheatgrid.com/business-intelligence/0461-real-time-business-intelligence-cheat-sheet)
-- [BI Performance Optimization Cheat Sheet](https://www.cheatgrid.com/business-intelligence/0462-bi-performance-optimization-cheat-sheet)
-- [Data Governance for BI Cheat Sheet](https://www.cheatgrid.com/business-intelligence/0463-data-governance-for-bi-cheat-sheet)
-- [Data Quality Management for BI Cheat Sheet](https://www.cheatgrid.com/business-intelligence/0464-data-quality-management-for-bi-cheat-sheet)
-- [What-If Analysis and Scenario Planning Cheat Sheet](https://www.cheatgrid.com/business-intelligence/0465-what-if-analysis-and-scenario-planning-cheat-sheet)
-- [Apache Superset Cheat Sheet](https://www.cheatgrid.com/business-intelligence/0467-apache-superset-cheat-sheet)
-- [Mobile BI Dashboard Design Cheat Sheet](https://www.cheatgrid.com/business-intelligence/0468-mobile-bi-dashboard-design-cheat-sheet)
-- [Metabase Cheat Sheet](https://www.cheatgrid.com/business-intelligence/0469-metabase-cheat-sheet)
-- [Looker Studio Cheat Sheet](https://www.cheatgrid.com/business-intelligence/0470-looker-studio-cheat-sheet)
-- [Databricks Dashboards Cheat Sheet](https://www.cheatgrid.com/business-intelligence/0471-databricks-dashboards-cheat-sheet)
+…we'd be really grateful if you'd **⭐ star this repo** and tell a friend who's learning something new, brushing up on a topic, or studying for a cert. It's a small thing, but for a new project it genuinely makes a difference, and it helps us keep improving CheatGrid and know what to build next. 🙏
 
-**[Data Engineering](https://www.cheatgrid.com/data-engineering)**
-- [PySpark Cheat Sheet](https://www.cheatgrid.com/data-engineering/0001-pyspark-cheat-sheet)
-- [Databricks Cheat Sheet](https://www.cheatgrid.com/data-engineering/0002-databricks-cheat-sheet)
-- [Spark SQL Cheat Sheet](https://www.cheatgrid.com/data-engineering/0003-spark-sql-cheat-sheet)
-- [Delta Lake Cheat Sheet](https://www.cheatgrid.com/data-engineering/0005-delta-lake-cheat-sheet)
-- [Databricks Notebooks Cheat Sheet](https://www.cheatgrid.com/data-engineering/0012-databricks-notebooks-cheat-sheet)
-- [Databricks Cheat Sheet](https://www.cheatgrid.com/data-engineering/002-databricks-cheat-sheet)
-- [Spark SQL Cheat Sheet](https://www.cheatgrid.com/data-engineering/003-spark-sql-cheat-sheet)
-- [Kimball Data Modeling Cheat Sheet](https://www.cheatgrid.com/data-engineering/0039-kimball-data-modeling-cheat-sheet)
-- [Delta Lake Cheat Sheet](https://www.cheatgrid.com/data-engineering/004-delta-lake-cheat-sheet)
-- [Data Vault Cheat Sheet](https://www.cheatgrid.com/data-engineering/0040-data-vault-cheat-sheet)
-- [Data Lakehouse Cheat Sheet](https://www.cheatgrid.com/data-engineering/0041-data-lakehouse-cheat-sheet)
-- [ETL (Extract, Transform, Load) Cheat Sheet](https://www.cheatgrid.com/data-engineering/0042-etl-extract-transform-load-cheat-sheet)
-- [ELT Extract Load Transform Cheat Sheet](https://www.cheatgrid.com/data-engineering/0043-elt-extract-load-transform-cheat-sheet)
-- [Big Data Cheat Sheet](https://www.cheatgrid.com/data-engineering/0058-big-data-cheat-sheet)
-- [Unity Catalog in Databricks Cheat Sheet](https://www.cheatgrid.com/data-engineering/0073-unity-catalog-in-databricks-cheat-sheet)
-- [Azure Data Factory Cheat Sheet](https://www.cheatgrid.com/data-engineering/0075-azure-data-factory-cheat-sheet)
-- [Data Wrangling Cheat Sheet](https://www.cheatgrid.com/data-engineering/0078-data-wrangling-cheat-sheet)
-- [Data Engineering Core Cheat Sheet](https://www.cheatgrid.com/data-engineering/0085-data-engineering-core-cheat-sheet)
-- [Kusto Query Language (KQL) Cheat Sheet](https://www.cheatgrid.com/data-engineering/0100-kusto-query-language-kql-cheat-sheet)
-- [Databricks Asset Bundles Cheat Sheet](https://www.cheatgrid.com/data-engineering/0154-databricks-asset-bundles-cheat-sheet)
-- [Apache Kafka Cheat Sheet](https://www.cheatgrid.com/data-engineering/0155-apache-kafka-cheat-sheet)
-- [Databricks Optimization Cheat Sheet](https://www.cheatgrid.com/data-engineering/0159-databricks-optimization-cheat-sheet)
-- [Data Lake Cheat Sheet](https://www.cheatgrid.com/data-engineering/0232-data-lake-cheat-sheet)
-- [Data Warehousing Cheat Sheet](https://www.cheatgrid.com/data-engineering/0233-data-warehousing-cheat-sheet)
-- [Apache Arrow and PyArrow Cheat Sheet](https://www.cheatgrid.com/data-engineering/0596-apache-arrow-and-pyarrow-cheat-sheet)
-- [Ibis Cheat Sheet](https://www.cheatgrid.com/data-engineering/0615-ibis-cheat-sheet)
-- [Apache Airflow Cheat Sheet](https://www.cheatgrid.com/data-engineering/0690-apache-airflow-cheat-sheet)
-- [dbt (Data Build Tool) Cheat Sheet](https://www.cheatgrid.com/data-engineering/0691-dbt-data-build-tool-cheat-sheet)
-- [Snowflake Cheat Sheet](https://www.cheatgrid.com/data-engineering/0692-snowflake-cheat-sheet)
-- [Apache Flink Cheat Sheet](https://www.cheatgrid.com/data-engineering/0693-apache-flink-cheat-sheet)
-- [Medallion Architecture Cheat Sheet](https://www.cheatgrid.com/data-engineering/0694-medallion-architecture-cheat-sheet)
-- [Apache Iceberg Cheat Sheet](https://www.cheatgrid.com/data-engineering/0695-apache-iceberg-cheat-sheet)
-- [Data Observability Cheat Sheet](https://www.cheatgrid.com/data-engineering/0696-data-observability-cheat-sheet)
-- [Stream Processing Fundamentals Cheat Sheet](https://www.cheatgrid.com/data-engineering/0697-stream-processing-fundamentals-cheat-sheet)
-- [Change Data Capture (CDC) Cheat Sheet](https://www.cheatgrid.com/data-engineering/0698-change-data-capture-cdc-cheat-sheet)
-- [AWS Glue Cheat Sheet](https://www.cheatgrid.com/data-engineering/0699-aws-glue-cheat-sheet)
-- [Data Mesh Architecture Cheat Sheet](https://www.cheatgrid.com/data-engineering/0700-data-mesh-architecture-cheat-sheet)
-- [Big Data Storage Formats Cheat Sheet](https://www.cheatgrid.com/data-engineering/0701-big-data-storage-formats-cheat-sheet)
-- [Trino Cheat Sheet](https://www.cheatgrid.com/data-engineering/0702-trino-cheat-sheet)
-- [DataOps Cheat Sheet](https://www.cheatgrid.com/data-engineering/0703-dataops-cheat-sheet)
-- [Data Catalog and Metadata Management Cheat Sheet](https://www.cheatgrid.com/data-engineering/0704-data-catalog-and-metadata-management-cheat-sheet)
-- [Azure Synapse Analytics Cheat Sheet](https://www.cheatgrid.com/data-engineering/0705-azure-synapse-analytics-cheat-sheet)
-- [Amazon Redshift Cheat Sheet](https://www.cheatgrid.com/data-engineering/0706-amazon-redshift-cheat-sheet)
-- [Dagster Cheat Sheet](https://www.cheatgrid.com/data-engineering/0707-dagster-cheat-sheet)
-- [Data Contracts Cheat Sheet](https://www.cheatgrid.com/data-engineering/0708-data-contracts-cheat-sheet)
-- [Enterprise Data Governance Cheat Sheet](https://www.cheatgrid.com/data-engineering/0709-enterprise-data-governance-cheat-sheet)
+---
 
-**[Data Science](https://www.cheatgrid.com/data-science)**
-- [Data Visualization Cheat Sheet](https://www.cheatgrid.com/data-science/0007-data-visualization-cheat-sheet)
-- [Pandas API on Spark Cheat Sheet](https://www.cheatgrid.com/data-science/0020-pandas-api-on-spark-cheat-sheet)
-- [Data Science Core Cheat Sheet](https://www.cheatgrid.com/data-science/0026-data-science-core-cheat-sheet)
-- [Statistical Inference Tests Cheat Sheet](https://www.cheatgrid.com/data-science/0028-statistical-inference-tests-cheat-sheet)
-- [Statistical Distributions Cheat Sheet](https://www.cheatgrid.com/data-science/0032-statistical-distributions-cheat-sheet)
-- [SciPy Cheat Sheet](https://www.cheatgrid.com/data-science/0125-scipy-cheat-sheet)
-- [Matplotlib Cheat Sheet](https://www.cheatgrid.com/data-science/0126-matplotlib-cheat-sheet)
-- [Seaborn Cheat Sheet](https://www.cheatgrid.com/data-science/0130-seaborn-cheat-sheet)
-- [Plotly and Dask Cheat Sheet](https://www.cheatgrid.com/data-science/0131-plotly-and-dask-cheat-sheet)
-- [ggplot2 Cheat Sheet](https://www.cheatgrid.com/data-science/0132-ggplot2-cheat-sheet)
-- [Pandas Cheat Sheet](https://www.cheatgrid.com/data-science/0160-pandas-cheat-sheet)
-- [Data Analysis Cheat Sheet](https://www.cheatgrid.com/data-science/0234-data-analysis-cheat-sheet)
-- [Data Analysis with Python Cheat Sheet](https://www.cheatgrid.com/data-science/0235-data-analysis-with-python-cheat-sheet)
-- [Data Visualization Cheat Sheet](https://www.cheatgrid.com/data-science/0235-data-visualization-cheat-sheet)
-- [Polars Cheat Sheet](https://www.cheatgrid.com/data-science/0597-polars-cheat-sheet)
-- [AB Testing and Online Experimentation Cheat Sheet](https://www.cheatgrid.com/data-science/0598-ab-testing-and-online-experimentation-cheat-sheet)
-- [Statsmodels Cheat Sheet](https://www.cheatgrid.com/data-science/0599-statsmodels-cheat-sheet)
-- [Causal Inference Cheat Sheet](https://www.cheatgrid.com/data-science/0600-causal-inference-cheat-sheet)
-- [GeoPandas Cheat Sheet](https://www.cheatgrid.com/data-science/0601-geopandas-cheat-sheet)
-- [Xarray Cheat Sheet](https://www.cheatgrid.com/data-science/0602-xarray-cheat-sheet)
-- [Data Validation and Quality in Data Science Cheat Sheet](https://www.cheatgrid.com/data-science/0603-data-validation-and-quality-in-data-science-cheat-sheet)
-- [Design of Experiments (DOE) Cheat Sheet](https://www.cheatgrid.com/data-science/0605-design-of-experiments-doe-cheat-sheet)
-- [Econometrics Cheat Sheet](https://www.cheatgrid.com/data-science/0606-econometrics-cheat-sheet)
-- [Panel Data Analysis Cheat Sheet](https://www.cheatgrid.com/data-science/0607-panel-data-analysis-cheat-sheet)
-- [Survival Analysis Cheat Sheet](https://www.cheatgrid.com/data-science/0608-survival-analysis-cheat-sheet)
-- [Raster Data Analysis with Rasterio and GDAL Cheat Sheet](https://www.cheatgrid.com/data-science/0609-raster-data-analysis-with-rasterio-and-gdal-cheat-sheet)
-- [OpenRefine Cheat Sheet](https://www.cheatgrid.com/data-science/0610-openrefine-cheat-sheet)
-- [Spatial Statistics and Interpolation Cheat Sheet](https://www.cheatgrid.com/data-science/0611-spatial-statistics-and-interpolation-cheat-sheet)
-- [Quarto for Data Science Reporting Cheat Sheet](https://www.cheatgrid.com/data-science/0613-quarto-for-data-science-reporting-cheat-sheet)
-- [Numba Cheat Sheet](https://www.cheatgrid.com/data-science/0614-numba-cheat-sheet)
+<div align="center">
 
-**[Databases](https://www.cheatgrid.com/databases)**
-- [PostgreSQL Cheat Sheet](https://www.cheatgrid.com/databases/0033-postgresql-cheat-sheet)
-- [NoSQL Cheat Sheet](https://www.cheatgrid.com/databases/0055-nosql-cheat-sheet)
-- [MongoDB Cheat Sheet](https://www.cheatgrid.com/databases/0056-mongodb-cheat-sheet)
-- [Vector Databases Cheat Sheet](https://www.cheatgrid.com/databases/0057-vector-databases-cheat-sheet)
-- [SQL Server 2025 Cheat Sheet](https://www.cheatgrid.com/databases/0071-sql-server-2025-cheat-sheet)
-- [SQL Server Management Studio (SSMS) Cheat Sheet](https://www.cheatgrid.com/databases/0072-sql-server-management-studio-ssms-cheat-sheet)
-- [Relational Databases Cheat Sheet](https://www.cheatgrid.com/databases/0079-relational-databases-cheat-sheet)
-- [Azure Cosmos DB Cheat Sheet](https://www.cheatgrid.com/databases/0080-azure-cosmos-db-cheat-sheet)
-- [Redis Cheat Sheet](https://www.cheatgrid.com/databases/0114-redis-cheat-sheet)
-- [MySQL Cheat Sheet](https://www.cheatgrid.com/databases/0115-mysql-cheat-sheet)
-- [Database Categories and Types Cheat Sheet](https://www.cheatgrid.com/databases/0151-database-categories-and-types-cheat-sheet)
-- [Elasticsearch Cheat Sheet](https://www.cheatgrid.com/databases/0237-elasticsearch-cheat-sheet)
-- [Firebase Realtime Database Cheat Sheet](https://www.cheatgrid.com/databases/0237-firebase-realtime-database-cheat-sheet)
-- [MariaDB Cheat Sheet](https://www.cheatgrid.com/databases/0238-mariadb-cheat-sheet)
-- [Oracle Database Cheat Sheet](https://www.cheatgrid.com/databases/0238-oracle-database-cheat-sheet)
-- [Prisma ORM Cheat Sheet](https://www.cheatgrid.com/databases/0238-prisma-orm-cheat-sheet)
-- [SQL for Data Analysis Cheat Sheet](https://www.cheatgrid.com/databases/0239-sql-for-data-analysis-cheat-sheet)
-- [SQLite Cheat Sheet](https://www.cheatgrid.com/databases/0239-sqlite-cheat-sheet)
-- [SQL Cheat Sheet](https://www.cheatgrid.com/databases/0293-sql-cheat-sheet)
-- [Database Design Cheat Sheet](https://www.cheatgrid.com/databases/0295-database-design-cheat-sheet)
-- [Database Query Optimization Cheat Sheet](https://www.cheatgrid.com/databases/0482-database-query-optimization-cheat-sheet)
-- [DuckDB Cheat Sheet](https://www.cheatgrid.com/databases/0595-duckdb-cheat-sheet)
+🌐 **[cheatgrid.com](https://www.cheatgrid.com)** · 📬 **[hello@cheatgrid.com](mailto:hello@cheatgrid.com)** · 🐛 **[Issues](../../issues)** · 📖 **[Guides](guides/)**
 
-### 💼 Professional Skills
-
-**[Essential Software](https://www.cheatgrid.com/essential-software)**
-- [Microsoft Word Cheat Sheet](https://www.cheatgrid.com/essential-software/0063-microsoft-word-cheat-sheet)
-- [Microsoft Excel Cheat Sheet](https://www.cheatgrid.com/essential-software/0064-microsoft-excel-cheat-sheet)
-- [Outlook Cheat Sheet](https://www.cheatgrid.com/essential-software/0069-outlook-cheat-sheet)
-- [Office 365 Cheat Sheet](https://www.cheatgrid.com/essential-software/0070-office-365-cheat-sheet)
-- [Popular Software Applications Cheat Sheet](https://www.cheatgrid.com/essential-software/0161-popular-software-applications-cheat-sheet)
-- [Note-Taking Systems Cheat Sheet](https://www.cheatgrid.com/essential-software/0240-note-taking-systems-cheat-sheet)
-- [Notion Cheat Sheet](https://www.cheatgrid.com/essential-software/0240-notion-cheat-sheet)
-- [Microsoft Teams Cheat Sheet](https://www.cheatgrid.com/essential-software/0242-microsoft-teams-cheat-sheet)
-- [Slack Cheat Sheet](https://www.cheatgrid.com/essential-software/0242-slack-cheat-sheet)
-- [Team Collaboration Tools Cheat Sheet](https://www.cheatgrid.com/essential-software/0243-team-collaboration-tools-cheat-sheet)
-- [Trello Cheat Sheet](https://www.cheatgrid.com/essential-software/0243-trello-cheat-sheet)
-- [LinkedIn Optimization Cheat Sheet](https://www.cheatgrid.com/essential-software/0254-linkedin-optimization-cheat-sheet)
-- [Miro Online Whiteboard Cheat Sheet](https://www.cheatgrid.com/essential-software/0515-miro-online-whiteboard-cheat-sheet)
-- [Microsoft OneNote Digital Notebook Cheat Sheet](https://www.cheatgrid.com/essential-software/0516-microsoft-onenote-digital-notebook-cheat-sheet)
-- [Microsoft PowerPoint Cheat Sheet](https://www.cheatgrid.com/essential-software/0517-microsoft-powerpoint-cheat-sheet)
-- [LibreOffice Cheat Sheet](https://www.cheatgrid.com/essential-software/0518-libreoffice-cheat-sheet)
-- [VLC Media Player Cheat Sheet](https://www.cheatgrid.com/essential-software/0519-vlc-media-player-cheat-sheet)
-- [Google Calendar Cheat Sheet](https://www.cheatgrid.com/essential-software/0520-google-calendar-cheat-sheet)
-- [QuickBooks Online Accounting Cheat Sheet](https://www.cheatgrid.com/essential-software/0521-quickbooks-online-accounting-cheat-sheet)
-- [Canva Design Platform Cheat Sheet](https://www.cheatgrid.com/essential-software/0523-canva-design-platform-cheat-sheet)
-- [Todoist Task Management Cheat Sheet](https://www.cheatgrid.com/essential-software/0524-todoist-task-management-cheat-sheet)
-- [Adobe Acrobat Pro Cheat Sheet](https://www.cheatgrid.com/essential-software/0525-adobe-acrobat-pro-cheat-sheet)
-- [Grammarly Writing Assistant Cheat Sheet](https://www.cheatgrid.com/essential-software/0526-grammarly-writing-assistant-cheat-sheet)
-- [Salesforce CRM Cheat Sheet](https://www.cheatgrid.com/essential-software/0527-salesforce-crm-cheat-sheet)
-- [Slack Team Communication Cheat Sheet](https://www.cheatgrid.com/essential-software/0528-slack-team-communication-cheat-sheet)
-- [HubSpot CRM and Marketing Cheat Sheet](https://www.cheatgrid.com/essential-software/0529-hubspot-crm-and-marketing-cheat-sheet)
-- [ClickUp All-in-One Productivity Cheat Sheet](https://www.cheatgrid.com/essential-software/0530-clickup-all-in-one-productivity-cheat-sheet)
-- [Google Forms Cheat Sheet](https://www.cheatgrid.com/essential-software/0531-google-forms-cheat-sheet)
-- [Calendly Scheduling Software Cheat Sheet](https://www.cheatgrid.com/essential-software/0532-calendly-scheduling-software-cheat-sheet)
-- [Lucidchart Cheat Sheet](https://www.cheatgrid.com/essential-software/0534-lucidchart-cheat-sheet)
-- [Expensify Expense Management Cheat Sheet](https://www.cheatgrid.com/essential-software/0535-expensify-expense-management-cheat-sheet)
-- [Wrike Project Management Cheat Sheet](https://www.cheatgrid.com/essential-software/0537-wrike-project-management-cheat-sheet)
-- [Typeform Cheat Sheet](https://www.cheatgrid.com/essential-software/0538-typeform-cheat-sheet)
-- [Xero Cloud Accounting Cheat Sheet](https://www.cheatgrid.com/essential-software/0539-xero-cloud-accounting-cheat-sheet)
-- [OBS Studio Screen Recording Cheat Sheet](https://www.cheatgrid.com/essential-software/0540-obs-studio-screen-recording-cheat-sheet)
-- [Smartsheet Collaborative Work Management Cheat Sheet](https://www.cheatgrid.com/essential-software/0541-smartsheet-collaborative-work-management-cheat-sheet)
-- [TeamViewer Remote Access Cheat Sheet](https://www.cheatgrid.com/essential-software/0542-teamviewer-remote-access-cheat-sheet)
-- [FreshBooks Accounting and Invoicing Cheat Sheet](https://www.cheatgrid.com/essential-software/0543-freshbooks-accounting-and-invoicing-cheat-sheet)
-- [SurveyMonkey Cheat Sheet](https://www.cheatgrid.com/essential-software/0544-surveymonkey-cheat-sheet)
-- [Clipchamp Video Editor Cheat Sheet](https://www.cheatgrid.com/essential-software/0545-clipchamp-video-editor-cheat-sheet)
-- [BambooHR Cheat Sheet](https://www.cheatgrid.com/essential-software/0546-bamboohr-cheat-sheet)
-- [LastPass Password Manager Cheat Sheet](https://www.cheatgrid.com/essential-software/0547-lastpass-password-manager-cheat-sheet)
-- [Google Slides Presentations Cheat Sheet](https://www.cheatgrid.com/essential-software/0548-google-slides-presentations-cheat-sheet)
-- [Zoho Workplace Productivity Suite Cheat Sheet](https://www.cheatgrid.com/essential-software/0549-zoho-workplace-productivity-suite-cheat-sheet)
-- [Scrivener Writing Software Cheat Sheet](https://www.cheatgrid.com/essential-software/0550-scrivener-writing-software-cheat-sheet)
-- [YNAB Budgeting Software Cheat Sheet](https://www.cheatgrid.com/essential-software/0551-ynab-budgeting-software-cheat-sheet)
-- [Prezi Presentations Cheat Sheet](https://www.cheatgrid.com/essential-software/0552-prezi-presentations-cheat-sheet)
-- [MindMeister Mind Mapping Cheat Sheet](https://www.cheatgrid.com/essential-software/0553-mindmeister-mind-mapping-cheat-sheet)
-- [Confluence Cheat Sheet](https://www.cheatgrid.com/essential-software/0554-confluence-cheat-sheet)
-
-**[Project Management](https://www.cheatgrid.com/project-management)**
-- [Scrum Methodology Cheat Sheet](https://www.cheatgrid.com/project-management/0068-scrum-methodology-cheat-sheet)
-- [Agile Methodology Cheat Sheet](https://www.cheatgrid.com/project-management/0088-agile-methodology-cheat-sheet)
-- [Agile & Scrum Cheat Sheet](https://www.cheatgrid.com/project-management/0240-agile-scrum-cheat-sheet)
-- [Asana Cheat Sheet](https://www.cheatgrid.com/project-management/0241-asana-cheat-sheet)
-- [Jira Cheat Sheet](https://www.cheatgrid.com/project-management/0241-jira-cheat-sheet)
-- [Kanban Cheat Sheet](https://www.cheatgrid.com/project-management/0241-kanban-cheat-sheet)
-- [Project Coordination Cheat Sheet](https://www.cheatgrid.com/project-management/0242-project-coordination-cheat-sheet)
-- [Sprint Planning Cheat Sheet](https://www.cheatgrid.com/project-management/0243-sprint-planning-cheat-sheet)
-- [Getting Things Done (GTD) Cheat Sheet](https://www.cheatgrid.com/project-management/0252-getting-things-done-gtd-cheat-sheet)
-- [SMART Goals Cheat Sheet](https://www.cheatgrid.com/project-management/0279-smart-goals-cheat-sheet)
-- [Workflow Optimization Cheat Sheet](https://www.cheatgrid.com/project-management/0280-workflow-optimization-cheat-sheet)
-- [Software Estimation Techniques Cheat Sheet](https://www.cheatgrid.com/project-management/0511-software-estimation-techniques-cheat-sheet)
-- [Monday.com Work Management Platform Cheat Sheet](https://www.cheatgrid.com/project-management/0522-mondaycom-work-management-platform-cheat-sheet)
-- [PRINCE2 Project Management Cheat Sheet](https://www.cheatgrid.com/project-management/0575-prince2-project-management-cheat-sheet)
-- [Waterfall Project Management Cheat Sheet](https://www.cheatgrid.com/project-management/0576-waterfall-project-management-cheat-sheet)
-- [Hybrid Project Management Cheat Sheet](https://www.cheatgrid.com/project-management/0577-hybrid-project-management-cheat-sheet)
-- [Project Risk Management Cheat Sheet](https://www.cheatgrid.com/project-management/0578-project-risk-management-cheat-sheet)
-- [Requirements Management Cheat Sheet](https://www.cheatgrid.com/project-management/0579-requirements-management-cheat-sheet)
-- [Project Scope Management and Change Control Cheat Sheet](https://www.cheatgrid.com/project-management/0580-project-scope-management-and-change-control-cheat-sheet)
-- [Project Scheduling and Critical Path Analysis Cheat Sheet](https://www.cheatgrid.com/project-management/0581-project-scheduling-and-critical-path-analysis-cheat-sheet)
-- [Work Breakdown Structure - WBS Cheat Sheet](https://www.cheatgrid.com/project-management/0582-work-breakdown-structure-wbs-cheat-sheet)
-- [Resource Capacity Planning Cheat Sheet](https://www.cheatgrid.com/project-management/0583-resource-capacity-planning-cheat-sheet)
-- [Earned Value Management Cheat Sheet](https://www.cheatgrid.com/project-management/0584-earned-value-management-cheat-sheet)
-- [Project Governance and Stage-Gate Management Cheat Sheet](https://www.cheatgrid.com/project-management/0585-project-governance-and-stage-gate-management-cheat-sheet)
-- [Project Portfolio Management - PPM Cheat Sheet](https://www.cheatgrid.com/project-management/0586-project-portfolio-management-ppm-cheat-sheet)
-- [Project Management Office - PMO Cheat Sheet](https://www.cheatgrid.com/project-management/0587-project-management-office-pmo-cheat-sheet)
-- [Program Management Cheat Sheet](https://www.cheatgrid.com/project-management/0588-program-management-cheat-sheet)
-- [Benefits Realization Management Cheat Sheet](https://www.cheatgrid.com/project-management/0589-benefits-realization-management-cheat-sheet)
-- [Project Communication and Status Reporting Cheat Sheet](https://www.cheatgrid.com/project-management/0590-project-communication-and-status-reporting-cheat-sheet)
-- [Project Procurement and Vendor Management Cheat Sheet](https://www.cheatgrid.com/project-management/0591-project-procurement-and-vendor-management-cheat-sheet)
-- [Microsoft Project Cheat Sheet](https://www.cheatgrid.com/project-management/0592-microsoft-project-cheat-sheet)
-- [RACI Matrix and Responsibility Assignment Cheat Sheet](https://www.cheatgrid.com/project-management/0593-raci-matrix-and-responsibility-assignment-cheat-sheet)
-
-**[Soft Skills](https://www.cheatgrid.com/soft-skills)**
-- [Collaboration Cheat Sheet](https://www.cheatgrid.com/soft-skills/0249-collaboration-cheat-sheet)
-- [Critical Thinking Cheat Sheet](https://www.cheatgrid.com/soft-skills/0250-critical-thinking-cheat-sheet)
-- [Design Thinking Cheat Sheet](https://www.cheatgrid.com/soft-skills/0251-design-thinking-cheat-sheet)
-- [Focus and Deep Work Cheat Sheet](https://www.cheatgrid.com/soft-skills/0252-focus-and-deep-work-cheat-sheet)
-- [Habit Formation Cheat Sheet](https://www.cheatgrid.com/soft-skills/0253-habit-formation-cheat-sheet)
-- [Personal Branding Cheat Sheet](https://www.cheatgrid.com/soft-skills/0254-personal-branding-cheat-sheet)
-- [Pomodoro Technique Cheat Sheet](https://www.cheatgrid.com/soft-skills/0255-pomodoro-technique-cheat-sheet)
-- [Remote Work Best Practices Cheat Sheet](https://www.cheatgrid.com/soft-skills/0256-remote-work-best-practices-cheat-sheet)
-- [Active Learning Cheat Sheet](https://www.cheatgrid.com/soft-skills/0260-active-learning-cheat-sheet)
-- [Adaptability Cheat Sheet](https://www.cheatgrid.com/soft-skills/0261-adaptability-cheat-sheet)
-- [Career Planning Cheat Sheet](https://www.cheatgrid.com/soft-skills/0262-career-planning-cheat-sheet)
-- [Communication Skills Cheat Sheet](https://www.cheatgrid.com/soft-skills/0263-communication-skills-cheat-sheet)
-- [Conflict Resolution Cheat Sheet](https://www.cheatgrid.com/soft-skills/0264-conflict-resolution-cheat-sheet)
-- [Documentation Skills Cheat Sheet](https://www.cheatgrid.com/soft-skills/0265-documentation-skills-cheat-sheet)
-- [Emotional Intelligence Cheat Sheet](https://www.cheatgrid.com/soft-skills/0266-emotional-intelligence-cheat-sheet)
-- [Growth Mindset Cheat Sheet](https://www.cheatgrid.com/soft-skills/0267-growth-mindset-cheat-sheet)
-- [Interview Preparation Cheat Sheet](https://www.cheatgrid.com/soft-skills/0268-interview-preparation-cheat-sheet)
-- [Professional Networking Cheat Sheet](https://www.cheatgrid.com/soft-skills/0269-professional-networking-cheat-sheet)
-- [Problem Solving Cheat Sheet](https://www.cheatgrid.com/soft-skills/0270-problem-solving-cheat-sheet)
-- [Public Speaking Cheat Sheet](https://www.cheatgrid.com/soft-skills/0271-public-speaking-cheat-sheet)
-- [Resume Writing Cheat Sheet](https://www.cheatgrid.com/soft-skills/0272-resume-writing-cheat-sheet)
-- [Salary Negotiation Cheat Sheet](https://www.cheatgrid.com/soft-skills/0273-salary-negotiation-cheat-sheet)
-- [Leadership Cheat Sheet](https://www.cheatgrid.com/soft-skills/0275-leadership-cheat-sheet)
-- [Time Management Cheat Sheet](https://www.cheatgrid.com/soft-skills/0282-time-management-cheat-sheet)
-- [Stress Management Cheat Sheet](https://www.cheatgrid.com/soft-skills/0283-stress-management-cheat-sheet)
-- [Speed Reading Cheat Sheet](https://www.cheatgrid.com/soft-skills/0284-speed-reading-cheat-sheet)
-- [Technical Writing Cheat Sheet](https://www.cheatgrid.com/soft-skills/0371-technical-writing-cheat-sheet)
-- [Memory Improvement Techniques Cheat Sheet](https://www.cheatgrid.com/soft-skills/0385-memory-improvement-techniques-cheat-sheet)
-
-### 🎯 Programming and Development
-
-**[Backend Development](https://www.cheatgrid.com/backend-development)**
-- [Full-Stack Application Deployment Cheat Sheet](https://www.cheatgrid.com/backend-development/0024-full-stack-application-deployment-cheat-sheet)
-- [Backend Development Cheat Sheet](https://www.cheatgrid.com/backend-development/0025-backend-development-cheat-sheet)
-- [FastAPI Cheat Sheet](https://www.cheatgrid.com/backend-development/0037-fastapi-cheat-sheet)
-- [Flask Cheat Sheet](https://www.cheatgrid.com/backend-development/0038-flask-cheat-sheet)
-- [REST API Cheat Sheet](https://www.cheatgrid.com/backend-development/0053-rest-api-cheat-sheet)
-- [Express.js Cheat Sheet](https://www.cheatgrid.com/backend-development/0110-expressjs-cheat-sheet)
-- [Firebase Cheat Sheet](https://www.cheatgrid.com/backend-development/0278-firebase-cheat-sheet)
-- [API Authentication Cheat Sheet](https://www.cheatgrid.com/backend-development/0281-api-authentication-cheat-sheet)
-- [Node.js Cheat Sheet](https://www.cheatgrid.com/backend-development/0286-nodejs-cheat-sheet)
-- [ASP.NET Core Cheat Sheet](https://www.cheatgrid.com/backend-development/0300-aspnet-core-cheat-sheet)
-- [Backend Architectures Cheat Sheet](https://www.cheatgrid.com/backend-development/0301-backend-architectures-cheat-sheet)
-- [GraphQL Cheat Sheet](https://www.cheatgrid.com/backend-development/0302-graphql-cheat-sheet)
-- [Message Queues Cheat Sheet](https://www.cheatgrid.com/backend-development/0303-message-queues-cheat-sheet)
-- [Ruby on Rails Cheat Sheet](https://www.cheatgrid.com/backend-development/0304-ruby-on-rails-cheat-sheet)
-- [Spring Boot Cheat Sheet](https://www.cheatgrid.com/backend-development/0305-spring-boot-cheat-sheet)
-- [Server-Sent Events (SSE) Cheat Sheet](https://www.cheatgrid.com/backend-development/0472-server-sent-events-sse-cheat-sheet)
-- [WebSocket Implementation Cheat Sheet](https://www.cheatgrid.com/backend-development/0473-websocket-implementation-cheat-sheet)
-- [gRPC and Protocol Buffers Cheat Sheet](https://www.cheatgrid.com/backend-development/0474-grpc-and-protocol-buffers-cheat-sheet)
-- [Rate Limiting and Throttling Patterns Cheat Sheet](https://www.cheatgrid.com/backend-development/0475-rate-limiting-and-throttling-patterns-cheat-sheet)
-- [API Versioning Cheat Sheet](https://www.cheatgrid.com/backend-development/0476-api-versioning-cheat-sheet)
-- [Background Job Processing Systems Cheat Sheet](https://www.cheatgrid.com/backend-development/0477-background-job-processing-systems-cheat-sheet)
-- [ORM and Database Abstraction Tools Cheat Sheet](https://www.cheatgrid.com/backend-development/0478-orm-and-database-abstraction-tools-cheat-sheet)
-- [Nginx Web Server Configuration Cheat Sheet](https://www.cheatgrid.com/backend-development/0479-nginx-web-server-configuration-cheat-sheet)
-- [Apache HTTP Server Configuration Cheat Sheet](https://www.cheatgrid.com/backend-development/0480-apache-http-server-configuration-cheat-sheet)
-- [Backend Performance Optimization Techniques Cheat Sheet](https://www.cheatgrid.com/backend-development/0481-backend-performance-optimization-techniques-cheat-sheet)
-- [Backend Caching Cheat Sheet](https://www.cheatgrid.com/backend-development/0483-backend-caching-cheat-sheet)
-- [Backend API Testing Cheat Sheet](https://www.cheatgrid.com/backend-development/0484-backend-api-testing-cheat-sheet)
-- [Backend Observability and Monitoring Cheat Sheet](https://www.cheatgrid.com/backend-development/0485-backend-observability-and-monitoring-cheat-sheet)
-- [Serverless Backend Patterns Cheat Sheet](https://www.cheatgrid.com/backend-development/0486-serverless-backend-patterns-cheat-sheet)
-- [OAuth 2.0 and Authorization Flows Cheat Sheet](https://www.cheatgrid.com/backend-development/0487-oauth-20-and-authorization-flows-cheat-sheet)
-- [Backend Deployment Cheat Sheet](https://www.cheatgrid.com/backend-development/0492-backend-deployment-cheat-sheet)
-- [API Gateway Configuration and Patterns Cheat Sheet](https://www.cheatgrid.com/backend-development/0493-api-gateway-configuration-and-patterns-cheat-sheet)
-- [Event-Driven Backend Architecture Cheat Sheet](https://www.cheatgrid.com/backend-development/0494-event-driven-backend-architecture-cheat-sheet)
-
-**[Developer Tools](https://www.cheatgrid.com/developer-tools)**
-- [VS Code Cheat Sheet](https://www.cheatgrid.com/developer-tools/0014-vs-code-cheat-sheet)
-- [Jupyter Notebooks Cheat Sheet](https://www.cheatgrid.com/developer-tools/0016-jupyter-notebooks-cheat-sheet)
-- [GitHub Copilot Cheat Sheet](https://www.cheatgrid.com/developer-tools/0029-github-copilot-cheat-sheet)
-- [Cursor IDE Cheat Sheet](https://www.cheatgrid.com/developer-tools/0030-cursor-ide-cheat-sheet)
-- [Git and GitHub Cheat Sheet](https://www.cheatgrid.com/developer-tools/0046-git-and-github-cheat-sheet)
-- [Markdown Cheat Sheet](https://www.cheatgrid.com/developer-tools/0105-markdown-cheat-sheet)
-- [Sublime Text Cheat Sheet](https://www.cheatgrid.com/developer-tools/0116-sublime-text-cheat-sheet)
-- [IntelliJ IDEA Cheat Sheet](https://www.cheatgrid.com/developer-tools/0117-intellij-idea-cheat-sheet)
-- [PyCharm Cheat Sheet](https://www.cheatgrid.com/developer-tools/0118-pycharm-cheat-sheet)
-- [RStudio Cheat Sheet](https://www.cheatgrid.com/developer-tools/0127-rstudio-cheat-sheet)
-- [File Formats Cheat Sheet](https://www.cheatgrid.com/developer-tools/0152-file-formats-cheat-sheet)
-- [Different Linters and Their Specifics Cheat Sheet](https://www.cheatgrid.com/developer-tools/0153-different-linters-and-their-specifics-cheat-sheet)
-- [Notepad++ Cheat Sheet](https://www.cheatgrid.com/developer-tools/0162-notepad-cheat-sheet)
-- [Debugging in Python and VSCode Cheat Sheet](https://www.cheatgrid.com/developer-tools/0165-debugging-in-python-and-vscode-cheat-sheet)
-- [AI-LLM Code Generation Cheat Sheet](https://www.cheatgrid.com/developer-tools/0193-ai-llm-code-generation-cheat-sheet)
-- [Anthropic API Cheat Sheet](https://www.cheatgrid.com/developer-tools/0195-anthropic-api-cheat-sheet)
-- [ChatGPT & OpenAI API Cheat Sheet](https://www.cheatgrid.com/developer-tools/0196-chatgpt-openai-api-cheat-sheet)
-- [GitHub Actions Cheat Sheet](https://www.cheatgrid.com/developer-tools/0219-github-actions-cheat-sheet)
-- [Swagger OpenAPI Cheat Sheet](https://www.cheatgrid.com/developer-tools/0287-swagger-openapi-cheat-sheet)
-- [Postman Cheat Sheet](https://www.cheatgrid.com/developer-tools/0288-postman-cheat-sheet)
-- [VS Code Extensions Programming Cheat Sheet](https://www.cheatgrid.com/developer-tools/0289-vs-code-extensions-programming-cheat-sheet)
-- [Webpack Cheat Sheet](https://www.cheatgrid.com/developer-tools/0290-webpack-cheat-sheet)
-- [Jest Cheat Sheet](https://www.cheatgrid.com/developer-tools/0297-jest-cheat-sheet)
-- [Playwright Cheat Sheet](https://www.cheatgrid.com/developer-tools/0299-playwright-cheat-sheet)
-- [Chrome DevTools Cheat Sheet](https://www.cheatgrid.com/developer-tools/0306-chrome-devtools-cheat-sheet)
-- [Insomnia Cheat Sheet](https://www.cheatgrid.com/developer-tools/0307-insomnia-cheat-sheet)
-- [Vim and Neovim Cheat Sheet](https://www.cheatgrid.com/developer-tools/0308-vim-and-neovim-cheat-sheet)
-- [Vite Cheat Sheet](https://www.cheatgrid.com/developer-tools/0309-vite-cheat-sheet)
-- [Popular VS Code Extensions Cheat Sheet](https://www.cheatgrid.com/developer-tools/0311-popular-vs-code-extensions-cheat-sheet)
-- [Cypress Cheat Sheet](https://www.cheatgrid.com/developer-tools/0320-cypress-cheat-sheet)
-- [pytest Cheat Sheet](https://www.cheatgrid.com/developer-tools/0330-pytest-cheat-sheet)
-- [Selenium Cheat Sheet](https://www.cheatgrid.com/developer-tools/0331-selenium-cheat-sheet)
-- [Package Managers Cheat Sheet](https://www.cheatgrid.com/developer-tools/0342-package-managers-cheat-sheet)
-- [Figma Design and Prototyping Cheat Sheet](https://www.cheatgrid.com/developer-tools/0536-figma-design-and-prototyping-cheat-sheet)
-
-**[Mobile Development](https://www.cheatgrid.com/mobile-development)**
-- [iOS Programming Cheat Sheet](https://www.cheatgrid.com/mobile-development/0139-ios-programming-cheat-sheet)
-- [iOS Usage Cheat Sheet](https://www.cheatgrid.com/mobile-development/0140-ios-usage-cheat-sheet)
-- [Android Programming Cheat Sheet](https://www.cheatgrid.com/mobile-development/0141-android-programming-cheat-sheet)
-- [Swift Cheat Sheet](https://www.cheatgrid.com/mobile-development/0292-swift-cheat-sheet)
-- [Android Development Cheat Sheet](https://www.cheatgrid.com/mobile-development/0310-android-development-cheat-sheet)
-- [Flutter Cheat Sheet](https://www.cheatgrid.com/mobile-development/0312-flutter-cheat-sheet)
-- [iOS Development Cheat Sheet](https://www.cheatgrid.com/mobile-development/0313-ios-development-cheat-sheet)
-- [Mobile App Design Cheat Sheet](https://www.cheatgrid.com/mobile-development/0314-mobile-app-design-cheat-sheet)
-- [React Native Cheat Sheet](https://www.cheatgrid.com/mobile-development/0315-react-native-cheat-sheet)
-- [SwiftUI Cheat Sheet](https://www.cheatgrid.com/mobile-development/0388-swiftui-cheat-sheet)
-- [Fastlane Cheat Sheet](https://www.cheatgrid.com/mobile-development/0389-fastlane-cheat-sheet)
-- [Jetpack Compose Cheat Sheet](https://www.cheatgrid.com/mobile-development/0390-jetpack-compose-cheat-sheet)
-- [Appium Cheat Sheet](https://www.cheatgrid.com/mobile-development/0391-appium-cheat-sheet)
-- [Xcode Cheat Sheet](https://www.cheatgrid.com/mobile-development/0392-xcode-cheat-sheet)
-- [Android Studio Cheat Sheet](https://www.cheatgrid.com/mobile-development/0393-android-studio-cheat-sheet)
-- [App Store Connect Cheat Sheet](https://www.cheatgrid.com/mobile-development/0394-app-store-connect-cheat-sheet)
-- [Google Play Console Cheat Sheet](https://www.cheatgrid.com/mobile-development/0395-google-play-console-cheat-sheet)
-- [UIKit Cheat Sheet](https://www.cheatgrid.com/mobile-development/0396-uikit-cheat-sheet)
-- [Mobile App Security Best Practices Cheat Sheet](https://www.cheatgrid.com/mobile-development/0397-mobile-app-security-best-practices-cheat-sheet)
-- [Mobile Accessibility Implementation Cheat Sheet](https://www.cheatgrid.com/mobile-development/0398-mobile-accessibility-implementation-cheat-sheet)
-- [Mobile App Performance Optimization Cheat Sheet](https://www.cheatgrid.com/mobile-development/0399-mobile-app-performance-optimization-cheat-sheet)
-
-**[Programming Languages](https://www.cheatgrid.com/programming-languages)**
-- [Python Cheat Sheet](https://www.cheatgrid.com/programming-languages/0004-python-cheat-sheet)
-- [Scala Programming Language Cheat Sheet](https://www.cheatgrid.com/programming-languages/0010-scala-programming-language-cheat-sheet)
-- [R Programming Language Cheat Sheet](https://www.cheatgrid.com/programming-languages/0011-r-programming-language-cheat-sheet)
-- [Regular Expressions in Python Cheat Sheet](https://www.cheatgrid.com/programming-languages/0019-regular-expressions-in-python-cheat-sheet)
-- [TypeScript Cheat Sheet](https://www.cheatgrid.com/programming-languages/0076-typescript-cheat-sheet)
-- [JavaScript Cheat Sheet](https://www.cheatgrid.com/programming-languages/0077-javascript-cheat-sheet)
-- [C# Programming Language Cheat Sheet](https://www.cheatgrid.com/programming-languages/0081-c-programming-language-cheat-sheet)
-- [Java Cheat Sheet](https://www.cheatgrid.com/programming-languages/0106-java-cheat-sheet)
-- [GO Programming Language Cheat Sheet](https://www.cheatgrid.com/programming-languages/0107-go-programming-language-cheat-sheet)
-- [C++ Programming Language Cheat Sheet](https://www.cheatgrid.com/programming-languages/0108-c-programming-language-cheat-sheet)
-- [PHP Programming Language Cheat Sheet](https://www.cheatgrid.com/programming-languages/0109-php-programming-language-cheat-sheet)
-- [JSON Cheat Sheet](https://www.cheatgrid.com/programming-languages/0150-json-cheat-sheet)
-- [Python Libraries Cheat Sheet](https://www.cheatgrid.com/programming-languages/0158-python-libraries-cheat-sheet)
-- [Kotlin Cheat Sheet](https://www.cheatgrid.com/programming-languages/0291-kotlin-cheat-sheet)
-- [Functional Programming Cheat Sheet](https://www.cheatgrid.com/programming-languages/0296-functional-programming-cheat-sheet)
-- [Rust Cheat Sheet](https://www.cheatgrid.com/programming-languages/0317-rust-cheat-sheet)
-- [Arrays & Strings Cheat Sheet](https://www.cheatgrid.com/programming-languages/0318-arrays-strings-cheat-sheet)
-- [JUnit Cheat Sheet](https://www.cheatgrid.com/programming-languages/0326-junit-cheat-sheet)
-- [Object-Oriented Programming (OOP) Cheat Sheet](https://www.cheatgrid.com/programming-languages/0329-object-oriented-programming-oop-cheat-sheet)
-- [WebAssembly (Wasm) Cheat Sheet](https://www.cheatgrid.com/programming-languages/0351-webassembly-wasm-cheat-sheet)
-
-**[Software Engineering](https://www.cheatgrid.com/software-engineering)**
-- [Testing in Python Cheat Sheet](https://www.cheatgrid.com/software-engineering/0062-testing-in-python-cheat-sheet)
-- [Vibe Coding Cheat Sheet](https://www.cheatgrid.com/software-engineering/0082-vibe-coding-cheat-sheet)
-- [Software Engineering Cheat Sheet](https://www.cheatgrid.com/software-engineering/0086-software-engineering-cheat-sheet)
-- [Clean Code Practices Cheat Sheet](https://www.cheatgrid.com/software-engineering/0294-clean-code-practices-cheat-sheet)
-- [Design Patterns Cheat Sheet](https://www.cheatgrid.com/software-engineering/0322-design-patterns-cheat-sheet)
-- [Linked Lists Cheat Sheet](https://www.cheatgrid.com/software-engineering/0327-linked-lists-cheat-sheet)
-- [Microservices Architecture Cheat Sheet](https://www.cheatgrid.com/software-engineering/0328-microservices-architecture-cheat-sheet)
-- [Software Architectures Cheat Sheet](https://www.cheatgrid.com/software-engineering/0329-software-architectures-cheat-sheet)
-- [System Design Fundamentals Cheat Sheet](https://www.cheatgrid.com/software-engineering/0333-system-design-fundamentals-cheat-sheet)
-- [Test-Driven Development (TDD) Cheat Sheet](https://www.cheatgrid.com/software-engineering/0334-test-driven-development-tdd-cheat-sheet)
-- [Trees and Binary Search Trees Cheat Sheet](https://www.cheatgrid.com/software-engineering/0335-trees-and-binary-search-trees-cheat-sheet)
-- [SOLID Principles Cheat Sheet](https://www.cheatgrid.com/software-engineering/0495-solid-principles-cheat-sheet)
-- [Refactoring Techniques Cheat Sheet](https://www.cheatgrid.com/software-engineering/0496-refactoring-techniques-cheat-sheet)
-- [Code Review Best Practices Cheat Sheet](https://www.cheatgrid.com/software-engineering/0497-code-review-best-practices-cheat-sheet)
-- [Domain-Driven Design (DDD) Cheat Sheet](https://www.cheatgrid.com/software-engineering/0498-domain-driven-design-ddd-cheat-sheet)
-- [Code Smells and Anti-Patterns Cheat Sheet](https://www.cheatgrid.com/software-engineering/0499-code-smells-and-anti-patterns-cheat-sheet)
-- [Software Resilience Patterns Cheat Sheet](https://www.cheatgrid.com/software-engineering/0500-software-resilience-patterns-cheat-sheet)
-- [Twelve-Factor App Methodology Cheat Sheet](https://www.cheatgrid.com/software-engineering/0501-twelve-factor-app-methodology-cheat-sheet)
-- [Git Branching Strategies and Workflows Cheat Sheet](https://www.cheatgrid.com/software-engineering/0502-git-branching-strategies-and-workflows-cheat-sheet)
-- [Distributed Systems Core Concepts Cheat Sheet](https://www.cheatgrid.com/software-engineering/0503-distributed-systems-core-concepts-cheat-sheet)
-- [Concurrency and Parallel Programming Patterns Cheat Sheet](https://www.cheatgrid.com/software-engineering/0504-concurrency-and-parallel-programming-patterns-cheat-sheet)
-- [Behavior-Driven Development (BDD) Cheat Sheet](https://www.cheatgrid.com/software-engineering/0505-behavior-driven-development-bdd-cheat-sheet)
-- [Technical Debt Management Cheat Sheet](https://www.cheatgrid.com/software-engineering/0506-technical-debt-management-cheat-sheet)
-- [Feature Flags and Progressive Delivery Cheat Sheet](https://www.cheatgrid.com/software-engineering/0507-feature-flags-and-progressive-delivery-cheat-sheet)
-- [Software Quality Metrics and Code Analysis Cheat Sheet](https://www.cheatgrid.com/software-engineering/0508-software-quality-metrics-and-code-analysis-cheat-sheet)
-- [API Design Principles and Best Practices Cheat Sheet](https://www.cheatgrid.com/software-engineering/0509-api-design-principles-and-best-practices-cheat-sheet)
-- [Software Development Lifecycle (SDLC) Cheat Sheet](https://www.cheatgrid.com/software-engineering/0510-software-development-lifecycle-sdlc-cheat-sheet)
-- [Event Storming Cheat Sheet](https://www.cheatgrid.com/software-engineering/0513-event-storming-cheat-sheet)
-- [Semantic Versioning and Release Management Cheat Sheet](https://www.cheatgrid.com/software-engineering/0514-semantic-versioning-and-release-management-cheat-sheet)
-
-**[Web Development](https://www.cheatgrid.com/web-development)**
-- [NextJS Cheat Sheet](https://www.cheatgrid.com/web-development/0021-nextjs-cheat-sheet)
-- [React Frontend Framework Cheat Sheet](https://www.cheatgrid.com/web-development/0022-react-frontend-framework-cheat-sheet)
-- [Frontend Development Cheat Sheet](https://www.cheatgrid.com/web-development/0023-frontend-development-cheat-sheet)
-- [HTML5 Cheat Sheet](https://www.cheatgrid.com/web-development/0044-html5-cheat-sheet)
-- [CSS Cheat Sheet](https://www.cheatgrid.com/web-development/0045-css-cheat-sheet)
-- [HTTP Cheat Sheet](https://www.cheatgrid.com/web-development/0052-http-cheat-sheet)
-- [AngularJS Cheat Sheet](https://www.cheatgrid.com/web-development/0102-angularjs-cheat-sheet)
-- [Search Engine Optimization (SEO) Cheat Sheet](https://www.cheatgrid.com/web-development/0104-search-engine-optimization-seo-cheat-sheet)
-- [Vue Framework Cheat Sheet](https://www.cheatgrid.com/web-development/0111-vue-framework-cheat-sheet)
-- [Bootstrap CSS Framework Cheat Sheet](https://www.cheatgrid.com/web-development/0112-bootstrap-css-framework-cheat-sheet)
-- [Tailwind CSS Framework Cheat Sheet](https://www.cheatgrid.com/web-development/0113-tailwind-css-framework-cheat-sheet)
-- [HTML Cheat Sheet](https://www.cheatgrid.com/web-development/0163-html-cheat-sheet)
-- [Django Cheat Sheet](https://www.cheatgrid.com/web-development/0285-django-cheat-sheet)
-- [Browser Compatibility Cheat Sheet](https://www.cheatgrid.com/web-development/0336-browser-compatibility-cheat-sheet)
-- [Cookies & Session Management Cheat Sheet](https://www.cheatgrid.com/web-development/0337-cookies-session-management-cheat-sheet)
-- [Progressive Web Apps (PWAs) Cheat Sheet](https://www.cheatgrid.com/web-development/0338-progressive-web-apps-pwas-cheat-sheet)
-- [Redux Cheat Sheet](https://www.cheatgrid.com/web-development/0339-redux-cheat-sheet)
-- [Responsive Web Design Cheat Sheet](https://www.cheatgrid.com/web-development/0340-responsive-web-design-cheat-sheet)
-- [Web Accessibility Cheat Sheet](https://www.cheatgrid.com/web-development/0348-web-accessibility-cheat-sheet)
-- [Web Performance Cheat Sheet](https://www.cheatgrid.com/web-development/0349-web-performance-cheat-sheet)
-- [Svelte Cheat Sheet](https://www.cheatgrid.com/web-development/0350-svelte-cheat-sheet)
-- [HTTPS Cheat Sheet](https://www.cheatgrid.com/web-development/0361-https-cheat-sheet)
-
-### 🔒 Security and Networking
-
-**[Cybersecurity](https://www.cheatgrid.com/cybersecurity)**
-- [Security in Web Applications Cheat Sheet](https://www.cheatgrid.com/cybersecurity/0036-security-in-web-applications-cheat-sheet)
-- [Ethical Hacking Cheat Sheet](https://www.cheatgrid.com/cybersecurity/0074-ethical-hacking-cheat-sheet)
-- [Cloud Security (AWS Azure) Cheat Sheet](https://www.cheatgrid.com/cybersecurity/0276-cloud-security-aws-azure-cheat-sheet)
-- [Container Security Cheat Sheet](https://www.cheatgrid.com/cybersecurity/0277-container-security-cheat-sheet)
-- [Cybersecurity Fundamentals Cheat Sheet](https://www.cheatgrid.com/cybersecurity/0352-cybersecurity-fundamentals-cheat-sheet)
-- [Incident Response Cheat Sheet](https://www.cheatgrid.com/cybersecurity/0353-incident-response-cheat-sheet)
-- [Network Security Cheat Sheet](https://www.cheatgrid.com/cybersecurity/0355-network-security-cheat-sheet)
-- [OWASP Cheat Sheet](https://www.cheatgrid.com/cybersecurity/0356-owasp-cheat-sheet)
-- [Penetration Testing Cheat Sheet](https://www.cheatgrid.com/cybersecurity/0357-penetration-testing-cheat-sheet)
-- [Web Security Basics Cheat Sheet](https://www.cheatgrid.com/cybersecurity/0358-web-security-basics-cheat-sheet)
-- [Zero Trust Architecture Cheat Sheet](https://www.cheatgrid.com/cybersecurity/0359-zero-trust-architecture-cheat-sheet)
-- [Firewalls & VPNs Cheat Sheet](https://www.cheatgrid.com/cybersecurity/0363-firewalls-vpns-cheat-sheet)
-- [Container Runtime Security Cheat Sheet](https://www.cheatgrid.com/cybersecurity/0430-container-runtime-security-cheat-sheet)
-- [Backend Security Best Practices Cheat Sheet](https://www.cheatgrid.com/cybersecurity/0488-backend-security-best-practices-cheat-sheet)
-- [Threat Modeling for Software Developers Cheat Sheet](https://www.cheatgrid.com/cybersecurity/0512-threat-modeling-for-software-developers-cheat-sheet)
-- [1Password Password Manager Cheat Sheet](https://www.cheatgrid.com/cybersecurity/0533-1password-password-manager-cheat-sheet)
-
-**[Networking](https://www.cheatgrid.com/networking)**
-- [Networking Core Cheat Sheet](https://www.cheatgrid.com/networking/0136-networking-core-cheat-sheet)
-- [Azure Networking Cheat Sheet](https://www.cheatgrid.com/networking/0137-azure-networking-cheat-sheet)
-- [Load Balancing Cheat Sheet](https://www.cheatgrid.com/networking/0298-load-balancing-cheat-sheet)
-- [SSH & Remote Access Cheat Sheet](https://www.cheatgrid.com/networking/0343-ssh-remote-access-cheat-sheet)
-- [Network Protocols Cheat Sheet](https://www.cheatgrid.com/networking/0347-network-protocols-cheat-sheet)
-- [Network Administration Cheat Sheet](https://www.cheatgrid.com/networking/0354-network-administration-cheat-sheet)
-- [CORS (Cross-Origin Resource Sharing) Cheat Sheet](https://www.cheatgrid.com/networking/0360-cors-cross-origin-resource-sharing-cheat-sheet)
-- [DNS Cheat Sheet](https://www.cheatgrid.com/networking/0362-dns-cheat-sheet)
-
-### 📚 Specialized Topics
-
-**[Mathematics and Algorithms](https://www.cheatgrid.com/mathematics-and-algorithms)**
-- [Descriptive Statistics Cheat Sheet](https://www.cheatgrid.com/mathematics-and-algorithms/0018-descriptive-statistics-cheat-sheet)
-- [Probability in Statistics Cheat Sheet](https://www.cheatgrid.com/mathematics-and-algorithms/0027-probability-in-statistics-cheat-sheet)
-- [Multivariate Statistics Cheat Sheet](https://www.cheatgrid.com/mathematics-and-algorithms/0031-multivariate-statistics-cheat-sheet)
-- [Graph Theory Cheat Sheet](https://www.cheatgrid.com/mathematics-and-algorithms/0047-graph-theory-cheat-sheet)
-- [Arithmetic Cheat Sheet](https://www.cheatgrid.com/mathematics-and-algorithms/0090-arithmetic-cheat-sheet)
-- [Algebra Cheat Sheet](https://www.cheatgrid.com/mathematics-and-algorithms/0091-algebra-cheat-sheet)
-- [Geometry Cheat Sheet](https://www.cheatgrid.com/mathematics-and-algorithms/0092-geometry-cheat-sheet)
-- [Trigonometry Cheat Sheet](https://www.cheatgrid.com/mathematics-and-algorithms/0093-trigonometry-cheat-sheet)
-- [Calculus Cheat Sheet](https://www.cheatgrid.com/mathematics-and-algorithms/0094-calculus-cheat-sheet)
-- [Number Theory Cheat Sheet](https://www.cheatgrid.com/mathematics-and-algorithms/0095-number-theory-cheat-sheet)
-- [Linear Algebra Cheat Sheet](https://www.cheatgrid.com/mathematics-and-algorithms/0096-linear-algebra-cheat-sheet)
-- [Differential Equations Cheat Sheet](https://www.cheatgrid.com/mathematics-and-algorithms/0097-differential-equations-cheat-sheet)
-- [Topology Cheat Sheet](https://www.cheatgrid.com/mathematics-and-algorithms/0098-topology-cheat-sheet)
-- [Logic Cheat Sheet](https://www.cheatgrid.com/mathematics-and-algorithms/0099-logic-cheat-sheet)
-- [Statistics Cheat Sheet](https://www.cheatgrid.com/mathematics-and-algorithms/0164-statistics-cheat-sheet)
-- [Statistics Fundamentals Cheat Sheet](https://www.cheatgrid.com/mathematics-and-algorithms/0236-statistics-fundamentals-cheat-sheet)
-- [Algorithms Cheat Sheet](https://www.cheatgrid.com/mathematics-and-algorithms/0316-algorithms-cheat-sheet)
-- [Data Structures Cheat Sheet](https://www.cheatgrid.com/mathematics-and-algorithms/0321-data-structures-cheat-sheet)
-- [Dynamic Programming Cheat Sheet](https://www.cheatgrid.com/mathematics-and-algorithms/0323-dynamic-programming-cheat-sheet)
-- [Graphs Cheat Sheet](https://www.cheatgrid.com/mathematics-and-algorithms/0324-graphs-cheat-sheet)
-- [Hash Tables and Hash Maps Cheat Sheet](https://www.cheatgrid.com/mathematics-and-algorithms/0325-hash-tables-and-hash-maps-cheat-sheet)
-- [Sorting Algorithms Cheat Sheet](https://www.cheatgrid.com/mathematics-and-algorithms/0332-sorting-algorithms-cheat-sheet)
-- [Big O Notation Cheat Sheet](https://www.cheatgrid.com/mathematics-and-algorithms/0344-big-o-notation-cheat-sheet)
-- [Blockchain Basics Cheat Sheet](https://www.cheatgrid.com/mathematics-and-algorithms/0368-blockchain-basics-cheat-sheet)
-
-**[Operating Systems and CLI](https://www.cheatgrid.com/operating-systems-and-cli)**
-- [Linux Bash Cheat Sheet](https://www.cheatgrid.com/operating-systems-and-cli/0006-linux-bash-cheat-sheet)
-- [Windows 11 User Guide Cheat Sheet](https://www.cheatgrid.com/operating-systems-and-cli/0034-windows-11-user-guide-cheat-sheet)
-- [Windows Server 2025 Cheat Sheet](https://www.cheatgrid.com/operating-systems-and-cli/0035-windows-server-2025-cheat-sheet)
-- [AWS CLI Cheat Sheet](https://www.cheatgrid.com/operating-systems-and-cli/0061-aws-cli-cheat-sheet)
-- [Ubuntu Cheat Sheet](https://www.cheatgrid.com/operating-systems-and-cli/0120-ubuntu-cheat-sheet)
-- [Azure CLI Cheat Sheet](https://www.cheatgrid.com/operating-systems-and-cli/0122-azure-cli-cheat-sheet)
-- [GCP CLI Cheat Sheet](https://www.cheatgrid.com/operating-systems-and-cli/0123-gcp-cli-cheat-sheet)
-- [Firebase CLI Cheat Sheet](https://www.cheatgrid.com/operating-systems-and-cli/0124-firebase-cli-cheat-sheet)
-- [macOS Usage Cheat Sheet](https://www.cheatgrid.com/operating-systems-and-cli/0138-macos-usage-cheat-sheet)
-- [Debian Cheat Sheet](https://www.cheatgrid.com/operating-systems-and-cli/0143-debian-cheat-sheet)
-- [File Permissions Cheat Sheet](https://www.cheatgrid.com/operating-systems-and-cli/0345-file-permissions-cheat-sheet)
-- [Command Line Fundamentals Cheat Sheet](https://www.cheatgrid.com/operating-systems-and-cli/0346-command-line-fundamentals-cheat-sheet)
-- [Linux Bash Scripting Cheat Sheet](https://www.cheatgrid.com/operating-systems-and-cli/0364-linux-bash-scripting-cheat-sheet)
-- [macOS Usage Cheat Sheet](https://www.cheatgrid.com/operating-systems-and-cli/0369-macos-usage-cheat-sheet)
-- [System Monitoring Cheat Sheet](https://www.cheatgrid.com/operating-systems-and-cli/0370-system-monitoring-cheat-sheet)
-- [System Administration Cheat Sheet](https://www.cheatgrid.com/operating-systems-and-cli/0372-system-administration-cheat-sheet)
-- [Windows 11 Troubleshooting Cheat Sheet](https://www.cheatgrid.com/operating-systems-and-cli/0373-windows-11-troubleshooting-cheat-sheet)
-
-**[Other](https://www.cheatgrid.com/other)**
-- [Google Search Cheat Sheet](https://www.cheatgrid.com/other/0054-google-search-cheat-sheet)
-- [PC Hardware Cheat Sheet](https://www.cheatgrid.com/other/0089-pc-hardware-cheat-sheet)
-- [YouTube Cheat Sheet](https://www.cheatgrid.com/other/0103-youtube-cheat-sheet)
-- [Android Usage Cheat Sheet](https://www.cheatgrid.com/other/0142-android-usage-cheat-sheet)
-- [Google Chrome Browser Cheat Sheet](https://www.cheatgrid.com/other/0144-google-chrome-browser-cheat-sheet)
-- [Brave Browser Cheat Sheet](https://www.cheatgrid.com/other/0145-brave-browser-cheat-sheet)
-- [Firefox Browser Cheat Sheet](https://www.cheatgrid.com/other/0146-firefox-browser-cheat-sheet)
-- [Microsoft Edge Browser Cheat Sheet](https://www.cheatgrid.com/other/0147-microsoft-edge-browser-cheat-sheet)
-- [Gmail Cheat Sheet](https://www.cheatgrid.com/other/0166-gmail-cheat-sheet)
-- [AR VR Development Cheat Sheet](https://www.cheatgrid.com/other/0367-ar-vr-development-cheat-sheet)
-- [Internet of Things (IoT) Cheat Sheet](https://www.cheatgrid.com/other/0368-internet-of-things-iot-cheat-sheet)
-- [Low-Code No-Code Development Cheat Sheet](https://www.cheatgrid.com/other/0371-low-code-no-code-development-cheat-sheet)
-- [Unity Gaming Engine Cheat Sheet](https://www.cheatgrid.com/other/0375-unity-gaming-engine-cheat-sheet)
-- [Gartner 2026 Cheat Sheet](https://www.cheatgrid.com/other/0387-gartner-2026-cheat-sheet)
-- [3D Printing Fundamentals Cheat Sheet](https://www.cheatgrid.com/other/0710-3d-printing-fundamentals-cheat-sheet)
-- [Quantum Computing Basics Cheat Sheet](https://www.cheatgrid.com/other/0712-quantum-computing-basics-cheat-sheet)
-- [Smart Home Automation Cheat Sheet](https://www.cheatgrid.com/other/0714-smart-home-automation-cheat-sheet)
-- [Photography Fundamentals Cheat Sheet](https://www.cheatgrid.com/other/0715-photography-fundamentals-cheat-sheet)
-- [Personal Finance and Investing Fundamentals Cheat Sheet](https://www.cheatgrid.com/other/0716-personal-finance-and-investing-fundamentals-cheat-sheet)
-- [GIMP Cheat Sheet](https://www.cheatgrid.com/other/0717-gimp-cheat-sheet)
-- [Blender 3D Modeling and Animation Cheat Sheet](https://www.cheatgrid.com/other/0718-blender-3d-modeling-and-animation-cheat-sheet)
-- [DaVinci Resolve Video Editing Cheat Sheet](https://www.cheatgrid.com/other/0719-davinci-resolve-video-editing-cheat-sheet)
-- [Adobe Photoshop Cheat Sheet](https://www.cheatgrid.com/other/0720-adobe-photoshop-cheat-sheet)
-- [Wearable Technology and Health Tracking Cheat Sheet](https://www.cheatgrid.com/other/0721-wearable-technology-and-health-tracking-cheat-sheet)
-- [Homelab and Self-Hosting Cheat Sheet](https://www.cheatgrid.com/other/0722-homelab-and-self-hosting-cheat-sheet)
-- [Adobe Illustrator Cheat Sheet](https://www.cheatgrid.com/other/0723-adobe-illustrator-cheat-sheet)
-- [Obsidian Note-Taking and Personal Knowledge Management Cheat Sheet](https://www.cheatgrid.com/other/0724-obsidian-note-taking-and-personal-knowledge-management-cheat-sheet)
-- [Raspberry Pi Projects and Programming Cheat Sheet](https://www.cheatgrid.com/other/0725-raspberry-pi-projects-and-programming-cheat-sheet)
-- [Electric Vehicles (EVs) - Practical Owner's Guide Cheat Sheet](https://www.cheatgrid.com/other/0726-electric-vehicles-evs-practical-owners-guide-cheat-sheet)
-- [Podcast Production and Distribution Cheat Sheet](https://www.cheatgrid.com/other/0727-podcast-production-and-distribution-cheat-sheet)
-- [Drone Technology and Aerial Photography Cheat Sheet](https://www.cheatgrid.com/other/0728-drone-technology-and-aerial-photography-cheat-sheet)
-- [Social Media Strategy and Content Creation Cheat Sheet](https://www.cheatgrid.com/other/0729-social-media-strategy-and-content-creation-cheat-sheet)
-- [Google Workspace Suite Productivity Cheat Sheet](https://www.cheatgrid.com/other/0730-google-workspace-suite-productivity-cheat-sheet)
-- [Home Networking for Users Cheat Sheet](https://www.cheatgrid.com/other/0731-home-networking-for-users-cheat-sheet)
-- [Language Learning Technology and Methods Cheat Sheet](https://www.cheatgrid.com/other/0732-language-learning-technology-and-methods-cheat-sheet)
-
-**[Personal Development](https://www.cheatgrid.com/personal-development)**
-- [Personal Development Planning Cheat Sheet](https://www.cheatgrid.com/personal-development/0621-personal-development-planning-cheat-sheet)
-- [Self-Awareness Frameworks Cheat Sheet](https://www.cheatgrid.com/personal-development/0622-self-awareness-frameworks-cheat-sheet)
-- [Personal Values Clarification Cheat Sheet](https://www.cheatgrid.com/personal-development/0623-personal-values-clarification-cheat-sheet)
-- [Confidence and Self-Esteem Building Cheat Sheet](https://www.cheatgrid.com/personal-development/0624-confidence-and-self-esteem-building-cheat-sheet)
-- [Procrastination Management Cheat Sheet](https://www.cheatgrid.com/personal-development/0625-procrastination-management-cheat-sheet)
-- [Motivation Science and Self-Determination Cheat Sheet](https://www.cheatgrid.com/personal-development/0626-motivation-science-and-self-determination-cheat-sheet)
-- [Self-Discipline Systems Cheat Sheet](https://www.cheatgrid.com/personal-development/0628-self-discipline-systems-cheat-sheet)
-- [Self-Compassion Cheat Sheet](https://www.cheatgrid.com/personal-development/0629-self-compassion-cheat-sheet)
-- [Mindfulness for Daily Life Cheat Sheet](https://www.cheatgrid.com/personal-development/0630-mindfulness-for-daily-life-cheat-sheet)
-- [Digital Wellbeing and Screen Time Management Cheat Sheet](https://www.cheatgrid.com/personal-development/0632-digital-wellbeing-and-screen-time-management-cheat-sheet)
-- [Sleep Hygiene and Recovery Cheat Sheet](https://www.cheatgrid.com/personal-development/0633-sleep-hygiene-and-recovery-cheat-sheet)
-- [Energy Management Cheat Sheet](https://www.cheatgrid.com/personal-development/0634-energy-management-cheat-sheet)
-- [Deliberate Practice Cheat Sheet](https://www.cheatgrid.com/personal-development/0635-deliberate-practice-cheat-sheet)
-- [Purpose Discovery Frameworks Cheat Sheet](https://www.cheatgrid.com/personal-development/0636-purpose-discovery-frameworks-cheat-sheet)
-- [Reflective Journaling Methods Cheat Sheet](https://www.cheatgrid.com/personal-development/0637-reflective-journaling-methods-cheat-sheet)
-- [Weekly Review and Personal Retrospectives Cheat Sheet](https://www.cheatgrid.com/personal-development/0638-weekly-review-and-personal-retrospectives-cheat-sheet)
-- [Accountability Systems Cheat Sheet](https://www.cheatgrid.com/personal-development/0639-accountability-systems-cheat-sheet)
-- [Self-Regulation Skills Cheat Sheet](https://www.cheatgrid.com/personal-development/0640-self-regulation-skills-cheat-sheet)
-- [Executive Function Skills for Adults Cheat Sheet](https://www.cheatgrid.com/personal-development/0641-executive-function-skills-for-adults-cheat-sheet)
-- [Acceptance and Commitment Therapy (ACT) Skills for Everyday Life Cheat Sheet](https://www.cheatgrid.com/personal-development/0642-acceptance-and-commitment-therapy-act-skills-for-everyday-life-cheat-sheet)
-- [Cognitive Behavioral Tools for Everyday Thinking Cheat Sheet](https://www.cheatgrid.com/personal-development/0643-cognitive-behavioral-tools-for-everyday-thinking-cheat-sheet)
-- [Distress Tolerance Skills Cheat Sheet](https://www.cheatgrid.com/personal-development/0644-distress-tolerance-skills-cheat-sheet)
-- [Positive Psychology Interventions Cheat Sheet](https://www.cheatgrid.com/personal-development/0645-positive-psychology-interventions-cheat-sheet)
-- [Gratitude Practices and Interventions Cheat Sheet](https://www.cheatgrid.com/personal-development/0646-gratitude-practices-and-interventions-cheat-sheet)
-- [Character Strengths and Strengths-Based Development Cheat Sheet](https://www.cheatgrid.com/personal-development/0647-character-strengths-and-strengths-based-development-cheat-sheet)
-- [Self-Efficacy Building Cheat Sheet](https://www.cheatgrid.com/personal-development/0648-self-efficacy-building-cheat-sheet)
-- [Delayed Gratification and Impulse Control Cheat Sheet](https://www.cheatgrid.com/personal-development/0649-delayed-gratification-and-impulse-control-cheat-sheet)
-- [Mental Models for Everyday Decisions Cheat Sheet](https://www.cheatgrid.com/personal-development/0650-mental-models-for-everyday-decisions-cheat-sheet)
-- [Mood Tracking and Emotional Pattern Mapping Cheat Sheet](https://www.cheatgrid.com/personal-development/0651-mood-tracking-and-emotional-pattern-mapping-cheat-sheet)
-- [Cognitive Biases in Personal Judgment Cheat Sheet](https://www.cheatgrid.com/personal-development/0652-cognitive-biases-in-personal-judgment-cheat-sheet)
-- [Commitment Devices and Temptation Bundling Cheat Sheet](https://www.cheatgrid.com/personal-development/0653-commitment-devices-and-temptation-bundling-cheat-sheet)
-- [Implementation Intentions and If-Then Planning Cheat Sheet](https://www.cheatgrid.com/personal-development/0654-implementation-intentions-and-if-then-planning-cheat-sheet)
-- [Environment Design for Better Habits Cheat Sheet](https://www.cheatgrid.com/personal-development/0655-environment-design-for-better-habits-cheat-sheet)
-- [Life Transitions and Personal Reinvention Cheat Sheet](https://www.cheatgrid.com/personal-development/0656-life-transitions-and-personal-reinvention-cheat-sheet)
-- [Future Self Visualization and Possible Selves Cheat Sheet](https://www.cheatgrid.com/personal-development/0657-future-self-visualization-and-possible-selves-cheat-sheet)
-- [Digital Declutter and Information Diet Design Cheat Sheet](https://www.cheatgrid.com/personal-development/0658-digital-declutter-and-information-diet-design-cheat-sheet)
-- [Learned Optimism and Explanatory Style Cheat Sheet](https://www.cheatgrid.com/personal-development/0659-learned-optimism-and-explanatory-style-cheat-sheet)
-- [Wheel of Life and Personal Balance Assessments Cheat Sheet](https://www.cheatgrid.com/personal-development/0660-wheel-of-life-and-personal-balance-assessments-cheat-sheet)
-- [Meditation Techniques and Styles Cheat Sheet](https://www.cheatgrid.com/personal-development/0661-meditation-techniques-and-styles-cheat-sheet)
-- [Breathwork and Breathing Techniques Cheat Sheet](https://www.cheatgrid.com/personal-development/0662-breathwork-and-breathing-techniques-cheat-sheet)
-- [Nutrition for Energy and Focus Cheat Sheet](https://www.cheatgrid.com/personal-development/0663-nutrition-for-energy-and-focus-cheat-sheet)
-- [Strength Training Fundamentals for Everyday Life Cheat Sheet](https://www.cheatgrid.com/personal-development/0664-strength-training-fundamentals-for-everyday-life-cheat-sheet)
-- [Walking for Fitness, Mood and Recovery Cheat Sheet](https://www.cheatgrid.com/personal-development/0665-walking-for-fitness-mood-and-recovery-cheat-sheet)
-- [Mobility and Stretching Fundamentals Cheat Sheet](https://www.cheatgrid.com/personal-development/0666-mobility-and-stretching-fundamentals-cheat-sheet)
-- [Visualization and Mental Rehearsal Cheat Sheet](https://www.cheatgrid.com/personal-development/0667-visualization-and-mental-rehearsal-cheat-sheet)
-- [Reward Systems and Reinforcement Design Cheat Sheet](https://www.cheatgrid.com/personal-development/0668-reward-systems-and-reinforcement-design-cheat-sheet)
-- [Metacognition for Self-Directed Learning Cheat Sheet](https://www.cheatgrid.com/personal-development/0669-metacognition-for-self-directed-learning-cheat-sheet)
-- [Decision Journaling and Personal Post-Mortems Cheat Sheet](https://www.cheatgrid.com/personal-development/0670-decision-journaling-and-personal-post-mortems-cheat-sheet)
-- [Sexual Education, Fantasies and Practices Cheat Sheet](https://www.cheatgrid.com/personal-development/0671-sexual-education-fantasies-and-practices-cheat-sheet)
-- [Happiness Science and Sustainable Well-Being Cheat Sheet](https://www.cheatgrid.com/personal-development/0672-happiness-science-and-sustainable-well-being-cheat-sheet)
-- [Flow State and Optimal Experience Cheat Sheet](https://www.cheatgrid.com/personal-development/0673-flow-state-and-optimal-experience-cheat-sheet)
-- [Social Connection, Belonging, and the Science of Loneliness Cheat Sheet](https://www.cheatgrid.com/personal-development/0674-social-connection-belonging-and-the-science-of-loneliness-cheat-sheet)
-- [Positive Emotions Science and Cultivation Cheat Sheet](https://www.cheatgrid.com/personal-development/0675-positive-emotions-science-and-cultivation-cheat-sheet)
-- [Savoring and Amplifying Positive Experiences Cheat Sheet](https://www.cheatgrid.com/personal-development/0676-savoring-and-amplifying-positive-experiences-cheat-sheet)
-- [Resilience and Post-Traumatic Growth Cheat Sheet](https://www.cheatgrid.com/personal-development/0677-resilience-and-post-traumatic-growth-cheat-sheet)
-- [Loving-Kindness and Compassion Cultivation Cheat Sheet](https://www.cheatgrid.com/personal-development/0678-loving-kindness-and-compassion-cultivation-cheat-sheet)
-- [Awe and Wonder Cultivation Cheat Sheet](https://www.cheatgrid.com/personal-development/0679-awe-and-wonder-cultivation-cheat-sheet)
-- [Non-Attachment and Letting Go Practices Cheat Sheet](https://www.cheatgrid.com/personal-development/0680-non-attachment-and-letting-go-practices-cheat-sheet)
-- [Equanimity and Inner Steadiness Cheat Sheet](https://www.cheatgrid.com/personal-development/0681-equanimity-and-inner-steadiness-cheat-sheet)
-- [Meaningful Living and Logotherapy Cheat Sheet](https://www.cheatgrid.com/personal-development/0682-meaningful-living-and-logotherapy-cheat-sheet)
-- [Hope Theory and Goal-Directed Well-Being Cheat Sheet](https://www.cheatgrid.com/personal-development/0683-hope-theory-and-goal-directed-well-being-cheat-sheet)
-- [Compassion-Focused Therapy Practices Cheat Sheet](https://www.cheatgrid.com/personal-development/0684-compassion-focused-therapy-practices-cheat-sheet)
-- [Positive Neuroplasticity and Hardwiring Happiness Cheat Sheet](https://www.cheatgrid.com/personal-development/0685-positive-neuroplasticity-and-hardwiring-happiness-cheat-sheet)
-- [Mindful Eating and Intuitive Eating Cheat Sheet](https://www.cheatgrid.com/personal-development/0686-mindful-eating-and-intuitive-eating-cheat-sheet)
-- [Joy Play and Positive Affect Cultivation Cheat Sheet](https://www.cheatgrid.com/personal-development/0687-joy-play-and-positive-affect-cultivation-cheat-sheet)
-- [Mindful Communication and Nonviolent Communication Cheat Sheet](https://www.cheatgrid.com/personal-development/0688-mindful-communication-and-nonviolent-communication-cheat-sheet)
-- [Somatic Mindfulness and Body-Based Awareness Cheat Sheet](https://www.cheatgrid.com/personal-development/0689-somatic-mindfulness-and-body-based-awareness-cheat-sheet)
+</div>
