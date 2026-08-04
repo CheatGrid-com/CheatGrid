@@ -25,7 +25,9 @@ Many topics go further, to help you **keep** what you learn:
 
 And when you're preparing for a specific **certification**, the exam itself is the center: each 🎓 **[Certification](guides/certifications.md)** is built around one real exam (Azure, AWS, security, project management, and more) and comes with its own cheat sheet, practice tests, and flashcards focused on that exam's objectives.
 
-The pieces are **linked**, so you can move from exploring to studying to testing, and watch your progress add up as you go.
+Stuck on something? **[AI Explanations](guides/ai-explanations.md)** unpack it in plain language with concrete examples, wherever you are: a cheat-sheet row, a flashcard mid-session, a practice question you got wrong, or a whole roadmap. So our content can teach you something new instead of only reminding you.
+
+The pieces are **linked**, so you can move from exploring to studying to testing, and watch your progress add up as you go. Not sure where to start, or want a whole subject laid out for you? **[Roadmaps](guides/roadmaps.md)** put our cheat sheets and their flashcards in order for a career, a skill, or a life goal, so the "what do I read next" question is already answered.
 
 ---
 
@@ -33,7 +35,9 @@ The pieces are **linked**, so you can move from exploring to studying to testing
 
 | | Feature | In short |
 |---|---|---|
+| 🗺️ | **[Roadmaps](guides/roadmaps.md)** | Ordered learning paths built from our cheat sheets and their flashcards, for a career, a single skill, or a life goal. Tracks your progress and how much you actually remember as you go. |
 | 📋 | **[Cheat Sheets](guides/cheat-sheets.md)** | 1,300+ topics as scannable 3-column tables, each with an interactive mind map, a quick index, and a link to every concept's source. |
+| ✨ | **[AI Explanations](guides/ai-explanations.md)** | Stuck on anything? Tap ✨ and get it in plain language, written for someone seeing the subject for the first time, with real examples instead of abstract ones. It's on cheat-sheet rows and tables, flashcards, practice questions, certifications, roadmaps and My Vault. |
 | 🎴 | **[Intelligent Flashcards](guides/intelligent-flashcards.md)** | Spaced-repetition decks written for *learning*: beginner-friendly explanations paired with concrete, real-world examples (a specific case rather than an abstract one). The schedule shows each card right before you'd forget it. |
 | 📝 | **[Practice Tests](guides/practice-tests.md)** | Multiple-choice questions with real-world "why it matters" explanations. Study, take a timed exam, or browse the answers. Your call. |
 | 🎓 | **[Certifications](guides/certifications.md)** | Exam-focused prep for in-demand certifications: each with a cheat sheet, a practice test, and flashcards. |
@@ -55,6 +59,8 @@ The pieces aren't separate apps; they're three angles on the **same topic**:
 
 Wherever a topic has more than one of these, you'll see quick links between them so you can jump from exploring to studying to testing without hunting through menus. And everything links out to primary sources when you want to go deeper.
 
+**[Roadmaps](guides/roadmaps.md)** sit one level above all of it: instead of picking topics one at a time, a roadmap sequences a whole set of them (and their flashcards) toward a goal, and tracks how much of what you've studied you'd still remember if quizzed right now.
+
 > Not every topic has all three yet, and the ones that exist don't stand still. We keep adding new pieces, pairing them up, and updating what's already there as the subjects evolve.
 
 ---
@@ -63,6 +69,7 @@ Wherever a topic has more than one of these, you'll see quick links between them
 
 Full, always-up-to-date catalogs (every item links to its page on the site):
 
+- 🗺️ **[All Roadmaps](lists/roadmaps.md):** every learning path, grouped by domain
 - 📋 **[All Cheat Sheets](lists/cheat-sheets.md):** the complete library
 - 📝 **[Practice Tests](lists/practice-tests.md)**
 - 🎴 **[Flashcards](lists/flashcards.md)**
@@ -89,7 +96,7 @@ Just a glimpse: each domain spans far more than this handful of examples. For th
 
 ## Free & subscriptions
 
-A lot is free to try (free cheat sheets, plus previews of flashcards and practice tests), so you can get a real feel before deciding. A **Pro** or **Pro+** subscription unlocks the full library, every flashcard deck and practice test, unlimited study, and all of My Vault.
+A lot is free to try (free cheat sheets, plus previews of flashcards and practice tests), so you can get a real feel before deciding. **[Roadmaps](guides/roadmaps.md)** and their progress tracking are free for everyone; what a plan unlocks is the content a roadmap points at. A **Pro** or **Pro+** subscription unlocks the full library, every flashcard deck and practice test, unlimited study, and all of My Vault.
 
 See current plans at **[cheatgrid.com/subscription](https://www.cheatgrid.com/subscription)**.
 
@@ -99,6 +106,8 @@ See current plans at **[cheatgrid.com/subscription](https://www.cheatgrid.com/su
 
 Newest first:
 
+- ✨ AI Explanations everywhere (cheat sheets, flashcards, practice tests, certifications, roadmaps, My Vault)
+- 🗺️ Roadmaps (ordered learning paths across cheat sheets & flashcards, by career, skill, or life goal)
 - 🎴 Intelligent Flashcards (spaced repetition)
 - 🃏 QA Flashcards (from practice tests)
 - 🔥 Study Streaks (with lives & milestones)

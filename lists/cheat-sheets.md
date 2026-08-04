@@ -10,6 +10,10 @@
 
 ### [AI and Machine Learning](https://www.cheatgrid.com/ai-and-machine-learning)
 
+- [US Sector-Specific AI Regulation: Healthcare, Finance, and Employment Cheat Sheet](https://www.cheatgrid.com/ai-and-machine-learning/1479-us-sector-specific-ai-regulation-healthcare-finance-and-employment-cheat-sheet)
+- [International AI Governance: UK, China, Canada, and Global Frameworks Cheat Sheet](https://www.cheatgrid.com/ai-and-machine-learning/1442-international-ai-governance-uk-china-canada-and-global-frameworks-cheat-sheet)
+- [Data Privacy Law and AI: GDPR, CCPA, and Automated Decision-Making Cheat Sheet](https://www.cheatgrid.com/ai-and-machine-learning/1415-data-privacy-law-and-ai-gdpr-ccpa-and-automated-decision-making-cheat-sheet)
+- [AI Fundamentals for Governance Professionals Cheat Sheet](https://www.cheatgrid.com/ai-and-machine-learning/1402-ai-fundamentals-for-governance-professionals-cheat-sheet)
 - [Object Detection Models (YOLO, Faster R-CNN, DETR) Cheat Sheet](https://www.cheatgrid.com/ai-and-machine-learning/1117-object-detection-models-yolo-faster-r-cnn-detr-cheat-sheet)
 - [Image Segmentation Models Cheat Sheet](https://www.cheatgrid.com/ai-and-machine-learning/1116-image-segmentation-models-cheat-sheet)
 - [Google Vertex AI Cheat Sheet](https://www.cheatgrid.com/ai-and-machine-learning/1115-google-vertex-ai-cheat-sheet)
@@ -96,6 +100,8 @@
 
 ### [Generative AI](https://www.cheatgrid.com/generative-ai)
 
+- [AI Red Teaming Methodology and Tooling Cheat Sheet](https://www.cheatgrid.com/generative-ai/1401-ai-red-teaming-methodology-and-tooling-cheat-sheet)
+- [AI Agent Security and Red Teaming Cheat Sheet](https://www.cheatgrid.com/generative-ai/1399-ai-agent-security-and-red-teaming-cheat-sheet)
 - [AI Browser and Computer Use Agents Cheat Sheet](https://www.cheatgrid.com/generative-ai/1136-ai-browser-and-computer-use-agents-cheat-sheet)
 - [DeepSeek and Qwen Models Cheat Sheet](https://www.cheatgrid.com/generative-ai/1135-deepseek-and-qwen-models-cheat-sheet)
 - [LLM Function Calling Patterns Cheat Sheet](https://www.cheatgrid.com/generative-ai/1134-llm-function-calling-patterns-cheat-sheet)
@@ -297,6 +303,12 @@
 
 ### [DevOps](https://www.cheatgrid.com/devops)
 
+- [Terraform Multi-Environment Patterns and Terragrunt Cheat Sheet](https://www.cheatgrid.com/devops/1473-terraform-multi-environment-patterns-and-terragrunt-cheat-sheet)
+- [Terraform Module Design and Registry Patterns Cheat Sheet](https://www.cheatgrid.com/devops/1472-terraform-module-design-and-registry-patterns-cheat-sheet)
+- [Terraform Testing: Unit, Integration, and Contract Tests Cheat Sheet](https://www.cheatgrid.com/devops/1471-terraform-testing-unit-integration-and-contract-tests-cheat-sheet)
+- [Terraform CI CD, Security Scanning, and Policy as Code Cheat Sheet](https://www.cheatgrid.com/devops/1469-terraform-ci-cd-security-scanning-and-policy-as-code-cheat-sheet)
+- [Golden Path Design and Developer Self-Service Workflows Cheat Sheet](https://www.cheatgrid.com/devops/1435-golden-path-design-and-developer-self-service-workflows-cheat-sheet)
+- [Capacity Planning and Demand Forecasting Cheat Sheet](https://www.cheatgrid.com/devops/1404-capacity-planning-and-demand-forecasting-cheat-sheet)
 - [Snyk Developer Security Platform Cheat Sheet](https://www.cheatgrid.com/devops/1317-snyk-developer-security-platform-cheat-sheet)
 - [Trunk-Based Development and Branching Strategies Cheat Sheet](https://www.cheatgrid.com/devops/1315-trunk-based-development-and-branching-strategies-cheat-sheet)
 - [Temporal Durable Execution Cheat Sheet](https://www.cheatgrid.com/devops/1314-temporal-durable-execution-cheat-sheet)
@@ -351,6 +363,7 @@
 
 ### [Business Intelligence](https://www.cheatgrid.com/business-intelligence)
 
+- [Data Cleaning and Validation for Analysts Cheat Sheet](https://www.cheatgrid.com/business-intelligence/1414-data-cleaning-and-validation-for-analysts-cheat-sheet)
 - [Pyramid Analytics Decision Intelligence Platform Cheat Sheet](https://www.cheatgrid.com/business-intelligence/1338-pyramid-analytics-decision-intelligence-platform-cheat-sheet)
 - [Mode Analytics Cheat Sheet](https://www.cheatgrid.com/business-intelligence/1336-mode-analytics-cheat-sheet)
 - [Geospatial BI and Map Visualizations Cheat Sheet](https://www.cheatgrid.com/business-intelligence/1335-geospatial-bi-and-map-visualizations-cheat-sheet)
@@ -642,6 +655,14 @@
 
 ### [Project Management](https://www.cheatgrid.com/project-management)
 
+- [Writing Product Requirements Documents Cheat Sheet](https://www.cheatgrid.com/project-management/1478-writing-product-requirements-documents-cheat-sheet)
+- [Product Strategy and Market Positioning Cheat Sheet](https://www.cheatgrid.com/project-management/1458-product-strategy-and-market-positioning-cheat-sheet)
+- [Product Manager Interview and Portfolio Preparation Cheat Sheet](https://www.cheatgrid.com/project-management/1455-product-manager-interview-and-portfolio-preparation-cheat-sheet)
+- [Product Metrics and Analytics for Product Managers Cheat Sheet](https://www.cheatgrid.com/project-management/1454-product-metrics-and-analytics-for-product-managers-cheat-sheet)
+- [Go-to-Market Strategy and Product Launches Cheat Sheet](https://www.cheatgrid.com/project-management/1437-go-to-market-strategy-and-product-launches-cheat-sheet)
+- [Business Process Mapping and BPMN Cheat Sheet](https://www.cheatgrid.com/project-management/1407-business-process-mapping-and-bpmn-cheat-sheet)
+- [Agile Facilitation and Coaching Cheat Sheet](https://www.cheatgrid.com/project-management/1397-agile-facilitation-and-coaching-cheat-sheet)
+- [Product Roadmapping and Prioritization Frameworks Cheat Sheet](https://www.cheatgrid.com/project-management/1394-product-roadmapping-and-prioritization-frameworks-cheat-sheet)
 - [Team Building and High-Performance Teams Cheat Sheet](https://www.cheatgrid.com/project-management/0996-team-building-and-high-performance-teams-cheat-sheet)
 - [Business Case Development Cheat Sheet](https://www.cheatgrid.com/project-management/0995-business-case-development-cheat-sheet)
 - [Project Quality Management Cheat Sheet](https://www.cheatgrid.com/project-management/0994-project-quality-management-cheat-sheet)
@@ -696,6 +717,14 @@
 
 ### [Soft Skills](https://www.cheatgrid.com/soft-skills)
 
+- [Technical Hiring and Interviewing for Engineering Managers Cheat Sheet](https://www.cheatgrid.com/soft-skills/1470-technical-hiring-and-interviewing-for-engineering-managers-cheat-sheet)
+- [One-on-One Meetings for Managers Cheat Sheet](https://www.cheatgrid.com/soft-skills/1452-one-on-one-meetings-for-managers-cheat-sheet)
+- [Job Search Strategy and Application Tracking Cheat Sheet](https://www.cheatgrid.com/soft-skills/1443-job-search-strategy-and-application-tracking-cheat-sheet)
+- [Hiring and Interviewing for New Managers Cheat Sheet](https://www.cheatgrid.com/soft-skills/1438-hiring-and-interviewing-for-new-managers-cheat-sheet)
+- [DevRel Program Metrics, Strategy, and Portfolio Cheat Sheet](https://www.cheatgrid.com/soft-skills/1423-devrel-program-metrics-strategy-and-portfolio-cheat-sheet)
+- [Developer Advocacy Fundamentals Cheat Sheet](https://www.cheatgrid.com/soft-skills/1421-developer-advocacy-fundamentals-cheat-sheet)
+- [Creating Developer Tutorials and Technical Content Cheat Sheet](https://www.cheatgrid.com/soft-skills/1413-creating-developer-tutorials-and-technical-content-cheat-sheet)
+- [Community Building for Developers Cheat Sheet](https://www.cheatgrid.com/soft-skills/1406-community-building-for-developers-cheat-sheet)
 - [Analytical Thinking and Evidence-Based Reasoning Cheat Sheet](https://www.cheatgrid.com/soft-skills/1009-analytical-thinking-and-evidence-based-reasoning-cheat-sheet)
 - [Career Transitions and Pivoting Cheat Sheet](https://www.cheatgrid.com/soft-skills/1008-career-transitions-and-pivoting-cheat-sheet)
 - [Personal Effectiveness and Energy Management Cheat Sheet](https://www.cheatgrid.com/soft-skills/1008-personal-effectiveness-and-energy-management-cheat-sheet)
@@ -842,6 +871,11 @@
 
 ### [Developer Tools](https://www.cheatgrid.com/developer-tools)
 
+- [Smart Contract Testing Cheat Sheet](https://www.cheatgrid.com/developer-tools/1466-smart-contract-testing-cheat-sheet)
+- [Smart Contract Development Frameworks (Hardhat and Foundry) Cheat Sheet](https://www.cheatgrid.com/developer-tools/1461-smart-contract-development-frameworks-hardhat-and-foundry-cheat-sheet)
+- [Diagrams as Code (Mermaid, PlantUML, draw.io) Cheat Sheet](https://www.cheatgrid.com/developer-tools/1428-diagrams-as-code-mermaid-plantuml-drawio-cheat-sheet)
+- [Docs-as-Code Static Site Generators (Docusaurus, MkDocs, Sphinx) Cheat Sheet](https://www.cheatgrid.com/developer-tools/1427-docs-as-code-static-site-generators-docusaurus-mkdocs-sphinx-cheat-sheet)
+- [Claude Code Cheat Sheet](https://www.cheatgrid.com/developer-tools/1408-claude-code-cheat-sheet)
 - [Linear Project Management for Engineering Teams Cheat Sheet](https://www.cheatgrid.com/developer-tools/0904-linear-project-management-for-engineering-teams-cheat-sheet)
 - [Conventional Commits and Commit Linting Cheat Sheet](https://www.cheatgrid.com/developer-tools/0903-conventional-commits-and-commit-linting-cheat-sheet)
 - [GitLab Platform Cheat Sheet](https://www.cheatgrid.com/developer-tools/0902-gitlab-platform-cheat-sheet)
@@ -900,6 +934,7 @@
 
 ### [Mobile Development](https://www.cheatgrid.com/mobile-development)
 
+- [Core Data and SwiftData Cheat Sheet](https://www.cheatgrid.com/mobile-development/1411-core-data-and-swiftdata-cheat-sheet)
 - [Compose Multiplatform Cheat Sheet](https://www.cheatgrid.com/mobile-development/0921-compose-multiplatform-cheat-sheet)
 - [Mobile Offline-First Development Cheat Sheet](https://www.cheatgrid.com/mobile-development/0920-mobile-offline-first-development-cheat-sheet)
 - [NativeScript Framework Cheat Sheet](https://www.cheatgrid.com/mobile-development/0919-nativescript-framework-cheat-sheet)
@@ -942,6 +977,8 @@
 
 ### [Programming Languages](https://www.cheatgrid.com/programming-languages)
 
+- [Solidity Smart Contract Language Cheat Sheet](https://www.cheatgrid.com/programming-languages/1467-solidity-smart-contract-language-cheat-sheet)
+- [Compilers and Interpreters Fundamentals Cheat Sheet](https://www.cheatgrid.com/programming-languages/1409-compilers-and-interpreters-fundamentals-cheat-sheet)
 - [Memory Management in Programming Cheat Sheet](https://www.cheatgrid.com/programming-languages/0930-memory-management-in-programming-cheat-sheet)
 - [String Processing and Text Manipulation Cheat Sheet](https://www.cheatgrid.com/programming-languages/0929-string-processing-and-text-manipulation-cheat-sheet)
 - [Type Systems and Generics Across Programming Languages Cheat Sheet](https://www.cheatgrid.com/programming-languages/0929-type-systems-and-generics-across-programming-languages-cheat-sheet)
@@ -975,6 +1012,12 @@
 
 ### [Software Engineering](https://www.cheatgrid.com/software-engineering)
 
+- [System Design Interview Practice Cheat Sheet](https://www.cheatgrid.com/software-engineering/1465-system-design-interview-practice-cheat-sheet)
+- [SDK and Sample App Creation for Developer Advocates Cheat Sheet](https://www.cheatgrid.com/software-engineering/1462-sdk-and-sample-app-creation-for-developer-advocates-cheat-sheet)
+- [Manual Testing and Test Case Design Cheat Sheet](https://www.cheatgrid.com/software-engineering/1447-manual-testing-and-test-case-design-cheat-sheet)
+- [Engineering Technical Strategy and Roadmapping Cheat Sheet](https://www.cheatgrid.com/software-engineering/1424-engineering-technical-strategy-and-roadmapping-cheat-sheet)
+- [Developer Experience (DX) and Feedback Loops Cheat Sheet](https://www.cheatgrid.com/software-engineering/1422-developer-experience-dx-and-feedback-loops-cheat-sheet)
+- [AI-Assisted Development Workflow Cheat Sheet](https://www.cheatgrid.com/software-engineering/1400-ai-assisted-development-workflow-cheat-sheet)
 - [Developer Environment Setup and Automation Cheat Sheet](https://www.cheatgrid.com/software-engineering/0946-developer-environment-setup-and-automation-cheat-sheet)
 - [Data Contracts and Schema Evolution Cheat Sheet](https://www.cheatgrid.com/software-engineering/0945-data-contracts-and-schema-evolution-cheat-sheet)
 - [Code Generation and Scaffolding Cheat Sheet](https://www.cheatgrid.com/software-engineering/0944-code-generation-and-scaffolding-cheat-sheet)
@@ -1025,6 +1068,8 @@
 
 ### [Web Development](https://www.cheatgrid.com/web-development)
 
+- [Web3 Frontend Integration Cheat Sheet](https://www.cheatgrid.com/web-development/1475-web3-frontend-integration-cheat-sheet)
+- [React Forms with React Hook Form and Zod Cheat Sheet](https://www.cheatgrid.com/web-development/1456-react-forms-with-react-hook-form-and-zod-cheat-sheet)
 - [Vercel Platform and Deployment Cheat Sheet](https://www.cheatgrid.com/web-development/0962-vercel-platform-and-deployment-cheat-sheet)
 - [Web APIs and Browser APIs Cheat Sheet](https://www.cheatgrid.com/web-development/0962-web-apis-and-browser-apis-cheat-sheet)
 - [shadcn-ui Component Library Cheat Sheet](https://www.cheatgrid.com/web-development/0961-shadcn-ui-component-library-cheat-sheet)
@@ -1072,6 +1117,10 @@
 
 ### [Cybersecurity](https://www.cheatgrid.com/cybersecurity)
 
+- [Smart Contract Security and Auditing Cheat Sheet](https://www.cheatgrid.com/cybersecurity/1464-smart-contract-security-and-auditing-cheat-sheet)
+- [Reconnaissance and OSINT for Penetration Testers Cheat Sheet](https://www.cheatgrid.com/cybersecurity/1459-reconnaissance-and-osint-for-penetration-testers-cheat-sheet)
+- [Privilege Escalation and Active Directory Attacks Cheat Sheet](https://www.cheatgrid.com/cybersecurity/1453-privilege-escalation-and-active-directory-attacks-cheat-sheet)
+- [Password Attacks and Credential Exploitation Cheat Sheet](https://www.cheatgrid.com/cybersecurity/1449-password-attacks-and-credential-exploitation-cheat-sheet)
 - [Application Security Testing Cheat Sheet](https://www.cheatgrid.com/cybersecurity/0770-application-security-testing-cheat-sheet)
 - [API Security Cheat Sheet](https://www.cheatgrid.com/cybersecurity/0769-api-security-cheat-sheet)
 - [Data Loss Prevention (DLP) Cheat Sheet](https://www.cheatgrid.com/cybersecurity/0768-data-loss-prevention-dlp-cheat-sheet)
@@ -1141,6 +1190,7 @@
 
 ### [Mathematics and Algorithms](https://www.cheatgrid.com/mathematics-and-algorithms)
 
+- [Confidence Intervals and Estimation Cheat Sheet](https://www.cheatgrid.com/mathematics-and-algorithms/1410-confidence-intervals-and-estimation-cheat-sheet)
 - [Recursion Patterns and Recursive Problem Solving Cheat Sheet](https://www.cheatgrid.com/mathematics-and-algorithms/1170-recursion-patterns-and-recursive-problem-solving-cheat-sheet)
 - [Abstract Algebra Essentials Cheat Sheet](https://www.cheatgrid.com/mathematics-and-algorithms/1169-abstract-algebra-essentials-cheat-sheet)
 - [Coding Theory and Error-Correcting Codes Cheat Sheet](https://www.cheatgrid.com/mathematics-and-algorithms/1168-coding-theory-and-error-correcting-codes-cheat-sheet)
@@ -1201,6 +1251,7 @@
 
 ### [Operating Systems and CLI](https://www.cheatgrid.com/operating-systems-and-cli)
 
+- [Computer Architecture Fundamentals Cheat Sheet](https://www.cheatgrid.com/operating-systems-and-cli/1412-computer-architecture-fundamentals-cheat-sheet)
 - [rsync File Synchronization and Backup Cheat Sheet](https://www.cheatgrid.com/operating-systems-and-cli/1244-rsync-file-synchronization-and-backup-cheat-sheet)
 - [Windows Terminal Customization Cheat Sheet](https://www.cheatgrid.com/operating-systems-and-cli/1243-windows-terminal-customization-cheat-sheet)
 - [ripgrep Code Search Cheat Sheet](https://www.cheatgrid.com/operating-systems-and-cli/1242-ripgrep-code-search-cheat-sheet)
@@ -1255,6 +1306,29 @@
 
 ### [Other](https://www.cheatgrid.com/other)
 
+- [UX Portfolio & Case Study Presentation Cheat Sheet](https://www.cheatgrid.com/other/1480-ux-portfolio-case-study-presentation-cheat-sheet)
+- [Wireframing, User Flows & Information Architecture Cheat Sheet](https://www.cheatgrid.com/other/1477-wireframing-user-flows-information-architecture-cheat-sheet)
+- [Usability Testing and Design Iteration Cheat Sheet](https://www.cheatgrid.com/other/1476-usability-testing-and-design-iteration-cheat-sheet)
+- [Token Standards and DeFi Development Cheat Sheet](https://www.cheatgrid.com/other/1474-token-standards-and-defi-development-cheat-sheet)
+- [Saving for a Home and Other Big Goals Cheat Sheet](https://www.cheatgrid.com/other/1463-saving-for-a-home-and-other-big-goals-cheat-sheet)
+- [Real-Time Graphics & Rendering for Games Cheat Sheet](https://www.cheatgrid.com/other/1457-real-time-graphics-rendering-for-games-cheat-sheet)
+- [Layer 2 Scaling and Rollups Cheat Sheet](https://www.cheatgrid.com/other/1444-layer-2-scaling-and-rollups-cheat-sheet)
+- [IRAs, Roth vs. Traditional, and HSAs Cheat Sheet](https://www.cheatgrid.com/other/1441-iras-roth-vs-traditional-and-hsas-cheat-sheet)
+- [Insurance and Protecting Your Income Cheat Sheet](https://www.cheatgrid.com/other/1440-insurance-and-protecting-your-income-cheat-sheet)
+- [Investing 101: Building and Managing Your First Portfolio Cheat Sheet](https://www.cheatgrid.com/other/1439-investing-101-building-and-managing-your-first-portfolio-cheat-sheet)
+- [Game Publishing, Marketing & Monetization Cheat Sheet](https://www.cheatgrid.com/other/1436-game-publishing-marketing-monetization-cheat-sheet)
+- [Game AI & NPC Behavior Systems Cheat Sheet](https://www.cheatgrid.com/other/1433-game-ai-npc-behavior-systems-cheat-sheet)
+- [Game Physics & Collision Systems Cheat Sheet](https://www.cheatgrid.com/other/1431-game-physics-collision-systems-cheat-sheet)
+- [Game Math: Vectors, Transforms & Quaternions Cheat Sheet](https://www.cheatgrid.com/other/1430-game-math-vectors-transforms-quaternions-cheat-sheet)
+- [Game Audio Design & Implementation Cheat Sheet](https://www.cheatgrid.com/other/1429-game-audio-design-implementation-cheat-sheet)
+- [Employer Retirement Plans and the 401(k) Match Cheat Sheet](https://www.cheatgrid.com/other/1425-employer-retirement-plans-and-the-401k-match-cheat-sheet)
+- [Design Systems & Design Tokens Cheat Sheet](https://www.cheatgrid.com/other/1420-design-systems-design-tokens-cheat-sheet)
+- [DesignOps & Scaling Design Teams Cheat Sheet](https://www.cheatgrid.com/other/1419-designops-scaling-design-teams-cheat-sheet)
+- [Deploying and Operating a Production dApp Cheat Sheet](https://www.cheatgrid.com/other/1418-deploying-and-operating-a-production-dapp-cheat-sheet)
+- [Design Critiques & Review Practices Cheat Sheet](https://www.cheatgrid.com/other/1417-design-critiques-review-practices-cheat-sheet)
+- [Design Handoff & Engineering Collaboration Cheat Sheet](https://www.cheatgrid.com/other/1416-design-handoff-engineering-collaboration-cheat-sheet)
+- [Building Your Personal Financial Plan and Annual Money Review Cheat Sheet](https://www.cheatgrid.com/other/1403-building-your-personal-financial-plan-and-annual-money-review-cheat-sheet)
+- [User Research Methods, Personas and Journey Mapping Cheat Sheet](https://www.cheatgrid.com/other/1395-user-research-methods-personas-and-journey-mapping-cheat-sheet)
 - [Cricut Crafting Machines Cheat Sheet](https://www.cheatgrid.com/other/1212-cricut-crafting-machines-cheat-sheet)
 - [Steam Deck and Handheld Gaming PCs Cheat Sheet](https://www.cheatgrid.com/other/1211-steam-deck-and-handheld-gaming-pcs-cheat-sheet)
 - [Electric Bikes E-Bikes Buyer's Guide and Maintenance Cheat Sheet](https://www.cheatgrid.com/other/1210-electric-bikes-e-bikes-buyers-guide-and-maintenance-cheat-sheet)
@@ -1326,6 +1400,17 @@
 
 ### [Parenting](https://www.cheatgrid.com/parenting)
 
+- [Respite Care and Building Your Caregiving Support Team Cheat Sheet](https://www.cheatgrid.com/parenting/1460-respite-care-and-building-your-caregiving-support-team-cheat-sheet)
+- [Power of Attorney and Advance Directives for Aging Parents Cheat Sheet](https://www.cheatgrid.com/parenting/1451-power-of-attorney-and-advance-directives-for-aging-parents-cheat-sheet)
+- [Paying for Eldercare: Medicaid Planning and Long-Term Care Costs Cheat Sheet](https://www.cheatgrid.com/parenting/1450-paying-for-eldercare-medicaid-planning-and-long-term-care-costs-cheat-sheet)
+- [Long-Distance Caregiving: Coordinating Care From Afar Cheat Sheet](https://www.cheatgrid.com/parenting/1448-long-distance-caregiving-coordinating-care-from-afar-cheat-sheet)
+- [Navigating Medicare, Medicaid, and Health Insurance for an Aging Parent Cheat Sheet](https://www.cheatgrid.com/parenting/1445-navigating-medicare-medicaid-and-health-insurance-for-an-aging-parent-cheat-sheet)
+- [Hospice, Palliative Care, and End-of-Life Planning Cheat Sheet](https://www.cheatgrid.com/parenting/1434-hospice-palliative-care-and-end-of-life-planning-cheat-sheet)
+- [Family Caregiving Team Coordinating Long-Term Care Together Cheat Sheet](https://www.cheatgrid.com/parenting/1432-family-caregiving-team-coordinating-long-term-care-together-cheat-sheet)
+- [Difficult Conversations with Aging Parents Cheat Sheet](https://www.cheatgrid.com/parenting/1426-difficult-conversations-with-aging-parents-cheat-sheet)
+- [Caregiver Burnout Prevention and Sustainable Self-Care Cheat Sheet](https://www.cheatgrid.com/parenting/1405-caregiver-burnout-prevention-and-sustainable-self-care-cheat-sheet)
+- [Aging in Place: Home Safety and Accessibility Modifications Cheat Sheet](https://www.cheatgrid.com/parenting/1398-aging-in-place-home-safety-and-accessibility-modifications-cheat-sheet)
+- [Advocating for Your Parent at Medical Appointments Cheat Sheet](https://www.cheatgrid.com/parenting/1396-advocating-for-your-parent-at-medical-appointments-cheat-sheet)
 - [Choosing Childcare Preschool and Schools Cheat Sheet](https://www.cheatgrid.com/parenting/1270-choosing-childcare-preschool-and-schools-cheat-sheet)
 - [Raising Resilient Kids Cheat Sheet](https://www.cheatgrid.com/parenting/1269-raising-resilient-kids-cheat-sheet)
 - [Attachment Theory and Secure Parent-Child Bonding Cheat Sheet](https://www.cheatgrid.com/parenting/1267-attachment-theory-and-secure-parent-child-bonding-cheat-sheet)
@@ -1355,6 +1440,8 @@
 
 ### [Personal Development](https://www.cheatgrid.com/personal-development)
 
+- [Sustaining a Personal Mindfulness and Stress-Resilience Practice Cheat Sheet](https://www.cheatgrid.com/personal-development/1468-sustaining-a-personal-mindfulness-and-stress-resilience-practice-cheat-sheet)
+- [Mindfulness-Based Stress Reduction (MBSR): The 8-Week Program Cheat Sheet](https://www.cheatgrid.com/personal-development/1446-mindfulness-based-stress-reduction-mbsr-the-8-week-program-cheat-sheet)
 - [CliftonStrengths Strength-Based Self-Development Cheat Sheet](https://www.cheatgrid.com/personal-development/1234-cliftonstrengths-strength-based-self-development-cheat-sheet)
 - [Enneagram Personality System Cheat Sheet](https://www.cheatgrid.com/personal-development/1233-enneagram-personality-system-cheat-sheet)
 - [Shadow Work and Inner Child Reparenting Cheat Sheet](https://www.cheatgrid.com/personal-development/1232-shadow-work-and-inner-child-reparenting-cheat-sheet)

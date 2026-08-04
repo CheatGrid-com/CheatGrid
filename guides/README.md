@@ -2,11 +2,13 @@
 
 Short, friendly guides to each part of the platform: what it does, the idea behind it, and how to get the most out of it. No jargon, just the useful bits.
 
-**New here?** Start with **[Cheat Sheets](cheat-sheets.md)** to find your way around a topic, then **[Intelligent Flashcards](intelligent-flashcards.md)** to actually remember it.
+**New here?** Not sure where to start? **[Roadmaps](roadmaps.md)** lays out a whole path for you. Prefer one topic at a time? Start with **[Cheat Sheets](cheat-sheets.md)** to find your way around it, hit **[Explain](ai-explanations.md)** on anything that doesn't click, then **[Intelligent Flashcards](intelligent-flashcards.md)** to actually remember it.
 
 ## The guides
 
+- 🗺️ **[Roadmaps](roadmaps.md):** ordered learning paths built from our cheat sheets and their flashcards, for a career, a skill, or a life goal
 - 📋 **[Cheat Sheets](cheat-sheets.md):** structured tables, the mind map, the quick index, and how topics link together
+- ✨ **[AI Explanations](ai-explanations.md):** tap Explain on any table or row for a beginner-friendly walkthrough with real examples
 - 🎴 **[Intelligent Flashcards](intelligent-flashcards.md):** spaced repetition, the three study modes, and QA Flashcards
 - 📝 **[Practice Tests](practice-tests.md):** Practice, Exam, and Browse modes
 - 🎓 **[Certifications](certifications.md):** exam-focused prep, one bundle per real exam
