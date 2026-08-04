@@ -4,7 +4,7 @@
 
 ### Discover, learn, and remember.
 
-**A learning platform for technical and professional skills, built on deeply researched, structured cheat sheets, then extended with spaced-repetition flashcards, practice tests, and full certification prep.**
+**A learning platform for technical and professional skills, built on deeply researched, structured cheat sheets, then extended with spaced-repetition flashcards, practice tests, and full certification prep, ordered into guided roadmaps and backed by AI explanations wherever you get stuck.**
 
 **→ [www.cheatgrid.com](https://www.cheatgrid.com)**
 
