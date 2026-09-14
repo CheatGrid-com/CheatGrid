@@ -36,7 +36,8 @@ The pieces are **linked**, so you can move from exploring to studying to testing
 | | Feature | In short |
 |---|---|---|
 | 🗺️ | **[Roadmaps](guides/roadmaps.md)** | Ordered learning paths built from our cheat sheets and their flashcards, for a career, a single skill, or a life goal. Tracks your progress and how much you actually remember as you go. |
-| 📋 | **[Cheat Sheets](guides/cheat-sheets.md)** | 1,300+ topics as scannable 3-column tables, each with an interactive mind map, a quick index, and a link to every concept's source. |
+| 📕 | **[Cookbooks](guides/cookbooks.md)** | Short, ordered recipes for real problems, from a growing set of topics, each step with a worked example so you're never guessing what "do this" means. |
+| 📋 | **[Cheat Sheets](guides/cheat-sheets.md)** | 1,300+ topics as scannable 3-column tables, each with an interactive mind map, a quick index, a PDF you can print or keep offline, and a link to every concept's source. |
 | ✨ | **[AI Explanations](guides/ai-explanations.md)** | Stuck on anything? Tap ✨ and get it in plain language, written for someone seeing the subject for the first time, with real examples instead of abstract ones. It's on cheat-sheet rows and tables, flashcards, practice questions, certifications, roadmaps and My Vault. |
 | 🎴 | **[Intelligent Flashcards](guides/intelligent-flashcards.md)** | Spaced-repetition decks written for *learning*: beginner-friendly explanations paired with concrete, real-world examples (a specific case rather than an abstract one). The schedule shows each card right before you'd forget it. |
 | 📝 | **[Practice Tests](guides/practice-tests.md)** | Multiple-choice questions with real-world "why it matters" explanations. Study, take a timed exam, or browse the answers. Your call. |
@@ -44,6 +45,7 @@ The pieces are **linked**, so you can move from exploring to studying to testing
 | 📥 | **[My Vault](guides/my-vault.md)** | Save the rows you care about, and build your own custom cheat sheets, complete with an auto-generated mind map and quick index. |
 | 🔍 | **[Search & Assistant](guides/assistant-and-search.md)** | Instant fuzzy search across every sheet, plus an assistant that understands what you mean and points you to the right place, with sources. |
 | 📊 | **[Progress](guides/stats.md)** | Earn **[XP](guides/xp-and-levels.md)** and level up as you study, keep a daily **[streak](guides/streaks.md)** going, and see it all on your **[Stats](guides/stats.md)** page. |
+| 📈 | **[Dashboard](guides/dashboard.md)** | One page with your totals, your study rhythm over the last 12 weeks, how your scores and your recall are going, and what is worth picking up next. Your numbers only, never a comparison with anyone else. |
 
 New to CheatGrid? The **[guides folder](guides/)** walks through each feature and how to get the most from it.
 
@@ -61,6 +63,10 @@ Wherever a topic has more than one of these, you'll see quick links between them
 
 **[Roadmaps](guides/roadmaps.md)** sit one level above all of it: instead of picking topics one at a time, a roadmap sequences a whole set of them (and their flashcards) toward a goal, and tracks how much of what you've studied you'd still remember if quizzed right now.
 
+**[Cookbooks](guides/cookbooks.md)** turn a cheat sheet's rows into something you actually do: a short, ordered recipe for one real problem, with a Cookbook button on the matching roadmap step and on the cheat sheet itself so you never have to go looking for it.
+
+Your **[Dashboard](guides/dashboard.md)** is the view back across all of it: the totals, your study rhythm over the last 12 weeks, how your scores and your recall are holding up, and what is worth picking up next.
+
 > Not every topic has all three yet, and the ones that exist don't stand still. We keep adding new pieces, pairing them up, and updating what's already there as the subjects evolve.
 
 ---
@@ -70,6 +76,7 @@ Wherever a topic has more than one of these, you'll see quick links between them
 Full, always-up-to-date catalogs (every item links to its page on the site):
 
 - 🗺️ **[All Roadmaps](lists/roadmaps.md):** every learning path, grouped by domain
+- 📕 **[All Cookbooks](lists/cookbooks.md):** every recipe, grouped by roadmap and step
 - 📋 **[All Cheat Sheets](lists/cheat-sheets.md):** the complete library
 - 📝 **[Practice Tests](lists/practice-tests.md)**
 - 🎴 **[Flashcards](lists/flashcards.md)**
@@ -106,6 +113,8 @@ See current plans at **[cheatgrid.com/subscription](https://www.cheatgrid.com/su
 
 Newest first:
 
+- 📕 Cookbooks: short, ordered recipes for real problems, each step with a worked example
+- 📄 PDF export: any cheat sheet as a printable, designed document
 - ✨ AI Explanations everywhere (cheat sheets, flashcards, practice tests, certifications, roadmaps, My Vault)
 - 🗺️ Roadmaps (ordered learning paths across cheat sheets & flashcards, by career, skill, or life goal)
 - 🎴 Intelligent Flashcards (spaced repetition)
@@ -116,6 +125,7 @@ Newest first:
 - 🧠 Interactive Mind Maps
 - 📥 My Vault: custom tables & edit mode
 - ⭐ XP, levels & Stats
+- 📈 Personal Dashboard (totals, charts, and what to do next)
 - 💬 AI assistant & semantic search
 
 ---

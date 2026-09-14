@@ -8,6 +8,10 @@ Once you've read a topic, a practice test is how you check that it actually stuc
 - **Every question comes with a "why it matters" explanation**, often with real-world context and a link to the source, so even a wrong pick teaches you something.
 - Questions are split into several **numbered mini-tests**, each drawn from about **three sections** (tables) of the source cheat sheet, with a broader **final test** covering three to five. Every test is **named for the sections it covers**, so you can drill one area at a time or work through the whole pool.
 
+## Finding the new ones
+
+On the Practice Tests page, the green **Latest** stripe at the top of the page lists the newest practice tests, newest first. When you're signed in, each one says whether you haven't opened it yet, have started it, or have finished every test in it. Click the stripe to fold it away.
+
 ## Three ways to take them
 
 Use the toggle at the top of any topic:
@@ -28,7 +32,7 @@ Your study time earns **[XP](xp-and-levels.md)**, finishing a test adds a comple
 
 ## Free vs. subscription
 
-**Free topics** are fully playable, with every mode and every question. **Paid topics** are previewable once you're signed in: you can sample the **first test** (up to 10 questions) in Practice and Browse to get a genuine feel for it, while Exam mode stays locked. A **Pro / Pro+** subscription unlocks every test in full. (Certifications and Soft Skills are **Pro+**.)
+**Free topics** are fully playable, with every mode and every question. **Paid topics** are previewable once you're signed in: you get the **whole first section** of the first test in Practice and Browse, so you finish something real rather than stopping mid-way, while Exam mode stays locked. A **Pro / Pro+** subscription unlocks every test in full. (Certifications and Soft Skills are **Pro+**.)
 
 ## Tips
 

@@ -14,8 +14,8 @@
 - 🛠️ **[Generative AI & LLM Engineering](https://www.cheatgrid.com/roadmaps/generative-ai-for-developers)**: From your first prompt to fine-tuning, aligning, and serving models at production scale. (15 steps, ~40h, Intermediate to advanced)
 - 💼 **[Machine Learning Engineer](https://www.cheatgrid.com/roadmaps/machine-learning-engineer)**: From training your first model to serving, monitoring, and defending it in production. (12 steps, ~35h, Intermediate to advanced)
 - 🛠️ **[Machine Learning Foundations](https://www.cheatgrid.com/roadmaps/machine-learning-fundamentals)**: From telling supervised and unsupervised apart to training, evaluating, and automating a model you can actually defend. (12 steps, ~30h, Beginner to intermediate)
-- 💼 **[MLOps Engineer](https://www.cheatgrid.com/roadmaps/mlops-engineer)**: From a model in a container to a self-monitoring ML platform in production. (15 steps, ~40h, Advanced to expert)
-- 🛠️ **[Prompt Engineering & Everyday AI](https://www.cheatgrid.com/roadmaps/prompt-engineering)**: From your first well-worded prompt to choosing the right AI tool for any task. (12 steps, ~20h, Beginner to confident)
+- 💼 **[MLOps Engineer](https://www.cheatgrid.com/roadmaps/mlops-engineer)**: From a model in a container to a self-monitoring ML platform in production. (16 steps, ~43h, Advanced to expert)
+- 🛠️ **[Prompt Engineering & Everyday AI](https://www.cheatgrid.com/roadmaps/prompt-engineering)**: From your first well-worded prompt to choosing the right AI tool for any task. (13 steps, ~22h, Beginner to confident)
 
 ## ☁️ Cloud and Infrastructure
 
@@ -32,7 +32,7 @@
 - 🛠️ **[Business Analytics: Excel to Power BI](https://www.cheatgrid.com/roadmaps/excel-to-power-bi)**: From the Excel sheet you already know to a Power BI dashboard powered by real DAX measures. (12 steps, ~30h, Beginner to intermediate)
 - 💼 **[Data Analyst](https://www.cheatgrid.com/roadmaps/data-analyst)**: From your first VLOOKUP to a Tableau dashboard your manager trusts. (14 steps, ~30h, Beginner to intermediate)
 - 💼 **[Data Engineer](https://www.cheatgrid.com/roadmaps/data-engineer)**: From your first SQL query to a Spark and Kafka pipeline that runs itself. (16 steps, ~35h, Beginner to advanced)
-- 💼 **[Data Scientist](https://www.cheatgrid.com/roadmaps/data-scientist)**: From your first Python script to conclusions a business will actually act on. (15 steps, ~35h, Beginner to advanced)
+- 💼 **[Data Scientist](https://www.cheatgrid.com/roadmaps/data-scientist)**: From your first Python script to conclusions a business will actually act on. (16 steps, ~38h, Beginner to advanced)
 - 🛠️ **[MongoDB & NoSQL Databases](https://www.cheatgrid.com/roadmaps/mongodb-and-nosql)**: From NoSQL fundamentals to a production-ready MongoDB architecture. (12 steps, ~25h, Intermediate to advanced)
 - 🛠️ **[SQL & Relational Databases](https://www.cheatgrid.com/roadmaps/sql-and-databases)**: From relational tables to a PostgreSQL database you can run in production. (12 steps, ~30h, Beginner to advanced)
 
@@ -69,7 +69,7 @@
 
 - 💼 **[Cybersecurity Analyst](https://www.cheatgrid.com/roadmaps/cybersecurity-analyst)**: From the CIA triad to running an incident from first alert to final report. (18 steps, ~40h, Beginner to intermediate)
 - 🛠️ **[DevSecOps](https://www.cheatgrid.com/roadmaps/devsecops)**: From a scanned container image to a release pipeline that only ships what's signed and policy-approved. (14 steps, ~35h, Advanced to expert)
-- 💼 **[Network Engineer](https://www.cheatgrid.com/roadmaps/network-engineer)**: From subnetting a network by hand to designing one that keeps running. (15 steps, ~30h, Beginner to intermediate)
+- 💼 **[Network Engineer](https://www.cheatgrid.com/roadmaps/network-engineer)**: From subnetting a network by hand to designing one that keeps running. (16 steps, ~32h, Beginner to intermediate)
 - 💼 **[Penetration Tester](https://www.cheatgrid.com/roadmaps/penetration-tester)**: From your first authorized scan to a full recon-to-report penetration test. (12 steps, ~25h, Intermediate to advanced)
 - 🛠️ **[Web & Application Security](https://www.cheatgrid.com/roadmaps/web-security-essentials)**: From the OWASP Top 10 to shipping code that passes a security review. (13 steps, ~30h, Beginner to intermediate)
 
@@ -84,7 +84,7 @@
 - 🌱 **[Everyday Fitness & Longevity](https://www.cheatgrid.com/roadmaps/fitness-and-longevity)**: From your first daily walk to a longevity protocol you actually keep. (13 steps, ~25h, Beginner to independent)
 - 💼 **[Game Developer](https://www.cheatgrid.com/roadmaps/game-developer)**: From your first game design sketch to a published Unity game players can buy. (12 steps, ~30h, Beginner to advanced)
 - 🛠️ **[Linux & the Command Line](https://www.cheatgrid.com/roadmaps/linux-command-line)**: From typing your first shell commands to administering a full Linux server end to end. (19 steps, ~40h, Beginner to intermediate)
-- 🌱 **[Mindfulness & Stress Mastery](https://www.cheatgrid.com/roadmaps/mindfulness-and-stress)**: From your first conscious breath to a stress response you can actually downshift. (15 steps, ~35h, Beginner to intermediate)
+- 🌱 **[Mindfulness & Stress Mastery](https://www.cheatgrid.com/roadmaps/mindfulness-and-stress)**: From your first conscious breath to a stress response you can actually downshift. (16 steps, ~37h, Beginner to intermediate)
 - 🌱 **[New Parent: Pregnancy to First Year](https://www.cheatgrid.com/roadmaps/new-parent-first-year)**: From a positive pregnancy test to a curious, mobile one-year-old. (12 steps, ~30h, Beginner to confident)
 - 🌱 **[Personal Finance Foundations](https://www.cheatgrid.com/roadmaps/personal-finance-foundations)**: From an untracked paycheck to a financial plan you run yourself. (10 steps, ~20h, Beginner to confident)
 - 💼 **[Product Designer](https://www.cheatgrid.com/roadmaps/product-designer)**: From a vague product problem to a design system and operating model a whole team can run. (12 steps, ~25h, Beginner to intermediate)

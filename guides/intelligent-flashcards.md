@@ -32,6 +32,10 @@ Many decks tag a **core** subset: the foundational cards worth knowing first. Yo
 
 Any **[practice test](practice-tests.md)** can also be studied as flashcards: the front is a question, the back is the answer with its explanation. You'll find **QA Flashcards** as a tab inside a Practice Tests topic. They're tracked separately from a topic's regular deck.
 
+## Finding the new decks
+
+On the Flashcards page, the green **Latest** stripe at the top of the page lists the newest decks, newest first. When you're signed in, each one says whether you haven't opened it yet, have started it, or have studied every card in it. Click the stripe to fold it away.
+
 ## Your progress is saved
 
 When you're signed in, your reviews save automatically in the background. Close the tab any time and pick up exactly where you left off. Leave a session halfway and you'll be offered a **Resume** when you come back.

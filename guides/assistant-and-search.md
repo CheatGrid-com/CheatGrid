@@ -19,6 +19,16 @@ A few things worth knowing:
 - Every answer comes **with its sources**: links straight into the relevant cheat sheets.
 - It answers from the content **you have access to**, so if something isn't in your plan yet, it won't pull from there, even when we do cover it elsewhere. Unlocking more just gives the assistant more to draw on.
 
+## How many messages you get
+
+| Plan | Assistant messages |
+| --- | --- |
+| Free account | 40 a month |
+| Pro | 400 a month, up to 60 in a day |
+| Pro+ | 800 a month, up to 100 in a day |
+
+Every plan **refills on the 1st of the month**, whether you pay monthly or yearly. The daily number is a loose ceiling most people will never meet, and if you do reach it, the rest of your month is still waiting the next day. A message only counts once the answer starts coming back, so a turn that fails costs you nothing.
+
 ## Tips
 
 - **Not sure of the term?** Ask the assistant to point you to the right topic, then use the cheat sheet's mind map to explore.

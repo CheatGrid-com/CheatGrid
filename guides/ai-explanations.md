@@ -8,11 +8,13 @@ It's on cheat sheets, flashcards, practice tests, certifications, roadmaps and M
 
 ## Where to find it
 
-Look for the small ✨ button. It's icon only, so it stays out of the way, and it sits next to whatever it explains:
+Look for the small ✨ button. It's icon only, so it stays out of the way, and it sits next to whatever it explains. The one exception is **Summarize** at the top of a cheat sheet, which carries its name because it does something bigger than the rest:
 
 **On cheat sheets**
+- **Summarize, at the top:** the one labelled button, in the Quick Index bar. It reads the whole topic, every table and every concept, and gives you the shape of the subject: what it is, the few ideas everything else rests on, how the areas fit together, one real worked scenario, and what usually trips people up. It's the fastest way to decide whether a topic is what you need, and a good way to come back to one you half remember. It's a bit longer than the others, because it's covering a whole subject.
 - **Beside a table heading:** the map of that whole area. What it's for, how the entries group together, how to choose between them, and one worked scenario. Use it when you open a section and don't know what you're looking at.
-- **On every row:** deep on that one concept. What it is in a line, how it works, a real example with real values, when you'd use it, and any trap.
+- **On every row, two buttons:** the ✨ one goes deep on that concept (what it is in a line, how it works, a real example with real values, when you'd use it, and any trap). The 🌐 one answers a completely different question: **where is this actually used?** Real settings, one scenario told start to finish with real numbers, what breaks when you get it wrong, and the place it turns up that you'd never guess. That last part is usually the bit people remember.
+- **On the free preview of a locked topic:** the rows you can see there get the buttons too. You don't need the subscription to have the preview explained to you, it just uses your own allowance like anywhere else.
 
 **On flashcards**
 - **While studying:** next to **End**. Stuck on the card in front of you? It unpacks what the back actually means and why it's true, without leaving your session.
@@ -45,7 +47,11 @@ Every explanation is written to the same rules:
 - **The general rule at the end.** A concrete example on its own doesn't transfer to the next problem, so each explanation steps back to the principle it demonstrates.
 - **No filler.** It starts with the answer and stops when it's finished. No "great question", no summary of what it just said.
 
-Each place has its own way of teaching, because the useful answer is different: a flashcard explanation unpacks the card, a practice question explanation goes after the wrong options, and a roadmap explanation is about the field rather than the list of topics.
+Each place has its own way of teaching, because the useful answer is different: a flashcard explanation unpacks the card, a practice question explanation goes after the wrong options, a roadmap explanation is about the field rather than the list of topics, and a topic summary draws the map of a whole subject instead of walking its tables.
+
+**Real-world use has one extra rule**, and it's the one that keeps it worth reading: it isn't allowed to make things up to sound impressive. No invented companies, no invented statistics, no "everyone does it this way" when they don't. If it can't point at something real, it describes the actual work instead of borrowing a famous name. A specific unnamed scenario beats a made-up case study every time.
+
+One thing worth knowing about the summary: our tables are ordered on purpose, foundational first and specialised last, and the rows inside each table run from what people use daily down to the rare corners. The summary reads that order and weights itself the same way, so the things you actually need get the words.
 
 ## Reopening is free
 
@@ -65,11 +71,15 @@ You can also drag any edge or corner of the panel to resize it. The size you pic
 
 | Plan | AI explanations |
 | --- | --- |
-| Free account | 100 in total |
-| Pro | 300 every month |
-| Pro+ | 500 every month |
+| Free account | 15 in total |
+| Pro | 300 a month, up to 60 in a day |
+| Pro+ | 500 a month, up to 100 in a day |
 
-The counter sits at the bottom of the panel so you always know where you stand, and it only ticks once an explanation actually starts appearing: if something goes wrong and you get nothing, you aren't charged for it. On Pro and Pro+ it refills when your subscription renews. There's also a short pause if you generate a lot in one burst, which just keeps things responsive for everyone.
+On Pro and Pro+ the monthly number **refills on the 1st of every month**, whether you pay monthly or yearly. The panel tells you the date, so you never have to guess.
+
+The daily number is a much looser ceiling that most people will never meet: 300 a month is ten a day if you spread it out evenly, so 60 leaves plenty of room for a heavy study session. If you do hit it, the rest of your month is still there and the daily allowance comes back the next day.
+
+The counter sits at the bottom of the panel so you always know where you stand, and it only ticks once an explanation actually starts appearing: if something goes wrong and you get nothing, you aren't charged for it. There's also a short pause if you generate a lot in one burst, which just keeps things responsive for everyone.
 
 ## Worth knowing
 

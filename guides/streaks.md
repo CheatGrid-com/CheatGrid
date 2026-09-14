@@ -4,7 +4,7 @@ A daily streak is the simplest way to build a study habit, and it works across t
 
 ## How it works
 
-You earn a **streak point on any day you study**, in any of three ways: clear a flashcard session, complete a practice test, or spend **20+ active minutes reading cheat sheets** that day (that reading time is counted per day, so it doesn't carry over from yesterday). Only the first counts each day, so you can't farm it, and any kind of studying keeps it going. Do a little every day and your streak climbs.
+You earn a **streak point on any day you study**, in any of four ways: clear a flashcard session, complete a practice test, finish a cookbook recipe, or spend **20+ active minutes reading cheat sheets** that day (that reading time is counted per day, so it doesn't carry over from yesterday). Only the first counts each day, so you can't farm it, and any kind of studying keeps it going. Do a little every day and your streak climbs.
 
 ## Lives ♥♥♥
 
@@ -20,6 +20,15 @@ Open **Streak 🔥** from your account menu for the full picture:
 - a **milestones** row that lights up as you reach each one
 - quick stats (longest streak, total active days, this month) and a peek at your habits
 - a **calendar and heatmap** so you can see every day you studied at a glance
+
+## A free topic, on us 🎁
+
+Keep a **7-day streak** and you can unlock **one paid topic of your choice**, free and permanently: the cheat sheet, its flashcard deck and its practice test.
+
+- Pick anything you like, including a certification.
+- It's yours to keep. It doesn't disappear if your streak later breaks.
+
+You'll see how many days are left on the Streak page, and the offer appears on any locked topic once you've earned it, so you can spend it on something you actually want.
 
 ## Tip
 

@@ -8,6 +8,8 @@ The difference is in what shapes them: a normal practice test is built from the 
 
 And it's built to help the material actually *stick*, not just be read once. The flashcards lean on concrete, worked examples that make tricky ideas click, and the explanations in practice tests bring in real-world context, so you're not just memorizing terms but understanding how they show up in practice.
 
+On the Certifications page, the green **Latest** stripe at the top of the page lists the newest certifications, newest first. When you're signed in, each one says whether you've opened its cheat sheet, practice test or flashcards yet.
+
 ## What each certification gives you
 
 - **📋 A cheat sheet:** the whole exam blueprint laid out as structured tables with Quick Index and Mind Map, so you can see every domain and concept at a glance.
@@ -17,7 +19,7 @@ And it's built to help the material actually *stick*, not just be read once. The
 
 Across all of these, concepts, questions, and cards **link out to their source**, so whenever you want to dig deeper or double-check something, you're one click away.
 
-Find them all on the **[Certifications page](https://www.cheatgrid.com/certifications)**, grouped by category, with a filter box to jump to a specific one fast.
+Find them all on the **[Certifications page](https://www.cheatgrid.com/certifications)**, grouped by category, with a filter box to jump to a specific one fast. Every card links straight to that certification's cheat sheet, its practice test and its flashcard deck.
 
 ## Ways to study each piece
 

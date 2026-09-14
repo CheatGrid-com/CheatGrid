@@ -1,6 +1,6 @@
 # Stats
 
-Your **Stats** page is the dashboard for everything you've done on CheatGrid: your progress, your time, and your XP, all in one place. Open it any time from your account menu. At the top you'll see your **level** (with a playful title), and each tab shows quick totals for that area's **XP** and **study time**.
+Your **Stats** page is the full record of everything you've done on CheatGrid: your progress, your time, and your XP, topic by topic. Open it any time from your account menu. (Want the short version instead? Your **[Dashboard](dashboard.md)** has the totals and charts.) At the top you'll see your **level** (with a playful title), and each tab shows quick totals for that area's **XP** and **study time**.
 
 ## What you'll see
 
@@ -9,8 +9,9 @@ Stats is split into tabs so each kind of study has its own view:
 - **Topics:** the cheat sheets you've spent time with, how long, and the XP you've earned from each. Each row also has a **counter** you can bump up or down to track anything you like (pages, sessions, whatever works for you), and a **note** field for your own reminders. Each category has a **Not Visited** button too, which lists the topics there you haven't opened yet, handy for spotting what to explore next.
 - **Practice Tests:** the tests you've completed, your time, your XP, and when you last played.
 - **Flashcards:** every deck you've studied, with reviews done, how much of the deck you've learned, time spent, XP, and when you last studied it.
+- **Cookbooks:** every recipe you've started, which cookbook it belongs to, how many steps you've ticked, when you finished it (if you have), and the XP it earned you, plus your cookbook badges below the table.
 
-Each tab is grouped by category and you can **search and filter** to find a specific topic fast. **Click any column header** to sort a table by it, and **drag the categories** in the side panel to arrange them however you like. Every tab also has a 🔥 chip showing how many **streak points** you've earned from that activity all-time (reading cheat sheets, practice tests, or flashcards). It keeps counting even if your current streak resets, and it links straight to your **[Streak](streaks.md)** page.
+Each tab is grouped by category and you can **search and filter** to find a specific topic fast. **Click any column header** to sort a table by it, and **drag the categories** in the side panel to arrange them however you like. Every tab also has a 🔥 chip showing how many **streak points** you've earned from that activity all-time (reading cheat sheets, practice tests, flashcards, or finishing recipes). It keeps counting even if your current streak resets, and it links straight to your **[Streak](streaks.md)** page.
 
 ## How time and XP are counted
 

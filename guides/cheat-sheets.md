@@ -21,8 +21,10 @@ Every sheet uses the same structure, so once you've read one you can read them a
 
 - **🧠 Mind Map:** every sheet has an interactive Mind Map of all its concepts. Skim it to see the whole landscape at a glance, **hover any node** to preview its description and example, then **click it to jump straight to that row** in the tables. You can zoom and pan around it.
 - **⚡ Quick Index:** a clickable outline of every sub-table and concept, for fast jumps without scrolling.
+- **📑 On This Page:** the side panel on the right lists every table in the sheet and follows you as you scroll, so you always know where you are. On a sheet you haven't unlocked it still lists all of them, with a 🔒 on the ones that are part of the full sheet, so you can see the whole shape of the topic before you subscribe.
 - **🔍 Search:** use the search box up top to jump to any topic across the whole library (see the **[Search & Assistant guide](assistant-and-search.md)**). When you open a sheet from a search result, your term is highlighted right in the tables, and you can step between matches.
 - **📚 References:** every sheet ends with a categorized reading list, and every concept links to its source, so it's easy to go deeper when you want to.
+- **🟢 Latest:** on the Cheat Sheets page, the green **Latest** stripe at the top of the page lists the newest cheat sheets, newest first. When you're signed in, each one says whether you've opened it yet. Click the stripe to fold it away.
 - **🗓️ Last updated:** each sheet shows the date it was last refreshed, so you can see the content is kept current. The home page also has a **New & Recently Updated** section, so you can spot what's fresh across all topics at a glance.
 
 ## Read it your way
@@ -30,7 +32,18 @@ Every sheet uses the same structure, so once you've read one you can read them a
 Tune the layout from the controls in the top bar:
 
 - **Text size:** make the tables bigger or smaller with the **A / A** buttons.
+- **Density:** pick how tightly the rows are packed. **Compact** squeezes the rows down so you see far more of a sheet at once, **Comfortable** is the default, and **Spacious** gives the rows more room to breathe. Pick it once and every sheet you open after that uses it.
 - **Tables side by side:** show more tables across the screen at once, or fewer, with the **Tables** buttons. Handy on a wide monitor when you want to compare more at a glance.
+
+## Take it with you (PDF)
+
+Every cheat sheet has a **PDF** button in the top bar. Press it and you get the whole sheet as a proper document: the tables laid out for the page, headers repeating when a table runs over, a contents page with page numbers, clickable links, and every source intact. Good for printing, for reading on a plane, or for keeping a copy of a topic you rely on.
+
+- **Subscribers get the clean file:** the full sheet, no watermark, ready to print.
+- **Everyone else gets a preview file:** the first table in full plus a row from each of the next few, watermarked, with a page at the end explaining what's in the rest. That includes the free cheat sheets, so a free sheet is fully readable on the site, and the take-away file needs **Pro**.
+- **Certifications and Soft Skills** export in full on **Pro+**, the same tiers that unlock them to read.
+
+There's a daily limit on downloads so the service stays fast for everyone: a handful a day on a free account, plenty on Pro and Pro+.
 
 ## Copy what you need
 
