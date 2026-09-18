@@ -83,7 +83,9 @@ The counter sits at the bottom of the panel so you always know where you stand, 
 
 ## Worth knowing
 
-The explanations are written by an AI reading our cheat sheet content, and AI can get things wrong. The source table is right there next to it, so check anything that matters. If you spot an explanation that's off, or a row that's confusing in the cheat sheet itself, tell us at **[hello@cheatgrid.com](mailto:hello@cheatgrid.com)**: bad rows get fixed.
+The explanations are written by an AI reading our cheat sheet content, and AI can get things wrong. The source table is right there next to it, so check anything that matters.
+
+**If an answer is wrong, unsafe or just off, press Report** at the bottom of the panel. Say in a line what's wrong with it and send: the answer itself and the page it came from travel with your report, so we can see exactly what you saw. The assistant has the same Report under each of its answers. You can also write to **[hello@cheatgrid.com](mailto:hello@cheatgrid.com)** about a row that's confusing in the cheat sheet itself: bad rows get fixed.
 
 ---
 

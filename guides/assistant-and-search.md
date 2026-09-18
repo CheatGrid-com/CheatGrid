@@ -29,6 +29,10 @@ A few things worth knowing:
 
 Every plan **refills on the 1st of the month**, whether you pay monthly or yearly. The daily number is a loose ceiling most people will never meet, and if you do reach it, the rest of your month is still waiting the next day. A message only counts once the answer starts coming back, so a turn that fails costs you nothing.
 
+## If an answer is wrong
+
+The assistant is an AI reading our own cheat sheets, and AI can get things wrong. Every answer carries its sources, so you can check it. If one is wrong, unsafe or just off, press **Report** under that answer, say in a line what's wrong, and send: the answer and the page travel with your report. AI Explanations have the same Report at the bottom of their panel.
+
 ## Tips
 
 - **Not sure of the term?** Ask the assistant to point you to the right topic, then use the cheat sheet's mind map to explore.

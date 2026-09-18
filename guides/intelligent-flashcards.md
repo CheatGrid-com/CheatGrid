@@ -52,6 +52,17 @@ You get a real taste before subscribing: free decks offer a generous preview, an
 - **Grade honestly.** Don't always hit "Good"; the schedule works best with your real answers.
 - **Before an exam,** switch to **Practice** to hammer a topic, or use **QA Flashcards** on its practice test.
 
+## Tell us how it's doing
+
+Every deck has quick feedback buttons under its mode tabs:
+
+- 👍 **Good quality** or 👎 **Bad quality** to rate it at a glance
+- 🔄 **Update needed** if something looks out of date
+- 💬 **Leave a note** to say what you'd change
+
+We read them all, and they decide what gets fixed and extended next.
+
+
 ---
 
 ← Back to the [guides](README.md) · Browse the **[flashcard catalog](../lists/flashcards.md)**

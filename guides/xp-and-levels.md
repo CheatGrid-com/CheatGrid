@@ -10,6 +10,8 @@ You earn XP for actually using the platform to learn:
 - **Studying flashcards:** XP for your study time, plus a one-time bonus the first time you finish a whole deck.
 - **Taking practice tests:** XP for your study time, plus a bonus each time you complete one (with a little extra for a topic's final test).
 - **Working in My Vault:** XP for the time you spend on your saved Favourites and your Custom tables.
+- **Reading Life Skills pages:** XP for your reading time, the same as a cheat sheet, plus bonuses for marking a page as read and for finishing a whole topic or life area.
+- **Roadmaps and Cookbooks:** bonuses for the steps and recipes you finish (no timer there: a recipe is done away from the screen).
 
 It all rolls into **one** XP total. There's nothing to manage.
 

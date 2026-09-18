@@ -41,6 +41,17 @@ Your study time earns **[XP](xp-and-levels.md)**, finishing a test adds a comple
 - **Enjoy learning by Q&A?** Any topic with a practice test has a **QA Flashcards** tab, so you can study its questions as spaced-repetition cards.
 - **Studying for a certification?** Its practice test is built to mirror the real exam. See the **[Certifications guide](certifications.md)**.
 
+## Tell us how it's doing
+
+Every practice-test topic has quick feedback buttons under its mode tabs:
+
+- 👍 **Good quality** or 👎 **Bad quality** to rate it at a glance
+- 🔄 **Update needed** if something looks out of date
+- 💬 **Leave a note** to say what you'd change
+
+We read them all, and they decide what gets fixed and extended next.
+
+
 ---
 
 ← Back to the [guides](README.md) · Browse the **[practice-test catalog](../lists/practice-tests.md)**

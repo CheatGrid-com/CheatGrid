@@ -8,7 +8,7 @@ Short, friendly guides to each part of the platform: what it does, the idea behi
 
 - 🗺️ **[Roadmaps](roadmaps.md):** ordered learning paths built from our cheat sheets and their flashcards, for a career, a skill, or a life goal
 - 📕 **[Cookbooks](cookbooks.md):** short, ordered recipes for real problems, each step with a worked example
-- 💡 **[Life Skills](life-skills.md):** short, sourced pages on what people get wrong about work, money, relationships and everyday decisions
+- 💡 **[Life Skills](life-skills.md):** cheat sheets for everyday life, each with a checklist of what to do
 - 📋 **[Cheat Sheets](cheat-sheets.md):** structured tables, the mind map, the quick index, and how topics link together
 - ✨ **[AI Explanations](ai-explanations.md):** tap Explain on any table or row for a beginner-friendly walkthrough with real examples
 - 🎴 **[Intelligent Flashcards](intelligent-flashcards.md):** spaced repetition, the three study modes, and QA Flashcards

@@ -37,7 +37,7 @@ Tune the layout from the controls in the top bar:
 
 ## Take it with you (PDF)
 
-Every cheat sheet has a **PDF** button in the top bar. Press it and you get the whole sheet as a proper document: the tables laid out for the page, headers repeating when a table runs over, a contents page with page numbers, clickable links, and every source intact. Good for printing, for reading on a plane, or for keeping a copy of a topic you rely on.
+Every cheat sheet has a **PDF** button in the top bar. Press it and you get the whole sheet as a proper document: the tables laid out for the page, headers repeating when a table runs over, a contents page with page numbers, clickable links (including the cheatgrid.com line in the footer, which opens the topic it came from), every section starting with its table rather than stranded at the foot of a page, and every source intact. Good for printing, for reading on a plane, or for keeping a copy of a topic you rely on.
 
 - **Subscribers get the clean file:** the full sheet, no watermark, ready to print.
 - **Everyone else gets a preview file:** the first table in full plus a row from each of the next few, watermarked, with a page at the end explaining what's in the rest. That includes the free cheat sheets, so a free sheet is fully readable on the site, and the take-away file needs **Pro**.

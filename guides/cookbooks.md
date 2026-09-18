@@ -8,7 +8,7 @@ Every recipe opens with the problem it solves and what you'll have when you're d
 
 ## Finding one
 
-On the Cookbooks page, the green **Latest** stripe at the top of the page lists the newest recipes, newest first. When you're signed in, each one says whether you haven't started it, are part way through, or have finished it.
+On the Cookbooks page, the green **Latest** stripe at the top of the page lists the newest recipes, newest first. When you're signed in, each one says where you are with it: **Not started yet**, **Opened** once you've looked at it, and **Finished** when every step is ticked.
 
 Three ways in: the **Cookbooks** tab in the main nav, a **Cookbook** button on a roadmap step, and a cookbook banner on the matching cheat sheet. However you get there, you land on the same recipe.
 
@@ -35,6 +35,17 @@ Stuck on a step, or want the reasoning spelled out? Tap **Explain** on the step,
 ## How it ties to everything else
 
 Recipes are built from our own **[cheat sheets](cheat-sheets.md)** and the real sources behind them, and a cookbook that's part of a **[roadmap](roadmaps.md)** shows up right there on the map. Your recipe progress earns **[XP](xp-and-levels.md)** and counts toward your **[streak](streaks.md)**, and your finished cookbooks and badges show up on your **[Stats](stats.md)** page.
+
+## Tell us how it's doing
+
+At the end of every recipe, under its sources, there are quick feedback buttons:
+
+- 👍 **Good quality** or 👎 **Bad quality** to rate it at a glance
+- 🔄 **Update needed** if something looks out of date
+- 💬 **Leave a note** to say what you'd change
+
+We read them all, and they decide what gets fixed and extended next.
+
 
 ---
 

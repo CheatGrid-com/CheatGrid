@@ -4,7 +4,7 @@
 
 ### Discover, learn, and remember.
 
-**A learning platform for technical and professional skills, built on deeply researched, structured cheat sheets, then extended with spaced-repetition flashcards, practice tests, and full certification prep, ordered into guided roadmaps and backed by AI explanations wherever you get stuck.**
+**A learning platform for technical, professional and everyday skills, built on deeply researched, structured cheat sheets, then extended with spaced-repetition flashcards, practice tests, full certification prep and short, sourced Life Skills pages, ordered into guided roadmaps and backed by AI explanations wherever you get stuck.**
 
 **→ [www.cheatgrid.com](https://www.cheatgrid.com)**
 
@@ -25,6 +25,8 @@ Many topics go further, to help you **keep** what you learn:
 
 And when you're preparing for a specific **certification**, the exam itself is the center: each 🎓 **[Certification](guides/certifications.md)** is built around one real exam (Azure, AWS, security, project management, and more) and comes with its own cheat sheet, practice tests, and flashcards focused on that exam's objectives.
 
+Away from the technical, 💡 **[Life Skills](guides/life-skills.md)** are cheat sheets for everyday life: work, money, relationships, family and the big changes. The cheat sheet has what you didn't know, with a source on every line. The checklist has what you'd forget: the steps in order, often with the exact words to say.
+
 Stuck on something? **[AI Explanations](guides/ai-explanations.md)** unpack it in plain language with concrete examples, wherever you are: a cheat-sheet row, a flashcard mid-session, a practice question you got wrong, or a whole roadmap. So our content can teach you something new instead of only reminding you.
 
 The pieces are **linked**, so you can move from exploring to studying to testing, and watch your progress add up as you go. Not sure where to start, or want a whole subject laid out for you? **[Roadmaps](guides/roadmaps.md)** put our cheat sheets and their flashcards in order for a career, a skill, or a life goal, so the "what do I read next" question is already answered.
@@ -42,6 +44,7 @@ The pieces are **linked**, so you can move from exploring to studying to testing
 | 🎴 | **[Intelligent Flashcards](guides/intelligent-flashcards.md)** | Spaced-repetition decks written for *learning*: beginner-friendly explanations paired with concrete, real-world examples (a specific case rather than an abstract one). The schedule shows each card right before you'd forget it. |
 | 📝 | **[Practice Tests](guides/practice-tests.md)** | Multiple-choice questions with real-world "why it matters" explanations. Study, take a timed exam, or browse the answers. Your call. |
 | 🎓 | **[Certifications](guides/certifications.md)** | Exam-focused prep for in-demand certifications: each with a cheat sheet, a practice test, and flashcards. |
+| 💡 | **[Life Skills](guides/life-skills.md)** | Cheat sheets for everyday life: what's actually true about work, money, relationships and family, with a source on every line, and a checklist of what to do about it. |
 | 📥 | **[My Vault](guides/my-vault.md)** | Save the rows you care about, and build your own custom cheat sheets, complete with an auto-generated mind map and quick index. |
 | 🔍 | **[Search & Assistant](guides/assistant-and-search.md)** | Instant fuzzy search across every sheet, plus an assistant that understands what you mean and points you to the right place, with sources. |
 | 📊 | **[Progress](guides/stats.md)** | Earn **[XP](guides/xp-and-levels.md)** and level up as you study, keep a daily **[streak](guides/streaks.md)** going, and see it all on your **[Stats](guides/stats.md)** page. |
@@ -76,8 +79,10 @@ Your **[Dashboard](guides/dashboard.md)** is the view back across all of it: the
 Full, always-up-to-date catalogs (every item links to its page on the site):
 
 - 🗺️ **[All Roadmaps](lists/roadmaps.md):** every learning path, grouped by domain
+- 💡 **[Life Skills](https://www.cheatgrid.com/life-skills):** every page, grouped by life area and topic
 - 📕 **[All Cookbooks](lists/cookbooks.md):** every recipe, grouped by roadmap and step
 - 📋 **[All Cheat Sheets](lists/cheat-sheets.md):** the complete library
+- 📄 **[Free Printable PDFs](lists/free-pdfs.md):** every free cheat sheet and Life Skills page as a ready-to-print PDF, right here in the repo
 - 📝 **[Practice Tests](lists/practice-tests.md)**
 - 🎴 **[Flashcards](lists/flashcards.md)**
 - 🎓 **[Certifications](lists/certifications.md)**
@@ -113,8 +118,9 @@ See current plans at **[cheatgrid.com/subscription](https://www.cheatgrid.com/su
 
 Newest first:
 
+- 💡 Life Skills: cheat sheets for everyday life, each with a checklist of what to do
 - 📕 Cookbooks: short, ordered recipes for real problems, each step with a worked example
-- 📄 PDF export: any cheat sheet as a printable, designed document
+- 📄 PDF export: any cheat sheet or Life Skills page as a printable, designed document
 - ✨ AI Explanations everywhere (cheat sheets, flashcards, practice tests, certifications, roadmaps, My Vault)
 - 🗺️ Roadmaps (ordered learning paths across cheat sheets & flashcards, by career, skill, or life goal)
 - 🎴 Intelligent Flashcards (spaced repetition)

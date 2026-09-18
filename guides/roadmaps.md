@@ -43,6 +43,17 @@ A roadmap is always free to view and free to track, signed in or not. What chang
 
 Progress you build earns **[XP](xp-and-levels.md)** the same way everything else does, and every touch point counts toward your **[Stats](stats.md)**.
 
+## Tell us how it's doing
+
+At the bottom of every roadmap, under its sources, there are quick feedback buttons:
+
+- 👍 **Good quality** or 👎 **Bad quality** to rate it at a glance
+- 🔄 **Update needed** if something looks out of date
+- 💬 **Leave a note** to say what you'd change
+
+We read them all, and they decide what gets fixed and extended next.
+
+
 ---
 
 ← Back to the [guides](README.md) · Browse the **[roadmap catalog](../lists/roadmaps.md)**

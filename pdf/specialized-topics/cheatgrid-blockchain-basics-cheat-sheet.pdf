@@ -1,0 +1,3489 @@
+%PDF-1.4
+%“Œ‹ ReportLab Generated PDF document (opensource)
+1 0 obj
+<<
+/F1 2 0 R /F2+0 376 0 R /F3+0 380 0 R /F4+0 384 0 R
+>>
+endobj
+2 0 obj
+<<
+/BaseFont /Helvetica /Encoding /WinAnsiEncoding /Name /F1 /Subtype /Type1 /Type /Font
+>>
+endobj
+3 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.cheatgrid.com/mathematics-and-algorithms/0368-blockchain-basics-cheat-sheet)
+>> /Border [ 0 0 0 ] /Rect [ 34 15 77.6752 26 ] /Subtype /Link /Type /Annot
+>>
+endobj
+4 0 obj
+<<
+/ColorSpace /DeviceRGB /Coords [ 0 82.81 527.2756 0 ] /Extend [true true] /Function 401 0 R /ShadingType 2
+>>
+endobj
+5 0 obj
+<<
+/Border [ 0 0 0 ] /Contents () /Dest [ 362 0 R /Fit ] /Rect [ 557.2499 595.3798 561.2756 606.8798 ] /Subtype /Link /Type /Annot
+>>
+endobj
+6 0 obj
+<<
+/Border [ 0 0 0 ] /Contents () /Dest [ 362 0 R /Fit ] /Rect [ 34 593.7598 95.0902 603.4798 ] /Subtype /Link /Type /Annot
+>>
+endobj
+7 0 obj
+<<
+/Border [ 0 0 0 ] /Contents () /Dest [ 362 0 R /Fit ] /Rect [ 557.2499 577.8798 561.2756 589.3798 ] /Subtype /Link /Type /Annot
+>>
+endobj
+8 0 obj
+<<
+/Border [ 0 0 0 ] /Contents () /Dest [ 362 0 R /Fit ] /Rect [ 34 576.2598 114.1171 585.9798 ] /Subtype /Link /Type /Annot
+>>
+endobj
+9 0 obj
+<<
+/Border [ 0 0 0 ] /Contents () /Dest [ 362 0 R /Fit ] /Rect [ 557.2499 560.3798 561.2756 571.8798 ] /Subtype /Link /Type /Annot
+>>
+endobj
+10 0 obj
+<<
+/Border [ 0 0 0 ] /Contents () /Dest [ 362 0 R /Fit ] /Rect [ 34 558.7598 130.9813 568.4798 ] /Subtype /Link /Type /Annot
+>>
+endobj
+11 0 obj
+<<
+/Border [ 0 0 0 ] /Contents () /Dest [ 362 0 R /Fit ] /Rect [ 557.2499 542.8798 561.2756 554.3798 ] /Subtype /Link /Type /Annot
+>>
+endobj
+12 0 obj
+<<
+/Border [ 0 0 0 ] /Contents () /Dest [ 362 0 R /Fit ] /Rect [ 34 541.2598 106.3816 550.9798 ] /Subtype /Link /Type /Annot
+>>
+endobj
+13 0 obj
+<<
+/Border [ 0 0 0 ] /Contents () /Dest [ 362 0 R /Fit ] /Rect [ 557.2499 525.3798 561.2756 536.8798 ] /Subtype /Link /Type /Annot
+>>
+endobj
+14 0 obj
+<<
+/Border [ 0 0 0 ] /Contents () /Dest [ 362 0 R /Fit ] /Rect [ 34 523.7598 100.258 533.4798 ] /Subtype /Link /Type /Annot
+>>
+endobj
+15 0 obj
+<<
+/Border [ 0 0 0 ] /Contents () /Dest [ 362 0 R /Fit ] /Rect [ 557.2499 507.8798 561.2756 519.3798 ] /Subtype /Link /Type /Annot
+>>
+endobj
+16 0 obj
+<<
+/Border [ 0 0 0 ] /Contents () /Dest [ 362 0 R /Fit ] /Rect [ 34 506.2598 86.488 515.9798 ] /Subtype /Link /Type /Annot
+>>
+endobj
+17 0 obj
+<<
+/Border [ 0 0 0 ] /Contents () /Dest [ 362 0 R /Fit ] /Rect [ 557.2499 490.3798 561.2756 501.8798 ] /Subtype /Link /Type /Annot
+>>
+endobj
+18 0 obj
+<<
+/Border [ 0 0 0 ] /Contents () /Dest [ 362 0 R /Fit ] /Rect [ 34 488.7598 121.8526 498.4798 ] /Subtype /Link /Type /Annot
+>>
+endobj
+19 0 obj
+<<
+/Border [ 0 0 0 ] /Contents () /Dest [ 362 0 R /Fit ] /Rect [ 557.2499 472.8798 561.2756 484.3798 ] /Subtype /Link /Type /Annot
+>>
+endobj
+20 0 obj
+<<
+/Border [ 0 0 0 ] /Contents () /Dest [ 362 0 R /Fit ] /Rect [ 34 471.2598 133.5733 480.9798 ] /Subtype /Link /Type /Annot
+>>
+endobj
+21 0 obj
+<<
+/Border [ 0 0 0 ] /Contents () /Dest [ 362 0 R /Fit ] /Rect [ 557.2499 455.3798 561.2756 466.8798 ] /Subtype /Link /Type /Annot
+>>
+endobj
+22 0 obj
+<<
+/Border [ 0 0 0 ] /Contents () /Dest [ 362 0 R /Fit ] /Rect [ 34 453.7598 129.823 463.4798 ] /Subtype /Link /Type /Annot
+>>
+endobj
+23 0 obj
+<<
+/Border [ 0 0 0 ] /Contents () /Dest [ 362 0 R /Fit ] /Rect [ 557.2499 437.8798 561.2756 449.3798 ] /Subtype /Link /Type /Annot
+>>
+endobj
+24 0 obj
+<<
+/Border [ 0 0 0 ] /Contents () /Dest [ 362 0 R /Fit ] /Rect [ 34 436.2598 92.4253 445.9798 ] /Subtype /Link /Type /Annot
+>>
+endobj
+25 0 obj
+<<
+/Border [ 0 0 0 ] /Contents () /Dest [ 362 0 R /Fit ] /Rect [ 557.2499 420.3798 561.2756 431.8798 ] /Subtype /Link /Type /Annot
+>>
+endobj
+26 0 obj
+<<
+/Border [ 0 0 0 ] /Contents () /Dest [ 362 0 R /Fit ] /Rect [ 34 418.7598 84.6331 428.4798 ] /Subtype /Link /Type /Annot
+>>
+endobj
+27 0 obj
+<<
+/Border [ 0 0 0 ] /Contents () /Dest [ 362 0 R /Fit ] /Rect [ 557.2499 402.8798 561.2756 414.3798 ] /Subtype /Link /Type /Annot
+>>
+endobj
+28 0 obj
+<<
+/Border [ 0 0 0 ] /Contents () /Dest [ 362 0 R /Fit ] /Rect [ 34 401.2598 134.8855 410.9798 ] /Subtype /Link /Type /Annot
+>>
+endobj
+29 0 obj
+<<
+/Border [ 0 0 0 ] /Contents () /Dest [ 362 0 R /Fit ] /Rect [ 557.2499 385.3798 561.2756 396.8798 ] /Subtype /Link /Type /Annot
+>>
+endobj
+30 0 obj
+<<
+/Border [ 0 0 0 ] /Contents () /Dest [ 362 0 R /Fit ] /Rect [ 34 383.7598 71.3734 393.4798 ] /Subtype /Link /Type /Annot
+>>
+endobj
+31 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://developer.bitcoin.org/reference/block_chain.html)
+>> /Border [ 0 0 0 ] /Rect [ 39 263.4923 60.4107 274.6923 ] /Subtype /Link /Type /Annot
+>>
+endobj
+32 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://cheesecakelabs.com/blog/blockchain-transactions-utxo-vs-account-based-models/)
+>> /Border [ 0 0 0 ] /Rect [ 39 221.2923 84.9012 232.4923 ] /Subtype /Link /Type /Annot
+>>
+endobj
+33 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://komodoplatform.com/en/academy/sha-256-algorithm/)
+>> /Border [ 0 0 0 ] /Rect [ 39 190.2923 58.2705 201.4923 ] /Subtype /Link /Type /Annot
+>>
+endobj
+34 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.ibm.com/think/topics/blockchain)
+>> /Border [ 0 0 0 ] /Rect [ 39 148.0923 82.7262 159.2923 ] /Subtype /Link /Type /Annot
+>>
+endobj
+35 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.ibm.com/think/topics/blockchain)
+>> /Border [ 0 0 0 ] /Rect [ 39 136.8923 65.6133 148.0923 ] /Subtype /Link /Type /Annot
+>>
+endobj
+36 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://spaceandtime.io/blog/understanding-merkle-trees)
+>> /Border [ 0 0 0 ] /Rect [ 39 105.8923 84.414 117.0923 ] /Subtype /Link /Type /Annot
+>>
+endobj
+37 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://lightspark.com/glossary/nonce)
+>> /Border [ 0 0 0 ] /Rect [ 39 63.69226 63.1599 74.89226 ] /Subtype /Link /Type /Annot
+>>
+endobj
+38 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.cheatgrid.com/mathematics-and-algorithms/0368-blockchain-basics-cheat-sheet)
+>> /Border [ 0 0 0 ] /Rect [ 34 15 77.6752 26 ] /Subtype /Link /Type /Annot
+>>
+endobj
+39 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://lightspark.com/glossary/blockchain-genesis-block)
+>> /Border [ 0 0 0 ] /Rect [ 39 752.1023 91.8003 763.3023 ] /Subtype /Link /Type /Annot
+>>
+endobj
+40 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.kraken.com/learn/proof-of-work-vs-proof-of-stake)
+>> /Border [ 0 0 0 ] /Rect [ 39 605.2023 116.4909 616.4023 ] /Subtype /Link /Type /Annot
+>>
+endobj
+41 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://ethereum.org/developers/docs/consensus-mechanisms/pos/)
+>> /Border [ 0 0 0 ] /Rect [ 39 551.8023 116.1516 563.0023 ] /Subtype /Link /Type /Annot
+>>
+endobj
+42 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://chain.link/article/delegated-proof-of-stake)
+>> /Border [ 0 0 0 ] /Rect [ 39 498.4023 110.6271 509.6023 ] /Subtype /Link /Type /Annot
+>>
+endobj
+43 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://chain.link/article/delegated-proof-of-stake)
+>> /Border [ 0 0 0 ] /Rect [ 39 487.2023 89.1294 498.4023 ] /Subtype /Link /Type /Annot
+>>
+endobj
+44 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.gemini.com/cryptopedia/blockchain-consensus-mechanism-types-of-algorithm)
+>> /Border [ 0 0 0 ] /Rect [ 39 467.4023 108.3303 478.6023 ] /Subtype /Link /Type /Annot
+>>
+endobj
+45 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.gemini.com/cryptopedia/blockchain-consensus-mechanism-types-of-algorithm)
+>> /Border [ 0 0 0 ] /Rect [ 39 456.2023 59.9844 467.4023 ] /Subtype /Link /Type /Annot
+>>
+endobj
+46 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.helius.dev/blog/proof-of-history-proof-of-stake-proof-of-work-explained)
+>> /Border [ 0 0 0 ] /Rect [ 39 436.4023 99.8217 447.6023 ] /Subtype /Link /Type /Annot
+>>
+endobj
+47 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.helius.dev/blog/proof-of-history-proof-of-stake-proof-of-work-explained)
+>> /Border [ 0 0 0 ] /Rect [ 39 425.2023 60.8631 436.4023 ] /Subtype /Link /Type /Annot
+>>
+endobj
+48 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://chain.link/article/byzantine-fault-tolerant-consensus)
+>> /Border [ 0 0 0 ] /Rect [ 39 383.0023 99.2214 394.2023 ] /Subtype /Link /Type /Annot
+>>
+endobj
+49 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://chain.link/article/byzantine-fault-tolerant-consensus)
+>> /Border [ 0 0 0 ] /Rect [ 39 371.8023 99.639 383.0023 ] /Subtype /Link /Type /Annot
+>>
+endobj
+50 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://bitbo.io/news/difficulty-dips-first-2026/)
+>> /Border [ 0 0 0 ] /Rect [ 39 352.0023 102.3882 363.2023 ] /Subtype /Link /Type /Annot
+>>
+endobj
+51 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://changenow.io/blog/how-crypto-transactions-are-confirmed)
+>> /Border [ 0 0 0 ] /Rect [ 39 321.0023 113.4285 332.2023 ] /Subtype /Link /Type /Annot
+>>
+endobj
+52 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://phemex.com/academy/what-are-blockchain-nodes)
+>> /Border [ 0 0 0 ] /Rect [ 39 278.8023 74.5047 290.0023 ] /Subtype /Link /Type /Annot
+>>
+endobj
+53 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://chain.link/article/byzantine-fault-tolerant-consensus)
+>> /Border [ 0 0 0 ] /Rect [ 39 236.6023 68.2755 247.8023 ] /Subtype /Link /Type /Annot
+>>
+endobj
+54 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://hacken.io/discover/51-percent-attack/)
+>> /Border [ 0 0 0 ] /Rect [ 39 194.4023 82.4478 205.6023 ] /Subtype /Link /Type /Annot
+>>
+endobj
+55 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.cheatgrid.com/mathematics-and-algorithms/0368-blockchain-basics-cheat-sheet)
+>> /Border [ 0 0 0 ] /Rect [ 34 15 77.6752 26 ] /Subtype /Link /Type /Annot
+>>
+endobj
+56 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.gemini.com/cryptopedia/public-private-keys-cryptography)
+>> /Border [ 0 0 0 ] /Rect [ 39 676.4023 83.1438 687.6023 ] /Subtype /Link /Type /Annot
+>>
+endobj
+57 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.gemini.com/cryptopedia/public-private-keys-cryptography)
+>> /Border [ 0 0 0 ] /Rect [ 39 645.4023 79.1853 656.6023 ] /Subtype /Link /Type /Annot
+>>
+endobj
+58 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://blog.sei.io/research/optimizing-ecdsa-signature-verification-exploring-zero-knowledge-proofs-in-the-sei-giga-blockchain/)
+>> /Border [ 0 0 0 ] /Rect [ 39 603.2023 103.8063 614.4023 ] /Subtype /Link /Type /Annot
+>>
+endobj
+59 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://tangem.com/en/blog/post/what-are-the-address-types-and-how-do-they-differ/)
+>> /Border [ 0 0 0 ] /Rect [ 39 561.0023 69.6327 572.2023 ] /Subtype /Link /Type /Annot
+>>
+endobj
+60 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://komodoplatform.com/en/academy/sha-256-algorithm/)
+>> /Border [ 0 0 0 ] /Rect [ 39 518.8023 71.3553 530.0023 ] /Subtype /Link /Type /Annot
+>>
+endobj
+61 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://blog.sei.io/research/optimizing-ecdsa-signature-verification-exploring-zero-knowledge-proofs-in-the-sei-giga-blockchain/)
+>> /Border [ 0 0 0 ] /Rect [ 39 476.6023 64.1778 487.8023 ] /Subtype /Link /Type /Annot
+>>
+endobj
+62 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://ethereum.org/zero-knowledge-proofs/)
+>> /Border [ 0 0 0 ] /Rect [ 39 434.4023 102.423 445.6023 ] /Subtype /Link /Type /Annot
+>>
+endobj
+63 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://ethereum.org/zero-knowledge-proofs/)
+>> /Border [ 0 0 0 ] /Rect [ 39 423.2023 83.2308 434.4023 ] /Subtype /Link /Type /Annot
+>>
+endobj
+64 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://chain.link/education-hub/zk-snarks-vs-zk-starks)
+>> /Border [ 0 0 0 ] /Rect [ 39 381.0023 76.9407 392.2023 ] /Subtype /Link /Type /Annot
+>>
+endobj
+65 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://chain.link/education-hub/zk-snarks-vs-zk-starks)
+>> /Border [ 0 0 0 ] /Rect [ 39 338.8023 75.9924 350.0023 ] /Subtype /Link /Type /Annot
+>>
+endobj
+66 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.coursera.org/articles/peer-to-peer)
+>> /Border [ 0 0 0 ] /Rect [ 39 191.9023 88.2594 203.1023 ] /Subtype /Link /Type /Annot
+>>
+endobj
+67 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.coursera.org/articles/peer-to-peer)
+>> /Border [ 0 0 0 ] /Rect [ 39 180.7023 59.9496 191.9023 ] /Subtype /Link /Type /Annot
+>>
+endobj
+68 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://phemex.com/academy/what-are-blockchain-nodes)
+>> /Border [ 0 0 0 ] /Rect [ 39 138.5023 75.3225 149.7023 ] /Subtype /Link /Type /Annot
+>>
+endobj
+69 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.cyfrin.io/blog/what-is-a-blockchain-mempool-and-how-does-it-work)
+>> /Border [ 0 0 0 ] /Rect [ 39 96.30226 74.7222 107.5023 ] /Subtype /Link /Type /Annot
+>>
+endobj
+70 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.cheatgrid.com/mathematics-and-algorithms/0368-blockchain-basics-cheat-sheet)
+>> /Border [ 0 0 0 ] /Rect [ 34 15 77.6752 26 ] /Subtype /Link /Type /Annot
+>>
+endobj
+71 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://phemex.com/academy/what-are-blockchain-nodes)
+>> /Border [ 0 0 0 ] /Rect [ 39 752.1023 80.6991 763.3023 ] /Subtype /Link /Type /Annot
+>>
+endobj
+72 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://phemex.com/academy/what-are-blockchain-nodes)
+>> /Border [ 0 0 0 ] /Rect [ 39 740.9023 59.8452 752.1023 ] /Subtype /Link /Type /Annot
+>>
+endobj
+73 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://phemex.com/academy/what-are-blockchain-nodes)
+>> /Border [ 0 0 0 ] /Rect [ 39 709.9023 82.8219 721.1023 ] /Subtype /Link /Type /Annot
+>>
+endobj
+74 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://lightspark.com/glossary/block-propagation)
+>> /Border [ 0 0 0 ] /Rect [ 39 678.9023 60.4107 690.1023 ] /Subtype /Link /Type /Annot
+>>
+endobj
+75 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://lightspark.com/glossary/block-propagation)
+>> /Border [ 0 0 0 ] /Rect [ 39 667.7023 86.8152 678.9023 ] /Subtype /Link /Type /Annot
+>>
+endobj
+76 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.alchemy.com/overviews/permissionless-vs-permissioned-blockchains)
+>> /Border [ 0 0 0 ] /Rect [ 39 636.7023 96.6288 647.9023 ] /Subtype /Link /Type /Annot
+>>
+endobj
+77 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.alchemy.com/overviews/permissionless-vs-permissioned-blockchains)
+>> /Border [ 0 0 0 ] /Rect [ 39 594.5023 91.4175 605.7023 ] /Subtype /Link /Type /Annot
+>>
+endobj
+78 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://lightspark.com/glossary/utxo)
+>> /Border [ 0 0 0 ] /Rect [ 39 447.6023 97.6554 458.8023 ] /Subtype /Link /Type /Annot
+>>
+endobj
+79 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://lightspark.com/glossary/utxo)
+>> /Border [ 0 0 0 ] /Rect [ 39 436.4023 117.1173 447.6023 ] /Subtype /Link /Type /Annot
+>>
+endobj
+80 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://cheesecakelabs.com/blog/blockchain-transactions-utxo-vs-account-based-models/)
+>> /Border [ 0 0 0 ] /Rect [ 39 405.4023 96.2721 416.6023 ] /Subtype /Link /Type /Annot
+>>
+endobj
+81 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.bitget.com/academy/what-factors-affect-ethereum-gas-fees-in-2026-australia-and-how-to-estimate-transfer-costs-easily)
+>> /Border [ 0 0 0 ] /Rect [ 39 363.2023 68.3016 374.4023 ] /Subtype /Link /Type /Annot
+>>
+endobj
+82 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.cyfrin.io/blog/what-is-a-blockchain-mempool-and-how-does-it-work)
+>> /Border [ 0 0 0 ] /Rect [ 39 309.8023 103.9716 321.0023 ] /Subtype /Link /Type /Annot
+>>
+endobj
+83 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.morpher.com/blog/double-spending)
+>> /Border [ 0 0 0 ] /Rect [ 39 267.6023 105.4767 278.8023 ] /Subtype /Link /Type /Annot
+>>
+endobj
+84 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://techielearn.in/learn/blockchain/blockchain-architecture/block-header-and-metadata)
+>> /Border [ 0 0 0 ] /Rect [ 39 131.9023 90.0603 143.1023 ] /Subtype /Link /Type /Annot
+>>
+endobj
+85 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://techielearn.in/learn/blockchain/blockchain-architecture/block-header-and-metadata)
+>> /Border [ 0 0 0 ] /Rect [ 39 89.70226 95.8806 100.9023 ] /Subtype /Link /Type /Annot
+>>
+endobj
+86 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://techielearn.in/learn/blockchain/blockchain-architecture/block-header-and-metadata)
+>> /Border [ 0 0 0 ] /Rect [ 39 78.50226 58.2705 89.70226 ] /Subtype /Link /Type /Annot
+>>
+endobj
+87 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.cheatgrid.com/mathematics-and-algorithms/0368-blockchain-basics-cheat-sheet)
+>> /Border [ 0 0 0 ] /Rect [ 34 15 77.6752 26 ] /Subtype /Link /Type /Annot
+>>
+endobj
+88 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.bleap.finance/en-us/blog/how-many-bitcoins-are-left-to-mine)
+>> /Border [ 0 0 0 ] /Rect [ 39 752.1023 91.7742 763.3023 ] /Subtype /Link /Type /Annot
+>>
+endobj
+89 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://techielearn.in/learn/blockchain/blockchain-architecture/block-header-and-metadata)
+>> /Border [ 0 0 0 ] /Rect [ 39 709.9023 101.727 721.1023 ] /Subtype /Link /Type /Annot
+>>
+endobj
+90 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://techielearn.in/learn/blockchain/blockchain-architecture/block-header-and-metadata)
+>> /Border [ 0 0 0 ] /Rect [ 39 667.7023 82.413 678.9023 ] /Subtype /Link /Type /Annot
+>>
+endobj
+91 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://techielearn.in/learn/blockchain/blockchain-architecture/block-header-and-metadata)
+>> /Border [ 0 0 0 ] /Rect [ 39 625.5023 81.7605 636.7023 ] /Subtype /Link /Type /Annot
+>>
+endobj
+92 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://techielearn.in/learn/blockchain/blockchain-architecture/block-header-and-metadata)
+>> /Border [ 0 0 0 ] /Rect [ 39 583.3023 77.8977 594.5023 ] /Subtype /Link /Type /Annot
+>>
+endobj
+93 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://tracextech.com/resources/glossary/immutability-in-blockchain/)
+>> /Border [ 0 0 0 ] /Rect [ 39 436.4023 89.5296 447.6023 ] /Subtype /Link /Type /Annot
+>>
+endobj
+94 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.morpher.com/blog/trustless-in-blockchain)
+>> /Border [ 0 0 0 ] /Rect [ 39 405.4023 74.1306 416.6023 ] /Subtype /Link /Type /Annot
+>>
+endobj
+95 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.starknet.io/glossary/what-is-decentralization-in-blockchain/)
+>> /Border [ 0 0 0 ] /Rect [ 39 363.2023 102.9711 374.4023 ] /Subtype /Link /Type /Annot
+>>
+endobj
+96 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://ethereum.org/developers/docs/mev/)
+>> /Border [ 0 0 0 ] /Rect [ 39 321.0023 92.5833 332.2023 ] /Subtype /Link /Type /Annot
+>>
+endobj
+97 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://ethereum.org/developers/docs/mev/)
+>> /Border [ 0 0 0 ] /Rect [ 39 309.8023 109.6701 321.0023 ] /Subtype /Link /Type /Annot
+>>
+endobj
+98 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://phemex.com/academy/cryptocurrency-glossary/staking-crypto)
+>> /Border [ 0 0 0 ] /Rect [ 39 278.8023 71.7555 290.0023 ] /Subtype /Link /Type /Annot
+>>
+endobj
+99 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://stellar.org/learn/blockchain-privacy)
+>> /Border [ 0 0 0 ] /Rect [ 39 236.6023 91.8264 247.8023 ] /Subtype /Link /Type /Annot
+>>
+endobj
+100 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://tracextech.com/resources/glossary/immutability-in-blockchain/)
+>> /Border [ 0 0 0 ] /Rect [ 39 194.4023 92.9922 205.6023 ] /Subtype /Link /Type /Annot
+>>
+endobj
+101 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.cheatgrid.com/mathematics-and-algorithms/0368-blockchain-basics-cheat-sheet)
+>> /Border [ 0 0 0 ] /Rect [ 34 15 77.6752 26 ] /Subtype /Link /Type /Annot
+>>
+endobj
+102 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.bleap.finance/en-us/blog/types-of-crypto-wallets)
+>> /Border [ 0 0 0 ] /Rect [ 39 676.4023 93.9579 687.6023 ] /Subtype /Link /Type /Annot
+>>
+endobj
+103 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.bleap.finance/en-us/blog/types-of-crypto-wallets)
+>> /Border [ 0 0 0 ] /Rect [ 39 665.2023 63.4731 676.4023 ] /Subtype /Link /Type /Annot
+>>
+endobj
+104 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.bleap.finance/en-us/blog/types-of-crypto-wallets)
+>> /Border [ 0 0 0 ] /Rect [ 39 634.2023 101.6922 645.4023 ] /Subtype /Link /Type /Annot
+>>
+endobj
+105 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://tangem.com/en/blog/post/crypto-cold-wallets-comparison/)
+>> /Border [ 0 0 0 ] /Rect [ 39 592.0023 82.5783 603.2023 ] /Subtype /Link /Type /Annot
+>>
+endobj
+106 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.coingecko.com/learn/top-hot-software-wallets-crypto)
+>> /Border [ 0 0 0 ] /Rect [ 39 538.6023 79.2375 549.8023 ] /Subtype /Link /Type /Annot
+>>
+endobj
+107 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://tangem.com/en/blog/post/crypto-cold-wallets-comparison/)
+>> /Border [ 0 0 0 ] /Rect [ 39 485.2023 86.1366 496.4023 ] /Subtype /Link /Type /Annot
+>>
+endobj
+108 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://learnmeabitcoin.com/technical/wallets/hd-wallet/)
+>> /Border [ 0 0 0 ] /Rect [ 39 443.0023 76.6014 454.2023 ] /Subtype /Link /Type /Annot
+>>
+endobj
+109 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://learnmeabitcoin.com/technical/wallets/hd-wallet/)
+>> /Border [ 0 0 0 ] /Rect [ 39 431.8023 98.2209 443.0023 ] /Subtype /Link /Type /Annot
+>>
+endobj
+110 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://en.bitcoin.it/wiki/Multisignature)
+>> /Border [ 0 0 0 ] /Rect [ 39 400.8023 95.9067 412.0023 ] /Subtype /Link /Type /Annot
+>>
+endobj
+111 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://hacken.io/discover/what-are-smart-contracts/)
+>> /Border [ 0 0 0 ] /Rect [ 39 241.5023 98.0556 252.7023 ] /Subtype /Link /Type /Annot
+>>
+endobj
+112 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://ethereum.org/developers/docs/standards/tokens/erc-20/)
+>> /Border [ 0 0 0 ] /Rect [ 39 188.1023 66.2397 199.3023 ] /Subtype /Link /Type /Annot
+>>
+endobj
+113 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://ethereum.org/developers/docs/standards/tokens/erc-721/)
+>> /Border [ 0 0 0 ] /Rect [ 39 145.9023 70.8333 157.1023 ] /Subtype /Link /Type /Annot
+>>
+endobj
+114 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://ethereum.org/developers/docs/standards/tokens/erc-1155/)
+>> /Border [ 0 0 0 ] /Rect [ 39 103.7023 75.4269 114.9023 ] /Subtype /Link /Type /Annot
+>>
+endobj
+115 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.cheatgrid.com/mathematics-and-algorithms/0368-blockchain-basics-cheat-sheet)
+>> /Border [ 0 0 0 ] /Rect [ 34 15 77.6752 26 ] /Subtype /Link /Type /Annot
+>>
+endobj
+116 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://chain.link/education-hub/oracle-problem)
+>> /Border [ 0 0 0 ] /Rect [ 39 752.1023 64.056 763.3023 ] /Subtype /Link /Type /Annot
+>>
+endobj
+117 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://ethereum.org/dao/)
+>> /Border [ 0 0 0 ] /Rect [ 39 709.9023 113.5329 721.1023 ] /Subtype /Link /Type /Annot
+>>
+endobj
+118 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://ethereum.org/dao/)
+>> /Border [ 0 0 0 ] /Rect [ 39 698.7023 87.9723 709.9023 ] /Subtype /Link /Type /Annot
+>>
+endobj
+119 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://ethereum.org/dao/)
+>> /Border [ 0 0 0 ] /Rect [ 39 687.5023 92.1396 698.7023 ] /Subtype /Link /Type /Annot
+>>
+endobj
+120 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://ethereum.org/developers/docs/standards/tokens/erc-721/)
+>> /Border [ 0 0 0 ] /Rect [ 39 656.5023 110.8968 667.7023 ] /Subtype /Link /Type /Annot
+>>
+endobj
+121 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://ethereum.org/developers/docs/standards/tokens/erc-721/)
+>> /Border [ 0 0 0 ] /Rect [ 39 645.3023 65.9091 656.5023 ] /Subtype /Link /Type /Annot
+>>
+endobj
+122 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://tangem.com/en/blog/post/what-are-hard-forks-and-soft-forks/)
+>> /Border [ 0 0 0 ] /Rect [ 39 614.3023 83.2395 625.5023 ] /Subtype /Link /Type /Annot
+>>
+endobj
+123 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://tangem.com/en/blog/post/what-are-hard-forks-and-soft-forks/)
+>> /Border [ 0 0 0 ] /Rect [ 39 560.9023 80.3076 572.1023 ] /Subtype /Link /Type /Annot
+>>
+endobj
+124 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.bleap.finance/en-us/blog/how-many-bitcoins-are-left-to-mine)
+>> /Border [ 0 0 0 ] /Rect [ 39 507.5023 68.5104 518.7023 ] /Subtype /Link /Type /Annot
+>>
+endobj
+125 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://hacken.io/discover/l1-l2-scalability/)
+>> /Border [ 0 0 0 ] /Rect [ 39 349.4023 66.927 360.6023 ] /Subtype /Link /Type /Annot
+>>
+endobj
+126 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://hacken.io/discover/l1-l2-scalability/)
+>> /Border [ 0 0 0 ] /Rect [ 39 296.0023 66.927 307.2023 ] /Subtype /Link /Type /Annot
+>>
+endobj
+127 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://hacken.io/discover/zk-rollups-explained/)
+>> /Border [ 0 0 0 ] /Rect [ 39 253.8023 75.8532 265.0023 ] /Subtype /Link /Type /Annot
+>>
+endobj
+128 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://ethereum.org/developers/docs/scaling/optimistic-rollups/)
+>> /Border [ 0 0 0 ] /Rect [ 39 211.6023 79.1766 222.8023 ] /Subtype /Link /Type /Annot
+>>
+endobj
+129 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://ethereum.org/developers/docs/scaling/optimistic-rollups/)
+>> /Border [ 0 0 0 ] /Rect [ 39 200.4023 64.0647 211.6023 ] /Subtype /Link /Type /Annot
+>>
+endobj
+130 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://ethereum.org/upgrades/sharding/)
+>> /Border [ 0 0 0 ] /Rect [ 39 169.4023 73.8609 180.6023 ] /Subtype /Link /Type /Annot
+>>
+endobj
+131 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://ethereum.org/developers/docs/scaling/state-channels/)
+>> /Border [ 0 0 0 ] /Rect [ 39 127.2023 92.8965 138.4023 ] /Subtype /Link /Type /Annot
+>>
+endobj
+132 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://ethereum.org/developers/docs/scaling/plasma/)
+>> /Border [ 0 0 0 ] /Rect [ 39 85.00226 67.1532 96.20226 ] /Subtype /Link /Type /Annot
+>>
+endobj
+133 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.cheatgrid.com/mathematics-and-algorithms/0368-blockchain-basics-cheat-sheet)
+>> /Border [ 0 0 0 ] /Rect [ 34 15 77.6752 26 ] /Subtype /Link /Type /Annot
+>>
+endobj
+134 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://ethereum.org/defi/)
+>> /Border [ 0 0 0 ] /Rect [ 39 676.4023 55.9911 687.6023 ] /Subtype /Link /Type /Annot
+>>
+endobj
+135 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://ethereum.org/defi/)
+>> /Border [ 0 0 0 ] /Rect [ 39 665.2023 95.3325 676.4023 ] /Subtype /Link /Type /Annot
+>>
+endobj
+136 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://ethereum.org/defi/)
+>> /Border [ 0 0 0 ] /Rect [ 39 654.0023 72.06 665.2023 ] /Subtype /Link /Type /Annot
+>>
+endobj
+137 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.gemini.com/cryptopedia/amm-what-are-automated-market-makers)
+>> /Border [ 0 0 0 ] /Rect [ 39 634.2023 104.9286 645.4023 ] /Subtype /Link /Type /Annot
+>>
+endobj
+138 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.gemini.com/cryptopedia/amm-what-are-automated-market-makers)
+>> /Border [ 0 0 0 ] /Rect [ 39 623.0023 94.9671 634.2023 ] /Subtype /Link /Type /Annot
+>>
+endobj
+139 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://hacken.io/discover/liquidity-pools/)
+>> /Border [ 0 0 0 ] /Rect [ 39 592.0023 92.5572 603.2023 ] /Subtype /Link /Type /Annot
+>>
+endobj
+140 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://phemex.com/academy/cryptocurrency-glossary/staking-crypto)
+>> /Border [ 0 0 0 ] /Rect [ 39 549.8023 68.5452 561.0023 ] /Subtype /Link /Type /Annot
+>>
+endobj
+141 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://hacken.io/discover/liquidity-pools/)
+>> /Border [ 0 0 0 ] /Rect [ 39 518.8023 91.7742 530.0023 ] /Subtype /Link /Type /Annot
+>>
+endobj
+142 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://ethereum.org/defi/)
+>> /Border [ 0 0 0 ] /Rect [ 39 476.6023 80.0901 487.8023 ] /Subtype /Link /Type /Annot
+>>
+endobj
+143 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://phemex.com/academy/cryptocurrency-glossary/staking-crypto)
+>> /Border [ 0 0 0 ] /Rect [ 39 423.2023 77.4018 434.4023 ] /Subtype /Link /Type /Annot
+>>
+endobj
+144 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.cyfrin.io/blog/blockchain-interoperability-guide)
+>> /Border [ 0 0 0 ] /Rect [ 39 276.3023 110.949 287.5023 ] /Subtype /Link /Type /Annot
+>>
+endobj
+145 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.cyfrin.io/blog/blockchain-interoperability-guide)
+>> /Border [ 0 0 0 ] /Rect [ 39 222.9023 88.9641 234.1023 ] /Subtype /Link /Type /Annot
+>>
+endobj
+146 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.cyfrin.io/blog/blockchain-interoperability-guide)
+>> /Border [ 0 0 0 ] /Rect [ 39 180.7023 76.7232 191.9023 ] /Subtype /Link /Type /Annot
+>>
+endobj
+147 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://chain.link/education-hub/what-is-wrapped-bitcoin)
+>> /Border [ 0 0 0 ] /Rect [ 39 138.5023 99.2388 149.7023 ] /Subtype /Link /Type /Annot
+>>
+endobj
+148 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://cosmos.network/ibc/)
+>> /Border [ 0 0 0 ] /Rect [ 39 96.30226 51.9456 107.5023 ] /Subtype /Link /Type /Annot
+>>
+endobj
+149 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://cosmos.network/ibc/)
+>> /Border [ 0 0 0 ] /Rect [ 39 85.10226 106.1814 96.30226 ] /Subtype /Link /Type /Annot
+>>
+endobj
+150 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://cosmos.network/ibc/)
+>> /Border [ 0 0 0 ] /Rect [ 39 73.90226 103.3017 85.10226 ] /Subtype /Link /Type /Annot
+>>
+endobj
+151 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.cheatgrid.com/mathematics-and-algorithms/0368-blockchain-basics-cheat-sheet)
+>> /Border [ 0 0 0 ] /Rect [ 34 15 77.6752 26 ] /Subtype /Link /Type /Annot
+>>
+endobj
+152 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://bitcoin.org/bitcoin.pdf)
+>> /Border [ 0 0 0 ] /Rect [ 43.3328 725.3698 173.8856 734.4898 ] /Subtype /Link /Type /Annot
+>>
+endobj
+153 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://developer.bitcoin.org/reference/block_chain.html)
+>> /Border [ 0 0 0 ] /Rect [ 316.9706 725.3698 453.5806 734.4898 ] /Subtype /Link /Type /Annot
+>>
+endobj
+154 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://ethereum.org/en/whitepaper/)
+>> /Border [ 0 0 0 ] /Rect [ 43.3328 713.1698 203.3432 722.2898 ] /Subtype /Link /Type /Annot
+>>
+endobj
+155 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://ethereum.org/developers/docs/consensus-mechanisms/)
+>> /Border [ 0 0 0 ] /Rect [ 316.9706 713.1698 432.5818 722.2898 ] /Subtype /Link /Type /Annot
+>>
+endobj
+156 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://ethereum.org/developers/docs/consensus-mechanisms/pos/)
+>> /Border [ 0 0 0 ] /Rect [ 43.3328 700.9698 128.5364 710.0898 ] /Subtype /Link /Type /Annot
+>>
+endobj
+157 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://ethereum.org/developers/docs/consensus-mechanisms/pow/)
+>> /Border [ 0 0 0 ] /Rect [ 316.9706 700.9698 400.677 710.0898 ] /Subtype /Link /Type /Annot
+>>
+endobj
+158 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://ethereum.org/developers/docs/standards/tokens/erc-20/)
+>> /Border [ 0 0 0 ] /Rect [ 43.3328 688.7698 158.7996 697.8898 ] /Subtype /Link /Type /Annot
+>>
+endobj
+159 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://ethereum.org/developers/docs/standards/tokens/erc-721/)
+>> /Border [ 0 0 0 ] /Rect [ 316.9706 688.7698 436.2146 697.8898 ] /Subtype /Link /Type /Annot
+>>
+endobj
+160 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://ethereum.org/developers/docs/standards/tokens/erc-1155/)
+>> /Border [ 0 0 0 ] /Rect [ 43.3328 676.5698 184.7536 685.6898 ] /Subtype /Link /Type /Annot
+>>
+endobj
+161 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://ethereum.org/zero-knowledge-proofs/)
+>> /Border [ 0 0 0 ] /Rect [ 320.9834 676.5698 436.1766 685.6898 ] /Subtype /Link /Type /Annot
+>>
+endobj
+162 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://ethereum.org/developers/docs/mev/)
+>> /Border [ 0 0 0 ] /Rect [ 47.3456 664.3698 190.8716 673.4898 ] /Subtype /Link /Type /Annot
+>>
+endobj
+163 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://ethereum.org/developers/docs/scaling/zk-rollups/)
+>> /Border [ 0 0 0 ] /Rect [ 320.9834 664.3698 396.1398 673.4898 ] /Subtype /Link /Type /Annot
+>>
+endobj
+164 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://ethereum.org/developers/docs/scaling/optimistic-rollups/)
+>> /Border [ 0 0 0 ] /Rect [ 47.3456 652.1698 146.1228 661.2898 ] /Subtype /Link /Type /Annot
+>>
+endobj
+165 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://ethereum.org/developers/docs/scaling/state-channels/)
+>> /Border [ 0 0 0 ] /Rect [ 320.9834 652.1698 409.2498 661.2898 ] /Subtype /Link /Type /Annot
+>>
+endobj
+166 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://ethereum.org/developers/docs/scaling/plasma/)
+>> /Border [ 0 0 0 ] /Rect [ 47.3456 639.9698 111.1704 649.0898 ] /Subtype /Link /Type /Annot
+>>
+endobj
+167 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://ethereum.org/upgrades/sharding/)
+>> /Border [ 0 0 0 ] /Rect [ 320.9834 639.9698 390.1586 649.0898 ] /Subtype /Link /Type /Annot
+>>
+endobj
+168 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://ethereum.org/dao/)
+>> /Border [ 0 0 0 ] /Rect [ 47.3456 627.7698 104.8244 636.8898 ] /Subtype /Link /Type /Annot
+>>
+endobj
+169 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://ethereum.org/defi/)
+>> /Border [ 0 0 0 ] /Rect [ 320.9834 627.7698 375.4906 636.8898 ] /Subtype /Link /Type /Annot
+>>
+endobj
+170 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://hyperledger-fabric.readthedocs.io/)
+>> /Border [ 0 0 0 ] /Rect [ 47.3456 615.5698 225.026 624.6898 ] /Subtype /Link /Type /Annot
+>>
+endobj
+171 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://cosmos.network/ibc/)
+>> /Border [ 0 0 0 ] /Rect [ 320.9834 615.5698 477.741 624.6898 ] /Subtype /Link /Type /Annot
+>>
+endobj
+172 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://developer.ibm.com/tutorials/cl-blockchain-basics-intro-bluemix-trs/)
+>> /Border [ 0 0 0 ] /Rect [ 47.3456 603.3698 274.6312 612.4898 ] /Subtype /Link /Type /Annot
+>>
+endobj
+173 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.imf.org/-/media/files/publications/wp/2025/english/wpiea2025186-source-pdf.pdf)
+>> /Border [ 0 0 0 ] /Rect [ 320.9834 603.3698 480.0894 612.4898 ] /Subtype /Link /Type /Annot
+>>
+endobj
+174 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://chain.link/article/byzantine-fault-tolerant-consensus)
+>> /Border [ 0 0 0 ] /Rect [ 47.3456 591.1698 200.2348 600.2898 ] /Subtype /Link /Type /Annot
+>>
+endobj
+175 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://chain.link/article/delegated-proof-of-stake)
+>> /Border [ 0 0 0 ] /Rect [ 320.9834 591.1698 462.0926 600.2898 ] /Subtype /Link /Type /Annot
+>>
+endobj
+176 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://chain.link/education-hub/zk-snarks-vs-zk-starks)
+>> /Border [ 0 0 0 ] /Rect [ 47.3456 578.9698 164.2032 588.0898 ] /Subtype /Link /Type /Annot
+>>
+endobj
+177 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://chain.link/education-hub/oracle-problem)
+>> /Border [ 0 0 0 ] /Rect [ 320.9834 578.9698 423.135 588.0898 ] /Subtype /Link /Type /Annot
+>>
+endobj
+178 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://chain.link/education-hub/what-is-wrapped-bitcoin)
+>> /Border [ 0 0 0 ] /Rect [ 47.3456 566.7698 164.0284 575.8898 ] /Subtype /Link /Type /Annot
+>>
+endobj
+179 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://komodoplatform.com/en/academy/sha-256-algorithm/)
+>> /Border [ 0 0 0 ] /Rect [ 320.9834 566.7698 446.7102 575.8898 ] /Subtype /Link /Type /Annot
+>>
+endobj
+180 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.gemini.com/cryptopedia/public-private-keys-cryptography)
+>> /Border [ 0 0 0 ] /Rect [ 47.3456 554.5698 194.0864 563.6898 ] /Subtype /Link /Type /Annot
+>>
+endobj
+181 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.gemini.com/cryptopedia/blockchain-consensus-mechanism-types-of-algorithm)
+>> /Border [ 0 0 0 ] /Rect [ 320.9834 554.5698 547.2354 563.6898 ] /Subtype /Link /Type /Annot
+>>
+endobj
+182 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.gemini.com/cryptopedia/blockchain-consensus-mechanism-types-of-algorithm)
+>> /Border [ 0 0 0 ] /Rect [ 320.6378 544.3698 346.8426 553.4898 ] /Subtype /Link /Type /Annot
+>>
+endobj
+183 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.gemini.com/cryptopedia/amm-what-are-automated-market-makers)
+>> /Border [ 0 0 0 ] /Rect [ 47.3456 532.1698 224.7752 541.2898 ] /Subtype /Link /Type /Annot
+>>
+endobj
+184 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://komodoplatform.com/en/academy/sha-256-algorithm/)
+>> /Border [ 0 0 0 ] /Rect [ 47.3456 491.9698 173.0724 501.0898 ] /Subtype /Link /Type /Annot
+>>
+endobj
+185 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://cheesecakelabs.com/blog/blockchain-transactions-utxo-vs-account-based-models/)
+>> /Border [ 0 0 0 ] /Rect [ 320.9834 491.9698 484.1782 501.0898 ] /Subtype /Link /Type /Annot
+>>
+endobj
+186 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.kraken.com/learn/proof-of-work-vs-proof-of-stake)
+>> /Border [ 0 0 0 ] /Rect [ 47.3456 479.7698 176.8268 488.8898 ] /Subtype /Link /Type /Annot
+>>
+endobj
+187 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://phemex.com/academy/what-are-blockchain-nodes)
+>> /Border [ 0 0 0 ] /Rect [ 320.9834 479.7698 493.0398 488.8898 ] /Subtype /Link /Type /Annot
+>>
+endobj
+188 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://phemex.com/academy/cryptocurrency-glossary/staking-crypto)
+>> /Border [ 0 0 0 ] /Rect [ 47.3456 467.5698 184.1228 476.6898 ] /Subtype /Link /Type /Annot
+>>
+endobj
+189 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://spaceandtime.io/blog/understanding-merkle-trees)
+>> /Border [ 0 0 0 ] /Rect [ 320.9834 467.5698 470.0802 476.6898 ] /Subtype /Link /Type /Annot
+>>
+endobj
+190 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.cyfrin.io/blog/what-is-a-merkle-tree-merkle-proof-and-merkle-root)
+>> /Border [ 0 0 0 ] /Rect [ 47.3456 455.3698 197.9244 464.4898 ] /Subtype /Link /Type /Annot
+>>
+endobj
+191 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.cyfrin.io/blog/what-is-a-blockchain-mempool-and-how-does-it-work)
+>> /Border [ 0 0 0 ] /Rect [ 320.9834 455.3698 445.5474 464.4898 ] /Subtype /Link /Type /Annot
+>>
+endobj
+192 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.cyfrin.io/blog/blockchain-interoperability-guide)
+>> /Border [ 0 0 0 ] /Rect [ 47.3456 443.1698 181.8732 452.2898 ] /Subtype /Link /Type /Annot
+>>
+endobj
+193 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.cyfrin.io/blog/a-full-comparison-what-are-fraud-proofs-and-validity-proofs)
+>> /Border [ 0 0 0 ] /Rect [ 320.9834 443.1698 445.1826 452.2898 ] /Subtype /Link /Type /Annot
+>>
+endobj
+194 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://hacken.io/discover/51-percent-attack/)
+>> /Border [ 0 0 0 ] /Rect [ 47.3456 430.9698 155.676 440.0898 ] /Subtype /Link /Type /Annot
+>>
+endobj
+195 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://hacken.io/discover/l1-l2-scalability/)
+>> /Border [ 0 0 0 ] /Rect [ 320.9834 430.9698 475.6814 440.0898 ] /Subtype /Link /Type /Annot
+>>
+endobj
+196 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://hacken.io/discover/zk-rollups-explained/)
+>> /Border [ 0 0 0 ] /Rect [ 47.3456 418.7698 148.038 427.8898 ] /Subtype /Link /Type /Annot
+>>
+endobj
+197 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://hacken.io/discover/liquidity-pools/)
+>> /Border [ 0 0 0 ] /Rect [ 320.9834 418.7698 401.2166 427.8898 ] /Subtype /Link /Type /Annot
+>>
+endobj
+198 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://hacken.io/discover/what-are-smart-contracts/)
+>> /Border [ 0 0 0 ] /Rect [ 47.3456 406.5698 162.2804 415.6898 ] /Subtype /Link /Type /Annot
+>>
+endobj
+199 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://hacken.io/discover/zk-snark-vs-zk-stark/)
+>> /Border [ 0 0 0 ] /Rect [ 320.9834 406.5698 425.3542 415.6898 ] /Subtype /Link /Type /Annot
+>>
+endobj
+200 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.helius.dev/blog/proof-of-history-proof-of-stake-proof-of-work-explained)
+>> /Border [ 0 0 0 ] /Rect [ 47.3456 394.3698 253.7464 403.4898 ] /Subtype /Link /Type /Annot
+>>
+endobj
+201 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://changelly.com/blog/what-are-optimistic-rollups/)
+>> /Border [ 0 0 0 ] /Rect [ 320.9834 394.3698 450.0162 403.4898 ] /Subtype /Link /Type /Annot
+>>
+endobj
+202 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://bitquery.io/blog/understanding-optimistic-rollups)
+>> /Border [ 0 0 0 ] /Rect [ 47.3456 382.1698 191.0388 391.2898 ] /Subtype /Link /Type /Annot
+>>
+endobj
+203 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://unihost.com/blog/blockchain-consensus-mechanisms/)
+>> /Border [ 0 0 0 ] /Rect [ 320.9834 382.1698 466.9414 391.2898 ] /Subtype /Link /Type /Annot
+>>
+endobj
+204 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://medium.com/@victoryebruba/understanding-the-basics-of-blockchain-and-why-it-matters-in-2025-3460f0cd6801)
+>> /Border [ 0 0 0 ] /Rect [ 47.3456 369.9698 204.6656 379.0898 ] /Subtype /Link /Type /Annot
+>>
+endobj
+205 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.geeksforgeeks.org/computer-networks/cryptographic-consensus-mechanisms-in-blockchain/)
+>> /Border [ 0 0 0 ] /Rect [ 320.9834 369.9698 543.8154 379.0898 ] /Subtype /Link /Type /Annot
+>>
+endobj
+206 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.blockchain-council.org/guide/blockchain-guide-everything-you-need-to-know/)
+>> /Border [ 0 0 0 ] /Rect [ 47.3456 357.7698 190.104 366.8898 ] /Subtype /Link /Type /Annot
+>>
+endobj
+207 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.kaleido.io/blockchain-blog/token-standards)
+>> /Border [ 0 0 0 ] /Rect [ 320.9834 357.7698 497.6834 366.8898 ] /Subtype /Link /Type /Annot
+>>
+endobj
+208 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.coinbase.com/learn/crypto-basics/what-is-proof-of-work-or-proof-of-stake)
+>> /Border [ 0 0 0 ] /Rect [ 47.3456 345.5698 227.9748 354.6898 ] /Subtype /Link /Type /Annot
+>>
+endobj
+209 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.coursera.org/resources/blockchain-learning-roadmap)
+>> /Border [ 0 0 0 ] /Rect [ 320.9834 345.5698 455.7922 354.6898 ] /Subtype /Link /Type /Annot
+>>
+endobj
+210 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://eco.com/support/en/articles/10080409-what-is-a-zk-rollup-a-2026-guide-to-zero-knowledge-scaling)
+>> /Border [ 0 0 0 ] /Rect [ 47.3456 333.3698 174.5392 342.4898 ] /Subtype /Link /Type /Annot
+>>
+endobj
+211 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.linkedin.com/pulse/what-smart-contract-definitive-2026-guide-blockchain-automation-al-vtksf)
+>> /Border [ 0 0 0 ] /Rect [ 320.9834 333.3698 477.8474 342.4898 ] /Subtype /Link /Type /Annot
+>>
+endobj
+212 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.securitytokenizer.io/smart-contract-development-guide-2026)
+>> /Border [ 0 0 0 ] /Rect [ 47.3456 321.1698 245.2116 330.2898 ] /Subtype /Link /Type /Annot
+>>
+endobj
+213 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://tangem.com/en/blog/post/what-are-hard-forks-and-soft-forks/)
+>> /Border [ 0 0 0 ] /Rect [ 320.9834 321.1698 458.9462 330.2898 ] /Subtype /Link /Type /Annot
+>>
+endobj
+214 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.binance.com/en/academy/articles/hard-forks-and-soft-forks)
+>> /Border [ 0 0 0 ] /Rect [ 47.3456 308.9698 194.778 318.0898 ] /Subtype /Link /Type /Annot
+>>
+endobj
+215 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.morpher.com/blog/double-spending)
+>> /Border [ 0 0 0 ] /Rect [ 320.9834 308.9698 436.511 318.0898 ] /Subtype /Link /Type /Annot
+>>
+endobj
+216 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.morpher.com/blog/trustless-in-blockchain)
+>> /Border [ 0 0 0 ] /Rect [ 47.3456 296.7698 210.5556 305.8898 ] /Subtype /Link /Type /Annot
+>>
+endobj
+217 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.starknet.io/glossary/what-is-decentralization-in-blockchain/)
+>> /Border [ 0 0 0 ] /Rect [ 320.9834 296.7698 478.7898 305.8898 ] /Subtype /Link /Type /Annot
+>>
+endobj
+218 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://stellar.org/learn/blockchain-privacy)
+>> /Border [ 0 0 0 ] /Rect [ 47.3456 284.5698 170.0552 293.6898 ] /Subtype /Link /Type /Annot
+>>
+endobj
+219 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.alchemy.com/overviews/permissionless-vs-permissioned-blockchains)
+>> /Border [ 0 0 0 ] /Rect [ 320.9834 284.5698 497.9342 293.6898 ] /Subtype /Link /Type /Annot
+>>
+endobj
+220 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://tracextech.com/resources/glossary/immutability-in-blockchain/)
+>> /Border [ 0 0 0 ] /Rect [ 47.3456 272.3698 176.9788 281.4898 ] /Subtype /Link /Type /Annot
+>>
+endobj
+221 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://itnext.io/utxo-vs-account-based-blockchains-a-clear-comparison-963872e5a6ea)
+>> /Border [ 0 0 0 ] /Rect [ 320.9834 272.3698 508.8554 281.4898 ] /Subtype /Link /Type /Annot
+>>
+endobj
+222 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://bitquery.io/blog/utxo-account-based-blockchain)
+>> /Border [ 0 0 0 ] /Rect [ 47.3456 260.1698 229.1756 269.2898 ] /Subtype /Link /Type /Annot
+>>
+endobj
+223 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.spark.money/research/utxo-model-vs-account-model)
+>> /Border [ 0 0 0 ] /Rect [ 320.9834 260.1698 444.529 269.2898 ] /Subtype /Link /Type /Annot
+>>
+endobj
+224 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://lightspark.com/glossary/nonce)
+>> /Border [ 0 0 0 ] /Rect [ 47.3456 247.9698 172.6544 257.0898 ] /Subtype /Link /Type /Annot
+>>
+endobj
+225 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://lightspark.com/glossary/blockchain-genesis-block)
+>> /Border [ 0 0 0 ] /Rect [ 320.9834 247.9698 431.7686 257.0898 ] /Subtype /Link /Type /Annot
+>>
+endobj
+226 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://lightspark.com/glossary/block-propagation)
+>> /Border [ 0 0 0 ] /Rect [ 47.3456 235.7698 181.8656 244.8898 ] /Subtype /Link /Type /Annot
+>>
+endobj
+227 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://lightspark.com/glossary/utxo)
+>> /Border [ 0 0 0 ] /Rect [ 320.9834 235.7698 414.6686 244.8898 ] /Subtype /Link /Type /Annot
+>>
+endobj
+228 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://tangem.com/en/blog/post/what-are-the-address-types-and-how-do-they-differ/)
+>> /Border [ 0 0 0 ] /Rect [ 47.3456 223.5698 197.7344 232.6898 ] /Subtype /Link /Type /Annot
+>>
+endobj
+229 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://tangem.com/en/blog/post/crypto-cold-wallets-comparison/)
+>> /Border [ 0 0 0 ] /Rect [ 320.9834 223.5698 475.2786 232.6898 ] /Subtype /Link /Type /Annot
+>>
+endobj
+230 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.coingecko.com/learn/top-hot-software-wallets-crypto)
+>> /Border [ 0 0 0 ] /Rect [ 47.3456 211.3698 170.5264 220.4898 ] /Subtype /Link /Type /Annot
+>>
+endobj
+231 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.bleap.finance/en-us/blog/all-kinds-of-crypto-wallets)
+>> /Border [ 0 0 0 ] /Rect [ 320.9834 211.3698 498.7246 220.4898 ] /Subtype /Link /Type /Annot
+>>
+endobj
+232 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.bleap.finance/en-us/blog/how-many-bitcoins-are-left-to-mine)
+>> /Border [ 0 0 0 ] /Rect [ 47.3456 199.1698 217.008 208.2898 ] /Subtype /Link /Type /Annot
+>>
+endobj
+233 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://bitbo.io/news/difficulty-dips-first-2026/)
+>> /Border [ 0 0 0 ] /Rect [ 320.9834 199.1698 470.4374 208.2898 ] /Subtype /Link /Type /Annot
+>>
+endobj
+234 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://changenow.io/blog/how-crypto-transactions-are-confirmed)
+>> /Border [ 0 0 0 ] /Rect [ 47.3456 186.9698 220.8308 196.0898 ] /Subtype /Link /Type /Annot
+>>
+endobj
+235 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.bitget.com/academy/what-factors-affect-ethereum-gas-fees-in-2026-australia-and-how-to-estimate-transfer-costs-easily)
+>> /Border [ 0 0 0 ] /Rect [ 320.9834 186.9698 477.3382 196.0898 ] /Subtype /Link /Type /Annot
+>>
+endobj
+236 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.bitget.com/academy/why-does-the-mempool-grow-2026-guide-how-wallets-exchanges-and-drivers-interact-with-it)
+>> /Border [ 0 0 0 ] /Rect [ 47.3456 174.7698 166.3996 183.8898 ] /Subtype /Link /Type /Annot
+>>
+endobj
+237 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.coursera.org/articles/peer-to-peer)
+>> /Border [ 0 0 0 ] /Rect [ 320.9834 174.7698 457.9658 183.8898 ] /Subtype /Link /Type /Annot
+>>
+endobj
+238 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.coinbase.com/learn/crypto-basics)
+>> /Border [ 0 0 0 ] /Rect [ 47.3456 162.5698 162.2804 171.6898 ] /Subtype /Link /Type /Annot
+>>
+endobj
+239 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.kraken.com/learn/what-is-blockchain-technology)
+>> /Border [ 0 0 0 ] /Rect [ 320.9834 162.5698 435.2342 171.6898 ] /Subtype /Link /Type /Annot
+>>
+endobj
+240 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.ibm.com/think/topics/blockchain)
+>> /Border [ 0 0 0 ] /Rect [ 47.3456 150.3698 128.3996 159.4898 ] /Subtype /Link /Type /Annot
+>>
+endobj
+241 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://aws.amazon.com/what-is/blockchain/)
+>> /Border [ 0 0 0 ] /Rect [ 320.9834 150.3698 442.7582 159.4898 ] /Subtype /Link /Type /Annot
+>>
+endobj
+242 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.investopedia.com/terms/g/genesis-block.asp)
+>> /Border [ 0 0 0 ] /Rect [ 47.3456 138.1698 198.5704 147.2898 ] /Subtype /Link /Type /Annot
+>>
+endobj
+243 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.investopedia.com/terms/n/nonce.asp)
+>> /Border [ 0 0 0 ] /Rect [ 320.9834 138.1698 477.5358 147.2898 ] /Subtype /Link /Type /Annot
+>>
+endobj
+244 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.investopedia.com/terms/u/utxo.asp)
+>> /Border [ 0 0 0 ] /Rect [ 47.3456 125.9698 140.2404 135.0898 ] /Subtype /Link /Type /Annot
+>>
+endobj
+245 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.investopedia.com/tech/what-dao/)
+>> /Border [ 0 0 0 ] /Rect [ 320.9834 125.9698 520.3922 135.0898 ] /Subtype /Link /Type /Annot
+>>
+endobj
+246 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://techielearn.in/learn/blockchain/blockchain-architecture/block-header-and-metadata)
+>> /Border [ 0 0 0 ] /Rect [ 47.3456 113.7698 186.6612 122.8898 ] /Subtype /Link /Type /Annot
+>>
+endobj
+247 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://en.wikipedia.org/wiki/Fork_\(blockchain\))
+>> /Border [ 0 0 0 ] /Rect [ 320.9834 113.7698 417.093 122.8898 ] /Subtype /Link /Type /Annot
+>>
+endobj
+248 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://en.wikipedia.org/wiki/Proof_of_stake)
+>> /Border [ 0 0 0 ] /Rect [ 47.3456 101.5698 132.61 110.6898 ] /Subtype /Link /Type /Annot
+>>
+endobj
+249 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://learnmeabitcoin.com/technical/wallets/hd-wallet/)
+>> /Border [ 0 0 0 ] /Rect [ 320.9834 101.5698 525.5982 110.6898 ] /Subtype /Link /Type /Annot
+>>
+endobj
+250 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://learnmeabitcoin.com/technical/keys/public-key/hash/)
+>> /Border [ 0 0 0 ] /Rect [ 47.3456 89.36976 161.2772 98.48976 ] /Subtype /Link /Type /Annot
+>>
+endobj
+251 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://en.bitcoin.it/wiki/Multisignature)
+>> /Border [ 0 0 0 ] /Rect [ 320.9834 89.36976 413.635 98.48976 ] /Subtype /Link /Type /Annot
+>>
+endobj
+252 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://blog.sei.io/research/optimizing-ecdsa-signature-verification-exploring-zero-knowledge-proofs-in-the-sei-giga-blockchain/)
+>> /Border [ 0 0 0 ] /Rect [ 51.3584 77.16976 259.7732 86.28976 ] /Subtype /Link /Type /Annot
+>>
+endobj
+253 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.bitdeer.com/learn/transaction-fees-vs-block-rewards-the-2026-mining-revenue-shift)
+>> /Border [ 0 0 0 ] /Rect [ 324.9962 77.16976 484.4138 86.28976 ] /Subtype /Link /Type /Annot
+>>
+endobj
+254 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.coinwarz.com/bitcoin-halving)
+>> /Border [ 0 0 0 ] /Rect [ 51.3584 64.96976 177.602 74.08976 ] /Subtype /Link /Type /Annot
+>>
+endobj
+255 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.ey.com/en_ch/insights/blockchain/the-bitcoin-halving-explained)
+>> /Border [ 0 0 0 ] /Rect [ 324.9962 64.96976 436.321 74.08976 ] /Subtype /Link /Type /Annot
+>>
+endobj
+256 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://coinledger.io/learn/bitcoin-halving-dates)
+>> /Border [ 0 0 0 ] /Rect [ 51.3584 52.76976 234.0092 61.88976 ] /Subtype /Link /Type /Annot
+>>
+endobj
+257 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.encryptionconsulting.com/best-practices-for-key-management-in-2026/)
+>> /Border [ 0 0 0 ] /Rect [ 324.9962 52.76976 540.4562 61.88976 ] /Subtype /Link /Type /Annot
+>>
+endobj
+258 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.cheatgrid.com/mathematics-and-algorithms/0368-blockchain-basics-cheat-sheet)
+>> /Border [ 0 0 0 ] /Rect [ 34 15 77.6752 26 ] /Subtype /Link /Type /Annot
+>>
+endobj
+259 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://zkrollups.io/zk-rollup-projects/)
+>> /Border [ 0 0 0 ] /Rect [ 51.3584 776.7698 192.118 785.8898 ] /Subtype /Link /Type /Annot
+>>
+endobj
+260 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://stablecoininsider.org/best-crypto-cross-chain-bridges-in-2026/)
+>> /Border [ 0 0 0 ] /Rect [ 324.9962 776.7698 517.7474 785.8898 ] /Subtype /Link /Type /Annot
+>>
+endobj
+261 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.horizen.io/academy/cross-chain-swaps/)
+>> /Border [ 0 0 0 ] /Rect [ 51.3584 764.5698 176.4392 773.6898 ] /Subtype /Link /Type /Annot
+>>
+endobj
+262 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://blog.zetachain.com/blockchain-interoperability-state-of-play-63ebc49c2dd)
+>> /Border [ 0 0 0 ] /Rect [ 324.9962 764.5698 512.2298 773.6898 ] /Subtype /Link /Type /Annot
+>>
+endobj
+263 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.blockchain-council.org/cryptocurrency/top-5-blockchain-security-issues/)
+>> /Border [ 0 0 0 ] /Rect [ 51.3584 752.3698 241.6928 761.4898 ] /Subtype /Link /Type /Annot
+>>
+endobj
+264 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.sciencedirect.com/science/article/pii/S2096720926000321)
+>> /Border [ 0 0 0 ] /Rect [ 324.9962 752.3698 553.2318 761.4898 ] /Subtype /Link /Type /Annot
+>>
+endobj
+265 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.sciencedirect.com/science/article/pii/S2096720925001058)
+>> /Border [ 0 0 0 ] /Rect [ 51.3584 740.1698 248.6392 749.2898 ] /Subtype /Link /Type /Annot
+>>
+endobj
+266 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.sciencedirect.com/science/article/abs/pii/S1389128626001453)
+>> /Border [ 0 0 0 ] /Rect [ 324.9962 740.1698 520.6506 749.2898 ] /Subtype /Link /Type /Annot
+>>
+endobj
+267 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.sciencedirect.com/science/article/pii/S1110016825007525)
+>> /Border [ 0 0 0 ] /Rect [ 51.3584 727.9698 232.3296 737.0898 ] /Subtype /Link /Type /Annot
+>>
+endobj
+268 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.sciencedirect.com/science/article/pii/S277248592500064X)
+>> /Border [ 0 0 0 ] /Rect [ 324.9962 727.9698 512.3134 737.0898 ] /Subtype /Link /Type /Annot
+>>
+endobj
+269 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.sciencedirect.com/science/article/pii/S277248592500064X)
+>> /Border [ 0 0 0 ] /Rect [ 320.6378 717.7698 368.1074 726.8898 ] /Subtype /Link /Type /Annot
+>>
+endobj
+270 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.sciencedirect.com/science/article/pii/S2772427125002177)
+>> /Border [ 0 0 0 ] /Rect [ 51.3584 705.5698 247.902 714.6898 ] /Subtype /Link /Type /Annot
+>>
+endobj
+271 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.sciencedirect.com/science/article/pii/S2772427125002177)
+>> /Border [ 0 0 0 ] /Rect [ 324.9962 705.5698 489.863 714.6898 ] /Subtype /Link /Type /Annot
+>>
+endobj
+272 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.sciencedirect.com/science/article/pii/S2096720925000296)
+>> /Border [ 0 0 0 ] /Rect [ 51.3584 693.3698 251.0484 702.4898 ] /Subtype /Link /Type /Annot
+>>
+endobj
+273 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.sciencedirect.com/science/article/pii/S2096720925000946)
+>> /Border [ 0 0 0 ] /Rect [ 324.9962 693.3698 530.903 702.4898 ] /Subtype /Link /Type /Annot
+>>
+endobj
+274 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.sciencedirect.com/science/article/pii/S2096720925000946)
+>> /Border [ 0 0 0 ] /Rect [ 320.6378 683.1698 363.4714 692.2898 ] /Subtype /Link /Type /Annot
+>>
+endobj
+275 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.sciencedirect.com/science/article/pii/S2096720926000175)
+>> /Border [ 0 0 0 ] /Rect [ 51.3584 670.9698 246.6708 680.0898 ] /Subtype /Link /Type /Annot
+>>
+endobj
+276 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.sciencedirect.com/science/article/pii/S2405959526000081)
+>> /Border [ 0 0 0 ] /Rect [ 324.9962 670.9698 507.0618 680.0898 ] /Subtype /Link /Type /Annot
+>>
+endobj
+277 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.deloitte.com/us/en/insights/topics/technology-management/tech-trends/2023/trustless-blockchain-dencentralized-internet.html)
+>> /Border [ 0 0 0 ] /Rect [ 51.3584 658.7698 223.7264 667.8898 ] /Subtype /Link /Type /Annot
+>>
+endobj
+278 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.horizen.io/academy/cross-chain-swaps/)
+>> /Border [ 0 0 0 ] /Rect [ 324.9962 658.7698 450.077 667.8898 ] /Subtype /Link /Type /Annot
+>>
+endobj
+279 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.researchgate.net/publication/389513920_The_Future_of_Blockchain_Interoperability_Cross-Chain_Transfers_with_Atomic_Swaps)
+>> /Border [ 0 0 0 ] /Rect [ 51.3584 646.5698 235.6356 655.6898 ] /Subtype /Link /Type /Annot
+>>
+endobj
+280 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://cow.fi/learn/diving-deep-into-decentralized-finance-your-comprehensive-guide-to-de-fi-key-terms)
+>> /Border [ 0 0 0 ] /Rect [ 324.9962 646.5698 492.4622 655.6898 ] /Subtype /Link /Type /Annot
+>>
+endobj
+281 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.blockchain-council.org/defi/crypto-liquidity-pools/)
+>> /Border [ 0 0 0 ] /Rect [ 51.3584 634.3698 192.2016 643.4898 ] /Subtype /Link /Type /Annot
+>>
+endobj
+282 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.nervos.org/knowledge-base/understanding_Token_standards_erc20_\(explainCKBot\))
+>> /Border [ 0 0 0 ] /Rect [ 324.9962 634.3698 525.1346 643.4898 ] /Subtype /Link /Type /Annot
+>>
+endobj
+283 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.taurushq.com/blog/tokenization-on-ethereum-and-evm-blockchains-which-smart-contract-should-you-use/)
+>> /Border [ 0 0 0 ] /Rect [ 51.3584 622.1698 246.762 631.2898 ] /Subtype /Link /Type /Annot
+>>
+endobj
+284 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.binance.com/en/academy/articles/what-are-token-standards)
+>> /Border [ 0 0 0 ] /Rect [ 324.9962 622.1698 474.815 631.2898 ] /Subtype /Link /Type /Annot
+>>
+endobj
+285 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://crypto.com/us/university/what-are-token-standards)
+>> /Border [ 0 0 0 ] /Rect [ 51.3584 609.9698 224.76 619.0898 ] /Subtype /Link /Type /Annot
+>>
+endobj
+286 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://pixelplex.io/blog/arbitrum-vs-optimism/)
+>> /Border [ 0 0 0 ] /Rect [ 324.9962 609.9698 448.9446 619.0898 ] /Subtype /Link /Type /Annot
+>>
+endobj
+287 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://medium.com/@trentice.bolar/ethereum-vs-layer-2s-what-the-2026-upgrades-mean-for-the-future-of-web3-scaling-9c7ae68b575f)
+>> /Border [ 0 0 0 ] /Rect [ 51.3584 597.7698 204.8252 606.8898 ] /Subtype /Link /Type /Annot
+>>
+endobj
+288 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.kucoin.com/learn/crypto/blockchain-layer-1-vs-layer-2-scaling-solutions-explained)
+>> /Border [ 0 0 0 ] /Rect [ 324.9962 597.7698 505.5342 606.8898 ] /Subtype /Link /Type /Annot
+>>
+endobj
+289 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.cryptominerbros.com/blog/top-10-bitcoins-layer-2-solutions/)
+>> /Border [ 0 0 0 ] /Rect [ 51.3584 585.5698 232.398 594.6898 ] /Subtype /Link /Type /Annot
+>>
+endobj
+290 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.esma.europa.eu/sites/default/files/2025-07/ESMA50-481369926-29744_Maximal_Extractable_Value_Implications_for_crypto_markets.pdf)
+>> /Border [ 0 0 0 ] /Rect [ 324.9962 585.5698 536.641 594.6898 ] /Subtype /Link /Type /Annot
+>>
+endobj
+291 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.ey.com/content/dam/ey-unified-site/ey-com/en-us/insights/financial-services/documents/ey-an-introduction-to-maximal-extractable-value-on-ethereum.pdf)
+>> /Border [ 0 0 0 ] /Rect [ 51.3584 573.3698 253.8072 582.4898 ] /Subtype /Link /Type /Annot
+>>
+endobj
+292 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (http://www.fca.org.uk/publication/research-notes/research-note-review-and-maximal-extractable-value-blockchain-oracles.pdf)
+>> /Border [ 0 0 0 ] /Rect [ 324.9962 573.3698 547.5546 582.4898 ] /Subtype /Link /Type /Annot
+>>
+endobj
+293 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://info.arkm.com/research/zero-knowledge-proofs-how-transformational-can-they-be)
+>> /Border [ 0 0 0 ] /Rect [ 51.3584 561.1698 278.8568 570.2898 ] /Subtype /Link /Type /Annot
+>>
+endobj
+294 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.meegle.com/en_us/topics/cryptography/blockchain-consensus-algorithms)
+>> /Border [ 0 0 0 ] /Rect [ 324.9962 561.1698 463.9166 570.2898 ] /Subtype /Link /Type /Annot
+>>
+endobj
+295 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.weforum.org/stories/2026/01/digital-economy-inflection-point-what-to-expect-for-digital-assets-in-2026/)
+>> /Border [ 0 0 0 ] /Rect [ 51.3584 548.9698 201.1544 558.0898 ] /Subtype /Link /Type /Annot
+>>
+endobj
+296 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://tatum.io/blog/blockchain-upgrades-2026)
+>> /Border [ 0 0 0 ] /Rect [ 324.9962 548.9698 438.9734 558.0898 ] /Subtype /Link /Type /Annot
+>>
+endobj
+297 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://financialcrimeacademy.org/exploring-the-blockchain-technology/)
+>> /Border [ 0 0 0 ] /Rect [ 51.3584 536.7698 246.1464 545.8898 ] /Subtype /Link /Type /Annot
+>>
+endobj
+298 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.nadcab.com/blog/permissioned-vs-permissionless-blockchains-guide)
+>> /Border [ 0 0 0 ] /Rect [ 324.9962 536.7698 496.0342 545.8898 ] /Subtype /Link /Type /Annot
+>>
+endobj
+299 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://bkblockchaintech.com/genesis-block-in-blockchain-master-guide-2026/)
+>> /Border [ 0 0 0 ] /Rect [ 51.3584 524.5698 226.8044 533.6898 ] /Subtype /Link /Type /Annot
+>>
+endobj
+300 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://bkblockchaintech.com/guide-to-cryptographic-hash-2026/)
+>> /Border [ 0 0 0 ] /Rect [ 324.9962 524.5698 496.551 533.6898 ] /Subtype /Link /Type /Annot
+>>
+endobj
+301 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.upgrad.com/blog/sha-256-algorithm/)
+>> /Border [ 0 0 0 ] /Rect [ 51.3584 512.3698 160.73 521.4898 ] /Subtype /Link /Type /Annot
+>>
+endobj
+302 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://github.com/OpenZeppelin/openzeppelin-contracts/blob/master/contracts/token/ERC20/ERC20.sol)
+>> /Border [ 0 0 0 ] /Rect [ 54.3276 470.6098 231.6512 481.2898 ] /Subtype /Link /Type /Annot
+>>
+endobj
+303 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://github.com/OpenZeppelin/openzeppelin-contracts/blob/master/contracts/token/ERC721/ERC721.sol)
+>> /Border [ 0 0 0 ] /Rect [ 54.3276 456.4098 236.0745 467.0898 ] /Subtype /Link /Type /Annot
+>>
+endobj
+304 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://github.com/OpenZeppelin/openzeppelin-contracts)
+>> /Border [ 0 0 0 ] /Rect [ 54.3276 442.2098 182.1583 452.8898 ] /Subtype /Link /Type /Annot
+>>
+endobj
+305 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://github.com/Uniswap/v2-core)
+>> /Border [ 0 0 0 ] /Rect [ 54.3276 428.0098 246.3985 438.6898 ] /Subtype /Link /Type /Annot
+>>
+endobj
+306 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://link.springer.com/article/10.1007/s44227-025-00087-8)
+>> /Border [ 0 0 0 ] /Rect [ 51.3584 387.3698 251.6716 396.4898 ] /Subtype /Link /Type /Annot
+>>
+endobj
+307 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://link.springer.com/article/10.1007/s44227-025-00087-8)
+>> /Border [ 0 0 0 ] /Rect [ 47 377.1698 86.4212 386.2898 ] /Subtype /Link /Type /Annot
+>>
+endobj
+308 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://link.springer.com/article/10.1007/s12083-025-01941-w)
+>> /Border [ 0 0 0 ] /Rect [ 324.9962 387.3698 548.573 396.4898 ] /Subtype /Link /Type /Annot
+>>
+endobj
+309 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://link.springer.com/article/10.1007/s44196-026-01272-5)
+>> /Border [ 0 0 0 ] /Rect [ 51.3584 364.9698 251.9376 374.0898 ] /Subtype /Link /Type /Annot
+>>
+endobj
+310 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://arxiv.org/html/2506.00500v1)
+>> /Border [ 0 0 0 ] /Rect [ 324.9962 364.9698 522.581 374.0898 ] /Subtype /Link /Type /Annot
+>>
+endobj
+311 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://arxiv.org/html/2506.00500v1)
+>> /Border [ 0 0 0 ] /Rect [ 320.6378 354.7698 354.6402 363.8898 ] /Subtype /Link /Type /Annot
+>>
+endobj
+312 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://arxiv.org/html/2407.19572v1)
+>> /Border [ 0 0 0 ] /Rect [ 51.3584 342.5698 203.0544 351.6898 ] /Subtype /Link /Type /Annot
+>>
+endobj
+313 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://ieeexplore.ieee.org/document/10465578/)
+>> /Border [ 0 0 0 ] /Rect [ 324.9962 342.5698 454.4774 351.6898 ] /Subtype /Link /Type /Annot
+>>
+endobj
+314 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://ieeexplore.ieee.org/document/11006297/)
+>> /Border [ 0 0 0 ] /Rect [ 51.3584 330.3698 216.0808 339.4898 ] /Subtype /Link /Type /Annot
+>>
+endobj
+315 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://ieeexplore.ieee.org/document/11364767/)
+>> /Border [ 0 0 0 ] /Rect [ 324.9962 330.3698 506.1954 339.4898 ] /Subtype /Link /Type /Annot
+>>
+endobj
+316 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://ieeexplore.ieee.org/document/10206728/)
+>> /Border [ 0 0 0 ] /Rect [ 51.3584 318.1698 222.556 327.2898 ] /Subtype /Link /Type /Annot
+>>
+endobj
+317 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://ieeexplore.ieee.org/document/9651926/)
+>> /Border [ 0 0 0 ] /Rect [ 324.9962 318.1698 457.4566 327.2898 ] /Subtype /Link /Type /Annot
+>>
+endobj
+318 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.mdpi.com/2079-9292/14/3/585)
+>> /Border [ 0 0 0 ] /Rect [ 51.3584 305.9698 201.998 315.0898 ] /Subtype /Link /Type /Annot
+>>
+endobj
+319 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.mdpi.com/2076-3417/14/19/8863)
+>> /Border [ 0 0 0 ] /Rect [ 324.9962 305.9698 548.0182 315.0898 ] /Subtype /Link /Type /Annot
+>>
+endobj
+320 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.mdpi.com/2076-3417/15/23/12722)
+>> /Border [ 0 0 0 ] /Rect [ 51.3584 293.7698 212.9572 302.8898 ] /Subtype /Link /Type /Annot
+>>
+endobj
+321 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.mdpi.com/2076-3417/15/16/8880)
+>> /Border [ 0 0 0 ] /Rect [ 324.9962 293.7698 512.8454 302.8898 ] /Subtype /Link /Type /Annot
+>>
+endobj
+322 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://onlinelibrary.wiley.com/doi/full/10.1002/spy2.401)
+>> /Border [ 0 0 0 ] /Rect [ 51.3584 281.5698 242.1944 290.6898 ] /Subtype /Link /Type /Annot
+>>
+endobj
+323 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://dl.acm.org/doi/10.1145/3573896)
+>> /Border [ 0 0 0 ] /Rect [ 324.9962 281.5698 468.8946 290.6898 ] /Subtype /Link /Type /Annot
+>>
+endobj
+324 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://dl.acm.org/doi/full/10.1145/3672405)
+>> /Border [ 0 0 0 ] /Rect [ 51.3584 269.3698 255.2436 278.4898 ] /Subtype /Link /Type /Annot
+>>
+endobj
+325 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://eprint.iacr.org/2026/089.pdf)
+>> /Border [ 0 0 0 ] /Rect [ 324.9962 269.3698 508.0954 278.4898 ] /Subtype /Link /Type /Annot
+>>
+endobj
+326 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.researchgate.net/publication/350031088_A_Comprehensive_Review_of_Blockchain_Consensus_Mechanisms)
+>> /Border [ 0 0 0 ] /Rect [ 51.3584 257.1698 264.5308 266.2898 ] /Subtype /Link /Type /Annot
+>>
+endobj
+327 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.researchgate.net/publication/350031088_A_Comprehensive_Review_of_Blockchain_Consensus_Mechanisms)
+>> /Border [ 0 0 0 ] /Rect [ 47 246.9698 86.4212 256.0898 ] /Subtype /Link /Type /Annot
+>>
+endobj
+328 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.sciencedirect.com/science/article/pii/S1570826824000167)
+>> /Border [ 0 0 0 ] /Rect [ 324.9962 257.1698 552.5554 266.2898 ] /Subtype /Link /Type /Annot
+>>
+endobj
+329 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.sciencedirect.com/science/article/pii/S1570826824000167)
+>> /Border [ 0 0 0 ] /Rect [ 320.6378 246.9698 364.9686 256.0898 ] /Subtype /Link /Type /Annot
+>>
+endobj
+330 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.youtube.com/watch?v=HEfLlJN1Csw)
+>> /Border [ 0 0 0 ] /Rect [ 51.3584 206.7698 250.562 215.8898 ] /Subtype /Link /Type /Annot
+>>
+endobj
+331 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.youtube.com/watch?v=w-qgtneklgo)
+>> /Border [ 0 0 0 ] /Rect [ 324.9962 206.7698 499.6518 215.8898 ] /Subtype /Link /Type /Annot
+>>
+endobj
+332 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.youtube.com/watch?v=T3cceblN1mE)
+>> /Border [ 0 0 0 ] /Rect [ 51.3584 194.5698 227.2072 203.6898 ] /Subtype /Link /Type /Annot
+>>
+endobj
+333 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.youtube.com/watch?v=9uodS6FBsdw)
+>> /Border [ 0 0 0 ] /Rect [ 324.9962 194.5698 479.9146 203.6898 ] /Subtype /Link /Type /Annot
+>>
+endobj
+334 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.youtube.com/watch?v=lVFL-tndtWY)
+>> /Border [ 0 0 0 ] /Rect [ 51.3584 182.3698 196.906 191.4898 ] /Subtype /Link /Type /Annot
+>>
+endobj
+335 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.youtube.com/watch?v=Sl7JE3INcvM)
+>> /Border [ 0 0 0 ] /Rect [ 324.9962 182.3698 496.703 191.4898 ] /Subtype /Link /Type /Annot
+>>
+endobj
+336 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.youtube.com/watch?v=Jnn-SX5x2yY)
+>> /Border [ 0 0 0 ] /Rect [ 51.3584 170.1698 254.666 179.2898 ] /Subtype /Link /Type /Annot
+>>
+endobj
+337 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.youtube.com/watch?v=KHm0uUPqmVE)
+>> /Border [ 0 0 0 ] /Rect [ 324.9962 170.1698 439.703 179.2898 ] /Subtype /Link /Type /Annot
+>>
+endobj
+338 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.youtube.com/watch?v=_MYpZQVZdiM)
+>> /Border [ 0 0 0 ] /Rect [ 51.3584 157.9698 231.7596 167.0898 ] /Subtype /Link /Type /Annot
+>>
+endobj
+339 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.youtube.com/watch?v=Rte3fQY6xy4)
+>> /Border [ 0 0 0 ] /Rect [ 324.9962 157.9698 544.4842 167.0898 ] /Subtype /Link /Type /Annot
+>>
+endobj
+340 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.youtube.com/watch?v=Rte3fQY6xy4)
+>> /Border [ 0 0 0 ] /Rect [ 320.6378 147.7698 349.1226 156.8898 ] /Subtype /Link /Type /Annot
+>>
+endobj
+341 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.coingecko.com/learn/what-is-bitcoin-mempool-guide)
+>> /Border [ 0 0 0 ] /Rect [ 51.3584 107.5698 181.7136 116.6898 ] /Subtype /Link /Type /Annot
+>>
+endobj
+342 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.blockchain.com/charts/avg-confirmation-time)
+>> /Border [ 0 0 0 ] /Rect [ 324.9962 107.5698 490.8966 116.6898 ] /Subtype /Link /Type /Annot
+>>
+endobj
+343 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.bitdeer.com/learn/transaction-fees-vs-block-rewards-the-2026-mining-revenue-shift)
+>> /Border [ 0 0 0 ] /Rect [ 51.3584 95.36976 279.0696 104.4898 ] /Subtype /Link /Type /Annot
+>>
+endobj
+344 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://gomining.com/blog/the-complete-guide-to-cryptocurrency-mining-in-2026-from-theory-to-practice)
+>> /Border [ 0 0 0 ] /Rect [ 324.9962 95.36976 514.0918 104.4898 ] /Subtype /Link /Type /Annot
+>>
+endobj
+345 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.encryptionconsulting.com/best-practices-for-key-management-in-2026/)
+>> /Border [ 0 0 0 ] /Rect [ 51.3584 83.16976 259.2716 92.28976 ] /Subtype /Link /Type /Annot
+>>
+endobj
+346 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.forbes.com/advisor/investing/cryptocurrency/best-crypto-wallets/)
+>> /Border [ 0 0 0 ] /Rect [ 324.9962 83.16976 472.4666 92.28976 ] /Subtype /Link /Type /Annot
+>>
+endobj
+347 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.businessinsider.com/personal-finance/best-crypto-wallets)
+>> /Border [ 0 0 0 ] /Rect [ 51.3584 70.96976 190.0812 80.08976 ] /Subtype /Link /Type /Annot
+>>
+endobj
+348 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://titancorpvn.com/insight/technology-insights/blockchain-in-2026-how-it-transforms-modern-business)
+>> /Border [ 0 0 0 ] /Rect [ 324.9962 70.96976 533.8518 80.08976 ] /Subtype /Link /Type /Annot
+>>
+endobj
+349 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.thestreet.com/crypto/innovation/what-top-blockchain-executives-are-leaning-into-in-2026)
+>> /Border [ 0 0 0 ] /Rect [ 51.3584 58.76976 226.8956 67.88976 ] /Subtype /Link /Type /Annot
+>>
+endobj
+350 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://blockchain-development-solutions.com/blog/private-blockchain-development-2025-guide)
+>> /Border [ 0 0 0 ] /Rect [ 324.9962 58.76976 521.2358 67.88976 ] /Subtype /Link /Type /Annot
+>>
+endobj
+351 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://l2beat.com/scaling/summary)
+>> /Border [ 0 0 0 ] /Rect [ 51.3584 46.56976 165.7308 55.68976 ] /Subtype /Link /Type /Annot
+>>
+endobj
+352 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://l2fees.info/)
+>> /Border [ 0 0 0 ] /Rect [ 324.9962 46.56976 467.8458 55.68976 ] /Subtype /Link /Type /Annot
+>>
+endobj
+353 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.cheatgrid.com/mathematics-and-algorithms/0368-blockchain-basics-cheat-sheet)
+>> /Border [ 0 0 0 ] /Rect [ 34 15 77.6752 26 ] /Subtype /Link /Type /Annot
+>>
+endobj
+354 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://eips.ethereum.org/EIPS/eip-4844)
+>> /Border [ 0 0 0 ] /Rect [ 51.3584 776.7698 228.5448 785.8898 ] /Subtype /Link /Type /Annot
+>>
+endobj
+355 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://insights4vc.substack.com/p/privacy-trends-for-2026)
+>> /Border [ 0 0 0 ] /Rect [ 324.9962 776.7698 444.9622 785.8898 ] /Subtype /Link /Type /Annot
+>>
+endobj
+356 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.coindesk.com/opinion/2025/12/31/4-predictions-for-privacy-in-2026)
+>> /Border [ 0 0 0 ] /Rect [ 51.3584 764.5698 191.206 773.6898 ] /Subtype /Link /Type /Annot
+>>
+endobj
+357 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.blog.bitfinity.network/the-technology-stack-powering-blockchain-privacy-in-2026/)
+>> /Border [ 0 0 0 ] /Rect [ 324.9962 764.5698 525.3702 773.6898 ] /Subtype /Link /Type /Annot
+>>
+endobj
+358 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.linkedin.com/pulse/privacy-emerging-defining-blockchain-theme-2026-yjfte)
+>> /Border [ 0 0 0 ] /Rect [ 51.3584 752.3698 228.6892 761.4898 ] /Subtype /Link /Type /Annot
+>>
+endobj
+359 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://medium.com/mvl-ecosystem/data-integrity-in-blockchain-hashing-timestamp-consensus-verification-7ff52301e837)
+>> /Border [ 0 0 0 ] /Rect [ 324.9962 752.3698 482.6886 761.4898 ] /Subtype /Link /Type /Annot
+>>
+endobj
+360 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://cryptopotato.com/ethereum-foundation-introduces-trustless-manifesto-to-push-for-decentralization-on-chain/)
+>> /Border [ 0 0 0 ] /Rect [ 51.3584 740.1698 191.6848 749.2898 ] /Subtype /Link /Type /Annot
+>>
+endobj
+361 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://ilink.dev/blog/where-are-smart-contracts-used-real-world-applications-across-industries-in-2025/)
+>> /Border [ 0 0 0 ] /Rect [ 324.9962 740.1698 487.4614 749.2898 ] /Subtype /Link /Type /Annot
+>>
+endobj
+362 0 obj
+<<
+/Annots [ 3 0 R 5 0 R 6 0 R 7 0 R 8 0 R 9 0 R 10 0 R 11 0 R 12 0 R 13 0 R 
+  14 0 R 15 0 R 16 0 R 17 0 R 18 0 R 19 0 R 20 0 R 21 0 R 22 0 R 23 0 R 
+  24 0 R 25 0 R 26 0 R 27 0 R 28 0 R 29 0 R 30 0 R 31 0 R 32 0 R 33 0 R 
+  34 0 R 35 0 R 36 0 R 37 0 R ] /Contents 403 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 402 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ] /Shading <<
+/Sh0 4 0 R
+>>
+>> /Rotate 0 
+  /Trans <<
+
+>> /Type /Page
+>>
+endobj
+363 0 obj
+<<
+/Annots [ 38 0 R 39 0 R 40 0 R 41 0 R 42 0 R 43 0 R 44 0 R 45 0 R 46 0 R 47 0 R 
+  48 0 R 49 0 R 50 0 R 51 0 R 52 0 R 53 0 R 54 0 R ] /Contents 404 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 402 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 
+  /Trans <<
+
+>> /Type /Page
+>>
+endobj
+364 0 obj
+<<
+/Annots [ 55 0 R 56 0 R 57 0 R 58 0 R 59 0 R 60 0 R 61 0 R 62 0 R 63 0 R 64 0 R 
+  65 0 R 66 0 R 67 0 R 68 0 R 69 0 R ] /Contents 405 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 402 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 
+  /Trans <<
+
+>> /Type /Page
+>>
+endobj
+365 0 obj
+<<
+/Annots [ 70 0 R 71 0 R 72 0 R 73 0 R 74 0 R 75 0 R 76 0 R 77 0 R 78 0 R 79 0 R 
+  80 0 R 81 0 R 82 0 R 83 0 R 84 0 R 85 0 R 86 0 R ] /Contents 406 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 402 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 
+  /Trans <<
+
+>> /Type /Page
+>>
+endobj
+366 0 obj
+<<
+/Annots [ 87 0 R 88 0 R 89 0 R 90 0 R 91 0 R 92 0 R 93 0 R 94 0 R 95 0 R 96 0 R 
+  97 0 R 98 0 R 99 0 R 100 0 R ] /Contents 407 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 402 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 
+  /Trans <<
+
+>> /Type /Page
+>>
+endobj
+367 0 obj
+<<
+/Annots [ 101 0 R 102 0 R 103 0 R 104 0 R 105 0 R 106 0 R 107 0 R 108 0 R 109 0 R 110 0 R 
+  111 0 R 112 0 R 113 0 R 114 0 R ] /Contents 408 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 402 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 
+  /Trans <<
+
+>> /Type /Page
+>>
+endobj
+368 0 obj
+<<
+/Annots [ 115 0 R 116 0 R 117 0 R 118 0 R 119 0 R 120 0 R 121 0 R 122 0 R 123 0 R 124 0 R 
+  125 0 R 126 0 R 127 0 R 128 0 R 129 0 R 130 0 R 131 0 R 132 0 R ] /Contents 409 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 402 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 
+  /Trans <<
+
+>> /Type /Page
+>>
+endobj
+369 0 obj
+<<
+/Annots [ 133 0 R 134 0 R 135 0 R 136 0 R 137 0 R 138 0 R 139 0 R 140 0 R 141 0 R 142 0 R 
+  143 0 R 144 0 R 145 0 R 146 0 R 147 0 R 148 0 R 149 0 R 150 0 R ] /Contents 410 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 402 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 
+  /Trans <<
+
+>> /Type /Page
+>>
+endobj
+370 0 obj
+<<
+/Annots [ 151 0 R 152 0 R 153 0 R 154 0 R 155 0 R 156 0 R 157 0 R 158 0 R 159 0 R 160 0 R 
+  161 0 R 162 0 R 163 0 R 164 0 R 165 0 R 166 0 R 167 0 R 168 0 R 169 0 R 170 0 R 
+  171 0 R 172 0 R 173 0 R 174 0 R 175 0 R 176 0 R 177 0 R 178 0 R 179 0 R 180 0 R 
+  181 0 R 182 0 R 183 0 R 184 0 R 185 0 R 186 0 R 187 0 R 188 0 R 189 0 R 190 0 R 
+  191 0 R 192 0 R 193 0 R 194 0 R 195 0 R 196 0 R 197 0 R 198 0 R 199 0 R 200 0 R 
+  201 0 R 202 0 R 203 0 R 204 0 R 205 0 R 206 0 R 207 0 R 208 0 R 209 0 R 210 0 R 
+  211 0 R 212 0 R 213 0 R 214 0 R 215 0 R 216 0 R 217 0 R 218 0 R 219 0 R 220 0 R 
+  221 0 R 222 0 R 223 0 R 224 0 R 225 0 R 226 0 R 227 0 R 228 0 R 229 0 R 230 0 R 
+  231 0 R 232 0 R 233 0 R 234 0 R 235 0 R 236 0 R 237 0 R 238 0 R 239 0 R 240 0 R 
+  241 0 R 242 0 R 243 0 R 244 0 R 245 0 R 246 0 R 247 0 R 248 0 R 249 0 R 250 0 R 
+  251 0 R 252 0 R 253 0 R 254 0 R 255 0 R 256 0 R 257 0 R ] /Contents 411 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 402 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 
+  /Trans <<
+
+>> /Type /Page
+>>
+endobj
+371 0 obj
+<<
+/Annots [ 258 0 R 259 0 R 260 0 R 261 0 R 262 0 R 263 0 R 264 0 R 265 0 R 266 0 R 267 0 R 
+  268 0 R 269 0 R 270 0 R 271 0 R 272 0 R 273 0 R 274 0 R 275 0 R 276 0 R 277 0 R 
+  278 0 R 279 0 R 280 0 R 281 0 R 282 0 R 283 0 R 284 0 R 285 0 R 286 0 R 287 0 R 
+  288 0 R 289 0 R 290 0 R 291 0 R 292 0 R 293 0 R 294 0 R 295 0 R 296 0 R 297 0 R 
+  298 0 R 299 0 R 300 0 R 301 0 R 302 0 R 303 0 R 304 0 R 305 0 R 306 0 R 307 0 R 
+  308 0 R 309 0 R 310 0 R 311 0 R 312 0 R 313 0 R 314 0 R 315 0 R 316 0 R 317 0 R 
+  318 0 R 319 0 R 320 0 R 321 0 R 322 0 R 323 0 R 324 0 R 325 0 R 326 0 R 327 0 R 
+  328 0 R 329 0 R 330 0 R 331 0 R 332 0 R 333 0 R 334 0 R 335 0 R 336 0 R 337 0 R 
+  338 0 R 339 0 R 340 0 R 341 0 R 342 0 R 343 0 R 344 0 R 345 0 R 346 0 R 347 0 R 
+  348 0 R 349 0 R 350 0 R 351 0 R 352 0 R ] /Contents 412 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 402 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 
+  /Trans <<
+
+>> /Type /Page
+>>
+endobj
+372 0 obj
+<<
+/Annots [ 353 0 R 354 0 R 355 0 R 356 0 R 357 0 R 358 0 R 359 0 R 360 0 R 361 0 R ] /Contents 413 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 402 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 
+  /Trans <<
+
+>> /Type /Page
+>>
+endobj
+373 0 obj
+<<
+/Filter [ /FlateDecode ] /Length 706
+>>
+stream
+xœ…ÕmkÚPÆñ÷~Š¼ÜCsî'"ôa…¾Øs_ ±jÑ¾è·ß¹rI{Œ	õü%'ú3±ÜóÛ‡»‡~®æ?Æc»éÎÕnßoÇît|Û®zìöı¬NÕvß/¯¦çöĞ³y>yóz:w‡‡~wœ­VÕüg>x:¯Õ‡ëéñi3½Ñ¦éOò9|ynÆ³ù÷qÛûşé?Û6/ÃğÜºş\-fëuµívùC¿6Ã·æĞUóŸû¾ó×ëĞUiz]ó´Çmwš¶›ş©›­‹uµŠûõ¬ë·«Ó’ç<îÚßÍxÙ»Èuîzê›@§ÜiQ+Z¦N	­SË5ÚĞI—hç~Aº¾šö/ÙÓû\Ÿu]ôMÑ·Eßı¥èû÷®]Š–¢µh+Ú‹¢—Eşºğ×…¿.üuá¯]øıijúó’›şéš'ú®m¢?áz&úó’›ş¼ä¦?á>&úîQ¢?/¹éO¸‰ş¼ä¦?/¹éÏKnúó’›ş¼ÌVB¿À/ôüB¿À/ôüB¿À/ôüB¿À/ôüB¿À/ôüBÿô;ú~¡_àú~¡_àú~¥_áWú~¥_áWú~¥_áWú~¥_áWú~¥úQú~¥_áWú~¥_áWú~¥_áWú~£ßà7ú~£ßà7ú~£ßà7ú~£ßà7ú~£ßà7ú~£ßà7ú~£ßà7ú~£ßà7ú~§ßáwú~§ßáwú~§ßáwú~§ßáwú~§ßáwú~§ßáwú~§ßáwú~§ßáwúş ?àúş ?àúş ?àúş ?àúş ?àúş ?àúş ?àúş ?àú/â2	0+0ß†Qû2yNMsr<9û¾{¥ÃqÀYøûFy©;endstream
+endobj
+374 0 obj
+<<
+/Filter [ /FlateDecode ] /Length 14363 /Length1 28988
+>>
+stream
+xœí}	t[×uà}ÿì;  I€ÄÂÜWà&qII„,Q¤HŠ¤6ËZmym¼ÄQ6ÇYªq\×m3§‰PŠm%Nb%±]{&¶'“4K›8n§ÇuÛLÚdÔ¦M-pî{ÿ%JvÒöœNOIüûß»ï¾»½ûî}ø” €îÆÇ&kêïvl_Â–á5;xî¨ö'ºÏ¼ŠçO·}6ò n
+Ÿk÷]:¼¯Fw/ €Q¿tè¶ı¦¨{Àò@‹¸¼8·Pñïü `Ké5-cƒæ²âm|~ŸË—Ÿ¸õ¥ÿmÅù¶ê‘ŞWİ<?÷í®Ÿ\z	ûß8<wëQ.lz`ø	|Ì^´ö=zŸ±?°õèÍÇO¬}êÚhÿÑc‹G¿ÿèàsÒS Ï©ÈC @~ÏrÓˆ1$İÉÔ“ ¶ê</ğ'¼ÜàAşééMAÄµ5ş­ì—Q¾·H¿äwiy“ûÒ„Ğƒ’htkåPŸb(Ajøõ~4 R4€L`l`‡bp€\Pnğ€J¡ùğPP	AATC"…Ô@-Ô¡†âĞ ĞÍĞ­ĞíĞĞİ(e$!½Ğı0 ƒ°¶ÂÃŒÂŒÃ6˜€I˜‚í°vÂ4¤aÜ»aÌÀ^˜…9Øó° ‹°–~MY¯ÿ³û¡ŸS¢ŠÖ.ãìÛ‘Ç^î!j€µ8÷èÚeò‹µËk5ë}k—¹—È›Ø6B{¹ï²ş”²5çwsß"ï'ïß%÷Â¯Öç ³à<J:Î•Ão'ïÏI‘{óã
+xá[ça:_õÚEÇÃ¯ÁŸ­¥òô"yz<Â2=Âg "f`ût_Z‡.‚qÛPF9¹k:ÓàÎ„Ò³ûÅ³Û§3\ÅÜ—ÔèJóó}nŸ/é¤½çÑ×R³Éh†D2âìşh†‹|_4ÃGÄ…¼ÍÉTÆšgg“«œ-•\­àS.5u«˜ÑHÍ-d„ñ[Ïs‡d2¾E¶7ÚIÒ#"H·+ö20>½˜>_L86¡ÉğáŒ=5MçË§R2‚[\3—Æ3Bå®ó!bHõÍ÷e”}Ó¾_‘¸i‘İg§ÅÌø86%;ÓB¡–tZ\•°‘£6ÉOb¦–ö×RÌKãÓ"jãìœ˜ÑOÏb‹Hû´j¢PÓ¬{6N»Q[}j>Ó¢È>|veJ)T:4wÑóã¢ö¥Ósé	§Ó²iqå	$ÓÑŒ"""BÅÊ¤JOgTdFH¢pÈl4£dêFMˆ«ª}I‘vRqİûô3£™í›Ï(ª}Ø™ÏŠgq®ÕZEjhÛôì¸{n"=HûÒb&19}nª™•hFÉhRáóP˜ÖÕøHĞ]É¹·o†Ì##Uu4£‰ˆ”[#Š%À>‘RÈ$fÓe¶—q«œ×!Õ—¬öåGÙèHz‰
+	#)}Vì;˜£FeÊ75HFt#“9.Ñ´¹^i
+Ãu†gÊq¸×E+dŒ0.ôÀ÷á,î€/]NlŠ¬r\_fa®7š1GU3¦ÔVJ ´PÆLŸ&ğÉÌìeABf¦u03g,©Yñì¬˜± Ú¢™¢ÈĞÔôª°Ğ›.Ï·F3ÖÈĞ¶é¡I©ÑíÃv+k·EV¡(µ}zµ¨(•!sÉŒ%L—ºVrÕD?Ìø‘!Åh¾b|z•ªåMEã´æj_ ‡å`·ÔO‡àJ¦-i”d ùÀÖÆº	W¬ÔW*]ç	!ÌZö¬×75)
+$Å¾ŒİÏ@—KŠ³Ï87+$“Iªö‘¹U›:œyØíGu£Œöp4ãˆ¬zw¢¾éİYåé½$²*Ğ»;²ª wOdUIïŞÈªŠŞK#«jz/‹¬jè=	äôŸQÎ¢¦b,CöĞÕÍD
+:‹ó·HÑ‚ÎÊ|ç1©SŒ@Æ¾®œ(ÔS’¨TÎBù|(Ÿˆ|ùQ>z |ô^òÑ{ÊGï•(½Q>z¡|ô^…òÑ{5ÊGï±ˆØÁ¶&‚Ó:gEzd6ÅLŠ‹0F}¶6’©	gjp=ÖáR¯cÍÀ\K€öb¸©ôõ9¯•}Ôã2uÕ«
+bï›Æ H¥Œ¨çz8±‘qŞˆÔ$œ¾kçÄe»)/´Š¿ÈöåŞ®@Ëj±SY›P(Àæüãb™k‰fš#1GG4ÓòN¨èØóˆŞŠ&‚â
+1&Ğ€ªİröì@` cÈ4n|uqGj!ÄnC·aì*Î8MÀpZÁĞVõÌèRáÅ³±€(vœEšíÑÄ˜D/£$sØbf–Æ”Ä¶é‚¨İ„JEI:I#­ƒv€ôÏf”©«—ë,vÒ®$¤fnªØ-¤æÜÏÒHwõ˜9dã mÀúé¥M±YŞ&“¤˜ªÄ ‚ÆP Ã)®¡Š)”	?åHº>:BGN"¶**e]:PMù®Œ–õ÷è¤ÔŠ]yRa$Mg`j:&và†N¹—EÊ—lŠŒ²Ÿ¶æ.’7óvÙZêòİœ¤ræš¥	ÎÕ"çLœÀø£ZìÏ8RÓãnÜSÅtlµ–ØpİölèpoèMn:öF#R‘L[øFöF2íá³Èõ1êº¨hĞX¦Gô1‘©VJšŸÃ-)‰N4€Ë'†+O¢ßYÕâ^“òkºôÀ¿–S™hë`¨*ğ_Zæs p[8§•A|jû²^diò*Ø‚*°KË³\áÖX¦	WùÖë´!9b³fšdZñ6BµØ‡êûqãÍik4B:3‚àXä<@?ã
+l‹œ'¬eÖ2Iq˜¢8ØNq(°ƒâP`gäÆÂBÓ¥#ˆÔ¶!©í&ŠG(´›â1hÅcĞÅcĞ^:g³tN
+ÌÑ9)°ÎIyŠ3ˆÀÅ¡À"Å¡À~ŠC%ÆW/BËŒ/
+­0¾(t€ñE¡ƒŒ/
+b|Qè0ã‹BG_ºuÜ‘7àQö”I x‹ö xŒ*=%ñé8îµ2Î		¤8'‘qNáàÎ<ÕÓì‰¸UéˆÛ$¢ŸA:2ÂíHî@Šp'âvåéİÅúİHÑï‘@Šş[8RFxR„{%"Ü‡¸İyz÷³'†ş€Rô÷J EGÊï“@ŠpV)Âû#çu,³Í(İçïÃ¢	Ã`:Î¨3|ùø­¹Í:
+
+¬¯kä><h°ş/Âº¿)G¯/²˜U*'Ãha~	8B¸Àqd¯€0ä-
+¥#·ø,¾`0 j77|sXTiò£ìC„lišš„ºäß$o»ûn2}÷±+‡Úî[Zzaæôéìß|+[O^}+Û5è!<\$¿Å«À>c.»‹Ä”iÓ|€@ü„û%qâ´¥	76ØIÛ÷"w@ybüğG¸¹Ñg¯â^ıIk+‚5¹tP–ğĞs’¦ƒç8z¨²€J:¢ãÅáfecCS¼¾ØnS‹¦RQ¼>œljJ¥šš’ŒV$áÏÉÓ åH}¸9ˆ¿{:pêTà}IÏc–~²e)‡OWH–«„%8H”øùq° <™ƒ(Î*!×>^(yæ]ËE>”“+¸ösnŒS¡õ‚‰r5â’a•’#[qØ&æNJk/E³qJgXlö5ú‚ÍÄórv+yúå01›bÏö>ËşåY»Üaòô‡H¢J¢i2ê´ÙªRòœp-a‡®°«´Cllv¨pîğùØ]ÙíwÅ.\ˆİE>{W,+üqå‡?\ùÇÒ‚ÀöµËğ-î1ôDeãÓ	ú£'F€ç¹9á¸Û¹QwÂ€}<¥Âöt¢H¥0è”•	)Š”TO|0®âUÆ<¡ã&9Ç¸œÀ‹äÌÌLöÿp{¯;€ö'_ iî<T‚'Wáç*ãÑBş1wÜPg†2eÈcÈ¨áˆ^Ë¡ÓÀ’’Â‰“šã8~¯JÁñüé³ÓéNêéJÚB;	Ï-_;,‡˜N””•z=8»Äåt ËVKşÇP7¥+®b—=À®@s@eÅi×Øö¢É]Îçxï°nß÷;\ewZïz¹ûÃİ_Ä¼½üòËDıaj·†µ‡ÉSÜO!
+í‰§9ô¸‚ \„pènÃìh‘p+è|<ÀãÒÇêQˆ½A…Áv4VV›‹‹ãõM1ÕİÜ·;T••¿Òn+Pù*ûëñtiPµ4‡‰ĞxOGmŸ+âl«Š6±†©#óBµ?^êï¨Ô‡*cİ‘TZ»8¯¨£nOcXŒUTÖ$k·ÌêÑVµË|1÷(aEÑâ}…CHËäez®‰%ÊE¢•×âÚenñuĞ 	èO¤l<ÊØÕ^WøUÏ×`˜b©¼p5ûÆº3# ÛÉ¨AßÚ
+zJô††õ1«­ØÑ„RS9­şJêjMÍÒMr9¥
+õĞÔ— THP©Ú¨ªšüU‹1šòú*"5í»+Úü6Ge_´³7’ª§c]¥#E­!ÂUì	Vìzf¤Áßí©Müµçn÷–ö„½á¦+/G'š#½Mª‘òHÕ`[¸·Å]¿·rü–Äég™ºW[áñW=Ûšğ¸ª=Ôîèçğú¹:Ÿ€¸ò*Ğ«õ\nå"è¹–kâP:AÏé£¡ÈÄ%¦š7óÓ¼™|áÓ»wZŠekãDÃı•4>:˜NšJô†bÇ÷ºúû»âm­­m™ÅßwßëÎ½?>vìÇ{ÙØÊµqø±<VÍÆ™†©‡¡BÓl\)däQÎ…×ï»ïÇllùYæ^#x.£A¯ÓjÔ
+4-ÑcÈB™`´˜0¶i´n;0La´:j3í×Ôi–Ls-Áò)ïL(æ:tĞÍxwPº~ô©×¸úÆCÜÜN€W1z‰b¯ÛtYè@Ç–«ÊàÆHk—®Qû~ºçé§—¿ÙõMüÒ¬YÛ/Â1Üq½‰ÅX)dã„tNÂhy%gp2ñƒJ  ¥láZÂ)9g Ü%Vôÿa­µ;D¼wYC41'í%JL¤äİì%q{Õ›Úİ-Ù­cñEäI%	Gnw„Ûa´p{tpr§Kõ¹ *ÑÑ®Í’mÜ‹8+QÌ&}@RÁÔ'Z¢ëÈşıãüş·aq6²v™¼€qV‡{4QQ‡Ì!'Fh ‡9AbÆ '`µè‡Ä”ò*¦‚õòŠD_û§ÙÃ‡g÷>¼·¥··¥¥¯Oÿäã¿÷Ä¿÷ø“É»?ğÛoÿÀîfû~<Ãİz˜|JAs\n\%üĞÜpÚøÄÓ³
+Ú'\ìáî§ßÉÜ¿¡'0 ıŠFo±Y,JCI]ÀhÄÀ·ÄícŸˆô”tß×K¾×¨v˜¯¼Ø‹*pşçÙşR—ˆéu(k1`£¹—¬ [_ş$Oµˆ[D¨‚Eßxc'‰«
+®G„âöĞìı¡^O,tSgzß­£%-®Kõ39oîŠÑhÓÒT×™Æ9a@²[	êÿkÈG5ô&zJ\/º€8Üx ;Ø
+DÅ(ÈõeÎCJ=»Ùd4¨•PMªU’Qòûnõ¹P¹Î©ÊÎVµò§ÃûÅjïhKÛÖ`z¸wÌß¥¼‘Š]-“‡mã-{õÍ¦ÒX¢±²Uì›|5MåŞ†@tûHÛV›`˜L¶LDĞ,lŸ¾s!L%´¸:9òÈÉæ,F;aú  ²ÌŠ‹VqR¦,Æ±Üıë½rG:aÔjµ6-Ú±¨ÄÌVtœ†± *ØÚèk$Ô ûòKô%ÆxöÏˆe÷Î¿øRÉ Ëqd2Mä\öÎ¨[êöëÈ›4¯Âbx¾9æJ1ªÒÈBõËïE×ß¨_7&­¸7)xa)XĞNXÑ|Nš·õh‘ˆ×X€)ŞêÃ„iŸéı¯‡|!ïpKû¶­]¾oSÂ_Z1osº©sŸ¾É×ä‰¥’[mV‰|UoO÷õÍÕÓµZ‹ò¼ÌÖj}"ğN¢ÊĞYhæ @ÆP—Lš¹œ4ÜœJÊØèø<%v«>dIËXü?İ'%vy~#•3	¥*ïàDQ6Xªè¬I´7t-´õİÜİ0äY[J£[k¸Òñàä|Ãv2ŠìÙ7Òİµ%û¹Ş÷í¿çÑ 7îpÇO/V„ç÷uîn`>Á?B» ñ””êJö°°ˆÉÖLŸ¤é§‰æ½(ß’Ü’Nè€~Ÿm° :Ãñ.fÖv#¯ú¬2´­'ûuòÉ¶­ÕváÖ¯}fz ¾å¾ÿË«Pw/¡îÊpöVhLÔ78Ô˜Ïb­…)X.âaÊ•‹x±(hk¬5Xa1A)“#”n4nÌ7ì¥½óMëA°˜—V`m¿¿ê˜i4—šj'â“sÍ[/Æ÷XÄ@[c¤½ªWÑÒW;«Œé£ãõÕ=ufÁ5X_·µjv«¯½Æ$˜#ášÑ(Yö&5É–šÊú@öÅîºª†Ê"W¤±ÅñÊwIöD—C‰Y¤™ğ‚	ãOƒš€®Lı7Hh2¯Ì¹†_t»lEÔ1Êı*T«5—/II–ìĞMÍJ¥´)æùd{»8P¦ìŒõLÇGJb¶æÒ(fu¥ã¡	t‡x÷BkßòÕ®-¡è¹‘+ÿô48<·î¯Œ0oè}p	]DªAé>Hş”²t+7‡”Qb%ºB3JÄaû÷ûF–7Ü‹yƒã‘òOs™ŠŠF,’Tv‡ƒ¼–$O~ç¾sïÉ'Fë…úQ6·.‘×Èw±f<ÀjÆ7¨é«XÚØÜÜ6*ì~Jš<y¯Dyà‰$µK%Úå6îÁ…;ÎâÓ=n4D®¹Êp‹ÅÔ—c©/óA–úòh¿Gç÷®cH«`¥°»ÀWVRá®À	\!j»æÊ.şª˜oä…EÙã*g8*ÖÕúÚ5âöæá›Äšˆ[áwùı.L.^¬ìhjC­eîpyÍ­Áî–¶du¾fC™âk‹¼—{ súQòAiéZıD+ôaIªí$j®‹€Zve¼r—âê®|«¦ 5–ˆq[­RĞ®è5œ¾ZÉ 5ÖojX•JZ¯ªQy‚(­ ĞŞïv”GÅGiè(¢Qrš4ÜxhmØd(ğœ†_%\wl¢-?s;¨Vn0@µæmiüIø’=˜­ôŒ&GÛ[ëk«Cå¾2—£È¬UC‚$¡,Buq¹å‰«5-muĞVÉÖ2ËüF+ºÖ±PÀ˜Õ,­y´ÈG÷=>“<ù‰©ÅnëÜ]SİªàI_Ã€'>iğpºæ ¡$TÖì¼5İsû\ëĞ}“Ñm~gd¦ßsy¥¶`Kiğ“ŸXüƒİ“ŸŸ¾µ£2TêMöU×W½ÜÑ\·;1z{ãüûwì½¿¿ØÚè*!FwÙcKãHeM{Ã8/÷®5„!%Û*ä³±e)dÛ0g°h±p±ìÏªŠ+™à¼5nªÿQöBY‘hLâŸ¼>ózºëo»ÉÍÍ‡[[gwq]9úÒK8Û.œ¯ç³@	 5Ñ¤Á=Ÿîh8NAÏ?r'$X bıAÈI‚$àóºKœ¶"gö©ôXNÖ.Õ
+ğr:°ä€]ßL-¶ÖÕtvİz×ÜÔÖ‘‘ÅcÛgöì8Æ=$ö·ÅGL‚n$Ù³3Lnk«o­½r¹;ÙÙ*\æJ°¦öÒ¼Õ]¢×	…›Ø×ó{g±Ù¨Q—xyïØ°½XŸLN¼ghø¾Éö=hIªªsOC|OwlKY8´W¿íÜÁç&jüqOYÏ©‰‰Û’XGëh|£:k@©Qú`¢¼@Gò©¥¤#‹I§A•O‘Óê%ÌkãSçûo:?CÜCŸyôw>ßûş;î¸_Š¹8yçĞAM‚æœ¼ÀñK°~^…Ùñ^9¼ªŒ[|v+}ö]äLö‡ÿôO¤{¨ÿÕŸ¬Óş.ó±ªDåµ´åƒn3 ¡TYu‘£ja4õ+¤øzöOrö©DûˆHtb]¡àJiRu…·`…°t•©ò¹<“%˜ÍSsÉ™äææ¢Ö¢E®-¶{ÇÃ£îìİã‰¹’õÉ}·¬Ö÷¿lE¶X}YC‰-vÇGìEŸíËşÔ–eæê™>©Å0ç‰°DËNÌÏéIšTïlÔ#=jÆš
+?wM’º©©ìkÜCÙÿC¬W’ÆìÿÈëDº¬eêãröÏ× ”Ò®Iºä¤1>Üß‡cŒJT`ıE$o–3q>§­F)€‘–†a>B=IáâzíÖ¦–ªÁ¦Æ©Ê	ıŠşä0y!oiÉóÄu#}=T&:­
+M¬ìGîè›4zHµc‘ÕÂŠ;¤'q•5À«ì»&yb™yåÿìyş÷²åWÙdûıÿsİw¾ÅÑ÷éù6sEL¸gåLU:´±XXšJõ‡ÔHJşÌ€Ì×8¶b‰°ËªD_ ¬ŞÃèvÄ^.¸!¡2(sÊÁIY‹‹qÌÆ¬Ô 4¨ø `jÙµr‡®X'è¬ú;–G%'Äoï¼=.ğJø=OEEŸìE«­x¼eŸ$“y½Ùß^×Wùr@yÂW¤ä6Õ–È¬-Æz*u†]Œy–]7ı•5`Õ8åfA¡Äé—}ƒåñq²§?‡pİrcö3(1]3‹¸fLÕ
+Î Îl<ƒ°˜Y<óZ¼¸DLÄ¤Ü¸DX Öæàdxâî»'&ï¼k²}gíééµÓú©GVV~{Û¶ß^YydjKê¶‰3úĞ™‰ÛR‹g:¶6ltÏA‹`M–0Æä#‚¬–}t‘Tø”’…%0Æ¯ùg·ézàĞ¡};&wî˜á*ß>¸´}›öô4Kgñk7qÇQvTCw¢#èã–Òô¼s?AIQ%¬®;CFMF§±ÚT¥§hÀ¨Ø =ê&ã
+µ£ZõÃymş¦3ŞC’Ú–ûÛ‹ı³©¾5uûUÍÔí©×Ó)íôÃ³’ÖfJëÃ…Ğ­Ò@^g"[Ãˆ'j5È-ú2æ­Dà°tVÈšC”£ÃE•Œî—®‚ı]¡ú^I-·÷~zæ±ÓGF&&Fp¶õï±dÿœØ³CÒİ‰ôÙjŒ!‹:ŒH{"­ñé—h´Â‘Î“i(Éï‰e^g1ê,B"òXp`\×Xş(İÛ!é˜ûO†ks=ƒŞº²™²®Pã´lk¤9å«/ÙÓ>Ü4¯oˆ5UT·×úCc•±:YS?šÜ¾†HYU‰.äÙÒ°½®5ŒämÔ›
+|‰RåâwıÌI*ŒÀÒB`™°üù‹ä¹­ııWfëu'®Ò°ÓõÊùÜª@\‹Y¯U*ÀNìù€ÆM© “C(I¥vMVõ…#ıUã]ôg–ÉıÙÛFvUTì!ïÍŞ¾|¦QzšÃ0‚¾Šü¢OæCÃzÄÃÂÜ%E<¾ Lñ¯¾š^´”Z‹§èğvÜn³µÏ·ãd_nÀŠûg¤í£{’Ç,ÅCÜä@˜Sˆ|—g(˜K
+Bèíüï>ˆn[¤tÅúôÔ½S'¨-Ú¾íï;8£6ª¥I=‹œ|²ñ@KËÁ²˜ıdÃA	Âğt¶rK8¼¥2{ŠòfÂ_ o.º‡ØŒ*²ù‚X‘«ˆËÊÇ2GÍqSP™%•é¹ó»Ó‡I0Úõ;§/<·{Öà6Æı^2I:Ÿ(x½‘â'²ÏeWWñÒÒ¸ËP¬Püç7A !âôüfš7ÉUÄ4ß¸arûó/¤·›ËÌ‚ÅošÚùB–<ü¥òşŠŠşò/ed%İGñãç,ÂüŠeÙ$wºw³“PL…Š,’ „¾Ÿ=JÒÙÉïgÿÙSÏ9ûë®¼5ÀhÏ¬-÷<z²?Q†•,RæçaıNî ‡{xÍ\8yò¿»æ
+WCi×fÉÔ;œm+HœWöïÛ‰N>ÜÆ•¾¶ßÎÏì{4:7·ºfnvd·”8qş\—­yûS”Fñ§¸Çèw½«Ê…Ş„GIç¦]÷Ót…œÊå†T÷«Jèµ²š‹UÇ¹-ç{ê„ú$òì]™ûïgç’úµ÷·Ö¾„¼W2š7ü¾€’t õäGw57³óŠ;¸6²›û	2˜@ŠÁqŒ«äX¹TÀ“	£¥,+u”
+ĞãN–­Nvˆ¢ß9B¿ÅìJÁICö{Öû1v”‘$‡c½!§õ«İã&à®ğTÛ‹ÌX”Uş{„fVæ,,º^‚4×e%ê7:'z´(ªŞêıóméñ^_>æ$³UõúÁäÄ”¥¬) µ8B‡oÊ~¯Í[Õ+–İ«cbˆş!L ~ş™{	¬˜]ë%}˜´DÁ—z9AA¡ùaY…ÍDj¶n†}bš_PÂ^ê^#¸ñ±íúÎÓQnĞ¶ï*$ÔŞIS¹Aåï@í]¢ÊwØm¨|—M´‹F½Z…;‚•XÕòPÑU·~Ô›ÿ:‡°¤Ê¿EäUÉ	Î7Ú»¯}oÇX{_Y" vë}Şzî¥oL{ƒÜ2yª«oi×ø¼_\ó8¤¸C}ÒÍ‰fö.=î%è‰¤\İyUÅ*—@â¹~ÅšKb¬=Ë=»jû\UÖ1ÜšJùÚŠËKÇôÇÆ'uˆ®zKqÍö–É¥[½7ÀÖIòôCÉà…„MHÅhBnØŒÙÖĞU”Y”´É_Ç€ër¼ƒ7§ö.]e@“Ñ@¿pèÈŸÈ:‚4†I‡QËêúÇ›´Ï5Ww‰Â$®Ï°+ÑQÖZì®ì×ßÛØñ®Ò’Ég¯´´zªúRY£f²eç¼S¢¨«ÿöÃŠR‰„—(„R‚-}IAÀÊx‰²—ó:…"ÿUƒFM9u[LjQ#*P•üUƒRßğ5Mú|ëi©¶´µJu¥+ŒVí^l™™ç¸ì³Ê=NW©8F¾àM4lÍöu;ÖuÇ²Á©Ÿ˜²YšŠ=’¿9ñ£›û.æBs	­w=İÈ0ú9˜ä|ğÔˆ‚¥Zôlâ4êY©<©D+¸ié…¹şÊ&½é³v°[ŠÊ1?U<,k–NTÑ3~;;˜ìÛâ¨6•ºz—–Èt)F¶îÔ¨:43#©ìÔ£k"ù)ê´ºĞİ+ú
+'(·(9"§›tD‰úU
++ìøÖĞÌ)ò B¡ÙÍÉ=¡G„Zdøî¼[6ló(¶ç¾ÁXë¿`æßlRêÕDwCœÀ@o÷hb´­%ŞÕĞ­.÷Ó—qŠmPOêë;„ô­KÁ—/z°“;è”¾i‰ËŒ/øBÚ*—~ùÛ˜H­ô¹üVg°~ªÎVnøÌ¢ÅY;^ôŠ*êf¶oï82\İÙwt6õOÅk¦Œ>s‰sèŞî²ÖbAò”Å‚­7Ü8Z­RtæZ_|¸Ê¢sÛ¥ÍôÛÕîÆÆÆÆîìƒ•şA°VÛƒ1ù=üø>Æ­û­XáK¯ûÉU½wÖı6°¬å¹º?¡iÕÏ¢³eb‚ŒÔLDj+Ú+0/øjæöd¿Eªz»*+²Ëzñv{š«„C)áğí¬}íkA¹ıÈz»Ìã›È£ªAéÌ„ä¸¤«âúç&ÍôÜ$¨²OLp¯îşı‹»>´‹{)[¶ö|öõ¿>püÊ/áì}Ìóèq&QRÑ’?î¡ï¬÷È‹$>«š0j•RW¤imà®|Âj&¤K-ñÍı×–>™ĞˆN-O+AyQKé«(N¨U
+e³ò¢)ÚJQr®^ˆa½Áø¥n–Š–@Ú±Ü¢1x©¢hnNıwƒ9Uùû†iq8ÜÒmªm™ˆÄšz'"5M½äÍş@M]¤ª!gã¡ìãò-ï[(¿Ş÷´•g®%	oe{,­Nç½K–ÜÁØ¿Öùd±7yİAT`Ã5n+K[è¶(``4ï·L¬nË±ÜáïP¸Ï„î¼öL3·Å}Ã3¡|( ¦ö¥îî¥öıİİû;ºGFº»FGål¡ãØÄø±Ş¥É©åå©É%–3ÆÉ?#4WøzÂÄ°tÏB8L÷r©‚B‘Sİ³ÙsûıŠî6~=U`úÚ\ƒh}gjï‚5Ín9U@Ş­å¸c±â*g	ù›!‡İZ˜èQ«øÆÂ3˜âµøS~î4ËóºË}]¯pZ<¡÷Ş2q
+“…íŸ"ÊÂDæTqòCIOD#çÖ¦|bµ!·Æfnc³u3ìkrk*¼´Ğ¤	Y¸Vßò¶³!ãº
+ÑúÎÔŞ¡Môm«(§úV4nøºœ~õfáó2ò€àª–’³„S'_Ë'f¯<9í	±äÌë]!Ê‚ÌLZç3¨o¼,)EoÖòìe­²ô©Ëéy#ŞF”¼†‹X(–|P®ùe’Å’÷å3÷õ^ëuÆ]oÕš»,`Á¨(o’wÊy¾$œƒÕ^G‘Îj*K¹È›Ó±&m?Ï×we_b{‰cÄ½¨‡*hHÔ91Õs	&0ãË¥zw^uôçuÛ0q®"UŠkŞ•’Nş6ü9¤÷:¾İ8ã¯û¢µµb½§<Y•‹z*]Í¾X¸-ZÙ®ÓWøjK<Ñ2—Ï¡5CíceÎš"[µÇç7Ê›#Ádˆå§k¿$ıÜ{À+	­(‰€’“ßğ²7vè[¯Ü^újM©„}ªÜ»HØÏñ÷_¯«kEféıK¬îpG®: ©j3{'2¿‹*ÿf´spXÛwï½¾jƒÇh±ÖhÒ[ˆ¶Kñè£©ìåHBÕ¦ÕQ‡PÇ¯’71¤ği‹xäöeÈÔèû„	¹KNJıÏ6yİAÔU,èknZšØˆMyuV`‘Ë7F'Ãµ•í~ê;şaıÜÒı~oW0LÒÙ’áP­”ßĞ‹âP¦«Î1O¿ó9æ³_Ø¾[çĞ	:‡v÷¶Ï‘7³?-Ë‰-[’¯A¸göµç˜§ósÌ÷îP•‚Ú¤ÜµEcV	j£j`üŞƒ=£ZP™4=ÈÉ_ú’Á`ÒG\P	ü©p¸×—}›£áGy»öóôuÎ1›ƒG‰*Çú9¦ñw?šîÑ9‚®X×¾ã£¥%˜­9õÉì[­Õ6[µõàÏÿş–âˆİvÜÂÎ¼j˜ÎK 65kZjaôá†yÉ—‘‹}tŞF×i±]¯S)èÑú:¥vnŞ`#·ËìÕYªšLºonŸ×¹Ğ06íÎñg,5}ßV
+	e{´œüeöÿ–ú}ƒ"1\ùEíp”¢>Œ¼\ç¼óôÏ;Òyg¿ Ãk@Ôr:É¾/%¿$Ÿw†é™G‘¾ÎúÁ
+{AO‹¹÷óN	(juû"ºj!LÂëçaôõëFöuJ¸tYDZ§€Õ:ö¿hoÓâñ€¦­=êy”QÄû\ËHót½·–4ZO|ºy¤¥¦º.6¯‹kMCm|*VW]Ãøİ½¦„Op?ÃÊÔ‘°±SMº*8€Ä¼Á²»íWü[o;¥3Ub`ò5%â:"°/ZØü+XB`†¤XÌJ'¬a¨ø}¢ËQlc/G8¥€»^Ê±â¬QÊKhÔµ+eQe%Un…[ñ£ª$ÒÑª)¯¯/×´vœ“¤©m@iP&&•8îa{ë©Ä’=ÊQšWÈG1æv³³Ö»W£FM¿ge–á©ex7;ˆâéß&a,Õ)Y¥.Ha‰?ÆåO(K¹Ü‘ÅxiM(h/®´ÄÜI± &ÄåwyE_m5»ûkªY®Àx:Bfï[Óïq:ĞC‡\VÛ°ÉÛÖêë¿m}151‘¢Wemme°¶Vhaß¡CûÅÇFGGFFGÇ˜ÖÒk—áŸ¹GQ¸ØP¦Šæ…_Ğ»éßäl/ıÁAÎü*'Ÿ&Z²ŸĞsO\™f>NÂä5¦µ½ë®t„­¸VüäIîê¢<æÚ`„û	zK³ÅF@(Êx[ƒÍq‡î1Å®ßâÚÕüW)çOášÍ½[pú:ïLL`,”bñÚËÜVhæ¦ï9Hg÷7ü4:¯¥@ËÎ²2'^ÜV¯ËYZêtyMZ3ÿWäÃD­Gÿ(OŠbb¼t¸O‡©Ö$ÂÆTƒ}ã&W,—¾Ü9ÑñCµ²“WÄ#œ÷ÊÿŞÊô‹Æ.•=Økêø{PñôßR‚7†Zd÷m[Î^y$ûCõÍü×˜ìH?ô,ı[FêsØß¦¾Yş—‹Önæ>iø'èáEÌj!DLĞD~kä¨âB;¸v0·">ØNşÆ±ÏWß\Ò"'50W%ù}h£ıØVCš1Cºd´ØÁk¯
+¼Jğ²àåÂ«Vî«Â+DñÙXiéúTòcçD¶:wqíĞÀ-áİ»ÈÏğ¾‚Ï@X…×àãRxÛ¿×{ñ:‡ıMò½ïÅPÍ9ÁÃİ;9ºÆ‹À†7‘­­qXW¢3È³ïe8¹z®î ÿˆ<T¡œ/AŒ#‡¸åàÄö(ò6ÿ ½ğËµ¿Ex&øN˜àx•2ü	6æ&ÿà!àÄ1Cä;Hû5¤ñ5œa”µçõÃÏa·<9¹°c-Íô
+k‡qôûµ—é\h¿A˜†ğ|‡7ˆ–$ğ÷ò0Ér»¹Ü¯øj~ßÏ?Ì…ÿkA)TıÂ{„o(”ŠıŠ/*=Ê{”_VU«ÎªU}^õ’êuÕ?¨g5Ó|K[ªİ¯=§}Qû3]BwH÷€îiİ_è9ı¨şAı«¥aÙğ„Q0VwÏ`ršM§LçL_4}ÏfÑ\mş²å„åkESEŸ+ÊZ³¶[¯mÜv—ísöˆıaûw‹—¢ãS·;œ—œ?su¸Î¸.¹~VÒ_2SòtIÖİæußá~ÄıE÷ë3óÖ›á˜-áË¡´÷Á±í£î/ı–²ˆ¾!¨µ”ù>…	Â¥2ÌA5tÈ0ğ~PÉ°úáÏeX	HH†Uh“‡eX~û˜Ó/ª.Ê°î!ÿK†uĞËMÈ°ösŸaúİÛ2l„­ü6Ÿ\†ÍĞÁC†-PÍge¸*…?V„GeØ~á„ÛA/äæ*†á÷eØğWdØ	ÕÂ÷dØŠœ®J W‘ãÙ~E:’Œô•(.Ë0å=2ÌQùˆó0¨|B†Äù;VÀ´J+ÃJ¨Tí“a|Bõ «A«.•a8Õ!ÖA½:!Ã^T“a#4è$»`¹
+fİ‹2Œ5î{2ÌG÷¦óP¤çdX€q½M†P¯_a%ÒB†UPkÈá«¡ÉP/Ã¨7,Ë°î3È²£İû2ÿh÷c¦Æ/É°úMN6A©iF†Íà7İ!Ã(7=&ÃEˆó¶"ü†ÛÀiÊÊ°Ìæb.F¸R†à17É°ó–	vÁ¸9Ç[	Ô›¿(Ãn(5çtå¿E`°u[d©”a•–æ Ô2#Ã<8-wÈ° »-“atYşN†•ğ@QL†UĞQôEVCQGıÖ&ÖÂ­ÖMD¬—eX;l¢à˜í”¡Éö–£ní¥2l†ˆ½C†-Pk_–a\Sös2ŒkÊş5¶Áû_È°ŠŠ'd¸/È°šŠ¿'ÃNp:ô2ì‚r.›ãŒ£n’aDŸ£°šù­ã2Œ~ëxK†Ñoÿ(Ãè·N›£ß:+eıÖyJ†ÑoOÈ0ú­+‡~ëê•aô[×F¿uåx@¿-©•aôÛ’MôÛ’?‘aô[wµ£nİGeıÖı!F¿ugdıÖı]F¿uÿB†Ño1¢K0ú­'$Ãè·F¿õÊ0ú­gA†Ño=9ŞĞo=/Ê0êÖ“Óú­·˜ÿ‰–ÿˆø¹Ê?Ï‰ÿ*^_¦-0wÃŞ¥öÂ+Tñü†*ş“×ÒÆQ_áŸÂÏK¬ï9şşë=Â?…XÏ#L1?‡ıÏñz[Ÿâ¿Œ#om+¢¼"ÚUDYErÛ÷ĞùßáW!ŠŸÏ3:OâÜEZŸÃ¹¾‚="ÿql½@éğßd³“ÿ#şórßïÈÔ·æ©ıùR¡ãVQN*é—™,w/ò/cÏ3-ÖçÃÖU‰&·ÄOã|Ü<^+xÅëV?;™Ÿëcüã?‚3ıÿ$¥‰”Îo:+Õ÷Åëö¼ˆ|iöåZ¿Â ¯3øÂ}H6@Î‘æSHç|z
+mò$£ºŠúyF’@hÂ«¯Ñ<Ç£U^ÀY. ^Î^U›Îÿõ¼L_AÚOÉë
+ôü$âœgø«›ĞøÜ›jX¨Ç+W^ÍxµàÕŠW7^I¼úñÄk^tÖ=›Îr¥™jeƒn>£/7^yÖv¼Ò×¥¼ÊVËõ©ãUR ç×dJO¡MW™¿€úş£Di_ÄñÏaÛ£è}_Dİ|µÀš…kèóØBWÃ³x}!7Ô2ê›ÍyÂs0ÿËæë•­òóØŠ|¡İŞÖõÖÅ¸È|ø_ºşÄ›ß8Úü›Z>ƒŸõÓñVÄ
+rk†}°Hy€e¬NÀQhƒü=Í~c¨½Næ:Œ}UÁ§añ—Vt‹p¯cp
+?°¥1`¯£Há0AtÂ$¶D¬yX]…Oˆ7‰xG€j7Îè-aß!l;†Ï1ä¸ynG{!	cÎCôª±Òˆ1Ówƒùv0Ş£<”kqÃŒËØv‚I~¥¡ûêX;Ê5q,ÅØ÷[åzìmbïÇ|­0èiÁ	l›cÿnğa†wÛnÆy6Úm…qLí@Ÿ¶ãµŠd…I„æØ“Dó¶ÖàÈcŒ’4†ÂóŒƒ#lÆ†+˜cGd»z/¶‹XYJ¸ïŞ_NÀmˆ·S8F’oİ?&™L'p,•q]‡ğN5r„y•æ$ã_â8'ï$lÁ,CDe¸…”‡7P {µs¶8Û8ïº=NáµÂ,¶?7øÿ›·¶1øjD¼J;Ç‘&ÕíQl£Ú=ÎhÅ˜-–°Ç_ÅÉ;ëhİ%«íCıäì.IGíMW]ĞLcLâšq%ô0­M2ìDh
+-:†3Å{Ğ;'ğsŸ·°UCµ;Ÿ)¼¢la=–úú™Gİÿ†°‡âPÚ‹²~$‹ÑÕq”qœñ.yá
+úÇQ¦sÊyŒÉºÈ$üõ-,¢nŞàÇÙ˜yÄÚÏ0Ef¿#líÍá§äG‡‡™.s¾±¾^$8Ìd¡¶]ï_Bè{„­Â%l»M^ËÔ[%¤{â]X5öùÌd^‡‹ŒçÏKW=oÈÍ™®1íH~3‡6^dÜ-2$_Zb/bü9şN{"‹öQ´?¥òW8Ã(>G¹æ˜–)½>YSö?©«`€Í¼È¢İò{BÖğzËYù(‹Í”³Ìº2wïœo£G£ÇnœkÙêøÓÔ>FwN¢Ió{cŞr~·>êâ»u”ù†4âE6"…~tŒYûPŞooF?Yd»ÄœìY›k§0*—WÇ‚÷®“ÍcL ñ}‰ùá
+óûªMxØLCWeó²Gíû5¨HÖ<œçî×Îå7™c‰íÉ‡™-ÉmWÏsİ~zÇ7¬¡«)mš½#êóRÔ8ÄF­°¸#EÀ^¶ÿæâõ¦µ›¡0S›d±ê8ó¨ëãl\¿[@Î¶ÙJz§ŞqCd«òĞ¸xò/´ƒP&$„.¡GH
+µÂZ·öš–v¼'…¡ÛÚ¤6Xºëµœ¦„KP% m¡‡z8ööÂ Ù!”
+qÕ)Œà3õü~ìëD	¤OéÕ#V'ş	ï¤;Á‹³D£ĞˆsFñN³~Ô!RªCzµ8§Ìñı	>l¥üä$ª¬ˆOùldm-t~ìi†‘»Fìë”µPŸãgH!f½0DWbR-ô2é&“ğİElÁ#”æk¸4[ÇèQ¶áŒ	ì‘¸ÈË%EïMÇ&óc¯'Ë:•‹×¥Ò‹¸ï–
+‹ğ¨ß$³ç@^[7Ö%õ•zæO}øÙ Œ	[°¿#§Ákcº`A¼vô¦Z¦ÉbUBÉµbÑ›ZœÎ\W`ñ¸×Øô7‹ÖHµ…ys;ş¶\åOmÿ&3®¯ÄÍ)n¿j!ÎÖö:/ıÈY/RÂµEµ;,[¦)v"Í¤¼J;®Š yŸI V'bS^(×9:øÊëÄ†–\üv uŞÖFÙ#Twˆ‹2¿O\c«uc+ĞOán™Ó•¼kÊ:»6VşÿbíëÅã›5P¸ÖZnİ¿¿ı‡ÛÁÿ³"øÏŠà?+‚ÿ¬şTìÍö³ö*ıëmò3t^š˜^%äCé‘ş×GWA•Lè>wŞ³­¯4PÍZlgÕï©÷©w(·*ÛÔU¹ ÑÊ]+àÎ((wãBRW„8ÖeNöèü—ÄKKÎKöKE—Œ—t	M)ê°Ó…¸æ—vÒ¿˜‡ŞÕròà¶éLâÁiú¼Ğ»¢ÏÕ 5@oÚ½¤M_VßDH<8?•ë`ÿŒšíÊû¸Êå4¦«Ê˜¢’Ó«/’µû3ÂW9è½ XPB/ı£¹ÿyk“İendstream
+endobj
+375 0 obj
+<<
+/Ascent 1000 /CapHeight 660 /Descent -326 /Flags 4 /FontBBox [ -614 -295 2159 958 ] /FontFile2 374 0 R 
+  /FontName /AAAAAA+SourceSans3-Regular /ItalicAngle 0 /MissingWidth 653 /StemV 87 /Type /FontDescriptor
+>>
+endobj
+376 0 obj
+<<
+/BaseFont /AAAAAA+SourceSans3-Regular /FirstChar 0 /FontDescriptor 375 0 R /LastChar 127 /Name /F2+0 /Subtype /TrueType 
+  /ToUnicode 373 0 R /Type /Font /Widths [ 653 249 800 304 271 497 480 619 619 653 
+  653 653 653 653 653 653 653 653 653 653 
+  653 653 653 653 653 653 653 653 653 653 
+  653 653 200 289 426 497 497 824 609 249 
+  303 303 418 497 249 311 249 350 497 497 
+  497 497 497 497 497 497 497 497 249 249 
+  497 497 497 425 847 544 588 571 615 527 
+  494 617 652 263 480 579 486 727 647 664 
+  566 664 569 534 536 645 515 786 513 476 
+  539 303 350 303 497 500 542 504 553 456 
+  555 496 292 504 544 246 247 495 255 829 
+  547 542 555 555 347 419 338 544 467 719 
+  446 467 425 303 241 303 497 653 ]
+>>
+endobj
+377 0 obj
+<<
+/Filter [ /FlateDecode ] /Length 682
+>>
+stream
+xœ}ÕÛja†ás¯b[JÑÖ.²i İP{fS!2šƒÜ}×ç'éO¡t½ãÌè
+kzûp÷0lOÍôû¸ï–ı©Ùl‡õØ÷/c×7ıÓv˜”¶Yo»ÓåèüÚíV‡É4o^¾OıîaØì'óy3ı‘'§ñµyw}~|X?h¹òñfÿ¼~?™~×ı¸şwÍòåpxîwıpjf“Å¢Y÷›üº/«Ã×Õ®o¦ÿ¸ñÏe?_}Óİİ~İ«®WÃS?™Ïf‹f÷‹I?¬ÿ:WÚ+Şó¸é~­ÆËµ³|,²Kv;“kt[½/UkÕVµWU_Uı©êëªoª¾­ú®êÏUßÿéRùK©ºò—Ê_*©ü¥ò—Ê_*©ü¥ò—Ê_*©ü¥ò—ÊßÒß›şÙôçÈ¦?G6ı9²éÏ‘MlúsdÓŸ#›şÙô·ø­[úsdÓŸ#›şÙôçÈ¦?Çd.ôüB¿À/ôüB¿À/ôüB¿À/ôüB¿À/ôüB¿À/ôŸÿ«B¿À/ôüB¿À/ôüB¿À¯ô+üJ¿Â¯ô+üJ¿Â¯ô+üJ¿Â¯ô+üJ¿Â¯ô+üJ¿Â¯ô+üJ¿Â¯ô+üJ¿Â¯ô+üJ¿ÂoôüF¿ÁoôüF¿ÁoôüF¿ÁoôüF¿ÁoôüF¿ÁoôüF¿ÁoôüF¿ÁoôüF¿Áïô;üN¿Ãïô;üN¿Ãïô;üN¿Ãïô;üN¿Ãïô;üN¿Ãïô;üN¿Ãïô;üN¿Ãïô;üN¿ÃôüAÀôüAÀôüAÀôüAÀôüAÀôüAÀôüAÀôüAÿeC\6v6ßÛ&ê^Æ1—Ôy=VÎvèß6èaÀ]xş[…¤îendstream
+endobj
+378 0 obj
+<<
+/Filter [ /FlateDecode ] /Length 14141 /Length1 28160
+>>
+stream
+xœí}	x\Wuğ¹ï½Y4›f4û"Í=ÍŒ–ÑhmÖbvk—,/[¶%Ù²$G^°eËNì6+Æ‡ÔI ¤!@@G6“&Áì¤XJXòõoC üJÿ` mYbé?÷¾7£‘l'¡´ß×¿RŞy÷{îÙï¹÷= 0ÂmÀÃĞàHYåmİ£G°åğß½âPÖİº. Òˆ—c÷±yq“£ì Ü&|.ß{hzÿd™şv ş “azîÄŞ+ıÙå –û ªm3S{‚|á[ O ½šlÈúê§øLéÌìŸ?şÕ{²wà@›;¸{â£åÌlx¾½âø!® çëÇgñÀÄş)ÓÇyŸ Z<2¿üwP	0÷"í?txêĞ÷ßwêa|şÒSÏqOƒ
+ù=Í"F¯|';¡’a«^ËóÏqÂËÀ-#”Ÿ–öÖAA\^æ_Yz
+å{…tŠ@>@ûÈî:¥` 5Ñ1è6ÖúÇüph©«AZÈè‘¾Lf°@XÁvp€\àxÁ¹~ä* ù A!a(„"(†ˆ@)D¡Ê¡õƒ*¨†¨…:XõĞ Ğë¡âĞ­ĞíĞh–Ğ=Ğ}Ğ0C0a6ÁfØ[a°¶Ãì€°Æÿ(É3şOÀ	ÎŒ
+ñ-¿âï,pg¨ –7pç–_#¯/¿¶¼á²¾å×¸gÈl¤½Üs¬fñw#lä;¹Ï“ø¿{Â••9è,8™Î„s¥ğÃd!=¦ŒLËà…Î—â†{Í×{ñÇÃóËğâr}š+MïßNÑû÷$DÄ$líHˆbï%0÷&Õ#ÛF“UŞdab|¯xzóh’N|V‹î°{·4é’HB›Ô~}­m¼µ4I"Iq|oi’‹H)Pšä#â¼Í­mIk›8>ŞºÈÙÚZƒ|[’kÛt\L$Ú&ö$…¡ãç9C2ÉÀ”/@[Ï›ì¤Õ'"(µ·+öIIJœwM(D’|IÒŞ6JçK:ÚÚ¯¸GL^J
+¡mç‰±­cwGRİ1HòÁÄÆí£ˆì==*&‡†°)ØÉ:
+Õ%â¢Œb“ò$&Ëi9Å¼<4*¢6NOˆIİĞè8¶ˆ´OG¡
+ÕŒ{Ç‰„µ•4´íNÂÆÑ$ôRä >{{“yÊë¸d†İã’
+&‰=‰$)I$	â”GjM”&U9‚(“¦mh4©‘Z“Z©-€CÆK“j¦nÔ„¸gQ3Ù*ÒN*®WfŸşMfwìNªŠØÙ&Oã\‹åª jhxt|È;±11*%	1Å>/Õ‹ÂJiRIfµ•œÇ¤À´®ÅG©UBw‘Z'’ÜäŞ$ÙŒ$5Å¥É¬ˆH¹5¡XLŠ”B2> (ãíŒ[]ä|–	Ú:Z‹iÇÑGV;’A¦BJ…6}\ì8-MP£2eƒ—$)z‘É—hZi¢]ÂxƒáÉŞÑ2™"L Fğ8‹W
+$ŠÑ‰³#‹×‘Ü3Ñ^š4GU“Ùm=” h¡¤™>mÄ'3³—	™™RDÔÁnœ9iiO‹Iª­4™éİ4º(ìiO$SÒñÒ¤5Ò;<Ú;"7zØneí¶È"ä´m]ÌÉiK’‰Ö¤¥„†ºVëb6ıcÆ?Iâ@[ğÁ¡ÑEª>”·õ4Z§5$–‚½r?‚‘L[(Iòß…­«u.X%ÔW[ÖŸ'„0kÙ#°\Ç¦ÑdÔ*v$Mè~F	]®UÿŒËEp¹°Bkk+Õ€ûÈÄ¢M[’|g‰7Õå@í%¥Igd‘Ğ»õMïîÈ"OïÈ¢@ïŞÈ¢ŠŞ}‘E5½çF5ôYÔÒ»?²˜Eï%)¥ÿ¤z5-‰Ñ$ÙA£¥4Éèt¤;ß&w–ft†Ò‡åN1Éì’Ê‰B]”E¥rfÊ@ùDä+å£w	å£÷”Şƒ(½‡P>z£|ô^ˆòÑ{ÊGïÅ(½G#b#sØ²Në1é‘ñ6fRÂ(õÙòH²¬$Y†ñX¡Ğ%ŞÀšÒDDûbx©ô•)/šÔÔã’Å‹*bïÅ¤H¥Œe¨çF8U±šq^ÔdœkçÄ°½./´Ÿbërûz©n±ŠØ©¬5¨àúüc°LÔ•&k#Qgci²îÍPÑ±w#ú:48‚bTì¢)UÛ}út—Ô…9d>Ìº¸"Õb·¡†ë1w9’ND0Ú¢Z“ú¶’©ÓQIO#Í†ÕhbT¦—TK­)l19NsJ|xô‚ ªDï!¤ò$Zi¦ÕaÒ–Ø©s<©n[®ã4ÛÉ«’Ğ6¾GJªpQÅn¡mÂ‹ğ8ÍtkÇL k˜ÿ¥N´±„3tÒK×ÆfAz×™D’sª“C…§º†*R¤L)<şU2éÊ\è)]ˆØª
+)ºQMMé®¤õwJ]tRjÅõiRadM'aÓhTlÄr¯4Š”/ÅIuŸº3kÙˆ×óvÅZuùæNÚRæ§ÎZ‘S&cşˆR-v&m£C^\SÅÆDt±œØ0n[Võnô­êm½îØ7ÑIÖ—¼Ñ„í‘dCÉiäú
+uCT4h4Y#:˜ÈÔ?C²æ'°@k•E§*aøD1òdú‘E®5©! Kwıgy1•‰æ±F	SU†¿
+Ÿ]˜€ëKRZÙ€O%IÑ‹"MZİ¨»öX`„[£ÉŒò´÷"9b³&kî‹$×á­Ÿj±Õ-vâÂ›ÒÖ@„:t²ÁÁÈyÜ}"0„ ¡Àpä<a-`-#§M‡›)¶P
+l\À\Ø†Ğ(B„A‰È"·mCHnÛNñ…Æ(ƒvP<í¤xÚEçì@`œÎI	:'&éœØMq6 °‡âP`ŠâP`/Å¡À4ã«¡Æ…f_ÚÇø¢ĞMŒ/
+Í1¾(´ŸñE¡Œ/
+D7¦xˆ=%ã¾M[<L•ÎZñé®µ
+Î¼Rœ£‡(8ÇppSšê{b#Ë qB)úÍHGA¸E)ÂI¤§w}šŞ­ì‰¡¿])úm2HÑÿG*.ƒáv¤w nsšŞì‰¡ß%ƒın¤è÷àHá2HNË Exgä¼U¶Iµ÷¼Àñ¸iÂ4˜h-Ij§’|ÁĞñÔb]Šûş!ÜUNr {ÿlÜíÛ¡&C¯Ï±˜5'}ha~8B¸­Àqd—€0Uä-*µ³$f	X‚±pXÒÔÆjk%'_&Í—³ô¡'ÂEBQ‘P,óß¼kéßÉ=pun{ÿää¿íjhXzô³O-İK<E×{5P¿&—AêÊ’Ú0ş:íûk¬½«.rî\ä¾Ü ã~œçE	,Ğ×›ôÆÈ]Hf¾x›P»…ğÆí ØÇ™ÎlOÄs4j £^mÑX*Gmt–Ôòá˜†×ä‡ª«jb•»M}³]õ€Ê^ŠÅBxı”TŞyçÒ7~].¬®.W//C™$_ç>	!Ô!€ÿş_v²@~Í/ø¡;ŞiÊâˆAÇÀ´šÂ|¶·Âü.Šãù…~³‘Óëê üy¹>åõ¸]NäÀjIÿı%±Z©Z¾bvÙ%vIµ’ÆŠ›œ=›LÛì	Û$^ÛL›v:·9'IÓä¥İûv??x»téñîc:/ßO¾ÃıJ¡!^çuÙyøTpğhŞ>Dá€p³è	<$¨C `º )ç†UFw‰³:
+×:±Êšêª¨€ê«­Ù§&’òÕv[€ÊÔØ¿_±½ 5Ø^P5¶7†6vN”wçöºkÅü kì?°Gn÷»
+î‚€TÚé™0MOiJÅ!§[¼üÒ–h÷ŒyuïY~sç (Šï“äB˜ ?Dş²°T½DÔÉêê_<¸—_ãŞøz¨€Fj%©¯IbFàËø¾RBºÙ¹/ÜF-9ns?Aß!ä2`4ÔT…C—¡ÂXQHİÆjs8kPp*ª•9OmˆşU|H­qĞşÚ4¡°Z¶¡ª	ÁéuR™ÃéÊwÍœè*·ÚK†jz¶„×ç{Û
+Ü!Ã]ş@“UÚ¸)4ñŞº¢¢¢`G®ÕM^µ†mö2Ñé_ıñôHûf¿Ôá/ë/j/n­vù›¼şè‘Y³]X°”çI_,.òøÛ,!foôWxıUMŸ0”`0‚\*‚"ØJÇìÂ ƒ‰8=w¤¡ÂS™Ã*š¹¹dò«wŞùU9†7,÷“Bî`ÄVÓv2UÔ:ÕèçóÍÍcµ••µ¦_ºã—¦Cß¿iß÷'ÙØrkVÆjÙØ0S+õ,Ôã™±ºÊÊº1¤p!4ùı}7}"Äh°±!²ƒ|û˜ 8m2ôº,­J@o6@woR½H%ƒ/]¶%.8‚æ—Ú˜³Ö©qjÂ45Ì9çıÆ#®¹†¦!²#2S±ÁulÁ½¡b&’åË‡äU®}(/Â¼¨â¶òè7TÙè*ª]jlSÑğĞƒÅ­Æè-©­Æ ÅÀ`µ;™œK&w^š¹„ÿQšÑåõ¸n~3°3nC]wSÕ£KÃQ(hçŒ.¦ˆp~¾”‘™úòêê	'pRMM¨²jì¶–`Ia(ÚÓ²ñ8Ò,çH€T 'çÅ½×Ø’…o¡†¤ZòoÏÍÌÈò5-¿¿@^ôà‰;è#pĞ¨0}éy££Ä™ÁÇƒJn4¤’¢LÇ¸<Nj¸¯à4m½I;õ/ª÷~êd'Ğ¿˜I˜Ï¹K±õ/wR”c	ÙÛRL:­1ŞøÜøsñ{_˜å× ®?çîF>½P/ÆìD&İù~šàaB™6Ø­¯Ñ+3¯FæUÌ‡+™ƒÑÀ¥îé Ú½§Ní¥—»Ğé,t»
+]®BÃÇüCzüñîÜºu,?lëÖAdµùı{î0ÀÈE]1”rQ,&Lt¸ıa¾ŸGV„q&ı£
+éÄîNzçªDÜôxß`±Y,j£§İÅ"UÓ¼a‰Ù;O/TmÈŸ[X ·ë|¶«¯/ ºÆüuàƒªxJJô8¯“p<ÇÓ¥[QĞe†fó£<./ˆì+
+²¤«^ÏÉIKf¹JNVÆìÁ¡S]Eùµ®şèD[óÎê¦İëÜwmï:¹/RVöôUUUnkZwà¦:^u’šÍöøòR=ñ.7T.ÂùÈ-PP¢êCkr¸nÏb.UM€J…¬QÿR§ü+×ë°™1vµj("EÙÏÒ«
+©º²f¿lI‘¹şuÿ~©=·³°¬Î×Ó±%^Ê¯Íë‰LÖOÀŠ¤«å&Ceá_A¸ÀWä˜)‚ym¡’í#ÁÜ¿¾a¤„ú”ùÚ3l°)®ÃˆæŒÈ!§˜Õb 4* 3Ì°èª£*4©Çrw®ô*‰¸I§ÓÙthÏ™fkŒ¦B	•l­T[©a%ûcw¡<¦Ê¥ÿûÊ§º»‰vÚ?œç©ñ.87En]º÷Ğ9ª_'ê÷eäÍûãf‡YàdÍò
+y˜œiB¢
+æwaD¬V°7î£ëšŠ¦Óˆİ‰¸•€ÛIË?“Mà'şkLÀTo`Á‘v—˜µæ¶VÔ×E|ÁÜÖ2ó3} T»½®eŸ¡*¸Ã¬¬(¯4å“–“ÙÅ[Û;÷TQ]¡<ÿÂâ·zãœ¸ôºˆJğc"Å|
+B¨ÔÔk€I3‘’†›ĞÈl)àó`tåèÖ"¿$Ÿ®²2»|~zV
+æİò¢L¬î˜MW”•å5èè>ÚÖ<–×o®õIõïîÎİxSı.ÌÍï]WQSY¼ôÍ–w\8×]êÍñ·öˆÒ®©Ö]Ur®‹àŸŸ mŒ¿¨E¦SyÀÂ2.B¹>JËÑlúÎsÃ´Ò’ˆë¾5Zl&úØz®6P°›xÍƒê`Ïú¥"O­ëçû>òğ¦“ÛÚn¾oË‹Å¨¿WXì‡é;¶xe™]ƒõ-ÖìX¥§2!–l©LXTH °ª¨J
+˜Mà#>%²µ¹:³ZIE¯Ó¢U¿0Ë‘DÓ¼§¾¹4X^5Ö°u_e ¯›ò…‹
+r‹ÁòüÆB»¯ŞŒÕ÷¸ß†ÊšÁâ]ƒÑ.‡àh®Š’[KËƒ¥Ápdé»áBt‹µ:·¸Œ½ƒ|”é'Ì'Š =ŞBí~fÌ$Ù4“Ğ¤& S¿MeZÓ«S.›·-ÇPd,*È× 6­´Ì¢Å˜\˜)\S«VK+®Á¤ı«òwÌª«ÍË›šwä˜k|ë
+8ôƒšÍ•õãëÖS!ç+‹™C,¢y²øŠ·¶µÇZN:öP7Ö¤lı$¿äÂ`¦û^¬JÍr%J.‘vZ‰"[ïWá˜Vã°:cëŒrÌEê<­…‚Áê ]£±;äÕ¥*ò|òî»“3‹{OÔ—	eõ@éæÃãäUò+.»a©î†3`AªÉy$ºHÈ¥å3J-¼š¾†íµªkk«Ãáj•=Ÿ’&ÏÏÈ”O,îMÅë‡¸w:³q0ĞUNÙùqÙÅš™c53ó?V3óh¿…GÇÏ]Á#`6³³Ë”|Ñò…pO°°6´_»D™xgæíaµ#\œÌó•Ø†¥Éz4W^¤Ø#´„*+Ù–­¨¥º´Äá=¶¢Ê‚¾†àºò²Ú‚_¯T+T,oâ·pï‡V\….ô&4×‰Nè"jƒpê8Ñr-´ª>¯,­Ò›umoîê^>³—u¨®íH$ò¤Å¸€N-èfYœ„VÍí&¥O­&p	'`@a¤ŒÈ¢#H–šËJÀ›£–gÃ-~?‹›î7W„ãjA%è•î6ø‡Ç«Ş|¤‘µ0•¦ @Å$âö6=ÚÚÖ7VÇJK
+Ãr˜ë³ •´Y‹b!³SüƒÃàK,Æ•V'İ+«YìËÕ‰£ÕÍN5k•
+<Ù{ÏMM]§>86÷­…mC…‘¸–³uˆ=şÚŞwÈÈ™¶G³b^U æèDóññº¡ÛûBÃşüío3û­.s^n‰ãÉèÎ{Çg?~sëöÇf;¦;¤Â ?8Òí,vz‹ÿ1RT:TÓy¼76~÷ÈÄ­Í6óH9Ygsßå‹¶äµ·ü;tÈ6îÆ¥Jâ…j¶œ(ç03rZ8¶r`maÑáöÂÍªE«&1±ykÌ*…%ÍOÌïÌ6z‚Áı»çŸ_áWIOccÅXÕş¥;¹3Wçy×‘~œ¯ç³`ĞåÃºxMtAƒq*zf’:UÁ0îm9Jh æz=.[34Fz¤¤ÒÔú!ñJÍ a»÷ÿ }.)ª]ß~¸kWGMEeUçÈ‰Æ¦îLngsE¶`ìZß1ZLî.–BâÒèhIí^ã¢¸g÷Bm¼
+ë[â6`}ë!ÈXz©»™.é•k%»Ù”¥/ñªVV¹Ì*ÀnSlO&FÎlÚ|ïÆæ=w­é.ë	59z6úŞ»î¡áJ)átÅv¶ì9äwnİIsÕWêKvÇ2ô£œÉú±[zÄÉ
+¨2u£–Âi”ú/í¹xèİã¥¾º‘ht¤ÎÇi÷¡C÷w-$‚rÆùÈ/p>=”Å#ô‹ã§aå¬ké]J½¹fË³ì¶áØûÉ¹¥ß¿ôÉæÎœ¼ı–O®Ğ~…ùZQ<t-mecB—&È¢TÙ®$MµŸ<²ô›ı)şÅÉ« Š­ÚÑV~èŒ·Q[Ğ—è> ÍE+:\½UÂô³¥ëŸ×ãÆ 5R|^k:Årt7mÁnâ=›·Ş·µk¯Øï®+îÛnæ^ÍÛŠıîC“{ét‡/}'MÉÍmf:¥Äb“'Â4İæbMOãäÒj]âÖîÇğ·ÿìxà‡Ü™ßÿşê<1/]Ië^Fš<¸q?@Iq)_Hïb‘
+¦¡'±âšzÇdÓHOí“¸>¶¹ f˜äSªÑë°ÂÍ&"©Šœ’CŸz±}BÜ™×)>[6n¨__WÕF_Ú¿©9%ëÎa€P\B2hc }„	K¿H£™DŞwæX-lWˆTc¸İ¶J¼ÆŞVøÂã_şÙ_~ ]~é_‰~éõ¥ãÄºç¯WüívõãŞ‚¹#
+1®T¶òa‘ÅÂÊZõ›ş³Øsæê•“
+_ŸÄ±~ˆÆKÜV5za;DÌt·Éì¥òƒß¥$:Ê3:–qVºAF÷¨•4)–ò8»½ÿ‰%KÈ2ëö>q·&KªÇ¶l	®g–^ÊmÅ†\’uşâÖ­â“¿ıí“ôş‹´<,¶Pä¨¹ëjÊ	NäDÑã}”ºOÓ/†¹½ÿáXÄlAeº@¶ 6áÔŸô…ªo­ÿ)úL‚5§êÊj^3·bÌd¯>Ç¸yõ9†ÅÌ²š×âÅà@?P¯–[Â•+;Ù2zgoï£òß¶6¼ÚwÓ{Ü·ï¡oŸŸœ<p`rr^ÉiåÌGlÔÑ
+Ô§1·¤3"½-'ÛH}%PËVMå5ÉÎò/o8ÚÙ9ß1¼áx¼±;ì›,ûG²q&VÌäíácg°!h7K¹œ ô«·ÛôÖ‡„møX)W÷'ä_Àï´BÆ¼İ£"˜)4Æ*•hRK¼šlQt@<Ó÷I3§dÕÚå,²Mœ†¹£3T3G—^šês|ò´¬§Û?îÍÏSû²ŒÊı¸Zaµî„X¼<ÙFŸÅš–î©UŠ¶Ô¸“#ßi·d#¶ÉâÄ5Ò±FÒšjL^ ûŞq¸½¹úî«ojªGlØá\úıÏNÆ+ÊËå³[	}E‡º+¦k¡›à2(pX>³# ¶’ªé¦>½æùœvÜÍ“be-\ÙÍ‡Ã´lZ“]NÙ¢ÄÖzªr@J”DKc%›¡†Ùö†ıÅb[ Tº®xScGıC´bÜÈÏõçæH¦òÎ²šÑª’ğ.§×ïËË³ä»6uÔŒÕQ¾İ¨7+êMxÍ³Ê¦xåPJÌ´rPI¸ı•,Ï_ ¿»À™O¼z…ÉŞ²²:c“'ÊÁL¦5uZ• bQeéq%O’·ßõ@}mmã»n7ÜÿÙ»ôÎíİİÛÉÑ¥‡»Èòo‘ÇÒ7RÑåÒ¡¿’Íp“î–³Ÿ‘‚ø§>ÿ¾“+[0¹LÃ~Cı[5S5ø)OåyÜİñ"Òézã5Ë¹Ã9ä$—R‚¢Å­$¹Ì2æÂ$CK<Ç±‡J4F•eÕuÜŞª³e	*£:zßÑg›²Ôk›(UÓ5531R¾ô­ÊYÂìS¸acapéEäK2G/7]l&¹şÚàw;‡ÇÊÇœ
+7µt‰PJNFñcO¬Ó;‚Ş®«zÿG?õD‹Áiô}$M·8ªüş*Ç-KO/]ºÓËË‹yîDÿç·³õOŠ‹8==­gC¶;‡i½zÕäög¾üh½ÉcL>cÃÃ_~…<ñ`°#ê>¸4öŠ¬÷üó:«o°vb•4NÁõ­œÊ¬9Å2'Ç"ZMè)	Øˆ¸ô{òÔÒËDJÏœL,uŸd´·.ÏbîKè¹òY¶·¶Hß* Øk7EæèËG43{…Ê&äøÁ;_q|'=ÄkëSSçø±«ñ:oyœtşç££_ıäoÇÿ6uNk¶\³WÉì•ƒÛ…+rpôM ÊAk¶­ï¯‘ƒ[Ç,Ñ½{_87À]xı	:O%É!/q¢Ã‹ê=íqŸš²ÜÇ8E£ «©:“ÚzQíV¶ÁŒ¦ò‘cœˆ–
+¥Q$rfiş¶»ï¾4,Ï“W–¿ŠÒ…Í7|ÏAI:Ñ¦ògFFØyÉ®Ìq¿Dæ÷Z³ÑOÏÕ¾C^G§—àYã#j"/× ÆƒV‹¸•_İÆc[BFv±CJTÛ©~ú&x—>~Mw¡*ıªÔñ«İ‹»ä•ì6K¶NnâÖ¤ßµÈgX©so‹D£®–Âl3ólûĞg¹‚B<XUvSı®½Çu‚Ø©q‡¬~ÃÖæ¡­ÙbÈaÏ-8pdéÿÄ|Ò‡u“®0×éd2·`nupÏàêï‡OËbdëˆŠÏõq‚ŠW$Îl!+òæRéÇÅ-Ù§ú5L(¢V„–}*°	qTÁLN2ºéVêZôe§ÃNÀë¶û~“A«Q«ÀFlZea“44~4k*")ŸîHIG -W09+ä¶ç7–5îÕl‰Ù
+±š{æÉ>Oîú·õm>Ñ|¼³ï®Òÿ•c¢ù}áôOjïé¤{O×ª½ç©5{Oeã!ëï=Ù†•$¾Î·µl8ÖíötEGU¼¹¢"\ïßdh:ºqd¾)×µ]oêk‰÷¶ûP}¦ÿ´‘—‰geÕ[õèOhâr¢U°B´ÓÚV[×ÚJá\Ö.[­ˆw][¥ºiF»‡ÚÊnÃôå±‰v‘¾Å"ÄJ¬Ú´G3„i²HûrJA¿;Ø°«ª¨Î­>‹ìéä\ák‰Mª)3¼óÄğÑõ>WßG¯¶Ux¤ã67Zª­«»ƒù1µ×Ñ^jôã¶xÜGT¸óäTıˆAÀİì4e.åc*Uú]‚VCÊé0›4~­_àAMÔ©w	±U¯Xñp¤LhÉ­Õ%Cy]‡[ÛæºvFnéECOqmuypyg8-Í¢9‡ç››oj·õõq›'—å]ú~}{\0×pE0ÒÅ©O¶Anªš;Ù¯bå=WX@«ÕGÕ¨/İ&a>{ŞD<'pËbX,Z£ÕTµkÜná-Ûº»†ÚüUæ\ƒÛàÍK$È©ı*oõ–*ƒzVà¡¼#K·cÍ_.å4¨×2h€âŠ$#'¨;Õ\–ŠrlD#z¢F«…Y­H'èâÃ”œ5YY·ô=Ô!»ogFİ±&=†ù)CŞÊhú½BÕêÑ)_eKÖÂÇÆ+ÒÃ°C·êÄñºã³è)d\jj¬('ĞŞÒØÓÔƒæm¨h(ç‹ì”‘2£ì×è'ÊÛ”•—*NzX"ï’òÃ,ş•7P|åÚW,=¹dP¿³®Ëê]¢úÕ‘ÀÅ[Õhm®?'¿hhl¢ıdOn8œ‹WQe<Œ¹oÓºHc¡`,ô{+ÍBN{Iã`¡á&Á¬ë.Ğe;¬9m±á(y®¸¨ŠŠ—Î¸fw¹}¹è-4€Øˆ›Ø8Â+ú¯ø¤“Õ©ıé©ôîœ¾ÑN7Ò0Ü•ê‘ßhÛÀ&YR[w%=ã
+f‘õ--g5¾ŞÊáî³¹¢¯Ğ…™8á.¹iÇÒó$PSèv.-â:]‹dş‘{¡­h©±NÓõ{ùëËğÖ>­´Ÿa±EeÉCY0Ï’Ï<Ø;9*F,˜T‰+WiÜ.ùyuŸ\İ¬9©ÑœÆŞòáá¿|ò³8ÔÄ=³tè‹ßXzéóôl£eù_IÎŸ=´jRæ¶Ñ×XÒî±~>•M3›1§êI?aÉ8öIïhhòùZ_ÃY‹NĞ¨sAı¶>.ÿê‹®BæTš”ø\ŒÙ ŒÅ:wÙ¢‹CEôÉ±ç‹¶	Yè×jT<+‚½qĞÚ›
+Ãtg"N_e  å E,YÆ\ªZÓÄ²Ê°šô½S¸¿³¢ºÅè©êE3ËéŸ2r%î/-)Ì¯HY»|iQ¹¥üù·Áp\G¿Ó¢¾˜âŞÊÖ\ºSXXå‡ôùZ½*Lgú!­™úÓH®4ç•fú¡¼¾°<¸æ¬æÔyVãh>ØŞ~°¹ù@{ûæÒh´4ZZªTMó#6-ôÇ[úh-Àjµœy°B¼-Íø¼¸Ğ['ğ}©u^¥J©‡®Êl)¹¥Ÿ¾j;Á³å›)jU°'·Ùm —-Ï‡sÑ¥D+oRRšcù,vÚ­+UÕanwxÛLã®±Ñ£Ä«¤ØVx‰û+\­ßqdóñf¯{ğ=¤ UcÑºfyÉ#Â{ëf§ªÈßn²º&›&¯nM¬È›òV¹
+AWÉ«¤ôUuO&"¯\­PymÁ*¯ªºVy$û8†¾…Ï,UÈ¬Úİš/×+ëiùãt­ré/ú\~V¯äŠWGIAF±Âü›¼åÎ›”Št°è9ºCÅu©‡UÜ@Ò­éŠ;‡{(ÖUö®^vä¼Ğ¿R”*rúÊ´Ÿ’¾Rá*×²ß{ûBvŸÎg´›}M6reke…JuŠç‹*—^¦¼Ú±®ú ò¢u°Ë×µçN§Öœ;Ñ/3°ä‘jíW$ò±ÓêS'/TL‡Öç·ùyë
+¥¦àìæšmşfo'×WZ¶nhÆ*ñÚV·'ÛX¸.Ô±Eòm´™‡+ÛÚ¹¾m‡\Waî=ÈİNˆÇ›pÉÛĞ™ìô«ù\ÖJ¬`e“é·9æÔGƒà$NåíCu5VNµòg{éÌK`l°½ÏróÂ‚„u“Îe]§ß·åkûÕçÎùJqP¦µùü¡õörSÏŒl:,ô8bÁC‡V0I¥,kåY!'Ÿk¥·N¥UÊ]é#R¢ßK±s/Ü©×®¥¸ş&µ<Ñrœ=®çı=†›vª¥TyrÉ†%sG0B÷ÒÈğ2òºæükáç_1>ò@\gÕÑ£¨–{'Wş9Ø÷ÿy‰~Ü€…(pWn€}ù2Ï¾2Ï¾pUÉ8ûZ¡1ÏÊaÓ'Ï–it*AcÔVİU«5iVSö…Åbİ4EäÊO¤î¢¢üŸ°{·ô“%óWò;JK;ò¿’>“#¯!_×}-Üèì+œÁÆ¹ÂéÜ»è:A›£Í?wßC–œ!Ë–&Ü«Cö;ş7´üËöBòü†åõä*Îï¥gSà©—?TİòÛA®Yq5qàöI•zŸ¹Kµµ«aâ;Ù}¶&X¨Ó|î.}òdÉj¼÷IgİàÔê9äzÈ?}7¿3(uIß]Ò¯ß\L¿E†>…¼ÜàœláÎÉ¬ô¸–ÙCßú,9ô­ï’è‘¥¿;Âdô+gd¥°çb@ù>’ÖAtûBß2Ï²o¼TXÕ)ŸxX¶ÆÔ¥Êì
+€*ÁÖ4†>Ì>U‹ãÍFCJIéÊI	Ë0ÕòKVšf0tYŠYy5ÍJpûÏ[×«TÁŠŠ Jµ¾µÙêw¡Pàğ[Ï5TÇü2²…‹zÄÊi¸i ·¨°?º.–%dÅÖEûŠŠrd;nYVÃ§¹Wßü;[\:-[ÆÇ¿òº+uî¶éf÷E=øİÈßÏîBU šJ±c8z€¶A¤±P-ôÓdÕCGİĞ
+·"R~€jˆ½wVË©wecÂvÕÊBN3°]ş¥¨U´Aüì¢µ9SOçPE}i=ô¢š†¥šJÑå¶2?V]0Ü„òåÂòkò8 •ÍÕZ‘o›×²nàÊ©âlê…‡aLáÙZ ,Œ¨»Ós»`~”Ã
+ƒ~åq©4¼Ã_,°‡}Á¾ í’¹/Ø{Å™ç¬o¨+Ã[ïò¹sñ.r?èqe ï¸p.äev¥r«’¿¶ZN£SùZX»úSçÌªíéÎ±±Î®±±.·$¹ñ2˜œœ››œ<°±®³³¦¦³³ùÇòfœ—¾³á!*CcÈ|9¼ú¬vÕQ­†ÄÈÇÉøæ¥ÇÜWÇØ7[ÄA^%·¾‰¯©%VŒÉ|ò<qĞ¯ºÉrœ«‡-Ü/ÑcüÌ¶•9éu ä¤Hù0¦\Ï‡µáê?bşŒ\§Àw07¤Şk/Üà½vËYreÉ,Ëü	nŒp/Ğ÷ëòY/ıâ‹$R_“jä•Éé¼–-£Ñ ^ÜºbI*¦£I÷zßE>Ì×¼+_XyWÎ²¥Au‡™˜…Õu‡ü²¼À_”íÁÕ*×yVìÿ’S¢."¿\²Öl«ùßSáƒ¿=÷á‘]Ùÿ
+½Jx¹wİqvî>}õäÒ—´ûùÿM=ıJş¡çJìßoÑÃşˆvÿ5ÿ2Ëw†HÔÀ×}snèãÌÀ+Œàá7‰@…x•“ç „}ùØ%}P‚÷&2FlâÕ©ŒuàeÅË‰W^¼Š•qMt,…Sù&ñwA×´ü;nôsØŞğ2àu+>?ı¤¯«Hw/¶©ñú^áõ$öoRîSx€„—ûº¹ÈòoùR0qµ çŒË¿ár¡ åØŠ<ûğNù¨$¯+A_ÌF› …¼ xãd3X8òÙ€í6¨%å¯#_-$ZP?-\#^%¿…!ïÂ¾¿;y;«ƒFN^.Œg—ò<Ÿ£à'Ø¢ÌŸKƒÆ—7S] ,ÇqôïåOĞ¹ĞF`‡OâR5N“ßqÅÜn/÷0÷%îU^ÇGùücüËBH¸Gøj½ê	ÕKêê©ŸVCıŠzIãĞÜ¡ıÛ,.kcÖÃYßÖ®PwR÷aİeİ¯ô¢~½şı‚¡ŞpÎğ¢±Ê¸Åx—ñS&0ÅM‡Lš¾Íe×dgß–}Ú,˜ï3Ï2cy6ÇfU[7YÇ­sÖ'­¯Úlçlooµ?ë°9ö9’Nµ³Òy«óY—à*w=îzÖusŸw¿è~Í“ã‰x¶xN+ş<÷au·Wm%¼îÅ¶¯›tı@èÏÔ9ô}¿ EÔ<Ó&ç)0ÅĞ¨À<Â{X€HY†UĞ	?R`5ì#…
+¬A;Ü¯ÀZğG8áK
+¬ƒÛÈ·XíÜF6À^îA6Â6îu6A¿E³!ŸLÍĞÈA-PÌ/)p„„?V„ØùÂ¼ÛÁ ¤ær€Gx\?­À.(¾§ÀnØ¨JéÊíªÏ^ÈW¥èø Q%ËHÿ—gT¯)0ú6æ@«~XyhU?®À¨¬À*ÕhX¢f\5ğ &EG:­C³À¥X•Ú:6ò¢vŸ› JZ†Ñîfı³
+Œ
+ı7˜Ÿş%æ!Gÿ;`È`P`TÆXs†w)°Ê)|-Ô‹8*
+ÿh÷;Œ÷+°:M
+ÿh÷=¦M#™.+°	:³Í
+œyÙ[c9{^-Pı ç ÎS
+lEøE¶+ûßØf³Iç)°|æ¨»pkØ£Àn2§xó@¥ùIöB9¥+ä›e_u£ns,y
+Œu¶¥\9È³lQ`\–y`ÌrFU°ŞòŠ«á®œk 1çIÖBgN
+':­QÖÁqkŠ¦"ÖQ`Ì…6—á°í€› Æö²£níÆõÄ^¥À(·+0Æ”ı>Æ˜²ZmpÀş
+l‡G;à°cLPãø†»ÀåØ[œ>ö€ÍyXQ·Î»ØçÖ2¿u~KÑo/+0ú­óŠ£ßº
+Œ~ëÊS`ô[×F¿u=¦Àè·î>ú­»QÑoİ‡ıÖâıÖS¨Àè·Mô[Ï·ıÖ›¯À¨[ïŒ£ßzïR`ô[ï_)0ú­÷yF¿õş³£ßú´
+Œ~ëıÖW®Àè·¾¸£ßúÆıÖ—âıÖ÷¬£n})]¡ßæšø÷ğ—ù¿áŸÿ.ò_â?Ë?ƒ×S´&Ş°wú{çğ*>û°yäZÚ8êiş"ş½Ìú>Çÿ<BóëKSÌ'±ÿsü„>‡­ù§pävÑ¶"Ê+¢]E”U$G°}‘?¿¥ø÷KŒÎ'pî³HëIœëiìù÷bëJ‡ÿ"›ı‹üWùO*}ïW¨÷¤©}üR¡ãQN*éSL™»¯ğÏaÏg2Z.¬Ì‡­‹2MnÄà|Ün¼fñ:×q?>’ëşÃü{p¦¿ä?Ai"¥ó×•êûÒ{¾‚ü2ÓíKµ>Í Ï3øÂ*}È6@Î‘æE¤ó|ºˆ6ù£ºˆúùŒ,PƒW=^iïG«|g¹€x){]wşÏ§ezi_T(Vdèùˆsá/^‡Æ“«h\WÃB%^1¼ªğªÅ«¯ux5ãÕŠW'^ğêÆ‹Îºãº³\@éŸ£ZYåƒ×ŸÑ†—¯,eÖ¼7¤¼È¢åÆÔxy2ôüM…ÒE´é"³ó_£¾?Ë(QÚ—püç°í}è}ŸBİ<“aÍÌú$¶Ğhø¼ş:5”3ê×›ò„Ï­Â|èúñÊ¢ü<¶"_h··†u£X¢—˜ÿ±1ğß$ßü‡³Í©Õá£ø·aúïuŠ¸#Úa¦(¸{˜ÇßCPeø»À~£¨½Nv#´ûŠ ‚#`ñgÚˆ½Gğ:ÇğïléDÌØ+Â RØOg]0‚­Gk7L‰îÌ'ÄA¼@µƒVì™C:1œ³ª‘[Ü)B;¶"”9.5*¥éQ2î >w¼ÁbãüJCyWÍ:ƒmóLî(›ØWÁúPª	¸	ÇRŒ½x?Îæ¨ÄŞ†ñf|®æm–ñ…¾ŠÔ3­O±ã"bî]c¯YÆ+Õ?}ÚŒOÔ²öGš`O2ÍØZ†#3Jò
+ïf`3Î2ìhÆC8ò([ÍÛ±]Ä¥ŒûÖıdN ŞlÂ1²|+~1ÂdšÇ±TÆÌájä ó(*ÍQÆ¿ÌqJŞèÆêBD+b¸™”ûVQ ºÖÂ)+Šœ­wÅÇğšÅŞ	”mõ¬øı›·†<×hçÒ¤º=„mT»G­(³Å4öâø¾5œ¼¹ö°»lµIÔOÊî²tÔŞ4ÚZ€Vİ0‚±F½½…im„id+B›Ğ¢ƒè9›Øsû×e[0^7a_;ˆ-"´á} } ›õPXîëd9 tİëÅŠCiO)ú‘-Fãâãşã]öÂYôCLç”ó(“uŠIø‡[XD\åGØ˜İˆµ—aŠÌ~PãGñ>­xÅ!Æá~¦Ë”o¬Ä‹ìû™,Ô¶+ıÓcc°(œÆ¶J,So•y’#vş-X5úò™‘´§Ï«Ÿ§×<¯ªÉ™®3íÈ~36bÜM1d_šfOaş9òfk!Ëò¥hJåg8Ã >A¹&˜–)½ES«Ö=–©‹ ‹Í<Å²İò;¯hx%¥¬|ˆeeÊÙ<³®Âİ›×ÙèQCè±«çÚÍìFu|Œij’ÑiÒºÇ¾1o)¿[ué-:Ä|Cñ6¢ıè0³ö\Úo¢ŸL±UbBñ¬ëk'3+Q¢c’÷nPÅcN ù}šùá,óû¢ëğp=­©âšü¨ÈÖÜŸæî®á¯3Ç4[÷3[VÚÖÎsÃÊı:ô¬Š¡µ”®[µ#êórÖ˜c£fYŞ‘3`;[Sùúf¦µƒY¡°\u„yÔqVÇo7(U6‹¤7ë]7D•sÿãòÉiÁ/Ä…õB‹Ğ*”ƒhİòkZğŞ*Ô	MØV/·Áô5XßLiJ¸EÒZ¨‡co‹P-t±‘BÃQMB?>SÏïÄ¾&¤Gú”^%b5áo¯Pıfºrq–RÁÆ(Tãœ¥x§õ.ê)U ½rœ¿Iáx•ş„ ¶R~R	VÄ§|V³¶::?ö4}È]5ö5)Z¨Lq‡3´!f¥ĞK#1©Ú™tÕ“IøÖ2¶à
+ó5\Èš­`ô¨FëqÆ8öÈ\¤å’³÷uÇ¶¦ÇŞH–*—nH¥qß*–áQ¿­Ì]im½±.©¯T2êÀ¿UÂ Ğı)^›Óâ5 7•3È+<×jˆeojq:sE†ÅWã^cÓÿX¶FªuÌ›ğ·n?Õÿ—Ì¸‰×§xİü-8Q1Û+¼t"gíH­c‹j·O±L3RlBš­J”6®É ÕiŸ‰#VbS^(×M):øêä†ºTş¶ uŞÖjÙ#Twˆ‹2¿_cµº±eè'sµLéJY5]›+ÿ±öòñMdÆZÃ­øÏó·ÿq+øŸvÚüiGğ§Á“ûb†ı,ƒşÿƒ]ç§÷|mãè"!ïJ$‰üOph4­qı{áÔşÃÕÅ¬ÅvZûçÂaí¤v‹ºG]¯h
+„,Òu¿ú.îfõ>õ˜0$´ªcªBu™[[ôù—ÅË¾Ë®ËöË9—M—õñ¬8RÔc§;!~Í/íü,å»}±€Ü3<šŒß3JŸ÷´/ÒçKZ =á]Ó¦§´·â÷ìŞ”ê`ÿ8—íŒún^½G=Šåj£:ª
+qY¦âKdùÎ¤pï"íT{ÔĞŞjø ÕÜdendstream
+endobj
+379 0 obj
+<<
+/Ascent 1000 /CapHeight 660 /Descent -326 /Flags 262148 /FontBBox [ -644 -316 2157 987 ] /FontFile2 378 0 R 
+  /FontName /AAAAAA+SourceSans3-Bold /ItalicAngle 0 /MissingWidth 690 /StemV 165 /Type /FontDescriptor
+>>
+endobj
+380 0 obj
+<<
+/BaseFont /AAAAAA+SourceSans3-Bold /FirstChar 0 /FontDescriptor 379 0 R /LastChar 127 /Name /F3+0 /Subtype /TrueType 
+  /ToUnicode 377 0 R /Type /Font /Widths [ 690 292 690 690 690 690 690 690 690 690 
+  690 690 690 690 690 690 690 690 690 690 
+  690 690 690 690 690 690 690 690 690 690 
+  690 690 200 340 537 528 528 857 667 300 
+  344 344 457 528 300 332 300 339 528 528 
+  528 528 528 528 528 528 528 528 300 300 
+  528 528 528 463 902 573 605 582 635 548 
+  524 638 674 301 509 614 518 762 665 684 
+  596 684 613 556 556 665 556 813 567 525 
+  541 344 339 344 528 500 555 527 573 467 
+  573 518 341 534 571 276 278 548 286 857 
+  572 555 573 573 398 443 383 568 523 776 
+  514 521 460 344 268 344 528 690 ]
+>>
+endobj
+381 0 obj
+<<
+/Filter [ /FlateDecode ] /Length 689
+>>
+stream
+xœ…ÕÍjaÆñ½W1Ë–Rôó•€iÒ@ı é˜qL…8Ê¨‹Ü}Ïã#éK­`ÎßÌ;úgzûp÷0lÍôû¸ëûc³Ş«±?ìNc×7Oıóf˜”¶YmºãåÕùo·]î'Ó¼ùñõpì·Ãz7™Ï›é¼x8¯Í»›óãÃãùnw«>?àc^>½,Ç÷“é·qÕ›áù¿OûıK¿í‡c3›,Íª_çYî¿.·}3ı×İÎş|İ÷M{~]ø5º<zØ/»~\Ïıd>›-šyÜ/&ı°úëZi¯xÏÓºûµ/ggùXd—ì¶\·èöüÿ»@KuF«¶ª½ê¨úªêëªoªşTõmÕwU®úşO—Ê_JÕmÕ•¿TşRùKå/•¿TşRùKå/•¿TşRùKå/•¿¥¿=7ı9²éoñ[´ôçÈ¦?G6ı9²éÏ‘M‹ß®¥?G6ı9²éÏ‘MlúsdÓŸ#›şÙôç˜Ì…~_èø…~_èø…~_èø…~_èø…~_èø…~_èø…~_èø…~_èø•~…_éWø•~…_éWø•~…_éWø•~…_éWø•~…_éWø•~…_éWø•~…_éWø•~…_éWø~ƒßè7ø~ƒßè7ø~ƒßè7ø~ƒßè7ø~ƒßè7ø~ƒßè7ø~ƒßè7ø~ƒßè7ø~‡ßéwø~‡ßéwø~‡ßéwø~‡ßéwø~‡ßéwø~‡ßéwø~‡ßéwø~‡ßéwøƒş€?èøƒş€?èøƒş€?èøƒş€?èøƒş€?èøƒş€?èøƒş€?èøƒş€?è¿lˆË&À®À"|[GİisS·åyñ`ål†şm¡îw{Ü…ço-u« endstream
+endobj
+382 0 obj
+<<
+/Filter [ /FlateDecode ] /Length 13062 /Length1 23508
+>>
+stream
+xœµ|	xcWuğ¹ï=IÖâE–dY–l=ùY’mm¶eYŞ-KŞ÷u,ÍŒÇöØÛ³gf’LBCÈ@2	t’?@€ ¡ÊRyB’IØRù“([iú“R¶/ÍO´ù¥3òî}O^fIRèoôÎ»÷ÜsÏvÏ=ç¾ç ¹pxÕ½ÿÿîØò~æ,×>®»	€´â§hñ†Sb\]±ÀMaÿk¯ÙÒ¼€ïÈ3¬¾éÀŞ/¯ŒØùòêòÂRyI­ Ğ[€ø«Ø ÃxøP±zäÔé¢]Æãıa¼ÿáác‹½õ³Ï ôÅèı‘…ÓÇùfãm ıf¼.Y¾ñÉñ¾çxßñc'Om|Â »Ÿ¡ıÇO,ÿÍ¬õ Şÿï<—$çA…üã’Ø2(_É>¨#¶êUZ^à9NûwyP~:»â£qcƒûÍ†å{‘ç<DûÈËÜ}t6 Ø` 5Ñ1èkåàÿáA@Õ Ğ‚ôH=ò 
+À…`3X ¬P6(;8 ÊÀ‰<¹ $¨ 7xÀ•PÕà? !¨Z¨C}ÕC 
+ĞÍĞ­ĞíĞwBĞİĞ½Ğı0 ƒ0Ã0£0ã0“0Ó°f 	)Ø{`/ÌÂ>˜ƒyXøä¤:swqç©–6ÂÜ¯‘W7^Ûmõm¼Æ=G^Æ¶aÚËıõ#ßq”«ßÏ½@î"j~{Ş™k¶o›‹ÒËÎ†X”õÑš
+ÃßnŒÂÏ6›tŒä®MZ¥ä2=Â¥Á/¦a:ÙÅÁ‹7>˜VOîN¦ëíéÊÔüñÜt2Í¹ÌA£..Jûí.WRiHH]Ğ_óñ@šøÓâü@šóK.ÉHó~qéQŞlx"mJˆóóñuÎœˆ¯»ùDšKLÓ	ÄÂRZ;}ã8$“v-;\´õB…Ä"‚Rü‚‰˜°OJÃXr9u¡ˆplBÁŸæ}iK"IçK%
+‚]\ÓO¥Ïî•$7Ñ½ØVw']iŞšØ“Ddû¹¤˜Ã¦b§)Ô˜J‰ë26rT‰MÊ˜®¡ı5óé±¤ˆÚ8· ¦ucÉyliŸBj˜·Ï§R);j+mH,¦a"™†AŠìÂ{û`ºŒBeƒ`‘b\TÁşTji!•&¾TJ‘ %.¡<R<H«ü"r ¸P&Mb,™ÖHñtGàù@ZÍÔš—Ö5ûã"í¤âÚeöéwZ3ß½˜VU»°3!Ïá\ë5*7jh<9?f_˜H%¥”+%¦c“Iì³S½(¬ÒZ›ğ]À À´ƒ·R\Bw‘âinÿ4YDFÒšê@Zë)·y(– ûEJ!›OQ”ù.Æ­ÎA›‰îxµkÓqôşd©²@ÑçÅîsÒ5*S6Ø©AÒ¢™Ìr‰¦•ºä)r¯1<]£À¾%ÚöAy~&Ğ£¹à»q»äJU£çû×9®;½´ĞHøUÓù‰J ´Pº€ŞMà]³—	0¥ˆ¨ƒEœ9mLÌ‹çæÅ´ÕHú§’ëÂRWª"»,¤MşÁñäà¤Ühwa»‰µ›ıëP˜˜N®&Òd!6úè’C×Š¯çÓ¯üJ“"´ïK®Sõ¡¼ñshaœ¶ Ú%á°,l—ûé\É´%…’ô"ÿ½ØºÓX×0á:€IB}%ÒĞ~Â¬eñÃ:pİSÉt¡»Óyè~¹º\\œ¢¸˜`Ğ7A<§0cYX7çøÒwùìå¨®"”Ñâ¤­şuB¯Å¨ozµù×yz-ñ¯ôj÷¯«èÕá_WÓk©]C¯eşõzuú×µôêóKYı§Õó¨iI¦É,]-´[gÑfçurg`[§g³ó„Ü)ú!ï»¦œ(Ôc²¨TÎíò¹P>ù*GùèUBùèµå£W7ÊG¯”^½(½V¢|ôZ…òÑk5ÊG¯A¿ØÊ6äÇi‹çEzd>ÁLŠ‹0H}¶ÆŸùÒ!\µ¸zÅkXSZh”h`C;•¾.kâõ<u7õ¸tmõºŠXº“©”ámê¹N½_Œ0Î#HMÆé¾rN\¶Wå…¶CÑÙ>ÛÕ.5®×•µõ\\,tÔ´¶Òo†Š½ˆèMh"(r‹A±—†Tmÿ¹s½R/Æ$n|uqGj$ÄbF7cì*J[MÀpêfhëˆ§õ	ßò¹ $Š­çfËN41(ÓK«¥x[LÏÓ˜O>*ˆ*Ñş¨àQ•¤â4Òê0hKl„Ô3ŸV'._®ó4ÚÉ»’˜_’Ò*ÜT±[H,Ø§‘îò1ÈÆ©m,á=tÇÒ%Ø,Hï*“HrLUcAc¨ĞáTWPEŠ”	7e‚Ço%’nÍ…ĞšÕ…ˆ­*¢©ÕÔ¶Ù•Ö±ş©—NJ­Ø¾©B*Œ¬é4L%ƒb+nè”{¥Q¤|)¦H«İx×¿=w‘x5oW¬%Q—ïØÆI"k®yšà\.rÖÄ1ŒAªÅ´5‘³ã*¶¦‚ë5ÄŒë¶sGï„}lGoüªcßhDÂŸnö½Ñ„]şt‹ïòF}…º&*4˜®ÁİLdêŸYó˜ ÅeÑ©ƒJ¸|‚¸òdú=şuî5Ù!ÿE—îıïòb*c­†ªmşâJ)|öb nöeµÒ‡w->—¤èE‘fSı¨‹¼ì1Án
+¦p•\£}É³)ExÈŸnÂË0Õb7ª[ìÁ7«­?uèô0‚£ş =Œ!@(0î¿@XË¬e’âô"0Eq(0Mq(°‹âP`Æÿ(ÆÂBI„ƒRşG‰Ü¶!¹mÅ#ÚKñ4Kñ´â1hÎÙÀ<“tN
+ì§sR`‘âô!°Dq(°Lq(p€âP`…ñÕ…Ğ*ã‹BkŒ/
+d|Qèã‹B‡_:Âø¢ĞQÆ…¡[7xœİ¥c^'ƒ Jgwq¼;‰{­‚sJ)Îõ‡(87àà¶Mª7²;6â´Ò7É E¿é(o“AŠp‹R„·#nû&½[ÙC‡Rô32HÑß‰#„Ûd"¼K)ÂíˆÛ±Iï,»cèï–AŠş¤èwàHáN¤çd"Üå¿ g™mZm¿ p|7MSq_:g9ÍWŒÎnÖ¬ŞÛ±ª,áîÃZ^‹Õ{!Öë‘XÅlĞë4j'C´Ìç€_n8Ì	‘Q cJÀq¼Q¥¶úÂF—Ñíòz%&êµ†£QÉÉÛÉK™ó„ô××Ÿ9óY¡6şÏñ…wp÷]:Ü|ûÊÊØË¯<¹ïÆßû2ùİë	”nü×Ãio¬"İƒ!d İ¨Ÿ_lÂêáQc!§.ö©¼QWÄå‰T?Ÿé'O<_MŒùÁ/u})˜ùwÀ­äUÎzP?Š÷u¾¨­Q«ÆªñŞëÿğ‡³ÿn<ô`à¡‡>ø@¿ÀzşzîAÔ†ÓÒX2fEÁÙô°kx[P›åFì1 öñ@V¶·§b…5@®^mÔ‘ªP­·úÜ¼7¬á5åH}C¸®ÈbV“7Æée>_~^!É}û2¼V]!UUIÕ8ßÆÜFæÉ¸¿ä< {/€t'©Î8˜Á/wíà„›Ó6ä³RË3p\.p+9D­Ş5¬Ğ|ª9­†S©RÃù\nîL.2î¡-´TdõÊaYÄT¬L§à,+uØKlÅVdÛdd?…Æ£Şé3…£•"aö	kØÇ"±•4¿¼½ğöUÛØLáô^k¤èvü0ØÖ`»İFT÷eV^hº¯ù	üi¾¯é…^ıazã^¸ ÔÇjÍFô½b+j™óUrèvCìôŠpkè¡<¤¨£ÎQw-õ–J‚¾Ä…ë"õAu„-EEVÇ#•«-æ25¯±HgÚëÙÛØÒìï¦ú[£eşòººÖ`ßD_pa´5º|]“½ªÖã¬Ş_Ç¸æöw	¾ÒšgÀcw—:«Ú‚±™œ{ïQùÑNö×¸6îç…ı7“ağÀ"Š¢ığnäP‹‰óE2œøèéY5âvr o†¡zb	3‚µ5×ıîrÀsC!\<ì˜ÎPs/àÜ;‚@ĞÉ™%#¹†Æ†ªJG‰!œ®¤şe2YPh*¦©ÜCİ¬!*_dwSkŠ(F4L!Ô‡W­öš©¢á§òªÛì®ro°9Y'5ŠkE§¯-^“ÄÉ€£*o¨°¾¢5bíì«˜ùÜ@½³ÅÚUîôqœ½¹¬¬ÓWêk¸ô|h"âKD­U£’¿§ª¯¹:Ñh¯›óVÎ7Æn¬»ÌÑòª/Eãâêåˆ£­ø;ôíEî/q‰¸cå q×Úuƒ9t] ñ†-!E$^\BR`ãr62ÿ³£GÆüå»cä'ÜK‹k]M×ºŠÉµªÑàEV²¾zÓM«¥ùù¥ôø/ï¹ç—ãÕÓÏßzëóÓtìÍ8öelkõ2-zÑ‰PiŸ,ÏÍ-@ZTÍH°y§à'p~Èƒ’˜5/c§6G…æ#Œ[ 7dZ‰;a%ô|±úğ'
+>­­Ñ~ºà‡«O+ûó`ô+_‰{ş¼ì!êû°ÊñHSşX_7Ã"Ğ…
+Œ9ÕœÛTT-zĞ³¥¨ÑÛ}î®?ôt\w¢üñøã¯~£ıøi~sÃGî†`”/•,¾Ê¡•°ãĞ©ğpúb&zT­–¶Å¨—¬ííœ S‰ÁÑœıÛzÇX!·ÛÛİ’¼	ı~šøp»XãÔ°ÄtòcŒŸo‡"s¨6šfa„€Fz¢çõE>Õö(è/…Êñc¹=¡Çbt7æÉï¸gqØbEÌè:JÂ;æÔ¬$LIß@æâÇø¯˜õôâÚ2b\Ôƒ$hµ€*‡œJXÃhA£]ÃŒÓ° –ù²ç8K‹%›d2¬¹V™Oíe|zë”Å….İÁÿÁ·½íà¡›o>”˜NĞÍí¶áÇğ…‡>şÈ#èñÛî<÷ö·Ÿ»ó¶¿©p:%Éé¬ ¦x®»÷ŞÉÇTtcÅÍÆA¼#šÎ ­wóÈ£0¯"‚0#`Ø¶bw–éŸİÑ“Šå=â7ÍF£C º‚QŠĞÅn[.şYã°³íÓ]äG‘kÁ¥g»B7Î¯C=Ù¡&0èQ!¸‘qİ÷-!<îù<?ÃS¥ÛÁŞãöªô6$ŞÎÉªĞx·‚BaKÿáwõ†!ßRbşøÀÙ™²6Ç÷kçÏŸŠD{bÈY™n}Û{F9¡yhB[©‘‡jèŠu[9^('}ŞßChK9ZÃ §Z •
+¢Ş¤Îz“£ÄbÊÇE—£†jR­‘­åÍ†~ÉÚKa²ˆÅı22Kœ×IÕâî¶ÎäÁ[¯›ïm	Œ‰şÊ•¶Ö¹Æá_¯¿cÕ•Ê‚±HSOGw]¨¡¢´^
+xúê›Ì‚Ö÷7Nøqò¢]hC-˜a*¦ÃÊå"œbÊ"´¦* «Ì˜¸pU3*4cåÎnõ*©XN§3ëĞ†…%tUGÃÔ†j×qE5¦d¹í7„'ªüò‚ÎÌ¤#¹¸øê³%m%Ö5SŸ’fNaÅF u«CŞ\p0–k%œªĞ(ğc³Ì•aT¥Ñ…ê—îŸüNıÚcºÿ¨xaeq[w*f"`·Ñt ?-à"®ØÔ½Éeqi6 &eÓ‡İUâT,0àÛÕ[ÙXî·µÌOˆ»m±%qØĞàjp*âşø€Ùä áŞ¯ò|Éîî…:ÔÙ0ÊTÄÖvôÅº‹‰Àc!ˆè04-P!s¨O&ÑBV"nA#get•W”—Ú‹Ì†ªÜ*yç Ï¤œnŒ²Óğlßlç[%aPk6=œÄ<3ítOÓHOg÷±˜p¾¾%éÚâá™(çİW“:Ú²@ú*ƒ{†;:{2ŸëºóÀü{¦½ŞÒ°Õ^ãŠ'°¸¿mo=Ú¦ıÆŒ¶ÉƒØcZe›Ù¶ÇLÏĞ3Ÿ&À(ßŠÒ’Šé+òŒCv¸§™°%×ü\°×G1ïşNÇd•ßóÛß‘è÷İ~Ç‡ö¡)»Pw&Ô]®¶(ÍõëŠr0gÅÓ+yÁ«p­Ã‚ [Øï#à‹ú£nÉ˜e¤L-›WN+"ÛóŠì¢â·âcÏÔIÓ
+¼#Á¾µ¦ÊòÊ¦pªißjS¥Ôäj8`‹wDaÒ;ÙÓìHcuşX°@°ÔÕTÍF‚Ñ×ÈjsO(ŞòÔI™g;jár“-^é–sáÊfPü¢3ÖnUc0+ ¼q„§M@W¦ş›$4YWgİ¢\´ÛÌ…Ô)*Ê5¨RS6)’©¬ConŒŠ/çq÷t'<»¼ºÉŞ¦‘ãÍI1Xw‡w¡'ÌÖ&Ñ{v¢¯töTf†/ıÁë¨·:êOğø™#tİ±Bİ÷P¶gâ®ïÅšÈ¢¦Wš3’‹ä Í‡íá;pòwâ Ÿœ†òkn4˜Ëğ4—q»#n‹Ê¢"¿ÎÜE®Ïü€j.µ_ı–ğ-V[LÃÓ¸wÿk‹%8Dèş~0"Åô!$¸NÈÅ÷3Ê”ö!¤ıS…¶ŠÕS$QY‘ ¾¾†R½DËJ8‚òü#÷`7,?k ›‹RK9±FÂ´–ci-ó;–ÖòhŸåÑáK·0dÏ_ÛŞÇ^àr–¸ínœÀæ®¤6‹zÚùË¶¤<Şº½ØzUc¯WD£N{mùŞæÉ•ŠH]™ª4[{ùbáP­³ªÑiHÁéŞª–ÚšfïV)ÆAíÆq®œ{ø!B&ÓZ”¥°&dËÔBFGn¨š¨È }0­ßÙÃoõ˜®1æjè©TJ¤+2\ú*5`•Ó@Xfe ]±˜ÈóU §æ±l?ƒÈÀ«Ôü5pMo… õ-ŒUgÑĞT‚škÛĞ1mOájƒ6nJÅlÁ @$ñº¥æÂ¼\­üÄ¯İ[Øâ2J^)»Ü¢4ĞHLã
+]˜˜ÕóuÑˆZ¦GÏ¼{¢{·¿N#õz#Cw¾ÃÙi]‰µ­u¥ï„¥±q%å;¿;}æÌgwuêÊü]³£º§mx¤ ¯f¬fà¾c‡>0j-
+Ø¤<vk^4(URñ«‘;{»|±J5ÓÊ¡Èª.EdÜ³:LÃm,ó2iÂ^|È>o
+›PÍ+ÎgœFW¾P şı?ìû‡dûo:È±¥¥è‘¦¦#™İÜùKÇŸ{ã3V‹œ„ó S—CS¬A‹B£3à<*z¾=@`@ÈÁ´¬\t”Ø¬&#ËÇ-˜Çlæ:ì"ñJ>$³ÀâS‰å¦Æ–¾±;Şšêš=85»g×Aî¼ØÓ\;š/èGºæÈ-¨zÿ¥×[m4o'ÆØj¬YK¡6´—ôÂöÍc/©›{â¢‚<´m))Uí´mv[İfL27şÎ¡¡³Ó-{![¼ªc¶¾~¶#Ğçyã÷:xÿD±»:o˜˜¸)î‘ÂºìùGê+íãEİÒrT%ëÇ˜¯×"Æ¥Êê†êÄ›UÅÌ'î{à#÷Lö_wìØuıÜùÏ<ğÑ/tİuË-gå˜w‚åèçq_	Åh¾Ç¿[gA˜™Î)¹ÛeåXØˆiò{‚| óURùW2ÄïùNïoz)mœ‚+fşUó\I[Iìiˆ-¥Ê²ú,UãYò?2Eò2¯"ÅŸôdş—ÌomdA9!kÃœ^Å•c>I½
+·@•°r™¹¶ri;:‘…™ÌIœškš,ŒëëL#m|âıƒïšîL:BÅ¡¶½áµ…şªw}×¹¬Ø,\))G›İr÷³İ™qèáÊ¬eú¤ÃÁa…–‡˜«¸l¡±Sô|kü"…SS™ßpç3¿&¦KÇI$ó-Ynz2øŒ.ê«eÂÍ±„›ºã5-Ä*$——…eîá‡É‡~¸—ã{z.]êe4Çqû5wÖÌh{V’0oß*oz;-ı1	.$…ªeˆS3#MÍÑƒåõAOo'ò~ jŸ!ÒöûÇÉ‰LgÛr«,Ç~Ô}ßÇ ˜¤×iĞtÀJuT}ŒF¹Î+4Y%†ª	“°Æ$ñËş)˜ç¾ûÊ¾¯]‡*z‚ôÿGf$ßó=™6VÏ\)Gß5sbjÏÜõ4¯d•ò!‹ÑÈRJªsË»'H7§'hÖ‡cp¬‚1Ÿ%_@ß!¬>ÃhxFf/åB±ØhQ6l²†£&j@š7J^â½æ‹Æ¾{EÁ9{`L¥áx÷¾Ö½G'8ŸyåàARŒÖíg¦g2ÂqLÏˆ™‹²È‹y1AEÌ•'pWÕ	LFkVCÈú2u"œšn.{¿ßÁqÚ1ù‚S.İQ{¨Lá¤ÜQ·Î|%«ÁµT‰k)å	àF§ìV±ÃÅöÆ¸pìF;.|’¯¾|'Cão?8 ş±Ø‰ù{pÏAü&>tøàÇÆ>xğğ‡&úÏßzËİwßrëyäá Êêdş`¡{jZ²‚qg3J(c)œKıÂãRËTæÆ¨¿ö<Û¤­íhßÉµ]“SÓkÜùŠé>Ü73¯“¾ÎŞ(“y–ó±sItÄZ¥RN€
+Âa ÁÒ–AaN†Û<6,ÓÓZcí%¬°r9­ƒ'×#—U4€¸·IMWÄh¶‚¿_Q™£Ås×Ëº9¾×8Î·i
+ÜMço£ú¸íüKÉ¸qı^YO–6ùªÕBBÃòÿ%e/È+„c5ZäısH"p+4‘µ¥ÆU,ï
+V5´†²âiÛ¶gâBÚ¦±¥+-c‰OÏ=xı‘áññá#Üyi¼khÖ˜ù9±dş™¤:b´£õ‡õ÷FZgÓ'(´ÊÏmwDgiqF‹ 	¨.?´ğx½AngØ¥¥Õª[Ôöİì¯s/6v:#åû\şèBGûj…_	7õH½UŞÆUCÄßì4¥jG^Unu¼¦n4¨h(uÕû•%†Ê‚@gmıt¼ªQwAÔ\±2‹•tëàGŒ™t1¹”ˆI¸9áEn £åãì¡ÊOãº…®IÙ.¼MdcA§V…X6Ó\få¤€‚(\ ¶Ü4UÑá­lw7-êOì#÷gtWTŒw‘gV÷ ºÆr„à\¹”_ôÅÍå¿Ér!×&G2>lBí…1ò˜ÂüëßK4:
+…ÂÒ‚µéïâ²°y¹ÿ‘ı—ËºĞ!íŒùnºÚD“×<îÙD	–)ä²JqƒÛh·ËAg)ã¬áv.[ç“x9ÔğG—öÕàöKxµN§µktZµ@º‚»çWcƒŠWérbÜ=™%{ är…üö×^³ûeˆ|ôÒ1’SÖ\†ÿ2ùl@>ËQ6ºO˜ó4äêûVG…¶BM|Øªh"æ1-UXÓ4<óÄŞ½¹ÅBÅ°;ùÄ3{sF!¯$w?™$mùKKıEd¾–Y_/—•…‹±<Äè \ÎŸRLÄéù«Y!òm…Ô
+®ÈÉ-„{)¹hª0fin×K¿"Ÿú†{¨²rÈóõÌî_1ù:‘¾í ¥{/Ë¼7&ç®v4‰)R¡Q4BèiqY:ÉÑÌòXærª³õÔ]zEŞ×¶±J~Ï=ƒ^]sb•‰”ùÅlŞ•$;Şj”„ŸË~p?¿7t‰½Å³i	òÙÌÅÒ§Nãşsß¸97àÜÀæféÊsË	Šqÿ~@,÷‡¸LèõO"cÄAş7÷ }Vº®^êŠ9ÔDylgQI„ÜÍ©î×ÕĞebu}@{ìC}ê‹×
+µq$r[æÖôÙ³i:°uãçØøòîa4íW{“Œ’´¢[ÉOïîíeçŸäÉa^Ë©±<¤ñs'Ü§^xá/bz—h+ÈÏQìœ‹Ö´Åì\eÆ¢Q€^ÅÉ§r9ëØêÇ :£ ©HÇô†4Şx8-C-e¥J½eŞb«¹0Wâ [–5{¼ä¶$Èµ(nâÑHFá¢ß½¼ØC¡T¹è>[ZHhøÊ¥²ªÉªÕk;®v_´ß¯sEËİ–Æâà‘=™Å¡¸§üL«V¬r3Í¢Üs`Y-g™Tô\˜RT±ÙFä6Óx;Q¶Î¨KãæÇ¶é¹aSQïP´ë2$TÜŒ‚©Ş¡í7¡öQ½[‹,ìÜŞUäÊÏÍÑà`&æe”4t¥iÂ›ç­›y­dILÇ$7>Áó®ßşÕö¥ŞØT¬_ì÷H½ÉÙÀ=÷õ}å•ï¾nò†öî•İc‹’çUg	õí1Ô³}ñêuëÜŸR·î:İ3pKK²¬ª¬ÓÓ8]šj–¹+­'Æ&N´VcTšnŒN…*l‘
+v®ĞŠuÅÊv‡¿ŠtDEŠ­F´7t™áe-ò×0Ü–ob¸«S{„.3\A~=ğß2\VAa/XòZ¡ÄŠ¶HşÜ©å&“&º4|Ù¤£¯ÓÕ!VwWÎŞ4z²İU¶ûK—cÎ@w?Ú,4Ù8³ˆz¢çÕ%h75V³‰XÌATB)ÁŠ–>ı°:^¡ìe½M¥Ú<æÏÑ().ÂbVãÌq
+<¨‰:{Ìïò('ü›G×®-k¶·îÓ“ÕH]ÿ==×u®]Ïq™wæ¬ù{]e³d}¸op “h=9>z¢íí+y%º‰)›¥¡¸èsYàâÜ¡ˆÛèpGÑÓk3Ü7¬by=”H¡rÕê5õEPd4U`¾™£wøh°²ÓÊlâGŸå_½ë®ù¥¾.SYXìl~áòp»ª*uØÑ§íjñ'2³,0÷mˆ\êªZaˆ¸cÉÀ	ê^§İôª=Q£ŞÔÂh4d£ºlìMP¥ÒÎV;3l 99° C6İ­~çè¬§°}+õcMÂÌÜ¤Ô[¥ö¶ºZİñ¶¡ö¡Æ†ÚÖºV_¥ËÉ^_1A©ÉÍz®ò cëy†u®TNåÊÓ‹°ømI)²8¤òàc&g™Ã&EfÂUÎço5×MGL>s¡9RsdßøMÉPgg(7Mï6ÎYÜåñŸöÆÚƒ‚Şã´ÖšSÌñÆúÒúÁJ­Vï0:õí‘Yï¨wt„ë;2wµº¥bA0UY<9œ¥%†ñÄBks3ÖÃò»[ÉálÅ:·½6·€E2¹³µùf´¥å9‹´ÆÙ	ï™iÚ51QßêëòaX=YÕ°4Ÿù>‘º~æót¿ß?È½Àyh…Š+t¥F~W)ºáUÚW·Ú‘ÇƒÈc;òh€ê˜W>× Y.é’x“³¯ÆrpB ê}_iï£'¹ç2e¾–ùûß]w;Ò`µ×sP u±P.Ö]yèÚËfU—xƒ·
+Hà#Fz Å¶høàğäç7">_¥¼ÑÚE~¸ô·‘š¢¶<ú®™ÖJ¸Î\ğ‘˜V´Ò?Í²9M‘œepX‘@j8G£âYvª, ÜŠ°•¢dİ~;†éÆ¿ÑPêìôï]à’Lå&©Â¨Õ—RÅY™]­[Æe¶İ4rs\Ã™êª{1ÄT‡›&êm.óÕns’—cåÕSŞÀpæ“d×´Û“ùÙUí£×M_CùÍpçã&¹š,¼‰)™V ©MoS$·2ö¯tFEì«¼æ *0}ÓÁfÉT‘ucë•^Ü¥<ÉM/&/O^æÄlæ(Ëeç;sêùNìH"q$&÷LO÷àGÉZOLŒhíZ™œZ]š\a9`˜ñ@s¯Ò<Ç<ÀÈ\²¹ }€"k‡nÊl;™¦ÏÂöğ[¹ SÖ-ş
+DÓ›S{„¨şÍEPrjwn_´RÚ4ƒ<%«Å´=ƒC›ğå©Àş•ö¥–òQ‘nëœ–¸os¶‹Õï¹nâLö~’¨·eprÎ&ÿ©èé’’+°Ä‰c‰S6WÆ6n[›é
+¼(Ûre*³¼¸äÜ§½RÍÊ¶³#“ºÑôæÔŞ¡«¨ÙìvS5«"Qiûshk86ò;ò­Ï|Ùx`KºúÊ1eşñf¾õíõİNË¹ÊÅ†KÃD½•p±8}/*Û†z.„s43åÀ¨Ç@Ãe½±êÈş£ßŠnŠdÏÙLª·zM×w­!TtvB!z–²(¥$Fã½èJã	{¨Èd«(.ûÉË'[º´ú^mNÇPæLúXÊRIß!µb:V,àß–•Í]v,Gß'ÂÄ¶’T^åXÎ£<HŞ:”ËÉ5ôŞâ÷TH´·Y:ãûæ,5®VT–O„Úëã3®ºyCÀÙPVpšÊ¹æD´eÔm‹XÕgy±ºÁíW2~»‘ßrî6(†µ˜ÎBÔ¤ˆ€šSš—²‡*ödƒ¾ÃƒŠS«Ù“U9‹Ç~?{­~,x	˜ŒÊŠ´ì*&Å9ÙHÁ¼3*¿8hŞL†ÏõNHwŞ­ïúío#=RcI¡«ßŞİúr»êÿÔÙeĞµŒ²Ïc=óäeôÑ÷>n4ĞˆìÀ³tW>ÜYß[•.A˜‘ûw–öWyÍAÔcŒh]¢ËÁ­+µ\ÌËgŒT$£R™ü~fb2ÜVİ]9‘Ğî¤ai3ÿĞğ…Èx¦dÚ× ËÆuàF™.;cL]íŒÑµãŒ‘À·'çÛs…\[şñÑçÉË™q÷JR¯›˜3%ŒvÒCÚNš¯ÙÔìŒÛy ü.»fO¶œà4Úl›ÇŒ›§hÖ­)%/=ÊÓhNœhÖèA•ŸÓ:ÑœS(j­¦yhõ`£Á ÈËËå’ÔYşúëò•”dJ^	ÏÎ†_ÁùcÈ—ùºòL1u3Å¨wÛ±Æºu¦{ò³{†sKó…<GnÿÌçŸÚ=ï*òËòÇ^ÿÕ!Ì‰Í~óÚ¿ıî¸%hA3Ç¹k7Bœç.¡ï"èxªf„âe_F.öÓuº‡®Ó"‹A¯QA	)Q13+Ë4İaˆ<î]£ÎªÇ
+ó1yc3_Èµü¨°aô{ºN^h	TÊüq@’ú]$÷Ò«5Côe/êÁ„¼\ãì1õVÎ{ÉpæEò`æ™ñ“şÌ	fûÓÊÙc¢±úr"?Rúœ½¼&¿^ÁŠÚ¤€¢ı6kı“d†„4›õ6{#B~	“†%\ºrìßzêÏ)Âòä¾=ZkGKK‡U»g_[}¸Á¤öÖ×{Õ¦†pııÃÑdY²Ö“¢
+Sh_ıpc¨°ÒåÛªkm¸6<«
+ClMÍ†šŒs¿A?µÆÌì´‘îp7l?ñÄUF4ÿ—åõby-¢¼?eò6ÄÂ"°‡"ì¥ö5,ˆ
+TËÙ£:ùô3A»B²ÛŠ‹ØËÖˆò*áV‘ÆdÇ”½.+¦Õ²)¼´7˜ÕúzÚŒziÛ·;+ıî}÷‡
+«ÄàTX.´Ççª,5×ï™*ŠH½U2×%£ÃÈ÷lpò~°B7;m¶ —ZVW˜	7CßF»ñÔn<* •­1x'PX«W`%Vê ô¸””o;Q,ã²Aöö²P•×b­2FJú<Û`Blå¶òzko»÷4àlÇ8ûicï5Óg”Â¯me«`Oâ¶¿Â¬Ö\ûfâoi£1ñcHŒLOŒ$ëš›[Z››Yîå ‘kå£hÈyLQcKc¥ŸáÚ'\÷¸>]+¾\ö@Ù·èúQŞGü²7>G6áZ™&_ ¾övê+Ê2v«åèûeé“Î6¿küPã#ÌŸhİù>\›ÙgØÊŠ¼Ê3lö¤ÊHZNêÉÃ	zqü¯¸!r”{¾ Ÿ³?.JeßR'Ôz[/©Ë–Ûş¢·Ããqà‡’JK%úÁ!´æ¥<Òú“ş…Ï"WöUÔV–±på«Öm¯
+Hò«_÷ô•ÚKšıuÈ»;ù÷¦¼¶Ü¼vòX"“×º7Âä ¯n?ıĞÃMÿ<—ßú;Ğğ¯Pñ~:};»N|öÎL3o*˜º³ÿÓ=/{1ó[œÜèØèàmÊÿ³õC¸$´C)«ê·¡å¦±:ª†ßÁwáföª|??†EŒ’ĞMà…F†è‚¶Ncÿ!8µ "V'R8g!£0ãìoaú`jp†XÂ1ÕØã4 ûvÂÏpÌ~8­ğIÄ…1„º`ÇÌ¢í£p°ŸÅVú¹¹èÆÙÃ¸§ÆpÆ^8M4Ha>^;4vÃ¯p Çánüı!ü”ŒGÈW¹8w€»û÷÷{¾‚÷ócüaşi„¸ğ	á_U»U_UıA}@ı¬úEõ¯4œ¦XÔÜŸs>ç9m±v^{¯öií¯tÍººóº¿ÖıA_¤ß«?¯ÿ¾Ag8`øîüÜ½¹çr’W–7’wKŞƒyOå½”¯Î÷äóŸ.8Uğeã˜ñSÆ—i*3U›LK¦›KÌgÌ_·ì*Ò/zÎZa}ŸõËÅ9Å=Åw?e+¶ÕÙŞg{±Ä\â/é+Ù]rsÉ'K~Â,·Fş€ú[5Zø‚ùp5Ï@ööñhN!`°ó
+zÀ¢ÀT`¶)Ã<¶¶*°€pŸ«R`5Âó
+¬A?¬À9h»[X‹ğ'X‡ÜıµëÑÂ¯)°—UµçA39ªÀùà (pÔ‘gØä÷
+\®DMĞÅ50X‹òİÍİ¬ÀÊxµsÇW(0C|ˆs«« É? Àj¨æ_S`|@(SàĞ	_T`-Ô_U`=Ô	¯*p./ª²såA}N—£şrN+0æ©9w(0%9÷+0ê?ç‚P˜£ĞGıæ|W1jäü\Qÿ9
+Ÿ¨ÿ
+­"/ê_ÔV+°üÚÖCö6@Pû)Î…:í8uY:ùàÑµ+p´ê–Ø%º)p!”ëR`u/)°êô:ÛPöB}«ãÎ¨Q`Êõó
+ÌƒY›P¢ÿ€c§O+°á¿V`âÿRs FÿÖB¥¡RQvÃ˜ë¡Şp‹ Ñ¥™­†W8jr+¸ úr§Øå¹(0FøÜ¯*°	sÿ•_çŸæ¿Ä¿€±na¼køíÁÏaù/óá÷:ÿÿWücx÷ÿ¼~˜ÿŞ="ÀÏóÏó_A¼Ûà‹Ûàgÿóx)}D¡¯ßÄ–'qÖ/±Ö”ñëüÿä¿³ïá^„Y:ÿEû•M^Â™/"ÏP:˜S× Ö3Hëişkü£lü³ŒŞ÷i¼û6Ò_g˜k`~ÿ:“ñØû¶ÿ%BJ+ªÆQß@*_Fî¾†´pV:7ÿM¼~‘µ¬³1rËÕy¬¸ÆÌŸCÜÇP£ëLTËÏdÛ¿~6û6ıb‹¸ÃnÛô}Yß
+»¿BïoÉºÛ,§PÙ²öƒ.à3Õ¡åèÿ•&âÎ¹„»æ~ÜD¨„U8…¿Çq§áïì7ˆûu'ˆ{ä1Ü£CPEyÃŞ5Ä_Eh{OâçÜ€ßKØÒƒ˜G±W„¤p„Î Ã$¶^X‹°,Ú¶ß!^ï–4†mÇÍì?ŒãO ¿Aäº¯-ÈuÄqÿoÙA!;^¸l¼<jÇu¿É¼»˜'Q6*¸cæUl;Å´p%1w²OöÁyáXŠq ¯§M:ºa¼u^wò·†¼ ¿áç¶-°qGŞ!l;†sí´ããšÚ…ŞMãµ’l•I„ØLó(¶†pä	FIs‚e`”ƒ£lÆ5†Ü6Ç¤¼Š¨Ñ ~÷)¸Ô'¦˜èõzæ+”›eü¼uß:7!Ş2RXUdßò¥I&ï)KåßÒÎa¼.²yN*’^Ïd“¥Éêb«¯!¼2úGwPÚAJr¹dm-nãlç¼[¶º?kÌšûñ{yÇZY`óvb*2[4ãu§vN"Mª÷ãØF5’Ñ
+2;­`ÿ(ºŒ“7×Ñ»ÊİúÉú„,õºB;q¼ˆzšÄõ)âjédZ›d™Ah
+­=Š^5Åî;Ñs'ğ{ïûÙÊ¢Ú`«j[»Øˆ~Ë}=Ì[G …×Aì¡8”ö²¢ÙbtõgÜŸd¼Ëº†şqœéœrd².3	ÿëQGÇvxÇI6f±0L‘Ùï([—ø-{ÅqÆá¦Ë¬ol­%Ù#0Y¨m·úWº=ÊÖÄ
+¶İ¤¬sê­2Oòj>õ¬ü£|æä¦—Ï;ïW”¾Æâ×ÓxvÇšdQ|îC8ÓõÊÊ Ñ½ñò–‹W´<Ëlu=oMö5lI N0>+ßÏdc#ä,)f|®*İÌ¨ËæJ´8†¼ÓØxœin‘­¨›Øì,¹&î[²ä'YTe¹ÇsÓXuX‰Ñ"“mE¡NwÖì9¥XX±"B×³½ïë•×“#Éñs9¥“Û³’+¬ègûr›\nÛ«a±ÌårË`¦òÖüàjŸıÿ­5¡Cˆ	íB'VÜíBr[sy¬»°½?ƒŸNüD«Sˆ½B3B­B#ŞÕ0¨[é(2ÀàvF«ƒa´	ƒ´‡¿pÍ‹×ìy–Íj·f@˜B1ü´ào#ra½5Â(ö6cOÊ€÷Yïg|÷2:ÍH9½Œ:ÂíHa(»
+°½çoÂŒF×¶9ëqtå,»
+®Š+sê;ŠcÚeMeWÂ5ùˆâ]ĞÌæigRÕPªYë^ƒ¯ˆb‘V&?Å‰#ÔB-¶ååWÚ™úÛÚè
+}³WxÇÒ¹øÇùÎÒ|öÕ;}a?ß:åoçÏàExn"¹NÈûRi"ÿ7vÇ×Aio„¹ÑDÔ«jv_p8gI˜ÊéS·ªı9eNi>¥^åöªG¥zµ[ÅšóâZ{Ì³Ä
+cù1}Ló4h@ì€Ø_Úñ$å²k½‚Ü1LÇîHÒû¥®õJz1äèJÙ×½´é©œ3X
+ÇîXœÊv°?ñ,8ª>ÀíR "‚jQ¥É«¾H6Î¦…÷®sĞõ¨jI]]ğÿ endstream
+endobj
+383 0 obj
+<<
+/Ascent 750 /CapHeight 660 /Descent -250 /Flags 5 /FontBBox [ -193 -454 793 1060 ] /FontFile2 382 0 R 
+  /FontName /AAAAAA+SourceCodePro-Regular /ItalicAngle 0 /MissingWidth 600 /StemV 87 /Type /FontDescriptor
+>>
+endobj
+384 0 obj
+<<
+/BaseFont /AAAAAA+SourceCodePro-Regular /FirstChar 0 /FontDescriptor 383 0 R /LastChar 127 /Name /F4+0 /Subtype /TrueType 
+  /ToUnicode 381 0 R /Type /Font /Widths [ 600 600 600 600 600 600 600 600 600 600 
+  600 600 600 600 600 600 600 600 600 600 
+  600 600 600 600 600 600 600 600 600 600 
+  600 600 600 600 600 600 600 600 600 600 
+  600 600 600 600 600 600 600 600 600 600 
+  600 600 600 600 600 600 600 600 600 600 
+  600 600 600 600 600 600 600 600 600 600 
+  600 600 600 600 600 600 600 600 600 600 
+  600 600 600 600 600 600 600 600 600 600 
+  600 600 600 600 600 600 600 600 600 600 
+  600 600 600 600 600 600 600 600 600 600 
+  600 600 600 600 600 600 600 600 600 600 
+  600 600 600 600 600 600 600 600 ]
+>>
+endobj
+385 0 obj
+<<
+/Outlines 387 0 R /PageMode /UseNone /Pages 402 0 R /Type /Catalog
+>>
+endobj
+386 0 obj
+<<
+/Author (CheatGrid) /CreationDate (D:20260918194716+02'00') /Creator (CheatGrid PDF export) /Keywords () /ModDate (D:20260918194716+02'00') /Producer (ReportLab PDF Library - \(opensource\)) 
+  /Subject (Specialized Topics  \211  Mathematics and Algorithms) /Title (Blockchain Basics Cheat Sheet) /Trapped /False
+>>
+endobj
+387 0 obj
+<<
+/Count 13 /First 388 0 R /Last 400 0 R /Type /Outlines
+>>
+endobj
+388 0 obj
+<<
+/Dest [ 362 0 R /Fit ] /Next 389 0 R /Parent 387 0 R /Title (Core Components)
+>>
+endobj
+389 0 obj
+<<
+/Dest [ 362 0 R /Fit ] /Next 390 0 R /Parent 387 0 R /Prev 388 0 R /Title (Consensus Mechanisms)
+>>
+endobj
+390 0 obj
+<<
+/Dest [ 362 0 R /Fit ] /Next 391 0 R /Parent 387 0 R /Prev 389 0 R /Title (Cryptography Fundamentals)
+>>
+endobj
+391 0 obj
+<<
+/Dest [ 362 0 R /Fit ] /Next 392 0 R /Parent 387 0 R /Prev 390 0 R /Title (Network Architecture)
+>>
+endobj
+392 0 obj
+<<
+/Dest [ 362 0 R /Fit ] /Next 393 0 R /Parent 387 0 R /Prev 391 0 R /Title (Transaction Models)
+>>
+endobj
+393 0 obj
+<<
+/Dest [ 362 0 R /Fit ] /Next 394 0 R /Parent 387 0 R /Prev 392 0 R /Title (Block Structure)
+>>
+endobj
+394 0 obj
+<<
+/Dest [ 362 0 R /Fit ] /Next 395 0 R /Parent 387 0 R /Prev 393 0 R /Title (Security and Immutability)
+>>
+endobj
+395 0 obj
+<<
+/Dest [ 362 0 R /Fit ] /Next 396 0 R /Parent 387 0 R /Prev 394 0 R /Title (Wallets and Key Management)
+>>
+endobj
+396 0 obj
+<<
+/Dest [ 362 0 R /Fit ] /Next 397 0 R /Parent 387 0 R /Prev 395 0 R /Title (Smart Contracts & Protocols)
+>>
+endobj
+397 0 obj
+<<
+/Dest [ 362 0 R /Fit ] /Next 398 0 R /Parent 387 0 R /Prev 396 0 R /Title (Scaling Solutions)
+>>
+endobj
+398 0 obj
+<<
+/Dest [ 362 0 R /Fit ] /Next 399 0 R /Parent 387 0 R /Prev 397 0 R /Title (DeFi Primitives)
+>>
+endobj
+399 0 obj
+<<
+/Dest [ 362 0 R /Fit ] /Next 400 0 R /Parent 387 0 R /Prev 398 0 R /Title (Cross-chain & Interoperability)
+>>
+endobj
+400 0 obj
+<<
+/Dest [ 362 0 R /Fit ] /Parent 387 0 R /Prev 399 0 R /Title (References)
+>>
+endobj
+401 0 obj
+<<
+/C0 [ .211765 .32549 .078431 ] /C1 [ .396078 .639216 .05098 ] /Domain [ 0 1 ] /FunctionType 2 /N 1
+>>
+endobj
+402 0 obj
+<<
+/Count 11 /Kids [ 362 0 R 363 0 R 364 0 R 365 0 R 366 0 R 367 0 R 368 0 R 369 0 R 370 0 R 371 0 R 
+  372 0 R ] /Type /Pages
+>>
+endobj
+403 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ] /Length 3750
+>>
+stream
+Gb"/*h/h=/&qBX_Z."JgdRl%kIV5MgZ'/MKCN=9n:*.\>*Jf@o2Z,TKZD7?j[gRZ-P%ZkakORPaQ;&"-/p;aA!FWm^`;`M\L+0q6*.I[>!TPk@!j`=Tk.ea%q:U8D%,Z9>kC=/3JT'9;gLeZNiVc!d$jU[q19bTQ5,@,HbeTMsh'I#cAlo(HNX(=+fR_/\E,5d"J9#dejB0;#p1?M4;l%aS2o.:,$bkS7(+/!D$FMADa9_D0"jI"$q00d0+3</D#`h'%l/CQ/MD$_moEJH-?HnXi*''N.^1kuS_jfgK;ig[^fIcIY4D`>ca7b(&=I.hTjQd!jOnpu3;>d;,4aqfl[f+H_jH-l!cHN.krFsj<LTlLDha)GZ_r]U*C:uE7k(7@e2QQ"&d#F>F]-Ur#GV*>s9@tQt#ITR>Q\>iXOi3l'"S99^_[<P?PJLIsehRtt*f)A!=32pFA$o(4*A-&UM?c"/N,JC"Y`+,*N,X^Mi3%NbS=CsPpb?$33.l9L&`!gm5$Y7e<+A=aeVM%cI%QT>9_nj@,:r1h?PnMT"IuAEDe^??!0gS2Z4TERC<3_X(92ZLB+YH(P2[g4B;RKF:At)M9`Nat.^M17hKn9e$k^j\G_]p-CX@#OB)?6o2`PNh-'lqb%,MhgV>oM%)[Qc!AD&g\86E3#$fH1QLf*+B`K_q5`J,]Y`N**t";2TSA-kk_lRYj&eJ?XQoi'!e0;AkR.C)R!.aBgi+Y<5bJom3T\4@m&0eI@KZ3""/J/cmX:;o^;2F=M\RRr^4R>0t;VT\49Jg)#0QF)b8XHXH?-8MD`WC[l"PaO;bQ%BkGKZqLd/:&unks_*cQ"JI",SQKu6KP7G'^P.NFC*(jg*$DT=-:I%>"plj66ZpiT@**JN\0l/[Z/-OL,5fHo($9J-=rH0=<_E(:1@-NKNn]2[Sel_i+=Q6#rjTF^::u#iiGQ!#oIR,%eC-)2a`G!15\L<bK>?"ZNqk9dYZt"2%[S6Vp')^QeAc[Q^]N=.>gnH'`sdVb<1K$IT(Hn+GmFcW1>^$XO]':;N0I(<,5B;Y1pEa7Pop?h+Nh676ohuO9k\#=QUo%Egp_4(0B9$]S7pTM.T$ECoE)X'"&_=1oF0H-lF4[!XTT*^`ap?9"M2HR4*q<%Y]Y3!V<^PO)g0<WoDQ4]c;V+R>p;ccD-On,$%phEj`g<Umlg-!5o)<YFD83FM^U2Iu-mW1=);pheWEO]87a=f<U@%%:dCTQU[Qs3<N&bn0S>a_O-#heN=C6GFcBinJZ*Xs*?VRo59";:6#k+0b!@VI`;)BJ_ik:5#SIB^o3kk'3k8T[U/B_Bjn@V\hQqXU?5Qj)Q#CthW5W-Bsdke0KI`>r#fq[ZnkoJ_BWBJ9[,Lu*T0%dS!jB((E9=Q<_V'GAIPoUO`3&eCtj&PJY!W0d'9?#UQ<h;%O)=2!XCgCeuFeFa><Xu<pt>(-W+IpoA4XFDcELgI[UmWDJ>TVZT_0sXJ\nT+H_5I#17iuQai@6[nb8g"bpSOC\-l=m(5<@J6+%o/=;'j9drStC@?pTNu?/]m:V]5d:GOn<p0FU$/Xg,]YdSATePakL?1MRZW=h)p$*8N>iHCbDL45O"B97m+!^'WAl$+1-W&f6]/6>Vgb3BQ;.:+bpg?dd_4ct59TH1BB1kDLEh>U\+%28_<A2Sr.C\eIA7?i66Q/n"[i\/51Yr)C/hclMcpbPS"Q.)bAZkSX*tP'jTa6POYA84R=e-)5]Vj+r-kb5>]ZcS!hTQqfXL0-7T/364\bmgOm;)MrN#!A1Z&5aHW+,RD./j#7G<tCRZ[*;`>PNnI,4\'d-Y,^DdF8L3QT<B+mUKP='Bo>,>Y7&.3Fo,p:,sneGJ!nLGi^tV?TIQ438m.N,4en!^V/=R&`74C+ZVN30q3f,1GDtiK#(^H1Yi-<bC36K=`l.qF,t4)+!j*%AmhRD7lcVbOeI4r-P^:P%k9u:Ui1S'ETfZh`CEasi&#QZFN?@"9n^J4:ASJA$KSTG\&4E=C+[U)S=RQ0kMWX1J"/EpN77d5[ln,*`X5\ZP%lRA=A]?TD8+[b8Y.d*UpRT4R?Whmkfg>sU<58'$T^cmfiG44YK4'PI'3$LoR+r-#p,\m$F?_HY^LCL(84S5'no65iJqXI]maSK7.RS[Y-4#8XfU>Z2Fm\pm>ShNQr@E\UU7b>JU0*/2r$\pM]E]X479Jea7s`nH+<#I"cj5p,m9=g"5KMrAE]]Q*5`l!4CN?uhHHd`=26X=+.Z+Ie[K002YT?26"Ji"&o!KLUI8d3MiKtC6KGPU_D3ab6B2[FBq[`HqtX(r!^0,YM%%&Sj18H>/0K0ooh'A20nS-R">4[kUB.L4[Rgng=I9sCfKbX8O`\7:=Z>tLIeKahOGqA2&,Z2Ks'`BB$.uX-ChGmP3d1c"ZP;W[?Incs>qFsu19:HrDdBH?HeZ+S.G3ljPk+Z(Ee@:]Abe'CJ!G;^VQIW].SaPDeM1"DW)fmpEf`G!J!e4H4PG65KE"uEfG)g_:*5d1)#lSsj<iCom[#qBd.G%Obd8+8JH`pleX-bs"m?"3.S5II7;b:rJf%Mjh&^:4'fN#I\_R7g0Wlfij'KFGZ"[aU"j49sR1>:%2&XEBWu"]?G_;.D3Ym?7)k9u%&Irmc4W^79@%PokpG#?hE(Y,%TtC4:6Z9(!^*ZS[>F5`N7kL"Zoh7CPh&"C:"8*9p'U8ge]`+*jn$&j>P7_NCaj`tV`U3L!@L?,Jaon7J]EC'c]5;4(k=;kPpUZZO%-1S;)d-AW-N4Qh@C";6=X>M"Ro7pH>f7I<0fd]]RGMK\9c[[*\[i*.=dlK0gE>]9F_BYIinigYM>NpmoM,D!`U3d%]f:'LhApL<-\VBYc`^s9EN^_HXC[RUhk3@6nZf@E_^2deKg8n\aOnP'UMIbNINkssU2rH51:VVF/fkYBEKt"L`D6Bl&rf2C72]`qlp\r3]pK\B!6d63<;MI[V;@U]!Ido.d3^,s>K3:G1ooW^?1p7o<D0U]%kVPqE#F:OMU+jlaBUNSUj?@I^J1MeaVLUqWL*0J8!X`snq29l;X8N::]5EC:u'=T2dK7-Jq9>%B4-LZG/U*cM=lj7L1[q6KM(@5!*sK*"N=;U8W3I'Zc>r*H,cOMm0CPqohHqdiG'Mc3<lN^f&a&6q-)BUM^3!e:\A8!0r4%hgFUAFPcacsb,!)tB^8:F4LpG0,dC:BS>+L]!J<A3STWAHL6#`d\`\^mR(%OFdpnc3o(Xu@_\=F0rom"3K8VA^5#-HC&b<G,Ha"-5+13+r:$PMJ`kTQ!]Q]R'n"G/>i>_[Z`@3FhlB[6e$h!UG'52n'F[XRpB'E$].l4HWLHZr5Qcg\lNa15@U3[7.q6F?]%;>%6VP:iZReeGIac]om</4@gJhh([d4KBc$dd>R?6l7`2%3Lp8!9'R@K.0XJ(H:G`dOb+)U@eT!*f,_B"f+eH>SOAjhC+BY%7gXpKoung'9A-OSi/Fm60U2GmY=Z/Ren:-=(#2S'oFk*G>$=VG_`F'k9-P-kD?5>5`l^lnPaA`<HCf#],!gY6E/>qETM?fR3[gN97jAP;V-4.`</q&C[sQq<tN^oCqHmokaS4]lp`$Y[(KuTIo2QQZ2_'5NlG>Xh`n2rLeS@G5qkdomQ_c@`)7_lWtR`]fq$J^"r':%CE*AG>iFcejIkdWWj$Bk\g54@rcT/3Rt5:N"$*C4I\FY"uA6kX$%^gD<Ka6BEO4-gc"`baPR.JH&VYLgU/@fq]DfeRG7~>endstream
+endobj
+404 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ] /Length 3740
+>>
+stream
+Gau0FBli&f')h6*JP)3N8ljsB5.jCNjWgp-S2dRKpkumP,\DcHY6?m`jBoY4!"X$2i_\4-,u84T'&@4`FMD_/+Z=chopM,!>cu0*h`8Vpa_FNiht"nS=7UP-m(^jt2i<%0+dT&*&^,Bg-k$C=4Msfe2id'bfQ!uP:1CLY0p_PmRm_:a22T^3LHE+!lLZFZd_$cj<91#$YIBJ!jD)k?q]f6l+fh62:b.?=06)g`imS3j'tI'N-@6qb40jIVh&#E!&:E$41oEeAQ"=K+2c;F,Cth,s+)&8t-#I3,XYTIIf[N$%\"teOM;usB!b*I!'&tPo;)TQsq&-2q]4[Ct^)^l=8eQdeX;6J!>=#E`=^Lj2+1khZ6e[*`fWLap0RtYqG!k7k+lSB]Ip+2RSOdmMGq`P96(XBP"b(tV^0N^2@Q@Lo/lW*99B?4lGb/&P>oG'c"3<0NLg875V=&%H+Yu&URtNDI"E($C]l<@VWdl1?\qg4J6gC_$bZ83G//2]5KirUbCp-o*HoW4DdP/*aF^(8Z5\mGe,DX1T?e8jf=0--aP;]<Zfp;(rOoH+EDuZPC;m6L<^jMI23o3eG]O<#GH.1nuoq7h*\5B_YDML.mS)0(ag3j>IS%&Hj+YQaa*(qm#g!?a/+r<Z7pBC8CmTOe^\X5be2@6344X/DFNoO8-^\V0P@B,W3,uUpQ'ms2&#QN)!nP'8]IB>0o2Q`fkP$/OrV,CQ5%MQc8r/B_adP##RW<PMKY;T*1)<lq.>?[l)-u)NBMHobc]!3gP#;tLLQ)'qfCAgK(`QsBVgW=H&3:Jl\Q;_mMEmX82$iHejhW8"LjB>[j-DL?4mE4nU/r<Kn0H-s[1n<CaohKTRE40AK_*Wd205Si*D;TKWl>B@X/`g,=B5lmVe^al;)e7K:S^rL8hb:EL]#_jV$.Z"3Hm&cCqF9aUaVXOaZ%1cSG1_&JP\ZZZ(]=:gl[+'AHTOGlNh/jk=75f:R.5&__Ou[uIXCi2p2=#7;nLf\qO-<Sn]^KoD%>PI(rS=&(j2@:@+\1-gmar[I[If3D7*B-TuPSCLBedPm"=Hea#+p%c%#*I"<!+_?i!msLb>og#J.bt2M9aN#AMO-M;q!TGkL@mf=/\HE$J"iZ"#eh[,1Q0M<uR]6;H`7G'LeE)nZR5?1YS1$Y>T2Q,*+j^p"u^>YNep[i.Z.'b)'@$L2Y)=95YbA&^7Qd7-rGIW/_mU\aK)#";W\:2K1AZpV;B-h3sgJ'^sBeQgXlAN@tt:rJ0,I7H&Y,*_\Z!`lD9X8*492k2VeU8>&,q2T0m5jGal.9O#e>WK<?f>?irK+PU]$Y\P5A<CcmC$IgGDbaQ[fq8_pEmE+A\;)[gj(2P>/uhhS:.ha4-O2d^LnB'9:Nh>\'@AM"SL`<W0s0ouS.Cm9h3qPD#G*)A9$[@U43l(Po9mD3$?Tf9Of<s),MhW3OUO&EHX;lNXW2_01;;q,'CpqFA(gWBbJEp"UV!cqH"snhdXfD.a*05\K23L*h$N,`HNrT&Nph]9.iQ_SOV#^Km^Rer;"#P+:;/bKW<Y/Kpf8AfTEF()j='PAA'7HVp^&.1nS[6BX@GaG3U6R*f5M8qr</`Z5+d8)5CNNNJKYc*Nfrl;@0RE5Mh?_2hdka<o\KN?Kp-N+T";h?k1/T?=m,:?RVb9T]5O\$P(30@4)6;&Y_R;8&LOsD-YS]HH(j=^M0XS9T\tDEqecs(#Y;.tMd(pD1deh8e%8XL#"5M(p[r;,otuC&ot<*uCkm"q"g2!ZY_i-3=<br?lTEu<#^V5&<0pL)X\sg<^Uq,sl2D]:qqg?o`*Io5,A?8L&+@GeGfjrqIZ%I=oS0>.Ej]G=G`gT2n\J3f%-PMDIgaG?[OY^J>K$#i[PcW<."/aZ*M0rM]g%N>0<buLHr!5gT8$sZ!-\Hb\u#P$+A=TL;q&fYb3p8pAihV$^&)72B*9EB];F2*+aFh%DJJ#/=Fs-TH5JtBi\C`Z,.%?VWW;p#[8GlZp>3lP):fp:X_DsMM]3iITH<m#K;"JkdSl2D3+SpG0^=BbX7h>h(;<<$S#+I7a&i\m@;d.(jmQ8($*s&/^"!>,@V!(bDJ0%h7jFS5!jSbD=9U<aAC;LD_!e^dRp=PbSkPBU.*..p]1.urD/_5m$A"ZV)beRalsXRsDmjVD(j**$A6+4WZ_g*4Us2ODHeRb\TLM!gMn3HVE;$hO>TB@MC4j]VeL)sOe>2tg[00tQSY#'Era`3D@HJQNb&=,Q;^?:%]C,sPGG[tk$P6t7F]u^$r_KDR1QZB3]:]UVaXsq0dRYOj:/tru85jZ;S#X3'8=fi"H(2-gYh_'`YL+Y)L6-c`)19UU1.&7hV&Tg77OF?d!*!XI:lN;rJf.S"LCFQs"coLQ$dnZ3(GO_\C[W'Jc.(s6=M(R@>1&[B4PFc.D"Dc0GB1=(a9;]TjYb5'BsGkZ(P'g>H>7KSi;;6XQDE6BCuJE,@#-cm0rM(H<!^(_Pmg?+%YmD[U+`JU`Ym_[9+nP7$A)qZ:-:^@:cPQ[9r2>E2:%5eaW1PjnKNKEDXO3#"$]t#qlj/=0GD-C0>tTRSHH4s=L'msk0*Y*'RR/qj;eF"*G2OU$cZbC+(>$:h.dP%:">hklJH^6LobfcZFS?M"G%&@id&iT4V7b3Nb%O*F@c"b*jn,45J=X`?S&IL4i`2PSC)HPn6cA+P](R[g8W4\i:Y*h2&*;?bo<b6#c/D=jG9=KotOC&7s58`EOWoB1(tKXr%3T*+[Vk]YCPO$=Q"A^nM'83WQGI2c]U4Sl?+(W:?7rSA?W9lLh/mk#@Y\:\"0b`6i]@Y)2tQ;*Fh$;AePUB1A!X[]\_FF["PUc(2,-iXE+,??5Lb"bscQ9*if^]@"7k)kQle(Y,s?jB-.,aKTg66Bpd2*%5KmC=6A%<Oe")+2D\PL0FGHk_FU;4^':%t@h9]$jLZeWOe[(4q3R&AatWi<TkY3RPHMS93J&`40<!&SSo_-onrseq[BdR7^]V(TS/p+Y+pBb&U2,TDC50M??0u,.PffFF!^&#oZjN`Q`oM1'$"Uh,8)9)c?nGAJ3Tu>C%U-^\88FTqiZJLO:@FS$C!D`mB6/<=S5WHj#3NPuB"!,nU<6J;5Cp?=nmEfucfA'cJ2B`@e^^N4KZ,qHIt/"(]a?_h\XfaU#c97(d2#<Tp,dUMlAVZ[CH.)a.\&@"9d-FaF[tfN7ah)?r9F-C:gnasH\KSOUe_6E]=ak,^*N=SVb.h-#+*TFhLmlp.FC4?1hl<dCDR\A_h4BB#uH<5UY3i/$^#4ZW5`Gm-$`Y]jIHUS01Qkc>lq$1b)s'RqXI,+gA=@&@cX'K:p!+sq!n/^h%QGrZLq`+$#)h,VqVRgaa=@e6[b2t!nbDgS#<s/'KFF\X1"i\Q^1+]Fo%Rc>4b?j"SoOTj".F,&+!^uVPSpgl5`pj6:el+!.R/23%b&W:D'm$LVJ_F;TAYpM&GfJoSYn&8$q[/_+>jrhb:aFVP7Q5Da8aWRHhTC0Mh_#O_$ku)O-@".f!@+WcpHm;2UJ@.jrND#O*IOj*$)nk\milPA[^22%8=+5hkX+%=P]LaYp_Q_pGNGX3GP4d!+esC84ul%,L2.g?_iL6ao*21qQaThlVoTN*c1*n(,kGmS(Sk\+AZlPMqG4Y0^HsE]oD&Fk*Jkde>E*kp2lY[2Oc`GeqA/kVPEs^`B;Ts1hnd-O>L.)+V9(h3\N(_"&K+BlfVe5K_-1.lX$Z9[HM*r=:0<5"5~>endstream
+endobj
+405 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ] /Length 3895
+>>
+stream
+Gb!;gD0+Gi')nJ0JbsP(CU"$;hOFCM-Z7D1c+'$NDC4P9)jl:(epIik>#p+Nm/eP%aV%=kb0=5@,W.ksJ]4t-cgINlR.-$65Jr_IX#^"T7nP0So*(hr@?^MjjEggfo,E=-^26_V=R$u;fT^]b6d"L0pkUj"=>o[u21.XXaZP9fXRAjBiA:r%_df3SEg>_EICS9V7]s7[6V6.;"L#m_,t.D8RK#k@hkErbnP(NA`,O[2l4V!Ee8^+(OgaKl:;HQ,ZNGelKa;1[`*Yo#k';N@afT:2K`&ijPt61SO*DG&b@I$-EOADMIm(O71=%+5?j8fBAHYU1jH#p@WFYrS;qj5O]o&%6/d8@;me0dMAoA*Yq:bP1ja\OL`stdt]BU_NpbHms2-a#dZM8U5CpkRR[IQS.NX,-^*5f$%R,dGId2gIdXZ9H+?kVH"/^$+/_E@4bjEEjYD[Oh^ogZjkacIH`6\qUO4#UKhnk]Wgf45NF!th[`:lC`K?N#1EXIWqh966J/D5EY\mfPlb1GEMC5bbFKRI4!n7LuoVdQ.BdU!U:1VPs&sac"](r)dSD:IS=S6k1iep5GYK"pHuh@JCWu1,q?7[dCu$ZmO]R1\Do]+S543Rd'mFc:VApDDsN>I,VPE"Lu(CBpbb:poq;OF4rg<^eU<+pV)2N&_:=q)h=W`,_7PfV+<KicUbRr80!eeN75:o+,!%G@\fskOuSugMbX5jblq6i\KZqm$`c85jFo@u-sjod9-WD-`iC"gOd+`2;O+Yk&g9=_S%.\(K.,bK*-.R#'Y0Iu>p@?.lntssQk2[&6;*]-fC04#D[[YM7En#"L()QW<WGDAT$`djNJW8AKO=+NhX4V+3?(<qd#Fb#2oc\Y%-I#mZi-H`C^):M1r&:,D`IOK1D6(5DZ+heN8_Q$&u]`/QljP$B;^anb8N7Q5AgSsdIj!okd>u?E+`q\GJUH$L-mL'es^M=q6!l:0m#Usf)Z->6U)m6<>L(e`DQ!ti2%FJF^HHWqN7[EEa/l[Q9e6$#-SX0:<9Yu$adF=Jj<Oj/b`ft*hl_3V"4'fa44$\DT_a*=+Yf2Rh7,L!7J0*L8+n*,6fd'V#qc=\1dnjl9@-QFqnHE9%%T'>l\:6;A/K(l2f*7/%8Nk%!GZ(!oL=.n,\80eC*<d_&<R70IZTK40\,,M8dQlV@qf-)*mpKY2nt/C)U'f@9n9qi"_)RnP]9r";J;e)W(6^Q>N'+R>J-^'g]<99;#EfY4mEjdHL&8an&2H*=c%*.*DHROF3UU;Qf#R\+-5&;hu+J:4V,odP4DY0U1WRcB]`Y81Hk5.7BTp%&*ia8<PV3%mpUV\53H'dID/ckdIS!U0C(-Ol0j<Ig=c+c065VXV8M[8V7(g]B]cBJNPM,kQ>32S.C6R:%f:6bgm3cAFR=h@5Nf!+mbr&71IR72U._Hk!j0P+r!;&H5KRbfAQ%Z&"Wd/MLaMF^s%]l:Q\[,(O4i1AG_YQ$\:*(Z)l+CY(i;66=e2X1c^3m["HaD&H&])D6oP:4V))cS*emg!&CB7aR9.Tp`!<f7'-LNgNke+,QIW-]@l<5":kYGjFU?ls$f%rq[GS*g&_%n;I0np#0IA&frklrn>G4-WYM>^HjJ+_7nhK=[cA=4jgttLY>D1rnee"#=ZUK#H"/9.O=W/d-pPkl"=(j4!s:iTB@B`mFVOF[L^18=%T[3Bp14r']rY]DcBeJmQs!h,ILF=H^3Sp8.kj(5+Qc<[q?ue5'j"fbB0S5Er1t/p0BnfB.W/"?"]nq9a7#.[aYdJ!'Qn`eK$6a2As)2F\=f+3*+cV'D5m/Q/U%C7=,@>Z:?BT*[p-2dN!^#8aGP,9;5>R+CKe[:b]Qnf0q,,@VJLF<"&l5n9XTjS%l#I#05'aQCP"XLmpL:r"EP]YE>g4;*&:OC4.i4lhHs$/,!U"E1iSC.V@)jGg?^('on&t<3@jA%@to1Ob./0^mRHo,.-J^@D^=R]DUM05#*D^[0#d^V0l*[ZKFoc86cAU>oG@$B?k[]@L#%j'Y!C0?THE;f'$FBG)[UVDBD]1LF$K^BA)f0@.`i,(eLCFnO1`,,dHV4BAgE5>HW]K^!Dp6u_p;`mMN`uQ!2l0r*&sD)i'+6LCJ\(5ELOPB9Am0IC#Gd;UQ<3Ubmn?]YP4u7S.RELD/k]Z&GW[6GD_1p^lrI+)6/,Yl^20iKm>6E?jTdQUihr%E8Z5i/i>#>.8YK7gVJC-B*HH2@uE`B:-krjN^N$)0;\HuZTb1;:SQ(2+0p9bLhO=^=Ts:q48JO-B#&1ud:\K6rTJ5=on^b6D8R;eP[)7J/.]_fIs!Y'h-a6WeAV`>U>(-E\[.SeI3lgNM#*\5_`Wk:NY/<^D=P4P%tZ/LY$\o[k:P4KPd4Do6/1f/UOhlBU&JSlrCt(F,/o#XL0us-I106C"7/$7j2-BX!=rKCCsS3@C;Gb<n_LVT6pQkc``T[jO<R8eSVK7/&W6g'/h"*aT%Gja7?3o`)utHpanqtHUkIZ)(IN<mpT1pMQi$%6j5h@)Si9j9&Aro*mJ.H*<0sXf,SAT3H\K5LD&)a*I^[?bEa<^V\K4gH#>+eCZ12,_2[$p!*<JG3/+O9S7%@8O`/R(0\1EuSJg)=Yf8Uh#(9+U9M@5uglNCN\-@S5r>j`g&K%qf*J$*:H7-g]fW)nkV/k?6K,L*RnS@ab5Bb&UO66SE8D+>#[7q$?eoi]Sg8N`eL?ifA;-E78J&@o)o=&WVMn+isO$P4*E6mZGd1n+Qp1]Z'?kh9pfK9uj9K;.Q2];jEREt(gQ::l,S"BkQmNiP4C`gp`(J3-<uQ9%/%/9XpnGXdq0ObZ!%^VK;&#OaS'l>AuD([^n8o`OQADqgua@J-96eih@9Y^Xq.X&`k_=?U>QZ(K\g`#lT7e\pebWX%pq^F.V$9==MIg9&RD6q?&En@ZapE(Sjr\gOU-B%5F?`Ab@M[VlRggMO@#hX7GN-fEo/L%_d^o4m`jK9Q7_TGMOpXqs<OL^!M"+lDNCpKrF?`#cK^^g+'mc/f?M:HjYNN@F"$)6VskKS+Dj[0"OUc[P&1=k%Cd^2lUAKRr;Ga02#WJX.$;Pg_+Sinl"s[[lmsr"KHnW+hcQUKQ\o]SmINMJK3G,GMa:Th<j?-fY"!$3]<k2-",=]"U^sC/[AC"]n^nV7o>A6"Zq\U?kdpVE($\<saG7YeaKKZGp'/1<F^)+h0PnRTMY-#4J!oI!BKX5((rbF?JQcaoBCU$;Bqb^.A>1G#YI)"\kHjYEJDQ,mnTF*]W95#T7iCinPFL9k.6!GHXGX_hKr@X\p;VNisB2Ej0=#Y-\3r!h4`g;dFShm*_`S;<C*]opZ%#9Ku<bqX8TT88Hdl/@Q%M1>IkBmA+He+WhLG!r`m7_u8N]VHS=BX[g:OLL.MtY7:F?n3(TH'gTijj27UAWAWT+)ehRHOGpUH0g#s0F/P9ff!*;XTT81YjnNJg6b^aq=d&AI?Q2j"!'#T(QK#?[]o<9+'?;rE,<oHCZMauA?Rr1I<I*8`O:EcSmmA?3o(o%r'he=>&6HJI5hJ30>GEP#0/\W'OdDaCE[J%1$OEc;^(G"?-q&f<Ugu]B<1.6[)0AaK^Q^t^-IO*aP7cYe<7_?b)H&\tk=<,)??53O^iKG+kRu^%k#KOg;4cJNrFbdoIisbC,d4r&>;mAQeEi=r5hL7u0T:L@Y_fR4r0cSrQFtua"?Bhhp>_6gi16QX&XV`g*GNk_ei^*7@l+RW)Z)["!GV>g^.EFO.L"k5i&=a?\6eYa,jh:Dqo($k6F7jC!I"'Y<Mk>>3_?MIISWT]O&5_im#j5LUU!PD)3NOo/cuOcSR"-<Cu6(n?0\or8[IIEAXDQ)ZbpM<p5Lti*1)sN$nRoHGOU*,\3UO,=B;,;kNp9ZrrCHM8Gi~>endstream
+endobj
+406 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ] /Length 3875
+>>
+stream
+Gb!#^=d.Su&q9SYkdQi;)4L;^W]YMG45MPNRHu?D<pa_"+:=8Co*RdD4F,T:^>/cBaWdRdjJnd@+n7fV)IHhn@"F0LQMNO8!H.&hnuW(]%J(<:Y2R7q4hR1Iqt$4a#GLHc?o[EV%+hcdhh,tJ$t$</E?#c]b;-pg$=TOc=O%9f!ZGYS+^V&)AiE:&IuH<[A8oG^LaB^jE)sg2L@a[jbl<4h2^HoB6IUd-0RWfMo"bTJbO_JlOffQ=?=`L4[LWYX.sNUI,6$RpR-+WEL3qBk!C!`&_c'U`-'g.A<O0nC;/K2ke0bZQ47L%AbUCE=N(DV%rqQYr$JT3]R_J$#/Q2(c$a&RerNudrSf(;p[N!q\LP@WK2_o6=<B#G&&)09ML(>SceMjDJ[WeP$XZSG3(SElBa7*=Ea7t&@X<#L;g2ano^au>d>*i]4`-FBtaj5d%_%<4,)^aejVZ`EeR@7MfOV*1X#?or!gMH#0pqu"O.4a,#b-b*S`[29@P&/Oi0FDW\d(SZIBYOI?"Ri&SD1C`Je&N!@4V#39,=#O!pmA#hVq44[SZ09ImX21FX9Z2u)N@b/_$@#R.\q.r(M_aSGdqqga+Eb2fl5>j!*@:MU9c,Xq8C]*)&Hc:Y2KL#1sQ^(4dU.;MFus_W#uVP^qmK:r9VF7>[0]F+S^AFHi31H_,+a:A6O^kL=ppYhGiuS^?fGj]:[p8rd+VB\4Lmd!Q/gQY6gl^HIrJppcdSI8^<V7ngo'>"bfc<Vd/dj_Yri9U"S\>Gc\CXcJm*%P22:'4onP1\YBYkO%>gBK7brs;&3ZA"*[aOU)lpZ_m\Bl"O0S&9_qMCqnPk0&iao3Z:qQk!$U;e0_iH,NsUT9bk%+dL=0udq3IB2G;?AFR,`rdCJjYeB9e-=>sZ<L$<%%q[OQ'L(KYaB5_eSWVpL1Tr%te6(p-<Ep-E5fj:H,@i#7J:$Ed.j+g\n"V[>("'q*.o+S/U@AJh<4B=I\T-fN.O%cXF@obZYef<3h8OYD>6<`M76E:'YFiXun?LQ$/ZYK5k>6XjHnL_EN)B]?K(Snn8q>@)c3UAjJ^-Ed#<iiGP`C%.E.Xb9GP,kVWi@E#-qA"'O-/eY$\8_$60S4(3ECbeu`5T6YCAsE.s2)ge#!EpjZO0ff/=()H>FZO-Ig7jG-[fTVH.m_;;4Bmj#X92WCI>qoo-B#FQ.(#G%==&^[R)t5Y_Kp;uJW%KYNWWd>$-f"7n5T%\"\WD][T`2<EL`B7L1Msd&C5]Ak*QTV<R"G:_of&GoQA6nOX:Y'7o'9GAE:>`ALaLo.3rTGj.I>`5;.9;Lap\=Fp2g2_BlD7Dm=hBbVK_`RdL^!FW=;^hc;%i"kAZ[]jXR&:#S]UT3)dG"9MZ=i#+NbAu$klD6ZOO0mg/,61hsU4aa'lPJW)C>fE)q9'Uj$Yg>UjbufhL_9@e`Nl_TbHBI-`7G"P675I%#)G&l2'7uS&Y2%^8lQ);5A\sdL9YkZ#U(m.,(mc:3L$k5sFFb%*$XR,@1(>`bB"oOiF:CU"BIYC\LleoFF[?dfKPGM]Cir@pKqZ%,o)u1JiCq3^=Y%Ckne)L9]IXUTI)"l3&^(:7;fCV&%kN0/WpnOGdEf/oOAZ%/J,bo&IpLV)[]O#m2d?+[28O]*34u@GFLP6p34u@G['s&E2n5p&[l7;c2n5j$X6)KYfTJcYE9,J)8F$Zc]*32LGBZ>s`d2V#X:),lWU@XmWU<c-36lLBh.u.lN;eY_"8e(/[D]mDLFVri2tsJElIo(&]bMG'Z+F\00C$h7;dKBJcQA"1^m/e_M5T,a7rPrhOQ\YYmL:R!o!(`pkHAd[^B&70S<,S^0t^h]l%Pgj.qD,H(&;6>^)NI=JM91Di%Xk=:=%NY#Gp\jXK@]Vn4rOo;63O,V&YL8e*mnl0$ZCDA[DaXZ:C6mB2gh.-pAc3:8+Z.MfneO4NEC#$g-1rE(-3ZdA5mj?,"8jX\W==\al3c4UOC]QEUcB=W7^Q6NBfQ293]i>;Bq%<Au<bXMC`EMA]TQ5q9,nWeiUa*,Q7^&rpH/kOM4S\3\ft!<BQ)X^Oq%FV_;/XqNAJQH#0.D1nL%16I<'3(B[rQM"f7RNIR;Dj*#H8(>RN&cu^)+57C31WPNuHO>I=q-V3*.0g_r/^(M\#ZWrR^et*T#r0@$mMR3DAC&,qB":H:qTJeD5Jd<bQV:jOgJRi0dH@F=.dCc#@Hd'iUYM9V?ILc.Knn)&H+'eQ/8/#?MLAc;l7)[B6R[n[Utlpu=MN&1I<-F*-AoL5^d[B##;Z%:/J8PQqGU*V,!L$LMRC6ULJ<uflrA%bM22Tb;XCYIeh59('K'8kZAf@$f]-@-jb](uMNLX"S3eG)Of+mmZEnePj8\c]P8!97_ehZC*NnDoN_O$e?DOD#fT!E;@iP9a?R0VL3pFot(Sf:PDHP/jWu:8[p=(dCWXJZO=)I_#]1e"*O8ih8AbdEmnQk;g/0uO4i!(ERi7W#;!HWNT%4Po`$"#+H9JMs[7&Cq(;`E&cWNT1EJ7Si+5.1X4*h]@&=C%pV@^do`%/NX)Hk<tZ'c?^s4D^tC#js;1P-"3b9Yt!t0!IkDJ-e=MnY(enku//^fnT2"M>6rc"U92P\##b2ho@o.d;mr+G'kr@E<>ofi#n`SpkEp/$Kr+8S4hSE&1S)a3!.KZ*8eU]N<QIeZ77MSUeV1g&\iIF@304Iop1M!FDo*D6Z0\"Hj;/K.o&gP@StPAp)[P%C$AJ\gFZu+R<J;dn$go7k=,-ka(o)o]I,U?;m%g]heesW:t50fi7U!.#G)\Z;iu6fr=m?2c^J@mZ0:c:Cc11O*P`Z`lYoM#M<*(X3KXVL]4Z8@0lSF2<>5kMj\CCFD0j<j4Z5THdK*B[Sq=6bKj)`nIqn68RQs>u\m>foq5gjeOQIN5/rU/>lhe?7C?t_VlE1p$e$utk.Jla+HBC3A&?*_^,W;lG1On5KV:pf`PgdJ60OoD%(*9JHq<o^@Y10?J>?@<%eA3N7P=f6.I580eP!9L>\YL60W`h+eeoF$G&t)m%P`?(<"L05uem)6/2k3$=4(!Qu%aLgq<=:s#Yge@?Gt6C+&+6Idm7lr"#Ij3W1!VK\'`:'^cu`X]k04<!3>r3]-#C?'pJ9cSGBN2+5"H%RoO.^W@G7ouIt6@]?)o2CSoDkm7rR);OF9-]h=E#)*])0@__/ssWSLslX3*K+l>k\KQ#Q(j02Cn;JS"U`:@7kCmFgODhO=aV[RX_]f,Km#.nj@HQ?iXTr`ERYYn.eja(9#q:rOCY)9b/*qF_P_2m`h''G"YU@u7o44M_lQ58B#i1l0H+V[-7,C/1EQYHV6P52uUS'H]3APglQJ5!#MV7Y-%%_e5CLB?^p-I,bI[N_j[23MI9YD:A&dEp>70H[N.1PETp?ei=A'T26begN:`'E>lf>fmS)3l0m+6WoF<U%Q,QqAG9HYLN'h+.b"C2@<-FCD$-?GqRt,ElDj:S.Zn0u`C7:'LTKPOA3"5WqcRTa3j:Mf`i*%1YI.1+\iDb_Rb+>C:8)-!M_[>Xde$_#E]CAVqCo:2aKa1?(=D<n\lqd1"pP97$JPNu,3KOf<j$_E2\D:.:+:64HDshoFGrK,e905WrnA_,i+]4c[[m$X;5ACfT/[/$mJt'8p;!sgd>cT[NoB?_i2IE@q>!h-0Hq@oOhA`sf4i=IIVir%H5iE2r[++UPC%`O'G$k(=pZBIlUl073b)%tA*Z^<9P$nF3a8YZ3?t?AWlr1PlUKW78_6kdAA+(,BOh!(4G!7'7J,dRqaa:6\af)EYZ%%Qm2)='Rkbi49s(EFKA/'X';lP]qWVEoD[qg:1n3KWCEqTih%OYeHWiGk;%7;L5ra"grtZCl>f)h=m48c1q]F-mpsT~>endstream
+endobj
+407 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ] /Length 3647
+>>
+stream
+Gau0FgQL=2&Ui84bZiZ,K]!?WWB=;23g[-WZGj=O'r=eq?q?:o^`^.+QhgKJScM)a7=s#A="8%n(gq[:F8C"QR<=mV^Q/;]jG^cXZ9S?P0ZRbJ204/gB?Qq"mIJeW?Wh9Rn3)P0T)QVYhf5AE@+FBS??3W&4J+2Fa'(%R"^C,VbPTRs&P]TD$f%WDDVetT\P'A9(@3WVAQ#jY>JV9PBe)UC%9rhWQJ[j&.p1G1lnU*0:FB[Rj>oRD5;MKXOVPh&A&I^H_k0P`8=ms'M3KSl8XA%Bg\)N^^mhIIGsf&cOg6(7NN-Nqc0OnG(5pP!!bTDp]YI`PXF7m5r<nq6mU$_*oBj>p,%j4*^hZ5\\<jHrY:Ql(gL%Hs!(Yao+58DreM)PI&%a!+XH6G6XhVQn[QCbZp@dFW+G)ad`sV_EF*tN<cGXe,nQ`")E0JWQD(:rWM98=@q$"hV9b@NBq9UB7aNT(3c!6njE$M^A2m1tb.F<jbrA2ao);iE=3e,)$7e/q@F`HJOpAR3&`24W+F#(MjL2cZ]/1`2/c5Y.)O$7/k\!^OK0k]g>F,,S;r>I?k^\6kFok<N)NKPI;('a@e)trYh.C+'$?fN/b(7#oN$g/B3DBF+0B&]Tmf8V?e@JgNImmWdHZ>?<d:7;KV'-kLXgpp^lpt.hb,2@SQG[Lo11GTh^PE+`G3/[YamWir+s!GaRj`Zd;;<:BemP2Vb8X(d?B:e4p!=8KAqg;>B\j;""jL.2*a^Xl;S+@\F+qK.PMjg+/XdJJL-BG>)`9P.(*n.!I]Bs6NTC#c6MZslb<;Wsu8R#2h8G:kDa(AnQgl+01`PBB-V4F5Xi#Gb]pZP80EU_:H(3oNooZWb](H"to)f.)orTI\\QDdq8.]H=6n-k5-NC4LUV(u)\AXVrK5S\NEGWem:Qg;%Qg8ru6-*K4jA9SA`@#St:XglQeZ.Z0;U_OcA$&DZi*M8Ldrh#mPBp<nMU8Ml,4-c0%1gA)!rn_#_5$0?99$<2C;^8^6)eKReVic3ZL]-.![`:NmkpH0dkXDS@\F!nKZh=IgEBK]N"X7BcX[Kj&)3DI!!CPM1#n@('/[)W7DsN.[JOd-]RCXJJ4(AYZM5kUsq_R!Lbnepq!3&K8kNVH>;%q`+<*B`2>JPY=lUDR_(LiBJ:V./,`sVb1_1)c,Fb>']!UN=BB411*JJ.aBBBN[[Xm.@ir/X0.BK&'hnc6<E\R&t(kAe(h?NR%<MF:HY4bl^;QBccX."E]+9<:0>j:"0*)P"H@@mkJWb^m5ni7.7'$+;!-K^(-BFS+W<Q2%Odl`6!)0iW[L8bEKg_mkcrlfJ,T.Qs=@#,$u-cf!:ZX[QoY]&<33pI12?'-d=Q+T3+A*%P?Rs"k7i=nCRu&(e+gJ"HtJ+82PWF^b/BC!rHjD:5dRRoBD;DtkW'h=4,.<@1h-G*&Pp'LdnrMIDAp!]\W!r.8"4E[5H$loW>B#>s;cN_6:*JRHkOV4sCZ.KFI"R!upC0.?=b.p&VYqs]n_17-7XfI^R?&oIV29D8V9AT@fbqQfCtR/+N`@Vr860PhksIqDK3XaFVWM"p19QhPpB>d$TEbbD5m<iXtlbI5e:5q3L$>=Ei>+.AB,"YNKYTJPZsDCIH;5A_(-H*1iP'aE1!GFYee<N$VNX0*udOCF9`,MrA\rr#$]&boNS0F`/RBLqBN7"ReP4;p%8L1/mfO,*CfITZ?^UJZHq&*gTI1oRUc3,tHFZ/UA/IHe@B>4^_$ldtJ)0O8`k:E2!B-\duSaUHH21Y@oc]C@n:L:osfWC+@O6d;XtaZ\D6)&=pZM50YN\*R$42]8jmm9^n<*bdEZ0PE7L1#so]%O%30@aBae2Ne4m6t0(4rp]WZ>8Edj%C5-+Q?TRaB/hu]SN(/G'D`:Rm$D6@dNR$:(gSpSC7mh-9)Lrjr3ne,)nqJ<chOE(@3]t+bA_Q.;>aPtJDoOp(KcmkKEgtgh3lLP7j3t<d*41?m-lY^F:#sI,<s[gf(4sEn#d7A7uHUSC0()dSV(9)->V+F4&OOm&CHR*6#<sa'S`qZ:UQk8+V?$Q0bnI\he]@]20%/nF;$[5N7nV8'l&*&g;W23HB(=XD5N0[20jF=D,]S--"a)[WeW'hZ^!ji0-3q,(0D,d)P5_mI<qM^&4iVLg7$bA-]08=S<kC/n%9&HNLrLM?6g,orX%h-.RD)E.B2m.a;ICD`65+`!9Jl7H,]n?jokr96LNd&Y7Wah`=p5,G6XH_dBJG/#`6]LL5GL7B4s`=k<?f%AJ1o!rP##EGnK-Yr9&h?.I:j_faCNpbFp#`7ahJr-*1V2M!Mdf)>ZJ5=uD$T:f6H1p1o#`Mse(5YgTS/?b/Z'==MT9M"@5'h76._dOdD(KWYk<$DmW*:iNZOl!1&UZDKsBR>OHZ"!C(E:9p-o7p;mk7QZlX;t4lY'<NmLB8J.`&R-T?42.,HH,t&.`7;.[GFsH50)u`SkusbV=g:;8)D\Dp8ZOFnZ]`e'WM(iS+`Y*A6:5l6pBNP.rl_8(T1nZ8M^;QA9Ou6Qb-50L42=76.W)Zq0USS0m#pegGXt^K;J&%BgQ;0-81N$:Y"d=jh,"f.qcI1NH*_odZ9^Mc'm"-L_S<+<I]WL:7GI#kj;M^4iHFkm=9K@;h3e?;CI>2Z'V`->e_PM83MH=*$MA`[AsHW/]$+&f``qB@<4tl"lIgV&2;B7kCpXceNHIU7$+pBi!sOg4n"ioR_Cnrojt`]0:BM!';AC%Lr8Ns=lBFh,@O9G+@ULMj#@j&!6@9f^pt4bZ\G_D8^<r)Fc\=$bI/rDm7S?7ddIG,u;;;1tj/"mPH,#b0W@Gh=,oIE:c%FUC;*5Z>S#RJqiJ+]5\,R`%81uAu*7oX29h(c*:g$#mcP68f"9@,NXV(%f7'i:]J$\Pt!/[dOom]L(/fqU9@p/:FeCLY%&tq&6Ha;jVBoO5/&eo-8Odae6pYn\'LI^+5VCMNn1TC=8gA5<4B1)&/m-P#(V5hMk]qGr+:oW]c3TiK*l*"pR<eWM]Aj4!^MI&b2r[?,N;KjXig6-Sr'XS`OJ^cs@qjLB^eKfG8?L!jrIRe#iD3<CjQ.pTf6K!+oN+3Ti.$:O3;>tG.:;VX+9/*BdT'Wq/<9@cQ@"p_J:cYg9YYL%0::'W0pJr#2oj#';Y$06sP2Mni*.J`RIeXYm$urFKR&Ko7,5=hYE9p>WHX`,Rjb%M**m+oUj0T4Z5gTmF7Y\Xi;4nT\Y"2smM*&l(.*He>QMnjpJ/\cD>T,fCO7C[IKqaaR13F*_gB0M/2?ul=5+"^/h=5$Z"W:0sgPiERD5rJA:0?Xm8rAUq4-O`gqYN6F/M4[384DbH#eX>BnNj!l]gmfgRcF&!^$4NkF%8<9!9'pjI-.5F5i2&&O(W[8mu;@So/k*!1Uq4YXq7C9L#gaDEt_n9f:>b`Z@1>V%RG7bHYV/_,eH=4oF6b.lC(MLNcH]b,Q%T-@OH;<8Vj0U(i%8B+*%(>ZNdu\c7lWV2Eo%*2hk`mW/ZT*NF>rTB]ENLUEA&rfk=>lpOgpnJkk*n48hFNA?\c(nSgd'AUeaZ(atf9Msd;]^Za_[c]7r\9RTmH*Z\Pq&"YbLkf/[R6-tIOF8RlRn^(hkGi/dlk;_Ge0<]ic)Z`9'K\-U:fW5#S"+9,3~>endstream
+endobj
+408 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ] /Length 3731
+>>
+stream
+Gb!#^=``=e&q9SYR+d<I3ft!/"M@O=jD:?GZVEni?M#uUL?(b@&KIP,Xo7_coaEHN,Y1C&C@/;Xig?>%rqbr=(,PL4;Epq0Z$/"th=h\kCc5KOb;EN_qh`"Y^&$cS@8@!WZ'aLK5Kn'uC[-8J=MDXF<jRhHZG<c)+:&'-9<a`RXi[HIb^p#.9Zp/eXg@4D>&ft9GJ'/;af\Zr=6sNF7.m"nIV6!*8>tJNVA%\-nF=uuR5)*$cOY4f]&qN36@2e<]gqQd/gAEhnuIT"/B^U?]/<<LZ&cP$M1erPM5N(T]3]*'XB%nQgeSLVp=*SABSHQE1.%f>p?OrJ<OR1<WoKS?hF5:Dhh'EA^V@3h2m3XfH.rdEa+GR1cOEU<:=Uq(e&/W?/Al+S@#JquPAP50[9IoQSi;?c/][?c%r49cS@,1R>AMMc#ae"jTOf9V,Kc1#8q$dr#"qXfJNdb34M'X0h(:rlEuZ!`Ei,Xca*TS04TH)]-WHS']m]Y(HPUF7@oo+3)br'2oR[&K1!J"O63,-uh5TX'(2"%PCH5Q'!$2IFNN^s.dcgImGQ;2N^(cDpX3l@*;^:Z&@0)E.h#7mDKCN3:42@`#.U^@t]a,;*;f+j"=n(s]Q>]n(ktWufrcpt(a"q,"OA<2tN#g8f*7WR-5'b=0lEEsJ5TbH'@%?'3b_\B%EP^))_PJZ5#=hp#_37;RSn'Xe&R3b!>dCcM(G&34[A.Y@E\5esB'iU,`^=hk.N\.1>8B>.abZ3+.S.n9$B1&_ftD(lCXS4jf`nb)Q->L>G[7H0W*]]YF-4Ht>oI58E2HjD)"U.Z3R/?$l"k?RRuK(Q+7Zggb1_<e[/lc:B1$-%o$t`FiREU8p.[X[pYPf0Q3>r^@$ppRO$9-\_$\Ebmqo1Fg&@[n**GLF[l/En!:'F;a%U%_%9+'d9F\omlEn"kQt)>(C,]lDhhF'"d5c-<R@i%T_Ka/@6!+9(@Di$%P9dg@_NT@q=GRD,RssiP):tUA$COsN9+T28QlQg_S3sS)]'3%g@Tp]JAVJ7PE8dk/XKi\*Z^':LiGkE+m=lL%_ba&;EHil)St16C(&u@u]*l(,7D.SJb9_(/?&GB2)_k6QX\5Cinu,"D^r6(aLYK)LeSNorhn/gh3s?9Ylne@RPkb37?.;9Dh.H7FhXaA3S#0JP/>)Db18tpfJftLFQYH,c(m1,<GEmH>Q?"V0'%[q&6+gAGUNu(Sf#r08Udq^ZV12Ph6`do_Em<bl\-Cf;o1ZgM86?A=Xb.NR).IL9)Xti[HiF8s.UDb`\jD4Bo2=dkeNrOFX,@YMjTI4;Y1ZD_1!=hCl],B>0Y6t]NHi^tg#cb_f8CZN@'t?D8u+Rc?<?K3PQc/tcq/fb89mMs\"/ih14;+b6#eNC18QB_"tM4fXniI1K)&/3e55j97!3PE.J+u"X+Y1fLp&f6m3Gmef#X.<^UnoB'LESPXM5!.%[+UTJOo*:$pX7#!jtq4kqV,O:52H*o3<!Sd<Z(?PgrTm!lI&lQ^<scE#HNS?LGHOPGErIWXRNZRc@DeUUtR0YsS@c9@+a'<t?]._&kds6s7rr-.m2?C+':F1Wtq9W;Q]T3#-.3U7[1I5!$srE+j#l+ASp''V%27hFRDXi!dhmMPpU+?nSGcA-tl'N=(_7_>u5#TG@Y6qG7nh/U=-Yfl#<'bE_:$+tI2L\+<-nbDJWY%\<ue^g]]!"PG'$dqXiR/F2(*C_T])!da[L.M.>05a9ru1Ig#=C-ld<d&4S@U`;,<$S4dUnU8=Fori5dJ+ua$LZ04@_;L$\+nj7?`Nl1b+/Sf\/)p,Z`_9IJgEAG-:uJ>]H50M(/&JDg2R83@^r:WEo3Q-p]HB%!_CuH9M6/Q:iCejkO/Y[U'NORW0?h7MFfo+RLkr>u<4/[52a+&YEJUGVE(.-(!XI3b6U-J4;6<N'=V44,cF9!]+$NssX(@"W&KLe;[Y[cAJi1A03K:hD_l0fs&\R^KFhA:]iHg8[-dC60n*!!f*ML!g4hT7sG!&^9JPeZB-2Amp1hAOX2N^C9d7PV9(hSPeHc_t-AI,LP_IKu7MEocP?6j[k!GNB(YXo1bf0_[-XVoZ8;;3B&V.3m:cQ_Y+C'EVr68aU?/rL>nh"M*eK!_CM!O#%NFWi]($]<hq5]MQO,a0rY,GAiljH:%TnIt]o$JnWpHfX3DM7dm*I)Prf?<7c]`Tc@<4!WI?j3PH`(73=954>aVR_u1p5*5K+e*.rdU&&=Oj6faQ2q<:2kaE2Nn!<`b"B,W+2()mKk.2g;onOL06BOG'*C2m5!-YCTEn430A;_EA/JV]=JLD$h4"gSeZ/T:ZSX7D9KPgtnY$OJuGpk-:&c[;%D;Vt*IGa`##Mia8JNCSp)fU%+?"e.TYA\BD5'FD7K5Z!5?"e/W0&GNhqV9q,c+:_coi[7hp?)^]M]Gn/i+Yj?#Mi2+$er+di'n6a^\@KC[,j7#dSCBs2I(]L)niq$DEU%*B^]EFm-,_k:=houj-JjM]]DnDD<[tE7`*P"\36A#ll1K=OiQF[ao2Ug9u;gG>uAcG5$,&)ZVO"jAOs]KduN.BB=Q8O,-_GtB9,UM^i2gF2A#'K8/;]\8G$>cm]][c;W3cT1s&9$<B@5W"0)cKb.O?k[Sr?ESqD-mPDE=]`@H#b9;@HC)/NW3T-t2PZR$f;%'GX@,[[jXB[p2f*p!-*kbo(b`=nKnQe2X5@i]!^cRH+`AU(R1D7!%3apYYR,VrHJ'q#@C?FWPe<p)G8/6F*p/LJZ:Ulc436X_(i"7[O1&b:'RN@Xrn\#2,TkO1kf1K-1'SGFU-Ao,pY3gVidq`$Ji3BRc(>6"*Yj+r4uR>+gppEujEnBXYdLQduW0ESb0n,s=nLEReld.6QOLcB5eo$!YqD1Xi8K<F&'!CeSSS">6;"RbMS\9]hc&NL@;iZQh>6N#V"=tWVmK&^<3MS=M`rmR^..^`H9ic_'n+h+ZT_>`2RlXqJu^%j#D_+I8lP7q?q;N7]=V"@-X(RO+hC>XmcPZW&Z&WK5nc5rp,RdP3*T2Qq6c.$r4<$<klctNXZ05@M:2CkJUlWX$D^a+R/^[I3J2ANcF-[+[P1trHo:"^*XF^;*C^KuJj:N2cO)HcLqW?(3a?2C/=s$chMo?HsY"hT6\iIZLWq1F_#J$+LUq\S&UCq$uhomF4'3F>]/nF$Me544:]djAk0TM&0^VD1,)9p_$UTZZ[jHID^J((3a9eCRfc"E+)0'+EIV*=5QF^3t#f9se_(8qA9fG6.ooZ'Os]%-\OGB!"0F18J]T_:OCD`V5N._]u^ra8Eb!o6EH9C0S_amb+%<=6c8;TBc%Y$041u/UX%GndVWuq+'7"@[352L[1(G6jp5cl@PQ9Yr#*,G@1Wbr;?Mp*&L@0qH?!bl1`hf'C<)$TEU%3Lo3'oSV+iA]o4%1Gh7G$j\f,9hC>N5e`'%]5^R6DG5Ar(-*lo\bW,1c8rJp@q6@,_4C_`WJ7i#VG66G^?UO0=0mD95-fPRceaNRiC$c)ErO)f8U\F=SmTOQLLbI3o)aU!/04&D7ZmZs<3QaD/ZU1K9o;l-#%]tDBIIKZ_aud!fD6R]@h%'9m9ilM`BsQ0MAD'4#Xsn9l!nL4LK(K>H0SPs"&."oZ(OM;<eU]p$=B@"p)V!2^h$9rKS">pUCT+2/<r8T(InELpSfK`abh^9=Iq=,aWkI:JX\S2/GUO7GbOS0<!W7d-"nS^]@;Uc6p?I-5#sc$~>endstream
+endobj
+409 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ] /Length 3915
+>>
+stream
+Gau0F969,O'#)\q^h'R:XMs]-aDF'"g!n%5aB6&Y[H.ci65!aj:dEBfk-2UK])`P?1_M+TEi(T:&Kn[4rUjA9ET)tVs3<,]Y3+fC%j(7g11(SGF@%at+kQ<EJ%Te!,Rjj:3._'i32,L]ECAmY%D:bEk6)r"4jQ^K/1'lpc3jR=Op$hKO;&brE>M]Qa<0sfjYaTC%F6!aDT/Ou[k#JJ%qPZ$RK&(2SLAW5bU6-oIsWni'&SW,CklQb-;Kg$]7g,GKQ#HnkHs=-=@)(YNKhPUl\:(?Uh[juWpgV&$hC`2$H^huC<$1IC$[2ZEABIGi@QG+1*Bs(!N_H^2mpB6)]:7X'#bn_/W,<r-+SHa"Pqg@l3@n,dZ),fp$l)V!$=/s1%Cd$84F@ZSjqJlU?_LF5^6--oF)`f$6qOjHc:87P4O[o@Z>nr*#5iF]PqmgNC<=V+CfL](anI?H%h?J\uA=(+;jp2@<UeFh+[oun>G%$BB).K%r?CZa:O=ZL[K=gikt$S]a,lIH8>m.$N&+mI9?7p'YN(PXiDl8DL@8(,8Bdq]e?s#i^SLQ>[;3L^,=JJ,nUI=^aR)U2,_#d!G:^U2<KLgJ]cl,3bN69V<kIu1GGj`ERP_c\Gh[ml]N86i<P4'H*RAN'(8te9>4G3e-F)`?n/n>K@]K"/Hjl4$%hktCB<@DeW!*HR\]+['jQ-P1nV:DQ(4Hhk8d^bpmltZ*qm3M#"YW#cs<+/d%?W:INT$<M?]//bLr)@AO4n1kE_TqJgsA\4jso9\EJ@VH"_HX(-q(oaA(!rh?t=]'msmaDOGkT^5,sDlbAe!?8b3XZX9Tr:W6j=9@E@6"M)!]7)+NOR(87CB2RfRq9p&J7[/t8!SWJ<XXk$H\1^uRmOj6()j8[](5gI$B2(b3@U[2eR&D074L0!KpOf=2,$dP;?jGWn)!:KXdRM>:="W.0OQ8S%^o-,SV82H(i7MaR^[0glr=&FHcZ3&:C#Yb=_qS4K>#_6(OUg<]Uc&0Ad:g,'9uGW0HAK3N`ZOFIPJHY5jQ!FNa\%d$P7;dO$5@(!H3)/d+r;P.;b8JDaCn=6ZCC3sE=b4gMf:e0g"VBV29Q.q4]etdGQ\:>mNG%$mU"dp4F)MeK[bTqH6]ds.niSo(2np2fp2VM<p-3-dfH'8@:r@:WD<Wg)H+t7O[i0'&eD(8)&]3*_$"sg;W(!4<c3`-K.'APrdLWeAgp0\T"m$,-dP*J!/l8gr:FD-#lXsElU+l0q>K5W0BRM;;d_ZGk_1/X=3^bY)(G?D.o_F+i+O2tXW[Mo&ccX6isK%K<[0m'OTOE.4OjG`'gF63Mc_VBqlk0Kh`Jur2$f-Sk*$9We8-HI1HKm@O<A%r>_>'ErWoanomt__+D\0`?UosWRR3;@&d/HphNp>X2[#(m0=[.p3(sdcjHqf(?k`T2"S26;G;H0,:]^@=o-!q"Jn>jj0@kV<c/2h)6=k-L#RB'R6"oNN'Bg04\H)SZ5SDLpGt4>=0]TcO1;V1b00!fUCk#0OLc0WVo7n\)(q@S#%:68ocN,t<]ffbs?LBk_*.3tPpIE>oabnXL$Y#dbX@o^>G13`"g_R-/C)]Uqohs6,HmM1/aIep0<9R#l\4ORldQeAdj^ntGZr2Lfjm6s=M+BNsm`pQn>Hq#&i%04MAiU1)>IOG?`tSfB*?DDV!O-70pNfPU>s/^$qpc2XZ,9,-38eAqf!u7?UYs4[/&`X(8o,P>oV",kKkU*7%*:Ra?mHhE#mgF'j`3o2p-:$NFriUHTjML/fZ3b3Fig$QAabs26`']S,1lT?5;N7ba=i"J!Aeoq[D;=jj44(`EL;GCf$B8\0+`q-_=K+kJc8g^%O_f\6.0$So;'J+gIYg.#CcgN)[*kajSnSDlal5[#&FaW6m:5;.[s;/d5`\?Q2sh:obp.EPStk("4\<i-Q==3"pQL;aERT)?`<lMr;ZY)dj`d@-e"cgL,ObCFh*5Rb]luLYfjWP11&NBqIS,`)(h<_G$4Q>`ln3E^T>$nUK.7u\&5MSJ!h0"A22pQY>g]:kRBdab'q<)Pr[J-r2uF647(R-LOI8bT.l)?^>b11n(4H_*d85e>,.PrUjH[_>L-RQA7/e<<I<&sO5**kh-+djj55$='>&fmC:f&C=n3%TL&STqGbRhN258Ll12V:-[oYN?J=2&8"j-S&'+EsW-r#+dM4;%^()$qYo>HX_\DU6M)r.3&V8jpKk"pJYl.q6&75I)s5%sMiP?IIJ[Q(Wf-NZ\hE8M@S0d>!.4fF[K;rL''2epa3dN"#AUTWSVJ]&^&@FSW*9_6ZU$:`;=L+Fb8p/"1u8Co@am[8B1:i/#t*$1?LQWTOH4ULMb/p1`u<`!$R=6in\PO_;oM66$]7]92rl#e.1g'mDRJ\sHXJG5O>[&,-J$17=</SGmd*;2]@E).EB9"KQbrj2`%_2CW>k?&3-Xr>J8=gjCo6IEW<_pno]3/X7Tc"sY1U^?J0@+`NRi.8MRlguO0*sGkcl;<1\]+OIVJ$BHS3X8j\gMQGNH_*tU%1dUF[g;3\Hac/9>OL1Oq:V>$hPLfM,6:`"dbmP^NcrX_iFM-l?:*_kSpBH-?,)^RV`3<0]qa$I;g6<>c]ar,P&!bL=^,TI?us_drplktr@$@RWd/Rs3X60QOah-/2)&c\jf,6bS/Nmo4"2?f0*QM2d>($he!`;\Jn*!;@7lrBbK`c32(h:$(],u6P#iXX1a=X_M)!L\HoVM9i/H\5""jO4[/>09!kf.K2cq'N(d^D@h&X-RDrj,`ZE5`2^qMteDX*`s96pZT+9_/6EaIN/SEaH;5XRi2.QIZ5pFS$56tW\N2r5#Qi-h,gi5c'gBL?hS`eT*P(gu1Y$m+$XT>55Yo]Qqm-t-ag^qXh2p'c#,pPifo3Rn5UU2s*-rqe5A.`ue+,Mn's9>e*\r!*((P$:B:6d=+,q'*u+E\o?Cp2L!!O2h:`-,JmUqJQ4K`^a%CdeXVo"3q)#Ig?Oq5:d_,D7p7+RVpnYde/L\p;2lP/JdQ8!-Ma*"kbsKcKt8RgTSBkKHK@GiU-rF`:rb22)_6LJ752q#;hGQBkT.k)hZ*rdO/3n2$L\?IqI3#*fPK$0O=3<NNRa\&0Whl;iB"K2U\i4T<:YGF96Q8f15Ga!Smm'B[a?=Y"-?#KZ;=PCf';XQ/&mLKqrQoYh"o1`CVt\p4(2cT[j3N!3FA,eOp*+W=/6L+Nr.T!)]1kD]ZM&<mNfPDFa_1>f-@tXojk7I?0SY7spkOekGIS7:e4(8$iPCc^1Zb$r%(4<-8)F*rU[]9.OKF-b+S1fepk0`'h+*?^eY4oR7C8IhO\7#(]:`OX7r!kfV-n=l]9-L'`P,<ubT2!$jGS]-qG@ZA!*[;HnbA@c2[Xh$Ghhn[1hCAs>)M%e#7]?rmM9ZasOeIb;@Z&ngCo>XNI/N4ac_[2p$2&9lO&-#oU)ND5$eZUU6U^fhRNNcOZF.o@;^!Hp!m1A!cb!"-H6C29E1<_(3-D89giK!(`mW5+1RS&rc*kZ^,+E-ljZRZ[!,k/nNRPC=1$R2iCi1tq?WCsAoKFi!baJ'p/X8B/I2Y&W0N5B9RoN_(:j,EhYLn4Q?Bl>WV<X,,5[-^-jho>c>_f\KhtCe=6CeBH/=m<-R)CFT?2@/^Q3`Js#[D+pmt9$gTMZUg_;jXVLZ()448SjEf[p-1>.:kIDT:qMjpUiOS-V5@NSfs&?k1e$]j#NIL*3r4&(oTA^-RP7<L+>sC@;i2r<c-n,s1M.iBl*`JE#Y(Qsm'VfhiTi2i89^pLqLMr'?*s.-IaBb6<nV.dJ+"1r7r5Q2^E8r$5Y[n;NLf21F"j?Q];\)eSn@V%L)hYd1NkDdCgCdO;gT?sN483s>7<Ue9dl0u<I89@Zqbn",6Q8M-\"hgKgH]F?p<LcpUeM9rrXQTS"B~>endstream
+endobj
+410 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ] /Length 3967
+>>
+stream
+Gau0F?$"c1'n+E3^e6c7f&;c+8Wi90_01tg>A(qpHT1>N?Q]]aYpKc/86Sk4qV-?L^b=@R--&V5[NuR)"YS(`pPU)6n_Z.;e"!\l/,&Q>O*Nq$\m\q'"RPED]t\mdk:=TF`kfT'cG]Wj:>gEH-tN2J'cuq7GpWQM4jSuF,\C+<k*l4mAQ,&[L;gYrdiFuk._SXH\1H8]04e=mZTGuRG'PH'opT1b_6/52ThZH:PJh*/K\p+SS>kt2;=[7gi(fgsnK//42[I-&LfEq=r`@=sQ!08[G3ujAA"S$h-ZWP@-!ngK8Tq/AXR>Y"\=P[?r+X6B`(a]'jWm;#m)qVu<470SR-hMZ>t*&UaFi'\W5"Y'b?)ubGrgc[8I.br@?@u_mAcYkVnmi#4==TAYa_9YPO5PFoil]<?9!X$/&qsK&9Brs3,_N4^=?J!&9*l^!SqKNG>a\:<:VQ$0plE2NU93ar5l&hl#%*%RdC6ne7;0DGe,5gq#_2UH4mQOX-;$(pWW6[f'ujIkW=u7S/]I&+QBnflQnfZ(Bm_rH7I5Y^t+uW,li39optk#fnGa&XQ5!^7th1H-g?;25iE?bJ&+_8a9(]d`_*<6E.3Ld&-qAomD6?qgn)gV7?5u<Bs2$c:Zs(2-cbmb0?/a4bn8!<*P:pFO^im?-n=&?a,MWpOU?8Kp3llX0MF>X+Nig^m"gon5KFP*?pm2rZZB:)*j\NSp4M;7^^%<2,+I=QF,>aRCrKf[A^5G;;FOL4Wl4Z@g+?]dGUBQ99$JY8b.kEcG%pJ:pOuf!!#R8YKlnrX1L[T-2ke3_[4Gkm_bllIC73Ii(d@P;0$Waq=>=li$`tnDWlu>BcUea/dt-XO%+o,)BKYJho8W2s-4F(ss(7LfXH*^9J?:R!KSYpf]K+q]l9do4A4X5cpuK!hchjm@]a-MYGS6O]@<NLTg8Ou5a2XmjK@io&8V!4Jj8?&?(lNIqXB^\Dc;h8"(UAn`@WlO@mH!TaJ[KS(+'WqTo>)J/;r<Ik(lT7,E(DVooDT]T(YNsT^)o?6`:[F^jII\t/Jj[O`E#8JO@<gY/:J'[\[4+$8])#7*FlP;Nipt?VRuiD'$^+8h.igZAp)>f)qo)EOXJ;=cslR+ldf-\_B6]NqlPtAOtVjKRE?>GL>21IF7^OOU.(XA5+$oT2CbVi\oH8)('q(5Yi##>(0SX[-$4%7bUdA4Z8]!C0jfVtYsgh!ABJLigf66GD%b*ZLjN6t3_d\Ij9oq3QAse.-VA0=7@MbJ#jY$rEs$KWjT@H[Hu+BaaK;l?.LWY;Ep%8IHL(dSi9<bXKP(gI9c?+hr#+qiUokC5^B#NCF+#\kKS9(dmfgnN\rnC":@'\_&ZrAGm6W1j\?V;03f>3Zd?<5'FajpB)Gn2V=Qol/5G;0t;1c>d*tM&<Q`N@LNW$drllYT.H2\\EEJA&DM_9TGJo@43Bgp+fl\t:@8KR\^+(.\/hZ'),!ml^CE^UC.2F^@H!<nl%02#1$:R_^4P\8Zab]<!s`"jnf#XAr8X8m@-0hocDmaM=."mc9[#V:YRPe)?T;[?,tJ`$`BaI!,(s7;KF>;G!V9F91QWuEc0&!$@OClV1uX0nIAHb-uoG$DqSpmlN_M;G&[pK&GdrpB:4RFNYZXMO[L5^CgMlSB%ZW67'L@X#tLQt)fK;O:)5YY*`0E<;_iKqe(enDaLA>!5DAjtR$tK$Q41Q2%F(ha\p:01ln9".J<l#N9&.Ud0)JN15?SEj2jn(Ee$1^e;"-PpOnb]H9KX@^kQ?#eR25ICo2mBE`j3W\9A8=uZJieN02p&H.`sQ)RVaB=Ip4S`DHjjPn?(\Ed4@0OhL=#nLp:*s3]ZU,_N0Z:e\H@iU05P,V^%hpJdKfU/PE2%P<N/XBYfH\dZ_"_<)nN2CtG.ter(]tm<CcqIk+6aB*g1Vq4mQZnZn,)"'L3>6W75q5#%/`/c<[/OPJcjsCEqZ4q4%L0.]%BRi.g-^4EXBY??[*?))R'fj0#9&a,s+_.*R%tA(/#%nu=%SoMM!TBo&@>t(Vds!H^r?AG]>tNT?E"+HG1u2Jl4L'S8hqM^<K8b*X1V<&/8d4<_@<e4nVC43DPQ<_OMu*epb.EZ#Jr[kQ>b*^3o!.qH^HI@h5Sh+/Xc@$):*"Na7W-c=Drohg?D[s"^fsJ$j%F."c>LDDnFC56lQf38`Y+L97.'d(=#^_eYl/=/@6X<bA0L9@%3S;3e^*aHJ4mZS".K[,t2Kq[XA:$'IB-I9oO9m?<mQmA>H<MD0nCrAOCI.SrXhk0M$#CTRLOn"cjume&0#kM^\=CYKmO1G'I)6.uJD^')F1T_Dht6%<AXPT3mm.XV$ber8,&j4d[nt0q#lpd00!-(4<iBdl=lb(DunLbshoMf;@P;KSL96pWN.(Fm"B=`JAFtd1_Srk1u<EXsd'`a<RuFePitcF4%SmE`H-A$-]i6mMGg!1"p+C9TPmL4q<J#p&Yu1gS3`t-GHptCgD%"dpD6URtBYh[^jcA2H@Z2?1YbCBo7OqS*%?II;I3L:!l*6)SB#9^&)9>[ru6<9.\Y-7/*N"0rD.Qd?bk:=PHZf`k$YHfj,OX(pn:g?T1rdj05Rf5NC<OhKfS/BmS,AN^$]i%t31<gL00P:LcIBgRC9o)`_OL\]l)JJ,Cho7+ElC`.uZLL@Abr7DX)m_`Cb(BAu@)lFZpSdl=/Kh6sc;=/tC_GH*8]"==/7V'6F,+4^OTR=(fcSr4ItN4.J='I'CCM,gi4CQh8;'sgK\s1&dnMBEIR[&"F4&"F^hhTSu,8[j\LRAcDQZ!)^n9&F+fP_fa#_CIOnEfN,5B;HME>p5M)EQQNo6CfcUL>u:QdsG-HRSqhdDGD$/;4L=T]t-5<ktg[4k"O>r%@S3I\h12!7ka%5h3MmZ_QE-R7^p@/`8BCE3)^+-(Y.)X9*,?1&:,uBZEr-a9:USs?6j(-?AfWoZ2Vqa]-4)C)V`q4POA'.@GY(^o/i3\hE@VKA?r^XB4mhhNk8-M6=m3%A7HEJ=+#AfYWDh<hAkFd3469[1=7,q"E@pQ"'-ak:picIDO!ncPCo8q7a:'#Sl*n:8apG9\+;Vs?IRBC<V,E<Gt+qbQ0DY>\`:%6=ZiVkjD2lBA945tJ9Rh:Ejk?m@WngXpTVYT)+]j?r,6'T/qeic%TtPNW>*=AQXclG%ZP80?WJgD]qU/rk'2msVKuW[qN"_@B6um^9C;/dWPoT4Y"Y'+9*a#t^/8)9^<Wm$"Hae*ODlLenV4&o39@KTBndUZp/X*-WZC$/W@8B$Vk2RelCsFZ!M!KdW9>N7%5/,\c]8s/#BfpTL!c`Y<&/##;!*1f\o!?:d#e:UdsAYcES0j=V4<J#[`2a!^sZObC7!!-bN6KX%&^C'<POQhZ<c-S,I'bqO"0:?.ct1`n>fZ$PpW()!l-"M/H?(cYkK1aa/'A),%c2.j9QF<m672D96raVW,t&$46nqS;V,\D[fIl,!s-*j/D*iROK6>e$d:npmg1sX[DU1YLcBLIn#PT/KmBj55%$;Z%p8,o$GLl1)W\;@1BkPf?d94ep;JX_)MNoh^Y@+%1Ai:K2AdJ%oYB9#;hT'd@8"8G:mQ_,Ff0luV<+hT)N!gRAI=%FHY2o!f_WbsCj@Ba\5DD%oa'`i`_oKU\KeR.$3GO@DYEeYg1LY=gZHt!kM2*#O%`aSVLR(']61"A]Im`0ei:N=I@,8X..KurLhj(qb-k7EW/l?p]Rubsg#m7/rh)OHZ9n?)p"\&ha#bD%TVT_Ke[bGp^\FpZeZ_K%.5p&h?*YgM*P>jfM4jV._O4IJT-WkCeQbhX)5(d[02cBIJ<0JkW3sL'.<>RXoXY7W&f2a?;5oXTgL35uFq7L;1V)c.VYRs4fU"F.2T<E(Mr-Zj`BMW-aVOcB0E$]TMLGKa[1*<+./"+*DD(YU,;p85Jn\TAfPt]A$<-/DcG]=KdFZ5gW0n>5c5sZYc!L>j8,i!u~>endstream
+endobj
+411 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ] /Length 4152
+>>
+stream
+GauHQ>C5,7&Ui!/^e;<-2HED,f6um2>JAXRmBs=kG/(]*'I9@r#q\^%Oahca+=U/(-_qMS'$&R_`0hKNc<L@=aFM%&r'-,P3ZFcB?(/jActJ#)]47V`*P*)9qX[Y+npJ&bU/"eh5on]:4kDuIq?]>rQIkBTa>_A(mfu#p`GhsI57Q\1b=n!.:Q*DeS4,!!LGMU;FG<^4VW`CsE/'*'6F)*6dJqSWB5uC\iu?gi66-mA2dOr'/CSTkX]sM6f5Uk-qo73Y)\3`1Uc>+;A;iuo+mt<')MX6u!,")#j%MRhP;2>k;oWN0MpqNII,D=o#B^(mnDR<:5fs'i?,9@bgS[HV2k4=k0lgM4Uuo2Qk9;b\eEN9k[XG4BJ05<A%Lc"'>$\oVDmin]G$MrlRf(t-hU]\PXm1?X4NE*O(&-rP[KG.6<LgTC3NJ73.kT[)'FL:L3pqYPY)24@Y`.9^4O5[2L@NP^Y-iQ^XN>F/+*?'g!lGF3[AI_dL:];k"2SX$G%>cS;1U0P0g1X*i?S_$\hTlFq`6o3]"5'O(@_S^rs,>(ij1p%4q+0I/]]]0*s<`j?6M^(b&I*T?*AEOcrZn\)eMXm'.Vh'n2;,Y"OiWD*[VOMC_QJER)^Jo^_U)D4^a9b^qcuo)"NC?NcG=Co&A58riV#b#%1iXVeX,%EEHUc0YUK\&O&?1LNnS<[\2.RGNIZ'pRdfn3Uk1U2IAlC[IW(-P(QbdAg)dQid"!LZG6jbdE<.3EQ6EE7JD%eA!XAl6IhHI,\;7,=?eqJ#d>nGYl!LH6qj7[fst4c/0n:m=>=7[r#p=[o"/'[G?&%bJAmk=4Ke!R@_G>gcGk,XjoW[BWnuApl^I@u9(>R$k:B1rP3+23&Fbhh:"N_8H^aYeNis1uUE8_GB5E1Xh_;rhdR((i_7CQ$4u5B@U/>l8Y#^XUHB8q=kGK)SMTn^:[$lq.+1G(JG0IZAbeQs-Jqbr5"[\psD4h-9BfZ_BjAABB&(\+2m-oXJn:)"p:2^g>(6S-O'N;TjlJ/diP:e/_CD6(8J"n`[dYi#]a'j^0,(dPe-jM5B1:[,MocGd8X^;'#pt(hCDbm!-']k6B3jpjI<(jYF^kY?JA"#aBMja]QX&M#a%HIlIWJh,VS0T@pUf8ScbVW!6]ILd4N*E5Y5=uB<C,c<V6^)3d2$TXa>%)1(;Z5H>Ms7/^U'Bo4-^V2kqKtdl=&;5JY*T^28nPld-%=gWWc$m=C(YhVs4LYtg>u]kiCrDcNEKH)n7Uq"(*Jbfr3V4VSAfK>cqql]!KhoKFEQbbPVB&*ZU$0gZX;\+lsr$Ni.F%<aYP\AGLD"F=G;4G.%s]92oF%'5k\bNJ6(-dn-1f0RX/s(@9bQh(XZc"JmZ7P,bkZs,m#8=L`.MTiL.)%RVQ4gIO,D=$\+d:A;Z)7De=K,Q0:H<@AC6Gp,1;69*m'%6N0/5*T$O^DH$1rap00]TXhN(UK0_0[SW#s"?f$F(s-_76HC7HD[k3=23SnN$")G=qE2Y5U+(ENGd.5N09c4V267n.&e9-/@Q%gBb/bog=)@fGGA9/+\oudmc'GK$cR@ap=!XXL7H]'/aM=p=.5&N>r$;E)-S!-oZ<ft5GtXH?6KerC,%at.<)B5b6KgTG^lKK2)-J^<*;7#sP7oB%2Z0et$-&[JEi"HVI3b1dT!;BY\H1i6P/4UfE'!K.]tp@AhTRH#7(i<\^+-@nWWI+RAD"9kn\.V;;1&9Zh;1cs#dc+,HR+h?:!qkG#dA?,U[Qdmm@`M9J`jHo=510_RGE%OYZjP3inE)Oa/t0R&sADS&@ah";?hQaNIH?g,c;H5/5NQM#^aKh@,kij2qn]3,$2WsD`JT0O58N]5^mBX;`f(I`:e1?@e'uXMoR)LmeDB\:iqRI^+COR"H'YsbAEtse(%-2]1N@s54jO6OP6SR'S-f6JR7YJ5B\?3GIYF3Oc3oU0mYk7P;2hj;#qBX#DCESl]4"KNTN:3.D;7\X+^)90.38:RlheE_+LDcO6,_HTmZeo:r7kZbFgc`#:*V0(,ZEf!_Y?B\(.90CQN<sANj%'q!\ZNBXU<13?>S2k)TLL$,<U[^Z7@-P;Y1KnHDF)/?h(9Jp2W11T.LCE4Ka(Xus=+rXJP+%%\mf>-cPDfg+$_0e;4&Fj,&S8N;YAP[++l9GSIpAa;]!j['64<:9&EC:4a)<sQLCq6(Z0Rgb<h]LqtRL9g'9Gr^pol#*:qa3i+2CaD3GN`*Hh*[bV<@kMiiZDFBdY3$"gPq]R+l71h!:H1:10J"Z!q1u/+P?jB.k35nLG"pGEn`Ar9&FB!hN-<:teh7dr1i7u2.>ae\QK]L<liX]C2)R0)7gW$SUY28"iQHWma^=:Q3WaaV9^T<Bc<-Mmb0)\?],>:Z/WLID2BZL523Vi+I<V/`]86@j&l:pMXpCGn'?9/.H88sPnR;\L^Gdr%Up:V0'72Dq]s:JOj49;ecWQim1tn?.1/Mb%$G+&(+a(7R,';&OWp<,YG5=kbR/a^3<r]htj).bl$Z+XG9@Qq4),4FV9$eTpHn/!tl2;Ja3(&#q@Ap/"Z^dqHmoJ_LE5W+Z`:,b+M^AYd>FLt@USbRUA2ULHM!WV5\#%FN2sSM!h_nJU"RJ`_h]5GRA:0SW$XbdK6!mF=6>4ka@sNf@!otgSJ3st3>_KA&l(d]IpY?VaZ8YSOA00e>NZ\fXHuL??J>s%"-5jBG.oY'X%uLV:6QiT7R%ScYOK3'pCkBW4fo>"8$?ED`IjL*j@DEKE.q+&4`YYu(oW(ERcZ6:5B=K'U_gZmSf":"R9'G+afKLN/)Y#r7,*E;MMj'H+GHGl@,#CW&J@tAs6F'=kdjH:NlWlp9MoP@sFPlA,F`4Ka_YAj'M'BUeB._lC_W;qDSg-L%_XDeJ3*WM(O+bP19gR<?/DC\9O6&K+9;Y;IDcrrL`oAOWHR!LnjBDgSD7S1>Nq9>%;B.a`oj_(?p23@o(Vc$Ff54I8\_(c(^mq82$<NmL,LFYR4<5<S]g=,t_]&:WPT[fi18SiX^4&X%iHdl,33S0)2HnXa;*<5kok*,rAiZFqQ?PisZRfCW/fUpB9$od8m-fI9rs6u:&A/OHUFVK=0^`E(2c7!OkXDP*iU*;'Vr'UW[_U@Dfc6`$h9_E@]5?bPB"&*"9[D-\A3;.XXraRn-sU[Qk(:4(Q4%_0.K0VJPn:Jerj%OQS4-r[N2)2>Fm%SfOj\=\bp:;-do-JZf+eVTX.8haH0C]./*O+i.$&m`$%4mn#[X1I10IJIQZgY$Pmp\JB\c-ng:h1MiiD$V]/$m.DeOZbA`_H?F@R[GfH<6e)^\eCJpo_Y3pH'dD)u`'.h_K&.ZO\V,7%rYFHM0VGa^KJK<D8Cd.g5C>g]Zms7!\+!^^^iUq#&!IEmu^jg"IPD6(0:OFe*K#F_9JCboq=3\'(qKC0%;gXIn7bL15*C.bo<n4iL-g5$9^cYH%QAnUU&EGf'`GpJ'8B'`KE8,"9UCNrgK3;Z`0Ci'@0^Mk14&R[+tGkIUo27Suu1</m(O@F)R6(jY"pe")J2umI+WXh\=l,TfW`q>pYRu-m.G3)1b(:!,0JSom3pHa=%.,.Je9%(s)_#)OjLI>qS-(sCFQQ6B[fQAN>;%7X9krtIo:r:\)O]P"*1)%nIXWO\Y6FI92<`F]Z9^M7D=Np=M4n'mqW_2$tPCDto;.G<\pLrPO#sAs&(a[U9VtCbZ2$'Gob<9b]*oj?@EHA^R/"pY&FA?W*QQ6`HCE8.hFR83TV`7MibI4Vrg)?k2XV*ZAXa*0XQ1$2#&,e9D!_U2(5g;;+^,Y8J:GPd@9oAr?i]W9Chpm.>EM.ugm?L.dZH4\$U2-:ER[\hVct`,ieSc6(__9?I'rMqIFIM,=k=sa?V>pI&7=B/T*n=+PnF^'`Q&G85Y_RrJAFtRp3[mkcP7.70[nX>TXt-CGKq^'[2C;Ge:d*DUdk%[;O*r3jU3jIsk#F4F0b#uh2_b2Cbhk?.r&'L@KjBM[q/":3>(gZ]!3YJRj8Z:.,hn(0WZ+hl=>f:0!P78Aao-PRis]b;jLP2doWWL@c&tnE3-#XhXE'_%:;ohtPj@9GJ;7-"bl/0L0k"<J]`CmtPfP31+4[$a;jj*QU*Xee;qEk^n,Bnp8%:Jb"9C='lFuh<kgTP49^n4m~>endstream
+endobj
+412 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ] /Length 4442
+>>
+stream
+Gb!#`>Bedl&q801kbhS0DIASl6MP+&@-m[,`5Ia^B?n/sV$;5se=)\Vc2@F?<_Gd=iWsH]-b5WfOAoRg=+,4TJQhQt8H3g6#RtD0hq&&f9Ji4`UXSS&fc;!U55b)IBm-%BgHa#,q?o/BL=*C\`"sNR91F)rFpC$^d<(nMK4ZVn=8Q>Ve.nmL,7!'@Vn3f@b^FZ$Qj.5S,O.a3\0O%'dj61-YA!VWRf-/iZtVP&G0`QN)u_^2eEiWYAbU@#fkGSu<mTR7Y^,0Ddu_'Rqt+gdTc"6WQ-g\U<X5<QNgF:1A+:<E4Oj*AN73$^MTY\R34@MJ:p\d=3Uj._0?!oSgq^%dQOcA3I`mmuYsOan!,@h5IEtF4&']:km>b\b/HE(fFa>W<86)1q'H]5MA2J/A$(Cn#hR1VN<R(Gf!1q_plcJHLXc<SJfO$V5Jt+9PZVq=CE5_l13;&^m>Ep?,$CXgQ"e8]O]=WXsXn7.V:9%<r<3+50Vi3t>9\Y<09#"B;.AMkr5QL5P!AEEd*h9!nIfHoWL!nZ=e[!M.(bN@fhKUY\oe9"!ANrEa$$HP1^>0MsPb%^2pWr&Sq0irG6?>ho7`_r5nMZhTp*Xk?#am9ncB69<5"2Q3RFuG0G'BL`!74^H^bj&,5&hHVhV00I*oR`f!Jt8BjI7i8n:O/,@jlO\.*[?3#[Z(K"E_KF^cgq9_GL?Q-SQ-^P5t8]m#fgfi_YqhqLZWK"<BISi&rBUJAaEO?(W^Sp"p\\gE7i5KnSJ6lI1!!M*PcaK%M&;I(ZGR!ZfNF^afRJCh7Jm=VA6oh\l[!N6%6n$+Q0.\rEG;S89.OUL>RU$n`iW9<KZJq^6s)Apbp&/N?cHM"MjN^0dTho8$1p`Q'P_&*0ns^:,:Pr8S4gqI0)dNb1sY9pf1j":SrG\4GNY#cJicfR6L(UpM.H]fAAIc2^C>'-IC_@6hA@=0!T!/B.e^Ya`3BF93MV)2>XW]g-[]Ba/QCs*7@9GnS([M'@%q@uRQN?BH&DT2/:@<qe;G!8VftJRN6o@m]rq=:]Wq%G<5LS46mRi9_8=+ttAEd<a,>>\oH/kUK96W[L?_dd:i[-&hHBNnJ`E+U]J,6qN'O"PsGu[#34Dc29tsh"nU&%QMu-cSsg-_@c!cckF^W]E*L'lYII6la/NBYCpp;OF@nZZFdu;r'2i/:kl,ufUJfr*(lU^!B^]a0jG@cfr#G#@UMdS#U4XkOqjFg0TQB(?u"MBc[oDa2=XftW5r3*_f"`41SteFH5%N!R&\'7VEns6s0r&pL8G8aPKb2aStIrRJ4(2NQ-AQ5p]=]2:!$&anC?_^\g)K!#rfO!25`1IAMRjHkXN[Q<#$Y^-6RY>jpdS8!u=LBWM331rjH\"Iah?659EEa0R&jB37i\d\20.tBMNf*?>.!)(ko)jHYPb)**=V_T0r=.Y57l1$pZ^2=b?CDCP$F:l4F^dfF$4EI3omi",9rO'275NYCp4'b@+q\]K6IO\L4K:KJELk`Rc`V&j#iBn28C0\_dH!1d8o7/t]C]0F1VI?d(YUeITQPfh/:Iiap^ul6q4^8SH+0$*g#Z"<7F<oJOs&Jac+b-J4KZ<;c4FP*7jo-dI6s&m@<:W)1GR4>(W4qOHne7L_6=olN!b[M#ko2nc0[]Ii\#l3HO%%=8>9;>p/P!t7d-ie5#Y5P3'u7%qr!BZrd<f+GS)A%I8*W\,64Nhg%sMQDI>Nep8iCt4Hg%eAK8%H.a0<a5oh^4cq)>N1<!Ig,n;0Yl#V:t2jq'+1`:E5ssQ#f7r*MsN<iAkA:L#,&"[]@'`s$Ddb?dt$ogB;HNEd6[pRVe*UELKsflb8Fs.64#.^9uhYg^_ji7(&$&=2,+sa=m>D-:C+O;Kg'XaKL',d1>4S)r0c%aA_<IC:2M:.EV*II$IeL31G<`HC64=!%%IrKW375qnPDOkYD8N\jC&c!_I@Q]"rP+>Xi`dHoP7RV(:%,T),j`GJ*cdi--lG/mtA$ekCC8@`*3e@M?O7UM7mG>V9%s1o`:_?(kU!YKN/-FTDD0###piVa>"hGT=g;nhsW@I6Pj.,1t/@_&f1;a\.8YN/4d)Of8Sn:ief@%%'/6G,-[*8HU<U456CsZ#ilE7\]CUYccK,Q7MtME5oh9,;'q=&fZfqhG+tk]CZmRg;kB?gG8W*,/UlI`;X0@lNeS/jq#u*tIO^5Bj_?*A<[Y67;XM-&DVET;66QT+G?7sWEC0d?d4Ds>N\ZKC7@o#p.B0Bh#UTE=(_DiSJggtl?l_JjBR-$jkS@J2@8+NWY]X*^ku5?*>5$P#S\!aV>]=]Plct:6VGjO/3o)gGEB9qFe.Q5@U9%nBeHJQ8"d'p!n`ST'05bJ$.<u!_(UAk:+;<E"?bi_[)NJ,YKEU@\kCL,n]@Uj>\gmjm2qr?nNGKW[C`QsKb\RTl%d`3CS7YPTeeUn\iOHLTlRq.E8:o_j(lDY%ba-EdW([DPcmN\__Ndjuj2bsB\ZLm.K@VBYUJL<\BtReli)R3d_0^J2c\pir\t`%@o1^fNKr<KNXjp;mmC.U80/uAWKpXtIl2C,h[e1VL<g!B0a%Di'6M?s;m9Zt!bL%7jBVc2B+\B#UKhQGVpmW&>"DZu0V_;Cf(D$?]Kq0?PR\G6Z87p_<T'*!"H:=f]N6MmQ@Cs8;@_Z^@/O!Y/Au:l_B%./UU\UF;7YpiAenoL4S8AjKWNDmY>c[eUdYs$OIae]O6@@[g$\:ptE1%&_/^0k]=a[cOaW[@Yrr":bYL\gO?'SVc$%p:r^N?#D[k-.%<km*aJF*?\AYpFhi?uQg)dt-Z$=NRNdqFa>Ugc\%e]>*VmTN4rI0gqA-T.bU?-#'@57BQimSZflS=]R>!s2*)rU"8Tb1"2Zhh[p8ltXi:j]"eLNbuhbDEX8\I(*"sei8fK*l*(hZld72aVcn$q9b&iDsLs1@8N-Nh858aL5JW@Muo.5p<^aJTM[uL@O#p-U7n;VQ)q)LZF?'oFgi3`q/#:5"Ike-/@1mBF$MkO]h916j'XB/oPSYn+C;A@5o.'U`0jW<,5#Q^CdYPM8ndA^C3$qQf^4#,:\/i71gWd;-Lm8dH,;M_?Flt7dj7g]5N-^DJLkYYTg@3tGME="/h<V/(<)9:#nB?Q]Ti#fUC.XSCTd-Y9%`/>O1[?I+bC/qi[V(u#OX?AK%F([1I.Ud/8cW@&$k?FqtW@$eb=#"M`/^>p<pGQ,mi?9qEj1FF%e18[WN6->6uU'UcuoC*Rd^sb6J>aD<$t.p^+t1n)q^_9E3uBa7Rmj?CaphdZ9(pEnDIo1N$=S8X7ld]_4^.'u8(SDI-j(Tne?W&06li4FA8)?kBad\[""`dou"K`@6ETB7NAV<Kos[<;@(+Ih@K;6?am&J`KR!Jd)q+D*\dWUr46LiQm&2N"bd=6AWKlg/^NUpD`Ms4$D`ZI#3m=P\u;g\n70Ja]#fke\@HAVEq(KJlboa;Yis9g'lU7SF61Sk<7&d:`Ur0RI+=C-/C^p32HbXK&l<Cl4GASLKMFL\'%47/o/3LH)mE5G*OcHhcMX,T#sb_Pt3C)`)rba+O*Q:[K>).j<p\S>pU2s!f(HWMA[<DQ`Wf$0In/A'RcAAMT5MWA60)4Y)'h5<"p#8qdni4.)?d?:dV2nWPNPq=@BGBm4dEbO4a1u>ZV+$1WZ^32I-o#jH4=%mOln?&Di4G6i<02+pM\Bn/i<t1K*G>&dl<j&`on):4+-!52hXj(!/??'`k3C*2D*V0sl#BXqEdD%"j`<QRRRbk/VQiW0La!BU4Ht%.+!fA@egp9NM3ckAh]@_!0K\qW&JZ[=?stgFAY+1s2kP2HSu,K@*oM+<^S(d<6d6oGOF[53!;W?8FN`P]5Xi%`S';iV>,#`_q7Wh8O5iY38!=i14qt=+n0+B:A,T@\_GeZ?s[V*U[b>ru.tV"##L?^6--IP1EsqC`$6\=q)<qI_3S!/UB"[p?A)MoD!m3KJSN`V&SDXZckUFP<!-Y$5rHm7?2N6Xb7[4*PlngZ+hV*01`MK1)#)W_^4G0ITXEHAh4oJg_c@1,C-=V,q:+C/(Su]XirlK/orkHJM7EA&2+.m6.7-NTCDc51E`HG/`3d+c=2AIG]@GB?b/`5-?tu1c9>L"2esKrE7E+4"g/Cm.n)o6&>L5-MA_]@),[IQirF7_khGmsjtIc$9_t4J-]kh+X_G_ZNT3tZ<@UA7["726REBK50^(e8JI@:.j,[p!AO#iZ[G'_Do0`[!j']rQ\/.MC@n6)UPWV27;Ut$=3b2Fk."\4I9LGI0NB&/%.=<NE13t6a,3j7^\csZ&M3?-02NuNer5;W8HHoT+Pdt&S/jo8Pb\$L3YfAhH+<J!EB/PSP=$P'qq-?dae1@m<ico)CNmsl@SE121fPdQ:n]hjHWRN2@4G:pgUO%u#[nNRMD7@bK+07X<e.psTn39D45ah7rkemE#eL",R~>endstream
+endobj
+413 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ] /Length 946
+>>
+stream
+GauI5?#SFN'Sc)P($Ca'Wb4E=f4>>3X40^_AD9gsXMfVoZ+JY*ec#=b-buD03\!E],fn7ka7&%I[M_p>ZM%JQ!#GgO^LY,>'N8Ck#Ulia<:kY3#Z!5g0d'?j!?r@RP8K`k%tiLa:F%&mN+?(_5uD-pkT,@6UmXQ(bopBm@VO"S3LAI8KljnJ0UOBT@5:p,T0VoeMUPCd`#4PT%OAk@97Wh.`C^'1UnB/nF8ig+s%D=mSLV$PlCY)._VU!hE(d/1pa#fCe^B4"Bdu)Lc>99S]QW&iag-St0p%pf)+Kb$AH8>ei)&C;B3P*fmRC&@S1p`S-bnE%0^4^5'eM0^`<_XH,,[Q%g*GV8@@dHD#rE!dVu,$,4&u*f*l<h6XOkuGZ%t-TT+f7gaRP9qdQ4%.L'a;+\g!uQ[ufC<1U^2W;+bL=HWah`D*,<iXfH.$._bEegUJoR8mTfpQrjJ2RrM8;p_SQ59L7D%IuE$*/np6GT's!J,42nlqKBKEm9ABXJ&b`ciM/6Rcmj6hKJmPoI1;P:hGi\TCP%0uN3:05+qk#qqr>\BHT%+#iT@GF[$faAXHBW-[-4sWnMES%VqG:9&;MBJAXo@:]b=`X*J&4*+(Y0M7AEQ<?tpY=PUHK2:=8;#SfUsRHjIgrX3FJO7Aj4[@TDYJGbC84-@kF9?HP3JrWW@c6NFXCI]AD$:E>!QQ#gH%G4l%P0?XNXmA"FCn$'4:YG(=I"l+1oO\qp05]NpN6<.*!fDD=H27!9J\nqWTmOd^hSp1>Kfc`V._KQ"3_\U-[qm\5)ADDU.*"8[1E+Q]!%E(KuZQL5jG^e/ETP3ba?Rk7.<+5Du3H&90'HC+6Vt:PKF`9PReO(_Z>6"]epm]d=nM%2e2mW&c^,S5hh=cKm?e>I!T##(N'%,ha&\@Zt`5J/XN8uW5A]AbfJ2+8VSF%;-T_Ai&9o';~>endstream
+endobj
+xref
+0 414
+0000000000 65535 f 
+0000000061 00000 n 
+0000000134 00000 n 
+0000000241 00000 n 
+0000000461 00000 n 
+0000000589 00000 n 
+0000000738 00000 n 
+0000000880 00000 n 
+0000001029 00000 n 
+0000001172 00000 n 
+0000001321 00000 n 
+0000001465 00000 n 
+0000001615 00000 n 
+0000001759 00000 n 
+0000001909 00000 n 
+0000002052 00000 n 
+0000002202 00000 n 
+0000002344 00000 n 
+0000002494 00000 n 
+0000002638 00000 n 
+0000002788 00000 n 
+0000002932 00000 n 
+0000003082 00000 n 
+0000003225 00000 n 
+0000003375 00000 n 
+0000003518 00000 n 
+0000003668 00000 n 
+0000003811 00000 n 
+0000003961 00000 n 
+0000004105 00000 n 
+0000004255 00000 n 
+0000004398 00000 n 
+0000004600 00000 n 
+0000004831 00000 n 
+0000005033 00000 n 
+0000005222 00000 n 
+0000005411 00000 n 
+0000005611 00000 n 
+0000005794 00000 n 
+0000006015 00000 n 
+0000006217 00000 n 
+0000006424 00000 n 
+0000006633 00000 n 
+0000006831 00000 n 
+0000007028 00000 n 
+0000007259 00000 n 
+0000007489 00000 n 
+0000007718 00000 n 
+0000007947 00000 n 
+0000008154 00000 n 
+0000008360 00000 n 
+0000008556 00000 n 
+0000008766 00000 n 
+0000008964 00000 n 
+0000009171 00000 n 
+0000009362 00000 n 
+0000009583 00000 n 
+0000009796 00000 n 
+0000010009 00000 n 
+0000010284 00000 n 
+0000010512 00000 n 
+0000010714 00000 n 
+0000010988 00000 n 
+0000011177 00000 n 
+0000011366 00000 n 
+0000011567 00000 n 
+0000011768 00000 n 
+0000011960 00000 n 
+0000012152 00000 n 
+0000012350 00000 n 
+0000012572 00000 n 
+0000012793 00000 n 
+0000012991 00000 n 
+0000013189 00000 n 
+0000013387 00000 n 
+0000013582 00000 n 
+0000013777 00000 n 
+0000013999 00000 n 
+0000014221 00000 n 
+0000014403 00000 n 
+0000014586 00000 n 
+0000014817 00000 n 
+0000015091 00000 n 
+0000015314 00000 n 
+0000015505 00000 n 
+0000015740 00000 n 
+0000015975 00000 n 
+0000016210 00000 n 
+0000016431 00000 n 
+0000016648 00000 n 
+0000016883 00000 n 
+0000017117 00000 n 
+0000017352 00000 n 
+0000017587 00000 n 
+0000017802 00000 n 
+0000018000 00000 n 
+0000018219 00000 n 
+0000018406 00000 n 
+0000018594 00000 n 
+0000018805 00000 n 
+0000018995 00000 n 
+0000019211 00000 n 
+0000019433 00000 n 
+0000019640 00000 n 
+0000019847 00000 n 
+0000020055 00000 n 
+0000020265 00000 n 
+0000020475 00000 n 
+0000020685 00000 n 
+0000020888 00000 n 
+0000021091 00000 n 
+0000021279 00000 n 
+0000021478 00000 n 
+0000021686 00000 n 
+0000021895 00000 n 
+0000022105 00000 n 
+0000022327 00000 n 
+0000022520 00000 n 
+0000022693 00000 n 
+0000022865 00000 n 
+0000023037 00000 n 
+0000023247 00000 n 
+0000023456 00000 n 
+0000023670 00000 n 
+0000023884 00000 n 
+0000024102 00000 n 
+0000024293 00000 n 
+0000024484 00000 n 
+0000024679 00000 n 
+0000024890 00000 n 
+0000025101 00000 n 
+0000025287 00000 n 
+0000025494 00000 n 
+0000025693 00000 n 
+0000025915 00000 n 
+0000026088 00000 n 
+0000026261 00000 n 
+0000026432 00000 n 
+0000026651 00000 n 
+0000026869 00000 n 
+0000027059 00000 n 
+0000027271 00000 n 
+0000027461 00000 n 
+0000027634 00000 n 
+0000027846 00000 n 
+0000028053 00000 n 
+0000028260 00000 n 
+0000028467 00000 n 
+0000028670 00000 n 
+0000028844 00000 n 
+0000029019 00000 n 
+0000029194 00000 n 
+0000029416 00000 n 
+0000029600 00000 n 
+0000029810 00000 n 
+0000029998 00000 n 
+0000030210 00000 n 
+0000030425 00000 n 
+0000030640 00000 n 
+0000030854 00000 n 
+0000031070 00000 n 
+0000031286 00000 n 
+0000031483 00000 n 
+0000031677 00000 n 
+0000031887 00000 n 
+0000032104 00000 n 
+0000032318 00000 n 
+0000032523 00000 n 
+0000032716 00000 n 
+0000032894 00000 n 
+0000033074 00000 n 
+0000033268 00000 n 
+0000033448 00000 n 
+0000033676 00000 n 
+0000033920 00000 n 
+0000034134 00000 n 
+0000034339 00000 n 
+0000034547 00000 n 
+0000034747 00000 n 
+0000034956 00000 n 
+0000035166 00000 n 
+0000035386 00000 n 
+0000035624 00000 n 
+0000035862 00000 n 
+0000036086 00000 n 
+0000036295 00000 n 
+0000036534 00000 n 
+0000036747 00000 n 
+0000036953 00000 n 
+0000037171 00000 n 
+0000037380 00000 n 
+0000037610 00000 n 
+0000037840 00000 n 
+0000038053 00000 n 
+0000038293 00000 n 
+0000038490 00000 n 
+0000038689 00000 n 
+0000038889 00000 n 
+0000039086 00000 n 
+0000039291 00000 n 
+0000039493 00000 n 
+0000039729 00000 n 
+0000039938 00000 n 
+0000040148 00000 n 
+0000040359 00000 n 
+0000040624 00000 n 
+0000040875 00000 n 
+0000041113 00000 n 
+0000041321 00000 n 
+0000041558 00000 n 
+0000041774 00000 n 
+0000042030 00000 n 
+0000042287 00000 n 
+0000042510 00000 n 
+0000042731 00000 n 
+0000042952 00000 n 
+0000043149 00000 n 
+0000043354 00000 n 
+0000043580 00000 n 
+0000043777 00000 n 
+0000044007 00000 n 
+0000044229 00000 n 
+0000044466 00000 n 
+0000044673 00000 n 
+0000044886 00000 n 
+0000045076 00000 n 
+0000045286 00000 n 
+0000045488 00000 n 
+0000045678 00000 n 
+0000045913 00000 n 
+0000046130 00000 n 
+0000046346 00000 n 
+0000046564 00000 n 
+0000046787 00000 n 
+0000046990 00000 n 
+0000047206 00000 n 
+0000047488 00000 n 
+0000047759 00000 n 
+0000047959 00000 n 
+0000048156 00000 n 
+0000048368 00000 n 
+0000048564 00000 n 
+0000048760 00000 n 
+0000048967 00000 n 
+0000049167 00000 n 
+0000049365 00000 n 
+0000049562 00000 n 
+0000049804 00000 n 
+0000050006 00000 n 
+0000050201 00000 n 
+0000050411 00000 n 
+0000050623 00000 n 
+0000050817 00000 n 
+0000051098 00000 n 
+0000051345 00000 n 
+0000051537 00000 n 
+0000051764 00000 n 
+0000051966 00000 n 
+0000052199 00000 n 
+0000052421 00000 n 
+0000052613 00000 n 
+0000052837 00000 n 
+0000053039 00000 n 
+0000053273 00000 n 
+0000053509 00000 n 
+0000053730 00000 n 
+0000053950 00000 n 
+0000054175 00000 n 
+0000054395 00000 n 
+0000054616 00000 n 
+0000054837 00000 n 
+0000055056 00000 n 
+0000055276 00000 n 
+0000055496 00000 n 
+0000055716 00000 n 
+0000055937 00000 n 
+0000056157 00000 n 
+0000056378 00000 n 
+0000056666 00000 n 
+0000056868 00000 n 
+0000057153 00000 n 
+0000057410 00000 n 
+0000057626 00000 n 
+0000057870 00000 n 
+0000058133 00000 n 
+0000058354 00000 n 
+0000058562 00000 n 
+0000058763 00000 n 
+0000059043 00000 n 
+0000059290 00000 n 
+0000059513 00000 n 
+0000059805 00000 n 
+0000060119 00000 n 
+0000060395 00000 n 
+0000060633 00000 n 
+0000060867 00000 n 
+0000061135 00000 n 
+0000061335 00000 n 
+0000061558 00000 n 
+0000061788 00000 n 
+0000062016 00000 n 
+0000062231 00000 n 
+0000062428 00000 n 
+0000062679 00000 n 
+0000062932 00000 n 
+0000063139 00000 n 
+0000063326 00000 n 
+0000063539 00000 n 
+0000063746 00000 n 
+0000063959 00000 n 
+0000064172 00000 n 
+0000064360 00000 n 
+0000064549 00000 n 
+0000064737 00000 n 
+0000064937 00000 n 
+0000065136 00000 n 
+0000065336 00000 n 
+0000065534 00000 n 
+0000065733 00000 n 
+0000065924 00000 n 
+0000066119 00000 n 
+0000066314 00000 n 
+0000066509 00000 n 
+0000066719 00000 n 
+0000066911 00000 n 
+0000067107 00000 n 
+0000067297 00000 n 
+0000067558 00000 n 
+0000067813 00000 n 
+0000068034 00000 n 
+0000068255 00000 n 
+0000068450 00000 n 
+0000068647 00000 n 
+0000068843 00000 n 
+0000069040 00000 n 
+0000069235 00000 n 
+0000069431 00000 n 
+0000069626 00000 n 
+0000069822 00000 n 
+0000070018 00000 n 
+0000070215 00000 n 
+0000070412 00000 n 
+0000070626 00000 n 
+0000070835 00000 n 
+0000071081 00000 n 
+0000071336 00000 n 
+0000071568 00000 n 
+0000071798 00000 n 
+0000072019 00000 n 
+0000072277 00000 n 
+0000072529 00000 n 
+0000072774 00000 n 
+0000072961 00000 n 
+0000073135 00000 n 
+0000073357 00000 n 
+0000073549 00000 n 
+0000073761 00000 n 
+0000073990 00000 n 
+0000074236 00000 n 
+0000074473 00000 n 
+0000074742 00000 n 
+0000075009 00000 n 
+0000075267 00000 n 
+0000075755 00000 n 
+0000076098 00000 n 
+0000076427 00000 n 
+0000076770 00000 n 
+0000077093 00000 n 
+0000077429 00000 n 
+0000077797 00000 n 
+0000078165 00000 n 
+0000079272 00000 n 
+0000080280 00000 n 
+0000080573 00000 n 
+0000081356 00000 n 
+0000095813 00000 n 
+0000096045 00000 n 
+0000096782 00000 n 
+0000097541 00000 n 
+0000111776 00000 n 
+0000112011 00000 n 
+0000112745 00000 n 
+0000113511 00000 n 
+0000126667 00000 n 
+0000126900 00000 n 
+0000127639 00000 n 
+0000127729 00000 n 
+0000128065 00000 n 
+0000128143 00000 n 
+0000128244 00000 n 
+0000128364 00000 n 
+0000128489 00000 n 
+0000128609 00000 n 
+0000128727 00000 n 
+0000128842 00000 n 
+0000128967 00000 n 
+0000129093 00000 n 
+0000129220 00000 n 
+0000129337 00000 n 
+0000129452 00000 n 
+0000129582 00000 n 
+0000129678 00000 n 
+0000129800 00000 n 
+0000129947 00000 n 
+0000133790 00000 n 
+0000137623 00000 n 
+0000141611 00000 n 
+0000145579 00000 n 
+0000149319 00000 n 
+0000153143 00000 n 
+0000157151 00000 n 
+0000161211 00000 n 
+0000165456 00000 n 
+0000169991 00000 n 
+trailer
+<<
+/ID 
+[<e8ed6cf1a8d34902bb62a8bea5071d40><e8ed6cf1a8d34902bb62a8bea5071d40>]
+% ReportLab generated PDF document -- digest (opensource)
+
+/Info 386 0 R
+/Root 385 0 R
+/Size 414
+>>
+startxref
+171029
+%%EOF
