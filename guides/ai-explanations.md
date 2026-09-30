@@ -4,16 +4,17 @@ Our content is written to be scanned and drilled. That's the job: a cheat-sheet 
 
 Sometimes you don't, and then you're stuck. That's what **Explain** is for. Tap it and you get a plain-language walkthrough written for someone meeting the subject for the first time, with a real example instead of an abstract one.
 
-It's on cheat sheets, flashcards, practice tests, certifications, roadmaps and My Vault, and it always explains **whatever it's sitting next to**.
+It's on cheat sheets, flashcards, practice tests, certifications, roadmaps, cookbook recipes, Life Skills pages, the Concept Maps and My Vault, and it always explains **whatever it's sitting next to**.
 
 ## Where to find it
 
-Look for the small ✨ button. It's icon only, so it stays out of the way, and it sits next to whatever it explains. The one exception is **Summarize** at the top of a cheat sheet, which carries its name because it does something bigger than the rest:
+Look for the small ✨ button. It's icon only, so it stays out of the way, and it sits next to whatever it explains. Two carry their name because they answer one specific question: **Summarize** at the top of a cheat sheet, and **Why was my answer wrong?** after a wrong answer in a practice test:
 
 **On cheat sheets**
 - **Summarize, at the top:** the one labelled button, in the Quick Index bar. It reads the whole topic, every table and every concept, and gives you the shape of the subject: what it is, the few ideas everything else rests on, how the areas fit together, one real worked scenario, and what usually trips people up. It's the fastest way to decide whether a topic is what you need, and a good way to come back to one you half remember. It's a bit longer than the others, because it's covering a whole subject.
 - **Beside a table heading:** the map of that whole area. What it's for, how the entries group together, how to choose between them, and one worked scenario. Use it when you open a section and don't know what you're looking at.
 - **On every row, two buttons:** the ✨ one goes deep on that concept (what it is in a line, how it works, a real example with real values, when you'd use it, and any trap). The 🌐 one answers a completely different question: **where is this actually used?** Real settings, one scenario told start to finish with real numbers, what breaks when you get it wrong, and the place it turns up that you'd never guess. That last part is usually the bit people remember.
+- **Compare two concepts with AI:** pick any two concepts, from this sheet or any other, and get the difference explained in the same structure every time: the difference in a sentence, a side-by-side table, one real case run through both, when to reach for which, and the classic mix-up. Start from the bar above the Quick Index. All the details are in **[Compare two concepts](compare-concepts.md)**.
 - **On the free preview of a locked topic:** the rows you can see there get the buttons too. You don't need the subscription to have the preview explained to you, it just uses your own allowance like anywhere else.
 
 **On flashcards**
@@ -23,6 +24,7 @@ Look for the small ✨ button. It's icon only, so it stays out of the way, and i
 
 **On practice tests**
 - **While practising:** next to Continue. It teaches the idea behind the question and, most usefully, why each wrong option is wrong.
+- **Why was my answer wrong?:** appears under the options when you pick a wrong one. It starts from YOUR answer: why it looks right, the exact words in the question that rule it out, what the right answer does instead, and one quick check to use next time. It's also in the Mistake notebook's retest.
 - **In Browse:** on every question, and beside each test heading.
 - **On the test list:** what that test covers, before you start.
 - **Never in Exam mode.** An exam is meant to be faced cold, so the buttons aren't there.
@@ -32,6 +34,12 @@ Look for the small ✨ button. It's icon only, so it stays out of the way, and i
 **On roadmaps**
 - **At the top:** what the field is really about, why the steps come in that order, and what the work actually involves.
 - **Beside each section:** the same for that one phase.
+
+**On cookbook recipes:** at the top for the whole recipe, and beside each step when you're stuck on that one.
+
+**On Life Skills pages:** for the whole page, and beside its groups, lines, checklist items and myths.
+
+**On the Concept Maps:** **Explain this link**, when you open the link between two sheets (press **↔** next to a partner). It tells you how the two fit together: which part of the idea each piece of the tool handles, one real case walked through step by step, what the tool still leaves up to you, and which rows in each sheet to read next. It only uses the rows you can see. Inside that window every matched pair of rows has its own **Explain this pair** too: is it really the same thing, the idea on its own, then how the tool does it, with a small example you can try and how to check it worked (say, **Broadcast Join** in Big Data beside **Broadcast joins** in Databricks).
 
 **In My Vault:** on every saved row and on each saved topic's table.
 

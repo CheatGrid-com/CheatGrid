@@ -12,6 +12,7 @@ You earn XP for actually using the platform to learn:
 - **Working in My Vault:** XP for the time you spend on your saved Favourites and your Custom tables.
 - **Reading Life Skills pages:** XP for your reading time, the same as a cheat sheet, plus bonuses for marking a page as read and for finishing a whole topic or life area.
 - **Roadmaps and Cookbooks:** bonuses for the steps and recipes you finish (no timer there: a recipe is done away from the screen).
+- **Exploring the Concept Maps:** XP for your time on the map pages (1 per active minute, like reading), plus a little extra the first time you look at each sheet on a map (up to a daily limit) and milestone bonuses as you explore more of them. See the **[Concept Maps guide](concept-maps.md)**.
 
 It all rolls into **one** XP total. There's nothing to manage.
 

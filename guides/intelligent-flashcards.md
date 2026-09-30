@@ -42,6 +42,10 @@ When you're signed in, your reviews save automatically in the background. Close 
 
 Studying earns **[XP](xp-and-levels.md)** and keeps your **[streak](streaks.md)** alive, and you can see every deck's progress on your **[Stats](stats.md)** page.
 
+## Share a finished review
+
+Finish a review and you get a **share card** for the deck, with its own page to link to. It names the deck and how many cards you reviewed, never you: there is no profile and no account name anywhere in it.
+
 ## Free vs. subscription
 
 You get a real taste before subscribing: free decks offer a generous preview, and paid decks let you sample cards in Browse. A **Pro / Pro+** subscription unlocks every deck, every mode, and unlimited study. (Certifications and Soft Skills decks are **Pro+**.)

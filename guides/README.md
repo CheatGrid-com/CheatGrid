@@ -10,7 +10,9 @@ Short, friendly guides to each part of the platform: what it does, the idea behi
 - 📕 **[Cookbooks](cookbooks.md):** short, ordered recipes for real problems, each step with a worked example
 - 💡 **[Life Skills](life-skills.md):** cheat sheets for everyday life, each with a checklist of what to do
 - 📋 **[Cheat Sheets](cheat-sheets.md):** structured tables, the mind map, the quick index, and how topics link together
+- 🕸️ **[Concept Maps](concept-maps.md):** every concept linked to the tools that use it, as lists and interactive networks you can drag, zoom and share
 - ✨ **[AI Explanations](ai-explanations.md):** tap Explain on any table or row for a beginner-friendly walkthrough with real examples
+- ⇄ **[Compare two concepts](compare-concepts.md):** pick any two concepts, even from different sheets, and get a structured explanation of what separates them
 - 🎴 **[Intelligent Flashcards](intelligent-flashcards.md):** spaced repetition, the three study modes, and QA Flashcards
 - 📝 **[Practice Tests](practice-tests.md):** Practice, Exam, and Browse modes
 - 🎓 **[Certifications](certifications.md):** exam-focused prep, one bundle per real exam
@@ -20,6 +22,8 @@ Short, friendly guides to each part of the platform: what it does, the idea behi
 - 🔥 **[Streaks](streaks.md):** daily streaks, lives, and milestones
 - 📈 **[Dashboard](dashboard.md):** your totals, charts and what to pick up next, on one page
 - 📊 **[Stats](stats.md):** the full ledger of every topic, deck and test
+- 📓 **[Mistake notebook](mistake-notebook.md):** every question you got wrong and every card you keep forgetting, in one place, until you get them right
+- 📨 **[Requests](requests.md):** ask for a cheat sheet or certification we don't have yet
 
 ---
 

@@ -8,6 +8,13 @@ The search box at the top searches **every cheat sheet instantly** as you type. 
 
 If something's behind a subscription, you'll still see a short preview of where your search term shows up, a peek at what's inside before you unlock it.
 
+**Narrow it down** with the three boxes under the search field:
+
+- **Type:** cheat sheets, flashcards, practice tests, roadmaps, cookbooks and recipes, or Life Skills. Pick Flashcards or Practice tests and a result opens straight into that deck or test.
+- **Category** and **subcategory:** search only Data and Databases, say, or just Databases inside it. Life Skills has its own life areas here.
+
+Both the topic list and the content matches follow what you pick. **Clear** puts it back to everything.
+
 ## The Assistant
 
 Sometimes you don't know which sheet you need, or you'd rather just *ask*. The built-in **assistant** lets you describe what you're after in your own words ("how do I roll back a migration?", "what's the difference between these two things?"), and it answers using CheatGrid's own content, **pointing you to the exact sheets and rows** it drew from so you can read more and **discover related concepts.**
@@ -18,6 +25,7 @@ A few things worth knowing:
 - It's a **conversation**: ask a follow-up and it keeps the context of what you were just discussing.
 - Every answer comes **with its sources**: links straight into the relevant cheat sheets.
 - It answers from the content **you have access to**, so if something isn't in your plan yet, it won't pull from there, even when we do cover it elsewhere. Unlocking more just gives the assistant more to draw on.
+- If nothing in the library really matches your question, it says so under the answer and offers to **[request a cheat sheet](requests.md)** on it, with your question already filled in.
 
 ## How many messages you get
 

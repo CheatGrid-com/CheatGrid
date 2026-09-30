@@ -18,10 +18,13 @@ The page is grouped by **what each number is about**, and every group has its ow
 ### Cheat sheets (blue)
 
 - **Cheat sheets you have read most:** by time spent on the sheet itself. Time on its deck or its tests is counted in those sections instead, so this is genuinely reading time.
+- **Concept Maps:** how many sheets you've explored on the **[Concept Maps](concept-maps.md)**, how many maps you've touched, your time there, and where you've explored most, with the next milestone.
+- **You've never opened these:** the most connected cheat sheets in an area you study that you haven't touched yet, taken from the **[Concept Maps](concept-maps.md)**. The ones that link to something you already know come first. Pick another area from the menu on the panel; your choice is remembered in this browser.
 - **What you save most** and **saved rows worth re-checking:** your **[My Vault](my-vault.md)** rows, and which sheets have been updated since you saved from them.
 
 ### Practice tests (orange)
 
+- **Exam readiness:** for each certification you've studied, your readiness number and verdict. Tap one to see it by exam domain, with what to study next (more in the **[Certifications guide](certifications.md)**).
 - **Score spread:** how your best scores are distributed, your average best, plus a short "worth another look" list of the ones sitting under 70%.
 - **Proved it without the safety net:** Practice mode tells you after each question; Exam mode does not. This shows which tests you have cleared cold.
 - **Since your best run:** tests where your latest attempt came in well under your best. Your best score is what counts everywhere else, so this is just a nudge, not a mark against you.
@@ -58,6 +61,10 @@ If you have not tried a recipe yet, this section stays out of the way with one l
 - **Where you spend your time:** the same hours grouped by category.
 - **Subjects with more to give:** a subject here is a cheat sheet plus its flashcard deck and its practice test. These are the ones where you have used some of the three but not all, with a link straight to the missing one.
 - **Roadmaps in progress** and **your account and tools:** your plan, your **[AI explanation](ai-explanations.md)** allowance, and your **[My Vault](my-vault.md)** size.
+
+## Your share cards, in one place
+
+Every card you have earned collects here: scores from [practice tests](practice-tests.md), finished [roadmaps](roadmaps.md) and [decks](intelligent-flashcards.md), and your [streak](streaks.md). Each one is an image plus a page you can link to, and each names the thing you finished rather than you. Nothing is published unless you copy the link yourself.
 
 ## Dashboard or Stats?
 

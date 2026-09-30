@@ -8,7 +8,7 @@ The difference is in what shapes them: a normal practice test is built from the 
 
 And it's built to help the material actually *stick*, not just be read once. The flashcards lean on concrete, worked examples that make tricky ideas click, and the explanations in practice tests bring in real-world context, so you're not just memorizing terms but understanding how they show up in practice.
 
-On the Certifications page, the green **Latest** stripe at the top of the page lists the newest certifications, newest first. When you're signed in, each one says whether you've opened its cheat sheet, practice test or flashcards yet.
+On the Certifications page, the green **Latest** stripe at the top of the page lists the newest certifications, newest first. When you're signed in, each one says whether you've opened its cheat sheet, practice test or flashcards yet. Each certification has its own **Sheet**, **Test** and **Flashcards** buttons right there, so you can jump straight to the one you want.
 
 ## What each certification gives you
 
@@ -16,10 +16,29 @@ On the Certifications page, the green **Latest** stripe at the top of the page l
 - **📝 A practice test:** questions written to mirror the real exam's style and difficulty, with explanations for why each answer is right and why this matters in real world. They're split into named mini-tests, each covering a few of the exam's sections, with a broader final test.
 - **🎴 Flashcards:** for many certifications, a concept-based spaced-repetition deck with simple, beginner-friendly explanations and concrete examples, so the material sticks between now and exam day.
 - **🃏 QA flashcards:** the same study flow, but built from the practice-test questions and answers, so you can drill the exam-style Q&A as cards too.
+- **🎯 Exam readiness:** one honest number for "would I pass today?", broken down by the exam's official domains, with what to study next. More below.
 
 Across all of these, concepts, questions, and cards **link out to their source**, so whenever you want to dig deeper or double-check something, you're one click away.
 
-Find them all on the **[Certifications page](https://www.cheatgrid.com/certifications)**, grouped by category, with a filter box to jump to a specific one fast. Every card links straight to that certification's cheat sheet, its practice test and its flashcard deck.
+Find them all on the **[Certifications page](https://www.cheatgrid.com/certifications)**, grouped by category, with a filter box to jump to a specific one fast. Every card links straight to that certification's cheat sheet, its practice test, its flashcard deck and its readiness page.
+
+## Exam readiness: would you pass today? 🎯
+
+Each certification has a **Readiness** page (also linked from its practice tests and flashcards, and from your **[Dashboard](dashboard.md)**). It turns your own results into one number:
+
+- **Your score and a verdict:** *Likely to pass*, *Getting close*, *Not yet*, or *Not enough practice yet* when you haven't covered enough of the exam for us to judge.
+- **By exam domain:** how ready you are in each of the exam's official domains, how much of it you've covered, and how much each domain is worth on the real exam (where the exam publishes it).
+- **What to study next:** the few things that would move your number most, each with a button: take or retake a practice test, practise a section's flashcards, or read that table.
+- **Your exam-week pack (PDF):** one download for the last days before the exam. It holds where you stand domain by domain, a short plan, the cheat-sheet tables of your weakest domains, the flashcards you keep forgetting and the practice questions you missed, with the answers and why. It's built from your results at that moment, so grab a fresh one after your next test. It counts as one of your daily PDF downloads.
+
+How it's worked out, in short:
+
+- It looks at your **latest** practice-test result on each part of the exam and how well you **remember** its flashcards right now. Test results count more, and older results count for less.
+- Anything you **haven't studied yet counts as not known**, so the number only goes up with what you've actually shown.
+- Time spent is shown next to the score but doesn't change it: hours are effort, not knowledge.
+- It's our estimate from your results on our material, not a guarantee. The real exam decides.
+
+Like the rest of a certification, the readiness score is part of **Pro+** (or of a certification you've unlocked with a study streak).
 
 ## Ways to study each piece
 
@@ -41,6 +60,8 @@ Both the practice test and the flashcards give you a few modes via a toggle at t
 2. **Run the flashcards daily** so the material moves into long-term memory instead of being crammed the night before.
 3. **Drill the practice test in Practice mode**, reading every explanation.
 4. **A few days out, take it in Exam mode** under real conditions to find any last gaps.
+5. **Check your readiness page** along the way: it tells you which domain to work on next, and when you're ready.
+6. **In the last days, download your exam-week pack** from the readiness page and work through it away from the screen.
 
 ## Access
 

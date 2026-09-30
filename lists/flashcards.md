@@ -116,7 +116,6 @@
 - [SGLang (LLM Inference Engine)](https://www.cheatgrid.com/flashcards/generative-ai/1125-sglang-llm-inference-engine-cheat-sheet) · [cheat sheet](https://www.cheatgrid.com/generative-ai/1125-sglang-llm-inference-engine-cheat-sheet)
 - [Ollama (Local LLM Runtime)](https://www.cheatgrid.com/flashcards/generative-ai/1124-ollama-local-llm-runtime-cheat-sheet) · [cheat sheet](https://www.cheatgrid.com/generative-ai/1124-ollama-local-llm-runtime-cheat-sheet)
 - [Qdrant Vector Database](https://www.cheatgrid.com/flashcards/generative-ai/1123-qdrant-vector-database-cheat-sheet) · [cheat sheet](https://www.cheatgrid.com/generative-ai/1123-qdrant-vector-database-cheat-sheet)
-- [Weaviate (Vector Database)](https://www.cheatgrid.com/flashcards/generative-ai/1122-weaviate-vector-database-cheat-sheet) · [cheat sheet](https://www.cheatgrid.com/generative-ai/1122-weaviate-vector-database-cheat-sheet)
 - [Pinecone (Vector Database)](https://www.cheatgrid.com/flashcards/generative-ai/1121-pinecone-vector-database-cheat-sheet) · [cheat sheet](https://www.cheatgrid.com/generative-ai/1121-pinecone-vector-database-cheat-sheet)
 - [CrewAI (Multi-Agent Framework)](https://www.cheatgrid.com/flashcards/generative-ai/1120-crewai-multi-agent-framework-cheat-sheet) · [cheat sheet](https://www.cheatgrid.com/generative-ai/1120-crewai-multi-agent-framework-cheat-sheet)
 - [vLLM (LLM Inference Engine)](https://www.cheatgrid.com/flashcards/generative-ai/1119-vllm-llm-inference-engine-cheat-sheet) · [cheat sheet](https://www.cheatgrid.com/generative-ai/1119-vllm-llm-inference-engine-cheat-sheet)
@@ -191,7 +190,7 @@
 - [AI Agents](https://www.cheatgrid.com/flashcards/generative-ai/0192-ai-agents-cheat-sheet) · [practice test](https://www.cheatgrid.com/practice-tests/generative-ai/0192-ai-agents-cheat-sheet) · [cheat sheet](https://www.cheatgrid.com/generative-ai/0192-ai-agents-cheat-sheet)
 - [Hugging Face Transformers](https://www.cheatgrid.com/flashcards/generative-ai/0174-hugging-face-transformers-cheat-sheet) · [cheat sheet](https://www.cheatgrid.com/generative-ai/0174-hugging-face-transformers-cheat-sheet)
 - [Hugging Face Ecosystem](https://www.cheatgrid.com/flashcards/generative-ai/0173-hugging-face-ecosystem-cheat-sheet) · [cheat sheet](https://www.cheatgrid.com/generative-ai/0173-hugging-face-ecosystem-cheat-sheet)
-- [RAG (Retrieval Augmented Generation)](https://www.cheatgrid.com/flashcards/generative-ai/0156-rag-retrieval-augmented-generation-cheat-sheet) · [cheat sheet](https://www.cheatgrid.com/generative-ai/0156-rag-retrieval-augmented-generation-cheat-sheet)
+- [RAG (Retrieval Augmented Generation)](https://www.cheatgrid.com/flashcards/generative-ai/0156-rag-retrieval-augmented-generation-cheat-sheet) · [practice test](https://www.cheatgrid.com/practice-tests/generative-ai/0156-rag-retrieval-augmented-generation-cheat-sheet) · [cheat sheet](https://www.cheatgrid.com/generative-ai/0156-rag-retrieval-augmented-generation-cheat-sheet)
 - [Semantic Search](https://www.cheatgrid.com/flashcards/generative-ai/0149-semantic-search-cheat-sheet) · [cheat sheet](https://www.cheatgrid.com/generative-ai/0149-semantic-search-cheat-sheet)
 - [Embeddings](https://www.cheatgrid.com/flashcards/generative-ai/0148-embeddings-cheat-sheet) · [practice test](https://www.cheatgrid.com/practice-tests/generative-ai/0148-embeddings-cheat-sheet) · [cheat sheet](https://www.cheatgrid.com/generative-ai/0148-embeddings-cheat-sheet)
 - [Prompt Engineering](https://www.cheatgrid.com/flashcards/generative-ai/0084-prompt-engineering-cheat-sheet) · [practice test](https://www.cheatgrid.com/practice-tests/generative-ai/0084-prompt-engineering-cheat-sheet) · [cheat sheet](https://www.cheatgrid.com/generative-ai/0084-prompt-engineering-cheat-sheet)
@@ -483,7 +482,6 @@
 - [Kimball Data Modeling](https://www.cheatgrid.com/flashcards/data-engineering/0039-kimball-data-modeling-cheat-sheet) · [cheat sheet](https://www.cheatgrid.com/data-engineering/0039-kimball-data-modeling-cheat-sheet)
 - [Databricks Notebooks](https://www.cheatgrid.com/flashcards/data-engineering/0012-databricks-notebooks-cheat-sheet) · [cheat sheet](https://www.cheatgrid.com/data-engineering/0012-databricks-notebooks-cheat-sheet)
 - [Delta Lake](https://www.cheatgrid.com/flashcards/data-engineering/0005-delta-lake-cheat-sheet) · [cheat sheet](https://www.cheatgrid.com/data-engineering/0005-delta-lake-cheat-sheet)
-- [Delta Lake](https://www.cheatgrid.com/flashcards/data-engineering/004-delta-lake-cheat-sheet) · [cheat sheet](https://www.cheatgrid.com/data-engineering/004-delta-lake-cheat-sheet)
 - [Spark SQL](https://www.cheatgrid.com/flashcards/data-engineering/0003-spark-sql-cheat-sheet) · [cheat sheet](https://www.cheatgrid.com/data-engineering/0003-spark-sql-cheat-sheet)
 - [Databricks](https://www.cheatgrid.com/flashcards/data-engineering/0002-databricks-cheat-sheet) · [cheat sheet](https://www.cheatgrid.com/data-engineering/0002-databricks-cheat-sheet)
 - [PySpark](https://www.cheatgrid.com/flashcards/data-engineering/0001-pyspark-cheat-sheet) · [cheat sheet](https://www.cheatgrid.com/data-engineering/0001-pyspark-cheat-sheet)
@@ -914,7 +912,6 @@
 - [Postman](https://www.cheatgrid.com/flashcards/developer-tools/0288-postman-cheat-sheet) · [cheat sheet](https://www.cheatgrid.com/developer-tools/0288-postman-cheat-sheet)
 - [Swagger OpenAPI](https://www.cheatgrid.com/flashcards/developer-tools/0287-swagger-openapi-cheat-sheet) · [cheat sheet](https://www.cheatgrid.com/developer-tools/0287-swagger-openapi-cheat-sheet)
 - [GitHub Actions](https://www.cheatgrid.com/flashcards/developer-tools/0219-github-actions-cheat-sheet) · [practice test](https://www.cheatgrid.com/practice-tests/developer-tools/0219-github-actions-cheat-sheet) · [cheat sheet](https://www.cheatgrid.com/developer-tools/0219-github-actions-cheat-sheet)
-- [ChatGPT & OpenAI API](https://www.cheatgrid.com/flashcards/developer-tools/0196-chatgpt-openai-api-cheat-sheet) · [cheat sheet](https://www.cheatgrid.com/developer-tools/0196-chatgpt-openai-api-cheat-sheet)
 - [ChatGPT and OpenAI API](https://www.cheatgrid.com/flashcards/developer-tools/0196-chatgpt-and-openai-api-cheat-sheet) · [practice test](https://www.cheatgrid.com/practice-tests/developer-tools/0196-chatgpt-and-openai-api-cheat-sheet) · [cheat sheet](https://www.cheatgrid.com/developer-tools/0196-chatgpt-and-openai-api-cheat-sheet)
 - [Anthropic API](https://www.cheatgrid.com/flashcards/developer-tools/0195-anthropic-api-cheat-sheet) · [cheat sheet](https://www.cheatgrid.com/developer-tools/0195-anthropic-api-cheat-sheet)
 - [AI-LLM Code Generation](https://www.cheatgrid.com/flashcards/developer-tools/0193-ai-llm-code-generation-cheat-sheet) · [cheat sheet](https://www.cheatgrid.com/developer-tools/0193-ai-llm-code-generation-cheat-sheet)
@@ -1135,7 +1132,6 @@
 - [Digital Forensics DFIR](https://www.cheatgrid.com/flashcards/cybersecurity/0760-digital-forensics-dfir-cheat-sheet) · [cheat sheet](https://www.cheatgrid.com/cybersecurity/0760-digital-forensics-dfir-cheat-sheet)
 - [Identity and Access Management IAM](https://www.cheatgrid.com/flashcards/cybersecurity/0759-identity-and-access-management-iam-cheat-sheet) · [cheat sheet](https://www.cheatgrid.com/cybersecurity/0759-identity-and-access-management-iam-cheat-sheet)
 - [Malware Analysis](https://www.cheatgrid.com/flashcards/cybersecurity/0758-malware-analysis-cheat-sheet) · [cheat sheet](https://www.cheatgrid.com/cybersecurity/0758-malware-analysis-cheat-sheet)
-- [Malware Analysis](https://www.cheatgrid.com/flashcards/cybersecurity/0757-malware-analysis-cheat-sheet) · [cheat sheet](https://www.cheatgrid.com/cybersecurity/0757-malware-analysis-cheat-sheet)
 - [SIEM](https://www.cheatgrid.com/flashcards/cybersecurity/0756-siem-cheat-sheet) · [cheat sheet](https://www.cheatgrid.com/cybersecurity/0756-siem-cheat-sheet)
 - [Cryptography and Encryption](https://www.cheatgrid.com/flashcards/cybersecurity/0755-cryptography-and-encryption-cheat-sheet) · [cheat sheet](https://www.cheatgrid.com/cybersecurity/0755-cryptography-and-encryption-cheat-sheet)
 - [MITRE ATT&CK Framework](https://www.cheatgrid.com/flashcards/cybersecurity/0754-mitre-attck-framework-cheat-sheet) · [cheat sheet](https://www.cheatgrid.com/cybersecurity/0754-mitre-attck-framework-cheat-sheet)
@@ -1159,6 +1155,7 @@
 
 ### Networking
 
+- [Wireshark](https://www.cheatgrid.com/flashcards/networking/1724-wireshark-cheat-sheet) · [cheat sheet](https://www.cheatgrid.com/networking/1724-wireshark-cheat-sheet)
 - [Network Ports and Common Services](https://www.cheatgrid.com/flashcards/networking/0753-network-ports-and-common-services-cheat-sheet) · [cheat sheet](https://www.cheatgrid.com/networking/0753-network-ports-and-common-services-cheat-sheet)
 - [Proxy Servers](https://www.cheatgrid.com/flashcards/networking/0752-proxy-servers-cheat-sheet) · [cheat sheet](https://www.cheatgrid.com/networking/0752-proxy-servers-cheat-sheet)
 - [Content Delivery Networks - CDN](https://www.cheatgrid.com/flashcards/networking/0751-content-delivery-networks-cdn-cheat-sheet) · [cheat sheet](https://www.cheatgrid.com/networking/0751-content-delivery-networks-cdn-cheat-sheet)
@@ -1184,8 +1181,6 @@
 - [Load Balancing](https://www.cheatgrid.com/flashcards/networking/0298-load-balancing-cheat-sheet) · [cheat sheet](https://www.cheatgrid.com/networking/0298-load-balancing-cheat-sheet)
 - [Azure Networking](https://www.cheatgrid.com/flashcards/networking/0137-azure-networking-cheat-sheet) · [cheat sheet](https://www.cheatgrid.com/networking/0137-azure-networking-cheat-sheet)
 - [Networking Core](https://www.cheatgrid.com/flashcards/networking/0136-networking-core-cheat-sheet) · [practice test](https://www.cheatgrid.com/practice-tests/networking/0136-networking-core-cheat-sheet) · [cheat sheet](https://www.cheatgrid.com/networking/0136-networking-core-cheat-sheet)
-- [Network Troubleshooting Commands](https://www.cheatgrid.com/flashcards/networking/network-troubleshooting-commands-cheat-sheet) · [cheat sheet](https://www.cheatgrid.com/networking/network-troubleshooting-commands-cheat-sheet)
-- [Wireshark](https://www.cheatgrid.com/flashcards/networking/wireshark) · [cheat sheet](https://www.cheatgrid.com/networking/wireshark)
 
 ## 📚 Specialized Topics
 
@@ -1253,8 +1248,6 @@
 ### Operating Systems and CLI
 
 - [Computer Architecture Fundamentals](https://www.cheatgrid.com/flashcards/operating-systems-and-cli/1412-computer-architecture-fundamentals-cheat-sheet) · [cheat sheet](https://www.cheatgrid.com/operating-systems-and-cli/1412-computer-architecture-fundamentals-cheat-sheet)
-- [rsync File Synchronization and Backup](https://www.cheatgrid.com/flashcards/operating-systems-and-cli/1244-rsync-file-synchronization-and-backup-cheat-sheet) · [cheat sheet](https://www.cheatgrid.com/operating-systems-and-cli/1244-rsync-file-synchronization-and-backup-cheat-sheet)
-- [Windows Terminal Customization](https://www.cheatgrid.com/flashcards/operating-systems-and-cli/1243-windows-terminal-customization-cheat-sheet) · [cheat sheet](https://www.cheatgrid.com/operating-systems-and-cli/1243-windows-terminal-customization-cheat-sheet)
 - [ripgrep Code Search](https://www.cheatgrid.com/flashcards/operating-systems-and-cli/1242-ripgrep-code-search-cheat-sheet) · [cheat sheet](https://www.cheatgrid.com/operating-systems-and-cli/1242-ripgrep-code-search-cheat-sheet)
 - [iptables Legacy Linux Firewall Reference](https://www.cheatgrid.com/flashcards/operating-systems-and-cli/1193-iptables-legacy-linux-firewall-reference-cheat-sheet) · [cheat sheet](https://www.cheatgrid.com/operating-systems-and-cli/1193-iptables-legacy-linux-firewall-reference-cheat-sheet)
 - [SELinux and AppArmor Mandatory Access Control](https://www.cheatgrid.com/flashcards/operating-systems-and-cli/1192-selinux-and-apparmor-mandatory-access-control-cheat-sheet) · [cheat sheet](https://www.cheatgrid.com/operating-systems-and-cli/1192-selinux-and-apparmor-mandatory-access-control-cheat-sheet)
@@ -1269,7 +1262,6 @@
 - [Starship and Oh My Posh Cross-Shell Prompts](https://www.cheatgrid.com/flashcards/operating-systems-and-cli/1182-starship-and-oh-my-posh-cross-shell-prompts-cheat-sheet) · [cheat sheet](https://www.cheatgrid.com/operating-systems-and-cli/1182-starship-and-oh-my-posh-cross-shell-prompts-cheat-sheet)
 - [rsync File Synchronization and Backup](https://www.cheatgrid.com/flashcards/operating-systems-and-cli/1180-rsync-file-synchronization-and-backup-cheat-sheet) · [cheat sheet](https://www.cheatgrid.com/operating-systems-and-cli/1180-rsync-file-synchronization-and-backup-cheat-sheet)
 - [Windows Terminal Customization](https://www.cheatgrid.com/flashcards/operating-systems-and-cli/1179-windows-terminal-customization-cheat-sheet) · [cheat sheet](https://www.cheatgrid.com/operating-systems-and-cli/1179-windows-terminal-customization-cheat-sheet)
-- [ripgrep Code Search](https://www.cheatgrid.com/flashcards/operating-systems-and-cli/1178-ripgrep-code-search-cheat-sheet) · [cheat sheet](https://www.cheatgrid.com/operating-systems-and-cli/1178-ripgrep-code-search-cheat-sheet)
 - [jq Command-Line JSON Processor](https://www.cheatgrid.com/flashcards/operating-systems-and-cli/1175-jq-command-line-json-processor-cheat-sheet) · [cheat sheet](https://www.cheatgrid.com/operating-systems-and-cli/1175-jq-command-line-json-processor-cheat-sheet)
 - [Modern Rust-Based CLI Tools](https://www.cheatgrid.com/flashcards/operating-systems-and-cli/1174-modern-rust-based-cli-tools-cheat-sheet) · [cheat sheet](https://www.cheatgrid.com/operating-systems-and-cli/1174-modern-rust-based-cli-tools-cheat-sheet)
 - [SSH and OpenSSH Configuration Mastery](https://www.cheatgrid.com/flashcards/operating-systems-and-cli/1173-ssh-and-openssh-configuration-mastery-cheat-sheet) · [cheat sheet](https://www.cheatgrid.com/operating-systems-and-cli/1173-ssh-and-openssh-configuration-mastery-cheat-sheet)
@@ -1290,7 +1282,6 @@
 - [Windows 11 Troubleshooting](https://www.cheatgrid.com/flashcards/operating-systems-and-cli/0373-windows-11-troubleshooting-cheat-sheet) · [cheat sheet](https://www.cheatgrid.com/operating-systems-and-cli/0373-windows-11-troubleshooting-cheat-sheet)
 - [System Administration](https://www.cheatgrid.com/flashcards/operating-systems-and-cli/0372-system-administration-cheat-sheet) · [cheat sheet](https://www.cheatgrid.com/operating-systems-and-cli/0372-system-administration-cheat-sheet)
 - [System Monitoring](https://www.cheatgrid.com/flashcards/operating-systems-and-cli/0370-system-monitoring-cheat-sheet) · [cheat sheet](https://www.cheatgrid.com/operating-systems-and-cli/0370-system-monitoring-cheat-sheet)
-- [macOS Usage](https://www.cheatgrid.com/flashcards/operating-systems-and-cli/0369-macos-usage-cheat-sheet) · [cheat sheet](https://www.cheatgrid.com/operating-systems-and-cli/0369-macos-usage-cheat-sheet)
 - [Linux Bash Scripting](https://www.cheatgrid.com/flashcards/operating-systems-and-cli/0364-linux-bash-scripting-cheat-sheet) · [cheat sheet](https://www.cheatgrid.com/operating-systems-and-cli/0364-linux-bash-scripting-cheat-sheet)
 - [Command Line Fundamentals](https://www.cheatgrid.com/flashcards/operating-systems-and-cli/0346-command-line-fundamentals-cheat-sheet) · [cheat sheet](https://www.cheatgrid.com/operating-systems-and-cli/0346-command-line-fundamentals-cheat-sheet)
 - [File Permissions](https://www.cheatgrid.com/flashcards/operating-systems-and-cli/0345-file-permissions-cheat-sheet) · [cheat sheet](https://www.cheatgrid.com/operating-systems-and-cli/0345-file-permissions-cheat-sheet)
@@ -1334,7 +1325,6 @@
 - [Steam Deck and Handheld Gaming PCs](https://www.cheatgrid.com/flashcards/other/1211-steam-deck-and-handheld-gaming-pcs-cheat-sheet) · [cheat sheet](https://www.cheatgrid.com/other/1211-steam-deck-and-handheld-gaming-pcs-cheat-sheet)
 - [Electric Bikes E-Bikes Buyer's Guide and Maintenance](https://www.cheatgrid.com/flashcards/other/1210-electric-bikes-e-bikes-buyers-guide-and-maintenance-cheat-sheet) · [cheat sheet](https://www.cheatgrid.com/other/1210-electric-bikes-e-bikes-buyers-guide-and-maintenance-cheat-sheet)
 - [Tailscale Personal Mesh VPN](https://www.cheatgrid.com/flashcards/other/1209-tailscale-personal-mesh-vpn-cheat-sheet) · [cheat sheet](https://www.cheatgrid.com/other/1209-tailscale-personal-mesh-vpn-cheat-sheet)
-- [Home NAS Setup with Synology QNAP and TrueNAS](https://www.cheatgrid.com/flashcards/other/1208-home-nas-setup-with-synology-qnap-and-truenas-cheat-sheet) · [cheat sheet](https://www.cheatgrid.com/other/1208-home-nas-setup-with-synology-qnap-and-truenas-cheat-sheet)
 - [NotebookLM for Research and Learning](https://www.cheatgrid.com/flashcards/other/1207-notebooklm-for-research-and-learning-cheat-sheet) · [cheat sheet](https://www.cheatgrid.com/other/1207-notebooklm-for-research-and-learning-cheat-sheet)
 - [Home NAS Setup with Synology QNAP and TrueNAS](https://www.cheatgrid.com/flashcards/other/1206-home-nas-setup-with-synology-qnap-and-truenas-cheat-sheet) · [cheat sheet](https://www.cheatgrid.com/other/1206-home-nas-setup-with-synology-qnap-and-truenas-cheat-sheet)
 - [Plex and Jellyfin Media Servers](https://www.cheatgrid.com/flashcards/other/1205-plex-and-jellyfin-media-servers-cheat-sheet) · [cheat sheet](https://www.cheatgrid.com/other/1205-plex-and-jellyfin-media-servers-cheat-sheet)

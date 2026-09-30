@@ -28,7 +28,17 @@ Every Practice Tests topic has a **QA Flashcards** tab that converts its questio
 
 ## Progress, XP & streaks
 
-Your study time earns **[XP](xp-and-levels.md)**, finishing a test adds a completion bonus, and completing one counts toward your daily **[streak](streaks.md)**. Your completions and times show up on your **[Stats](stats.md)** page. Your answers live in the browser as you go (a refresh starts the test over). Only your completion is saved.
+Your study time earns **[XP](xp-and-levels.md)**, finishing a test adds a completion bonus, and completing one counts toward your daily **[streak](streaks.md)**. Your completions and times show up on your **[Stats](stats.md)** page. Your answers live in the browser as you go (a refresh starts the test over). When you finish, we save your result and which questions you got wrong (for your mistake notebook and your exam readiness), not your answers themselves.
+
+## Your mistake notebook
+
+Every question you get wrong goes into your **[mistake notebook](mistake-notebook.md)**, with the right answer and why. Get it right in a later test, or in the notebook's quick retest, and it comes off the list.
+
+## Share your score
+
+Finish a test and the results screen offers a **share card**: your score, the topic and a link, as an image you can drop into a chat or a post. It gets its own small page, so the link shows a proper preview instead of a bare URL.
+
+The page says "someone scored 92% on LangChain", never your name. There is no profile, no account name and nothing about you in the link: the address holds only the topic and the number. Share it or don't, either way nothing is published about you.
 
 ## Free vs. subscription
 
