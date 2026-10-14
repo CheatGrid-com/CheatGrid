@@ -8,9 +8,11 @@ The search box at the top searches **every cheat sheet instantly** as you type. 
 
 If something's behind a subscription, you'll still see a short preview of where your search term shows up, a peek at what's inside before you unlock it.
 
+Already on a cheat sheet? The search box right above its first table filters that sheet instead: rows without your words, in any column, disappear, and your words are highlighted in the rows that stay (more in the **[Cheat Sheets guide](cheat-sheets.md)**).
+
 **Narrow it down** with the three boxes under the search field:
 
-- **Type:** cheat sheets, flashcards, practice tests, roadmaps, cookbooks and recipes, or Life Skills. Pick Flashcards or Practice tests and a result opens straight into that deck or test.
+- **Type:** cheat sheets, flashcards, practice tests, roadmaps, cookbooks and recipes, Life Skills, or checklists (their titles and the checks inside them). Pick Flashcards or Practice tests and a result opens straight into that deck or test.
 - **Category** and **subcategory:** search only Data and Databases, say, or just Databases inside it. Life Skills has its own life areas here.
 
 Both the topic list and the content matches follow what you pick. **Clear** puts it back to everything.

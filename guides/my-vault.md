@@ -12,6 +12,16 @@ Each saved row is a snapshot, so it stays put even if the original sheet changes
 
 Beyond saving rows, you can create **custom tables**, your own from-scratch reference sheets, with the same concept / example / description format. They even come with their own **auto-generated mind map**, just like the built-in sheets. Organize everything into named **subpages** to keep different projects or subjects apart, and **move any saved row** into another subpage or table whenever you want to rearrange things.
 
+## Find your way around
+
+On a computer, the panel down the left side is a map of your Vault: **Favourites** (your starred rows, grouped by sheet) and **Custom tables**, each with its subpages and how many sheets or tables are on each one. Click any of them to open it.
+
+- **+ New subpage** adds one right there.
+- Hover a subpage for the **pencil** (rename) and the **bin** (delete). Deleting a subpage moves whatever was on it back to your main one, so nothing is lost.
+- **Drag** a sheet or table from **On this page** on the right onto a subpage on the left to move it there. On a phone, the folder button beside a sheet's title does the same.
+
+A new row you star joins its sheet wherever you filed it, and a sheet you save for the first time starts on your main subpage.
+
 ## Share a custom table
 
 Made a table worth passing on? Press the **share** button on it and **Create link**. Anyone with the link can read the table, and anyone signed in can **copy it into their own vault** with one click, where it becomes their own copy to edit.

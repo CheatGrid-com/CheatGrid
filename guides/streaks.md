@@ -11,6 +11,7 @@ You earn a **streak point on any day you study**, and there are several ways to 
 - finish a **cookbook recipe**
 - spend **20+ active minutes reading cheat sheets**
 - spend **10+ active minutes exploring the [Concept Maps](concept-maps.md)**
+- earn **10 XP from checklists** (ten ticked checks, ten minutes on a checklist, finishing one, or any mix)
 - spend a few minutes reading **[Life Skills](life-skills.md)** pages
 
 Reading and exploring time is counted per day, so it doesn't carry over from yesterday, and it only counts while you're really on the page. Only the first point counts each day, so you can't farm it, and any kind of studying keeps it going. Do a little every day and your streak climbs.

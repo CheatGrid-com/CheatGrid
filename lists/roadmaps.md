@@ -6,33 +6,33 @@
 
 ## 🤖 Artificial Intelligence
 
-- 💼 **[AI Engineer (LLM Applications)](https://www.cheatgrid.com/roadmaps/ai-engineer)**: From your first prompt to a shipped, production-grade AI application. (15 steps, ~35h, Beginner to advanced)
+- 💼 **[AI Engineer (LLM Applications)](https://www.cheatgrid.com/roadmaps/ai-engineer)**: From your first prompt to a shipped, production-grade AI application. (18 steps, ~35h, Beginner to advanced)
 - 🛠️ **[AI Governance & Ethics](https://www.cheatgrid.com/roadmaps/ai-governance-and-ethics)**: From responsible-AI principles to classifying an AI system across US, EU, and global regulation. (9 steps, ~25h, Beginner to advanced)
 - 🛠️ **[AI Security & Red Teaming](https://www.cheatgrid.com/roadmaps/ai-security-red-teaming)**: From your first prompt to running a full AI red-team engagement. (12 steps, ~30h, Practitioner to advanced)
-- 🛠️ **[Building AI Agents](https://www.cheatgrid.com/roadmaps/ai-agents-builder)**: From your first agent loop to a monitored fleet of production agents. (13 steps, ~30h, Intermediate to advanced)
-- 💼 **[Forward Deployed Engineer](https://www.cheatgrid.com/roadmaps/forward-deployed-engineer)**: From scoping a client's AI problem to running it as their production system. (13 steps, ~30h, Intermediate to advanced)
-- 🛠️ **[Generative AI & LLM Engineering](https://www.cheatgrid.com/roadmaps/generative-ai-for-developers)**: From your first prompt to fine-tuning, aligning, and serving models at production scale. (15 steps, ~40h, Intermediate to advanced)
-- 💼 **[Machine Learning Engineer](https://www.cheatgrid.com/roadmaps/machine-learning-engineer)**: From training your first model to serving, monitoring, and defending it in production. (12 steps, ~35h, Intermediate to advanced)
-- 🛠️ **[Machine Learning Foundations](https://www.cheatgrid.com/roadmaps/machine-learning-fundamentals)**: From telling supervised and unsupervised apart to training, evaluating, and automating a model you can actually defend. (12 steps, ~30h, Beginner to intermediate)
-- 💼 **[MLOps Engineer](https://www.cheatgrid.com/roadmaps/mlops-engineer)**: From a model in a container to a self-monitoring ML platform in production. (16 steps, ~43h, Advanced to expert)
+- 🛠️ **[Building AI Agents](https://www.cheatgrid.com/roadmaps/ai-agents-builder)**: From your first agent loop to a monitored fleet of production agents. (16 steps, ~30h, Intermediate to advanced)
+- 💼 **[Forward Deployed Engineer](https://www.cheatgrid.com/roadmaps/forward-deployed-engineer)**: From scoping a client's AI problem to running it as their production system. (14 steps, ~30h, Intermediate to advanced)
+- 🛠️ **[Generative AI & LLM Engineering](https://www.cheatgrid.com/roadmaps/generative-ai-for-developers)**: From your first prompt to fine-tuning, aligning, and serving models at production scale. (17 steps, ~40h, Intermediate to advanced)
+- 💼 **[Machine Learning Engineer](https://www.cheatgrid.com/roadmaps/machine-learning-engineer)**: From training your first model to serving, monitoring, and defending it in production. (15 steps, ~35h, Intermediate to advanced)
+- 🛠️ **[Machine Learning Foundations](https://www.cheatgrid.com/roadmaps/machine-learning-fundamentals)**: From telling supervised and unsupervised apart to training, evaluating, and automating a model you can actually defend. (13 steps, ~30h, Beginner to intermediate)
+- 💼 **[MLOps Engineer](https://www.cheatgrid.com/roadmaps/mlops-engineer)**: From a model in a container to a self-monitoring ML platform in production. (18 steps, ~43h, Advanced to expert)
 - 🛠️ **[Prompt Engineering & Everyday AI](https://www.cheatgrid.com/roadmaps/prompt-engineering)**: From your first well-worded prompt to choosing the right AI tool for any task. (13 steps, ~22h, Beginner to confident)
 
 ## ☁️ Cloud and Infrastructure
 
-- 💼 **[Cloud Engineer](https://www.cheatgrid.com/roadmaps/cloud-engineer)**: From pay-as-you-go basics to a well-architected AWS deployment. (16 steps, ~35h, Beginner to intermediate)
-- 🛠️ **[Containers: Docker to Kubernetes](https://www.cheatgrid.com/roadmaps/docker-and-kubernetes)**: From a single Dockerfile to a Kubernetes cluster you can secure and debug. (16 steps, ~40h, Intermediate to advanced)
-- 💼 **[DevOps Engineer](https://www.cheatgrid.com/roadmaps/devops-engineer)**: From a Linux terminal to a production deployment strategy. (16 steps, ~35h, Beginner to advanced)
-- 🛠️ **[Infrastructure as Code with Terraform](https://www.cheatgrid.com/roadmaps/terraform-and-iac)**: From a single terraform apply to a self-healing, policy-gated infrastructure pipeline. (13 steps, ~30h, Intermediate to advanced)
-- 💼 **[Platform Engineer](https://www.cheatgrid.com/roadmaps/platform-engineer)**: From Internal Developer Platform vocabulary to a golden path developers actually use. (12 steps, ~30h, Intermediate to advanced)
-- 💼 **[Site Reliability Engineer](https://www.cheatgrid.com/roadmaps/site-reliability-engineer)**: From your first error budget to the metrics that prove your reliability work is real. (12 steps, ~30h, Intermediate to advanced)
+- 💼 **[Cloud Engineer](https://www.cheatgrid.com/roadmaps/cloud-engineer)**: From pay-as-you-go basics to a well-architected AWS deployment. (19 steps, ~35h, Beginner to intermediate)
+- 🛠️ **[Containers: Docker to Kubernetes](https://www.cheatgrid.com/roadmaps/docker-and-kubernetes)**: From a single Dockerfile to a Kubernetes cluster you can secure and debug. (19 steps, ~40h, Intermediate to advanced)
+- 💼 **[DevOps Engineer](https://www.cheatgrid.com/roadmaps/devops-engineer)**: From a Linux terminal to a production deployment strategy. (17 steps, ~35h, Beginner to advanced)
+- 🛠️ **[Infrastructure as Code with Terraform](https://www.cheatgrid.com/roadmaps/terraform-and-iac)**: From a single terraform apply to a self-healing, policy-gated infrastructure pipeline. (15 steps, ~30h, Intermediate to advanced)
+- 💼 **[Platform Engineer](https://www.cheatgrid.com/roadmaps/platform-engineer)**: From Internal Developer Platform vocabulary to a golden path developers actually use. (15 steps, ~30h, Intermediate to advanced)
+- 💼 **[Site Reliability Engineer](https://www.cheatgrid.com/roadmaps/site-reliability-engineer)**: From your first error budget to the metrics that prove your reliability work is real. (14 steps, ~30h, Intermediate to advanced)
 
 ## 💾 Data and Databases
 
-- 💼 **[BI Analyst](https://www.cheatgrid.com/roadmaps/business-intelligence-analyst)**: From a star schema and DAX to a governed, secured BI platform the whole company runs on. (13 steps, ~35h, Intermediate to advanced)
+- 💼 **[BI Analyst](https://www.cheatgrid.com/roadmaps/business-intelligence-analyst)**: From a star schema and DAX to a governed, secured BI platform the whole company runs on. (14 steps, ~35h, Intermediate to advanced)
 - 🛠️ **[Business Analytics: Excel to Power BI](https://www.cheatgrid.com/roadmaps/excel-to-power-bi)**: From the Excel sheet you already know to a Power BI dashboard powered by real DAX measures. (12 steps, ~30h, Beginner to intermediate)
-- 💼 **[Data Analyst](https://www.cheatgrid.com/roadmaps/data-analyst)**: From your first VLOOKUP to a Tableau dashboard your manager trusts. (14 steps, ~30h, Beginner to intermediate)
-- 💼 **[Data Engineer](https://www.cheatgrid.com/roadmaps/data-engineer)**: From your first SQL query to a Spark and Kafka pipeline that runs itself. (16 steps, ~35h, Beginner to advanced)
-- 💼 **[Data Scientist](https://www.cheatgrid.com/roadmaps/data-scientist)**: From your first Python script to conclusions a business will actually act on. (16 steps, ~38h, Beginner to advanced)
+- 💼 **[Data Analyst](https://www.cheatgrid.com/roadmaps/data-analyst)**: From your first VLOOKUP to a Tableau dashboard your manager trusts. (15 steps, ~30h, Beginner to intermediate)
+- 💼 **[Data Engineer](https://www.cheatgrid.com/roadmaps/data-engineer)**: From your first SQL query to a Spark and Kafka pipeline that runs itself. (19 steps, ~35h, Beginner to advanced)
+- 💼 **[Data Scientist](https://www.cheatgrid.com/roadmaps/data-scientist)**: From your first Python script to conclusions a business will actually act on. (17 steps, ~38h, Beginner to advanced)
 - 🛠️ **[MongoDB & NoSQL Databases](https://www.cheatgrid.com/roadmaps/mongodb-and-nosql)**: From NoSQL fundamentals to a production-ready MongoDB architecture. (12 steps, ~25h, Intermediate to advanced)
 - 🛠️ **[SQL & Relational Databases](https://www.cheatgrid.com/roadmaps/sql-and-databases)**: From relational tables to a PostgreSQL database you can run in production. (12 steps, ~30h, Beginner to advanced)
 
@@ -47,7 +47,7 @@
 - 💼 **[Land Your Next Job](https://www.cheatgrid.com/roadmaps/job-search-career-change)**: From a vague urge to change jobs to an offer you negotiated yourself. (11 steps, ~25h, Beginner to offer ready)
 - 🛠️ **[Negotiation & Influence](https://www.cheatgrid.com/roadmaps/negotiation-and-influence)**: From Cialdini's principles of yes to closing deals and asking for what you're worth. (12 steps, ~25h, Beginner to advanced)
 - 🛠️ **[Personal Productivity & Deep Work](https://www.cheatgrid.com/roadmaps/personal-productivity)**: From an inbox you don't trust to a productivity system that runs on its own. (13 steps, ~30h, Beginner to intermediate)
-- 💼 **[Product Manager](https://www.cheatgrid.com/roadmaps/product-manager)**: From your first user interview to a launch you can defend with data. (15 steps, ~35h, Beginner to intermediate)
+- 💼 **[Product Manager](https://www.cheatgrid.com/roadmaps/product-manager)**: From your first user interview to a launch you can defend with data. (16 steps, ~35h, Beginner to intermediate)
 - 🛠️ **[Project Management Fundamentals](https://www.cheatgrid.com/roadmaps/project-management-fundamentals)**: From the business case that gets a project approved to the schedule, risk, and reporting that keep it on track. (15 steps, ~35h, Beginner to intermediate)
 - 💼 **[Technical Writer](https://www.cheatgrid.com/roadmaps/technical-writer)**: From a clear first paragraph to a documentation system engineers actually trust. (11 steps, ~20h, Beginner to intermediate)
 
@@ -56,7 +56,7 @@
 - 🛠️ **[AI-Assisted Coding](https://www.cheatgrid.com/roadmaps/ai-assisted-coding)**: From your first AI-generated suggestion to a reviewed, git-backed workflow you'd trust in production. (12 steps, ~20h, Beginner to intermediate)
 - 💼 **[Android Developer](https://www.cheatgrid.com/roadmaps/android-developer)**: From your first Kotlin file to a signed, published app on Google Play. (14 steps, ~30h, Beginner to advanced)
 - 🛠️ **[API Design](https://www.cheatgrid.com/roadmaps/api-design)**: From a single REST endpoint to a versioned, gateway-fronted API that can defend itself. (12 steps, ~30h, Intermediate to advanced)
-- 💼 **[Backend Developer](https://www.cheatgrid.com/roadmaps/backend-developer)**: From your first HTTP request to a secured, deployed API that can handle real traffic. (15 steps, ~30h, Beginner to intermediate)
+- 💼 **[Backend Developer](https://www.cheatgrid.com/roadmaps/backend-developer)**: From your first HTTP request to a secured, deployed API that can handle real traffic. (17 steps, ~30h, Beginner to intermediate)
 - 💼 **[Frontend Developer](https://www.cheatgrid.com/roadmaps/frontend-developer)**: From your first HTML element to a deployed, accessible React interface. (17 steps, ~40h, Beginner to intermediate)
 - 💼 **[Full Stack Developer](https://www.cheatgrid.com/roadmaps/full-stack-developer)**: From an empty HTML file to a deployed, database-backed application running in production. (15 steps, ~40h, Beginner to advanced)
 - 💼 **[iOS Developer](https://www.cheatgrid.com/roadmaps/ios-developer)**: From your first lines of Swift to a signed app in the App Store. (15 steps, ~35h, Beginner to advanced)
@@ -67,9 +67,9 @@
 
 ## 🔒 Security and Networking
 
-- 💼 **[Cybersecurity Analyst](https://www.cheatgrid.com/roadmaps/cybersecurity-analyst)**: From the CIA triad to running an incident from first alert to final report. (18 steps, ~40h, Beginner to intermediate)
-- 🛠️ **[DevSecOps](https://www.cheatgrid.com/roadmaps/devsecops)**: From a scanned container image to a release pipeline that only ships what's signed and policy-approved. (14 steps, ~35h, Advanced to expert)
-- 💼 **[Network Engineer](https://www.cheatgrid.com/roadmaps/network-engineer)**: From subnetting a network by hand to designing one that keeps running. (16 steps, ~32h, Beginner to intermediate)
+- 💼 **[Cybersecurity Analyst](https://www.cheatgrid.com/roadmaps/cybersecurity-analyst)**: From the CIA triad to running an incident from first alert to final report. (20 steps, ~40h, Beginner to intermediate)
+- 🛠️ **[DevSecOps](https://www.cheatgrid.com/roadmaps/devsecops)**: From a scanned container image to a release pipeline that only ships what's signed and policy-approved. (17 steps, ~35h, Advanced to expert)
+- 💼 **[Network Engineer](https://www.cheatgrid.com/roadmaps/network-engineer)**: From subnetting a network by hand to designing one that keeps running. (17 steps, ~32h, Beginner to intermediate)
 - 💼 **[Penetration Tester](https://www.cheatgrid.com/roadmaps/penetration-tester)**: From your first authorized scan to a full recon-to-report penetration test. (12 steps, ~25h, Intermediate to advanced)
 - 🛠️ **[Web & Application Security](https://www.cheatgrid.com/roadmaps/web-security-essentials)**: From the OWASP Top 10 to shipping code that passes a security review. (13 steps, ~30h, Beginner to intermediate)
 

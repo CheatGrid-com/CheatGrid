@@ -8,13 +8,25 @@ Open **Roadmaps** from the top of the site. The page starts by asking what you'r
 
 ## Seeing the whole path at once
 
-Open a roadmap and it lays out in sections, each with its step cards in order. On a wide screen a slim panel on the right, **The path**, lists every section and every topic in one place, with a tick beside the ones you've finished. Click a topic to jump to it, and it keeps up with you as you scroll, so a long roadmap never leaves you wondering where you are.
+Open a roadmap and it starts with a diagram of the whole path (more on that below), then lays out in sections, each with its step cards in order. On a wide screen a slim panel on the right, **The path**, lists every section and every topic in one place, with a tick beside the ones you've finished. Click a topic to jump to it, and it keeps up with you as you scroll, so a long roadmap never leaves you wondering where you are.
 
 Each step also says what kind of sheet it is: a **💡 Concept** (how something works) or a **🛠️ Tool** (one language, library or product). When a step has a partner in the same roadmap, the card links to it: a concept lists the **tools for it in this roadmap**, and a tool lists the **concepts behind it**, so you can see which later step puts an idea to work.
 
+## The diagram: what builds on what
+
+Right under the roadmap's intro sits its diagram: every step on one screen, grouped into its sections, with each section's milestone between them and the badge at the end. The arrows show which steps build on which. They come from the roadmap itself: when a step's note says it uses something from step 4, the diagram draws an arrow from step 4 to it. Steps that build on each other in a row sit side by side, so a quick look tells you where the path is one straight line and where you can take things in any order.
+
+Hover a step (or tap it on a phone) and it lights up what it needs first in blue and what it opens up in purple, while everything else fades back. Tapping a step also opens a small card under the diagram with its note, the steps it **builds on** and the ones it **opens up** (tap any of them to jump there), plus buttons for its cheat sheet, its flashcards, and **Show it in the list**. When that card is below the bottom of your screen, a small pill naming the step sits at the bottom edge; tap **Details below** to scroll straight to it. **Longest chain** highlights the longest run of steps where each one leans on the one before it, which is the part of the path you can't shortcut.
+
+Signed in, the diagram also shows your progress: finished steps turn green, the step to do now glows with an **Up next** tag, each section shows how many of its steps you've done, and a step whose every prerequisite you've finished gets a **Ready** tag, so you can see when it's safe to skip ahead. Signed out, step 1 is marked **Start here**.
+
 ## The roadmap as a network
 
-Above the steps, **This roadmap as a network** opens the whole roadmap as one interactive network from the **[Concept Maps](concept-maps.md)**: its steps coloured by section, the concept-tool links between them, and the outside sheets that tie several steps together. Click a step's node and **Go to step** takes you straight to it. Each step card also has a **Map** button that draws just that step's links, right on the card. Both stay closed until you open them, so the page stays a simple list.
+A little further down, **This roadmap as a network** opens the whole roadmap as one interactive network from the **[Concept Maps](concept-maps.md)**: its steps coloured by section, the concept-tool links between them, and the outside sheets that tie several steps together. Click a step's node and **Go to step** takes you straight to it. Each step card also has a **Map** button that draws just that step's links, right on the card. Both stay closed until you open them, so the page stays a simple list.
+
+Steps with a **[cookbook](cookbooks.md)** show a **10 recipes** button. Point at it (or tab to it) to see every recipe for that step and jump straight into one; click it to open the whole cookbook.
+
+A roadmap with **[checklists](checklists.md)** shows a **Checklists** line at the top, and a step that a checklist relies on carries a small checklists pill. Both **list their checklists when you point at them**, so you can open one straight away; on a phone, a tap opens the roadmap's checklist page.
 
 ## The two bars: progress and memory
 

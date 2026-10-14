@@ -4,7 +4,7 @@
 
 ### Discover, learn, and remember.
 
-**A learning platform for technical, professional and everyday skills, built on deeply researched, structured cheat sheets, then extended with spaced-repetition flashcards, practice tests, full certification prep and short, sourced Life Skills pages, ordered into guided roadmaps and backed by AI explanations wherever you get stuck.**
+**A learning platform for technical, professional and everyday skills, built on deeply researched, structured cheat sheets, then extended with spaced-repetition flashcards, practice tests, full certification prep, short, sourced Life Skills pages and practical checklists for real work, ordered into guided roadmaps and backed by AI explanations wherever you get stuck.**
 
 **→ [www.cheatgrid.com](https://www.cheatgrid.com)**
 
@@ -16,7 +16,7 @@
 
 Most references give you a wall of prose, or stop at the obvious basics. CheatGrid is structured differently.
 
-Every topic starts as a **cheat sheet**: built from authoritative sources and broken into clean `concept → example → description` tables, sorted from most-used to most-advanced, with an **interactive mind map** and a **quick index** so you can see the whole landscape and scan to any concept in seconds. Each sheet aims to go beyond the basics (common techniques, advanced patterns, and the related concepts you didn't know to look for), so it works as much for **discovering** a subject as for looking things up in it.
+Every topic starts as a **cheat sheet**: built from authoritative sources and broken into clean `concept → example → description` tables, sorted from most-used to most-advanced, with an **interactive mind map**, a **quick index** and a **filter bar** so you can see the whole landscape, scan to any concept in seconds, or narrow every table to just the rows you need. Each sheet aims to go beyond the basics (common techniques, advanced patterns, and the related concepts you didn't know to look for), so it works as much for **discovering** a subject as for looking things up in it.
 
 Many topics go further, to help you **keep** what you learn:
 
@@ -25,7 +25,9 @@ Many topics go further, to help you **keep** what you learn:
 
 And when you're preparing for a specific **certification**, the exam itself is the center: each 🎓 **[Certification](guides/certifications.md)** is built around one real exam (Azure, AWS, security, project management, and more) and comes with its own cheat sheet, practice tests, and flashcards focused on that exam's objectives.
 
-Away from the technical, 💡 **[Life Skills](guides/life-skills.md)** are cheat sheets for everyday life: work, money, relationships, family and the big changes. The cheat sheet has what you didn't know, with a source on every line. The checklist has what you'd forget: the steps in order, often with the exact words to say.
+Away from the technical, 💡 **[Life Skills](guides/life-skills.md)** are cheat sheets for everyday life: work, money, relationships, family and the big changes. The cheat sheet has what you didn't know, with a source on every line. The to-do list has what you'd forget: the steps in order, often with the exact words to say.
+
+✅ **[Checklists](guides/checklists.md)**: checklists for the work that actually happens. Each one walks a real task (shipping a feature, running an incident, onboarding a hire) in the order you meet it, with the **Must** checks first, a "Stop if" box that says when to stop and ask, and "How to verify" under every check. Answer up to two questions and the checks that don't fit your case drop away. Tick as you go, and your progress is saved.
 
 Stuck on something? **[AI Explanations](guides/ai-explanations.md)** unpack it in plain language with concrete examples, wherever you are: a cheat-sheet row, a flashcard mid-session, a practice question you got wrong, or a whole roadmap. So our content can teach you something new instead of only reminding you.
 
@@ -41,16 +43,17 @@ The pieces are **linked**, so you can move from exploring to studying to testing
 |---|---|---|
 | 🗺️ | **[Roadmaps](guides/roadmaps.md)** | Ordered learning paths built from our cheat sheets and their flashcards, for a career, a single skill, or a life goal. Tracks your progress and how much you actually remember as you go. |
 | 📕 | **[Cookbooks](guides/cookbooks.md)** | Short, ordered recipes for real problems, from a growing set of topics, each step with a worked example so you're never guessing what "do this" means. |
-| 📋 | **[Cheat Sheets](guides/cheat-sheets.md)** | 1,300+ topics as scannable 3-column tables, each with an interactive mind map, a quick index, a PDF you can print or keep offline, and a link to every concept's source. Split into concepts and tools. |
+| 📋 | **[Cheat Sheets](guides/cheat-sheets.md)** | 1,300+ topics as scannable 3-column tables, each with an interactive mind map, a quick index, a filter bar that narrows every table to the rows with your words, a PDF you can print or keep offline, and a link to every concept's source. Split into concepts and tools. |
 | 🕸️ | **[Concept Maps](guides/concept-maps.md)** | Every concept linked to the tools that put it to work, and every tool to the ideas underneath, as lists or interactive networks you can drag, zoom, filter and share. A network for each category, one for how whole categories connect, and one for each roadmap. |
 | ✨ | **[AI Explanations](guides/ai-explanations.md)** | Stuck on anything? Tap ✨ and get it in plain language, written for someone seeing the subject for the first time, with real examples instead of abstract ones. It's on cheat-sheet rows and tables, flashcards, practice questions, certifications, roadmaps and My Vault. |
 | ⇄ | **[Compare two concepts](guides/compare-concepts.md)** | Pick any two concepts, from one sheet or two, and get what separates them in the same structure every time: the difference in a sentence, a side-by-side table, one real case run through both, when to reach for which, and the classic mix-up. |
 | 🎴 | **[Intelligent Flashcards](guides/intelligent-flashcards.md)** | Spaced-repetition decks written for *learning*: beginner-friendly explanations paired with concrete, real-world examples (a specific case rather than an abstract one). The schedule shows each card right before you'd forget it. |
 | 📝 | **[Practice Tests](guides/practice-tests.md)** | Multiple-choice questions with real-world "why it matters" explanations. Study, take a timed exam, or browse the answers. Your call. |
 | 🎓 | **[Certifications](guides/certifications.md)** | Exam-focused prep for in-demand certifications: each with a cheat sheet, a practice test, flashcards, and an exam readiness score by domain. |
-| 💡 | **[Life Skills](guides/life-skills.md)** | Cheat sheets for everyday life: what's actually true about work, money, relationships and family, with a source on every line, and a checklist of what to do about it. |
+| 💡 | **[Life Skills](guides/life-skills.md)** | Cheat sheets for everyday life: what's actually true about work, money, relationships and family, with a source on every line, and a to-do list of what to do about it. |
+| ✅ | **[Checklists](guides/checklists.md)** | Checklists for the work that actually happens: a real task in the order you meet it, Must checks first, stop signs, "How to verify" under every check, and a numbered link to the official page where one states it. Tick as you go, print it, copy it as a to-do list, or keep it offline in the app. |
 | 📥 | **[My Vault](guides/my-vault.md)** | Save the rows you care about, and build your own custom cheat sheets, complete with an auto-generated mind map and quick index. Share any of them with a link. |
-| 🔍 | **[Search & Assistant](guides/assistant-and-search.md)** | Instant fuzzy search across every sheet, plus an assistant that understands what you mean and points you to the right place, with sources. |
+| 🔍 | **[Search & Assistant](guides/assistant-and-search.md)** | Instant fuzzy search across every sheet, a filter on each sheet that searches every row and column, plus an assistant that understands what you mean and points you to the right place, with sources. |
 | 📊 | **[Progress](guides/stats.md)** | Earn **[XP](guides/xp-and-levels.md)** and level up as you study, keep a daily **[streak](guides/streaks.md)** going, and see it all on your **[Stats](guides/stats.md)** page. |
 | 📈 | **[Dashboard](guides/dashboard.md)** | One page with your totals, your study rhythm over the last 12 weeks, how your scores and your recall are going, and what is worth picking up next. Your numbers only, never a comparison with anyone else. |
 
@@ -72,6 +75,8 @@ Wherever a topic has more than one of these, you'll see quick links between them
 
 **[Concept Maps](guides/concept-maps.md)** connect the sheets themselves: each concept to the tools that use it, each tool to the ideas behind it, so after one sheet you always know which to read next. Every cheat sheet shows its own small network right under its title, and every roadmap step can open one in place.
 
+**[Checklists](guides/checklists.md)** turn a role's real tasks into something you can tick off. Each checklist has one home roadmap and is also listed under every other roadmap whose role meets the same task, and it links to the cheat sheets behind its checks and, through them, their recipes.
+
 **[Cookbooks](guides/cookbooks.md)** turn a cheat sheet's rows into something you actually do: a short, ordered recipe for one real problem, with a Cookbook button on the matching roadmap step and on the cheat sheet itself so you never have to go looking for it.
 
 Your **[Dashboard](guides/dashboard.md)** is the view back across all of it: the totals, your study rhythm over the last 12 weeks, how your scores and your recall are holding up, and what is worth picking up next.
@@ -85,6 +90,7 @@ Your **[Dashboard](guides/dashboard.md)** is the view back across all of it: the
 Full, always-up-to-date catalogs (every item links to its page on the site):
 
 - 🗺️ **[All Roadmaps](lists/roadmaps.md):** every learning path, grouped by domain
+- ✅ **[All Checklists](lists/checklists.md):** every checklist, grouped by shelf and roadmap
 - 💡 **[Life Skills](https://www.cheatgrid.com/life-skills):** every page, grouped by life area and topic
 - 📕 **[All Cookbooks](lists/cookbooks.md):** every recipe, grouped by roadmap and step
 - 📋 **[All Cheat Sheets](lists/cheat-sheets.md):** the complete library
@@ -127,7 +133,11 @@ Just a glimpse: each domain spans far more than this handful of examples. For th
 
 A lot is free to try (free cheat sheets, plus previews of flashcards and practice tests), so you can get a real feel before deciding. **[Roadmaps](guides/roadmaps.md)** and their progress tracking are free for everyone; what a plan unlocks is the content a roadmap points at. A **Pro** or **Pro+** subscription unlocks the full library, every flashcard deck and practice test, unlimited study, and all of My Vault.
 
-**New accounts start with a short free trial of Pro+**, no card needed: everything is open, a small badge at the top shows how long is left, and when it ends your account simply goes back to Free with nothing you saved lost.
+**Nine whole checklists are free** for everyone, one in each of our most popular roadmaps and one in every field none of those covers; every other checklist needs **Pro**, and a locked one still shows the first check of each moment. Any checklist you can open also downloads as a clean PDF.
+
+**New accounts start with a short free trial of Pro+**, no card needed: pick any topics from the whole library, up to a set number, with some full PDFs and AI answers included (the pricing page lists them while your trial runs). A small badge at the top shows how long is left, and when it ends your account simply goes back to Free with nothing you saved lost.
+
+**Prices fit where you live.** In many countries the pricing page shows plans in your own currency, tax included, at a price set for what things cost there, so a plan costs less where incomes are lower. Everywhere else, checkout shows the US price converted to your currency.
 
 See current plans at **[cheatgrid.com/subscription](https://www.cheatgrid.com/subscription)**.
 
@@ -137,6 +147,9 @@ See current plans at **[cheatgrid.com/subscription](https://www.cheatgrid.com/su
 
 Newest first:
 
+- ✅ [Checklists](guides/checklists.md): checklists for the work that actually happens, by role, with Must checks first, stop signs and "How to verify" under every check ([the catalog](lists/checklists.md))
+- 🔎 Filter any cheat sheet: a search box right above Table 1 narrows the whole sheet to the rows with your words, in any column, and highlights them as you type ([how it works](guides/cheat-sheets.md))
+- 🃏 Flashcards on the row: cheat-sheet rows with a [flashcard](guides/intelligent-flashcards.md) carry an **F** button (hover to preview the card, click to open it), and every card has a **Sheet row** button that shows the row it came from
 - 🧩 CheatGrid where you work: a [VS Code extension](https://marketplace.visualstudio.com/items?itemName=cheatgrid.cheatgrid-vscode) (also for Cursor, Windsurf and VSCodium), two Chrome extensions with Life Skills tips, and a [Windows app](https://apps.microsoft.com/detail/9pg72c6dg3nx), all free
 - 📋 A big batch of new tool cheat sheets across Generative AI, AI & ML, DevOps, Data Engineering, Cloud, Containers, BI and Data Science: Claude Agent SDK, n8n, Langfuse, ComfyUI, OpenCV, CUDA, SHAP and many more
 - 📥 [Free PDFs](lists/free-pdfs.md): every free cheat sheet gets its own download page at [cheatgrid.com/free-pdfs](https://www.cheatgrid.com/free-pdfs), and many more Life Skills pages are free to download
@@ -144,7 +157,7 @@ Newest first:
 - 🎉 Share cards: an image and a link for a test score, a finished roadmap or deck, or your streak, never with your name on it
 - 🔔 Evening streak reminder: one notification, only on days you haven't studied yet
 - 🔍 Search filters: narrow any search by type (sheets, flashcards, tests, roadmaps, cookbooks, Life Skills), category and subcategory
-- ✦ A free Pro+ trial for every new account: the whole library, every deck and practice test, no card needed
+- ✦ A free Pro+ trial for every new account: try any cheat sheet, deck or practice test, no card needed
 - 🖨️ Exam-week pack: one PDF with your weakest domains' tables, the cards you keep forgetting and the questions you missed, for the last days before a certification exam
 - ⇄ [Compare two concepts](guides/compare-concepts.md): pick any two concepts, even from different cheat sheets, and get a structured explanation of what separates them
 - 🔗 Share a custom table: send a link to a table you built in My Vault, and anyone can read it or copy it into their own vault
@@ -154,7 +167,7 @@ Newest first:
 - 📨 Requests: ask for a cheat sheet or certification we don't cover yet, and get an email when it's live
 - 🕸️ Concept Maps as interactive network graphs: drag, zoom, filter and share how every concept connects to its tools, per category and across the whole library
 - 🗺️ Concepts & Tools: every cheat sheet is a concept or a tool, with an All / Concepts / Tools switch everywhere and Concept Maps that link each idea to the tools that implement it
-- 💡 Life Skills: cheat sheets for everyday life, each with a checklist of what to do
+- 💡 Life Skills: cheat sheets for everyday life, each with a to-do list of what to do
 - 📕 Cookbooks: short, ordered recipes for real problems, each step with a worked example
 - 📄 PDF export: any cheat sheet or Life Skills page as a printable, designed document
 - ✨ AI Explanations everywhere (cheat sheets, flashcards, practice tests, certifications, roadmaps, My Vault)

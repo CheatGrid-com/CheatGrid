@@ -69,6 +69,17 @@ A free sheet shows every row. On a paid sheet you see the rows its own page alre
 
 On the main page, pick a concept or a tool (or type its name in the search box) and the explorer centres on it. Click any of its partners to keep going: every click re-centres the view, and a trail at the top brings you back the way you came. Switch to **Graph** and you walk it as a network instead, with each partner's own best links around it.
 
+## The Checklists tab
+
+At the top of Concept Maps, two tabs switch between **Cheat Sheets** (everything above) and **Checklists**. The Checklists tab is a network of **every roadmap with checklists**, each linked to the roadmaps whose **checklists are most alike**: different roles that meet the same work, like a backend developer and a DevOps engineer getting a service ready for production. A thicker line means more alike.
+
+- **Hover a line** to see the two roadmaps' most alike checklists.
+- **Click a roadmap** to go one level down, to **its own checklist map**: the roadmap's checklists and the most similar checklists from other roles around them, coloured by roadmap. There, click a checklist to see the ones most like it, and open any of them. **Ctrl+click** (⌘ on a Mac) a roadmap opens its checklists.
+- On a checklist map, **click a line** (or the ↔ beside a similar checklist) to see **where the two checklists meet**: the checks in each that do the same job, closest first. A checklist you can't open yet shows only how many matching checks it has, with a way to get Pro.
+- Under the network: the closest pairs of roadmaps, and every roadmap with checklists by category, each leading to its map.
+
+Each checklist also ends with its own **map of similar checklists**, from any roadmap. More in **[Checklists](checklists.md)**.
+
 ## Share any view
 
 Every network, card and explorer view has a **Share** button. It copies a link that opens exactly what you're looking at: the network with the same sheet selected, one card drawn as a graph, or the explorer centred on a sheet.

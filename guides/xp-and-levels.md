@@ -13,6 +13,7 @@ You earn XP for actually using the platform to learn:
 - **Reading Life Skills pages:** XP for your reading time, the same as a cheat sheet, plus bonuses for marking a page as read and for finishing a whole topic or life area.
 - **Roadmaps and Cookbooks:** bonuses for the steps and recipes you finish (no timer there: a recipe is done away from the screen).
 - **Exploring the Concept Maps:** XP for your time on the map pages (1 per active minute, like reading), plus a little extra the first time you look at each sheet on a map (up to a daily limit) and milestone bonuses as you explore more of them. See the **[Concept Maps guide](concept-maps.md)**.
+- **Using checklists:** XP for every minute you spend on a checklist, a little for each check you tick, and a bonus for finishing one (and for finishing every checklist of a roadmap).
 
 It all rolls into **one** XP total. There's nothing to manage.
 

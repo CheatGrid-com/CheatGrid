@@ -8,6 +8,10 @@ Every recipe opens with the problem it solves and what you'll have when you're d
 
 ## Finding one
 
+On the [Cookbooks](https://www.cheatgrid.com/cookbooks) page every roadmap is a box with the number of cookbooks on it (switch to **By category** to see them by field instead). **Point at a box** (or tab to it) to see its cookbooks and how many recipes each holds; click it to open them all. On a phone, a tap opens the box.
+
+The **side panel** works the same way, one level deeper: point at a roadmap to see its cookbooks, then **point at a cookbook** to see its recipes beside it, and click one to open it.
+
 On the Cookbooks page, the green **Latest** stripe at the top of the page lists the newest recipes, newest first. When you're signed in, each one says where you are with it: **Not started yet**, **Opened** once you've looked at it, and **Finished** when every step is ticked.
 
 Three ways in: the **Cookbooks** tab in the main nav, a **Cookbook** button on a roadmap step, and a cookbook banner on the matching cheat sheet. However you get there, you land on the same recipe.
@@ -22,7 +26,7 @@ Longer recipes are split into parts, and at the end of each part you'll see what
 
 ## How much you can try
 
-Every cookbook gives you a real, full recipe or two to work through for free, no account needed to start. Past that, you'll still see what every remaining recipe covers, just not the steps themselves, until you subscribe.
+Every roadmap gives you **one full recipe** to work through for free, no account needed to start: the first recipe of its first cookbook. It wears a green **Free** label, and the **Try free** row under each category on the [Cookbooks](https://www.cheatgrid.com/cookbooks) page lists them, so you can jump straight in. For every other recipe you'll still see what it covers, just not the steps themselves, until you subscribe.
 
 ## What you get for finishing
 

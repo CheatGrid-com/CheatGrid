@@ -26,6 +26,8 @@ Every cheat sheet is one of two kinds:
 
 Use the **All / Concepts / Tools** switch at the top of the Cheat Sheets page, on every category page and in the left sidebar to show just one kind. It remembers your choice and applies it everywhere at once, including the flashcard and practice test lists, and the counts change with it. Switch back to **All** any time.
 
+When **[checklists](checklists.md)** rely on a sheet, a line under its title names them, so you can go from the reference to the real task it serves.
+
 The two kinds are linked. Right under a sheet's title you'll see what it is and its partners: a concept lists the **tools for it**, and a tool lists the **concepts behind it**. Learned RAG? The tools that do it are one click away. Picking up Kubernetes? So are the ideas it's built on.
 
 **🕸️ The [Concept Maps](concept-maps.md)** (in the top menu, right after Cheat Sheets) show all of these links in one place, as lists or as interactive networks you can drag, zoom, filter and share. The strip under a sheet's title also shows its partners as a small network, where every node opens that sheet, and your first look at each sheet on a map earns a little XP. The **[Concept Maps guide](concept-maps.md)** has the full tour.
@@ -33,10 +35,12 @@ The two kinds are linked. Right under a sheet's title you'll see what it is and 
 ## Finding your way around
 
 - **🧠 Mind Map:** every sheet has an interactive Mind Map of all its concepts. Skim it to see the whole landscape at a glance, **hover any node** to preview its description and example, then **click it to jump straight to that row** in the tables. You can zoom and pan around it.
-- **⚡ Quick Index:** a clickable outline of every sub-table and concept, for fast jumps without scrolling. **Hover a concept** to preview its description and example, just like in the Mind Map.
+- **⚡ Quick Index:** a clickable outline of every sub-table and concept, for fast jumps without scrolling. **Hover a concept** to preview its description and example, just like in the Mind Map. The **search box in its header** narrows it to the concepts holding all your words, highlighted in yellow, and the Mind Map below follows along, showing only those concepts and their tables. Press Escape or Clear to see everything again.
 - **📑 On This Page:** the side panel on the right lists every table in the sheet and follows you as you scroll, so you always know where you are. On a sheet you haven't unlocked it still lists all of them, with a 🔒 on the ones that are part of the full sheet, so you can see the whole shape of the topic before you subscribe.
+- **🔎 Filter the sheet:** the search box right above Table 1 narrows the whole sheet as you type. Every row without your words, in any column, disappears, a table with no matching rows folds away with it, and your words are highlighted in yellow in the rows that stay. Type several words and a row must contain all of them. Clear it to get the whole sheet back.
 - **🔍 Search:** use the search box up top to jump to any topic across the whole library (see the **[Search & Assistant guide](assistant-and-search.md)**). When you open a sheet from a search result, your term is highlighted right in the tables, and you can step between matches.
 - **📚 References:** every sheet ends with a categorized reading list, and every concept links to its source, so it's easy to go deeper when you want to.
+- **🗂️ Category boxes:** on the [Cheat Sheets](https://www.cheatgrid.com/topics) page each category is a box with its sheet count. **Point at a box** (or tab to it) to see every sheet inside and jump straight to one; click it to open the category. On a phone, a tap opens the category. The Flashcards and Practice Tests pages work the same way.
 - **🟢 Latest:** on the Cheat Sheets page, the green **Latest** stripe at the top of the page lists the newest cheat sheets, newest first. When you're signed in, each one says whether you've opened it yet. Click the stripe to fold it away.
 - **🗓️ Last updated:** each sheet shows the date it was last refreshed, so you can see the content is kept current. The home page also has a **New & Recently Updated** section, so you can spot what's fresh across all topics at a glance.
 
@@ -56,8 +60,17 @@ Every cheat sheet has a **PDF** button in the top bar. Press it and you get the 
 - **Everyone else gets a preview file:** the first table in full plus a row from each of the next few, watermarked, with a page at the end explaining what's in the rest. That includes the free cheat sheets, so a free sheet is fully readable on the site, and the take-away file needs **Pro**.
 - **The 29 free sheets also have a download page** at [cheatgrid.com/free-pdfs](https://www.cheatgrid.com/free-pdfs): the whole file, no account, no email address and no watermark. Those are the same PDFs published in this repo.
 - **Certifications and Soft Skills** export in full on **Pro+**, the same tiers that unlock them to read.
+- **[Checklists](checklists.md)** have the same PDF button and draw on the same daily allowance; the free checklists export in full for anyone signed in.
 
-There's a daily limit on downloads so the service stays fast for everyone: a handful a day on a free account, plenty on Pro and Pro+.
+There's a daily limit on downloads so the service stays fast for everyone: a handful a day on a free account, plenty on Pro and Pro+. The free Pro+ trial includes a few full PDFs; after those, a download during the trial is the preview file.
+
+## Opening new topics
+
+Every topic you can read opens in full, and anything you've opened stays open: come back to it as often as you like, it never counts again. What is limited is how many **new** topics one account opens in a day and in a month. A topic counts once for its cheat sheet, flashcard deck, practice tests and cookbook together. The limit sits far above how anyone studies; it is there to stop the library being copied wholesale. If you ever reach it, the page tells you, everything you've already opened keeps working, and new topics open again the next day (or on the 1st, for the monthly one). The free trial includes a set number of topics, listed on the [pricing page](https://www.cheatgrid.com/subscription) while your trial runs.
+
+## Flashcards right on the row
+
+Most rows have a matching **[flashcard](intelligent-flashcards.md)**, and those rows carry a small **F** button in the last column, under the two Explain buttons. **Hover it** to preview the card (front, answer and example) in the same little window the Mind Map uses, or **click it** to open the card in a popup with a link to the whole deck. A row can have more than one card, and the same card can sit on more than one row. If a row has no card, there's no F.
 
 ## Copy what you need
 
@@ -81,7 +94,7 @@ Got an idea for a feature that would make CheatGrid more useful? **[Open an issu
 
 ## Free vs. subscription
 
-A selection of cheat sheets is **free**. Look for the "Free Access" picks on the home page. A **Pro** or **Pro+** subscription unlocks the full library and everything we add in the future. (Soft Skills and Certifications are part of **Pro+**.)
+A selection of cheat sheets is **free**. Look for the "Free Access" picks on the home page, or the **Try free** row under each category on the [Cheat Sheets](https://www.cheatgrid.com/topics) page: it lists the free sheets in that category. A **Pro** or **Pro+** subscription unlocks the full library and everything we add in the future. (Soft Skills and Certifications are part of **Pro+**.)
 
 ## Tips
 

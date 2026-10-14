@@ -17,9 +17,13 @@ Cards you find tricky keep showing up; cards you know drift further into the fut
 
 Open any deck and use the toggle at the top:
 
+- **Practice:** drill right now, ignoring due dates. This is where a deck opens. Pick your batch **by tables** (tick the sections you want to cover) or **by number of cards** (a set size, or the whole deck). Each table shows how far you've got: cards studied, cards due, and your estimated recall right now. **Select due** picks just the tables that need a refresh. Great before an interview or exam.
 - **Review:** your daily "what should I study today." It shows the cards that are **due**, plus a few **new** ones (you choose how many new per day, so a big deck never floods you). Miss a card and it loops back later in the same session until you've got it.
-- **Practice:** drill right now, ignoring due dates. Pick your batch **by number of cards** (a set size, or the whole deck) or **by tables** (tick the sections you want to cover). Great before an interview or exam.
 - **Browse:** read and search every card, grouped by section. No grading, just reading.
+
+## See the row a card came from
+
+Every card is written from a row of its **[cheat sheet](cheat-sheets.md)**. Once you flip a card (in Practice or Review), or on any card in Browse, a **Sheet row** button shows up. **Hover it** to preview that row (the concept, its description and its example), or **click it** to open the row in a popup with a link straight to it in the sheet. It only appears after you flip, so it never gives the answer away. The cheat sheet works the other way round too: rows with a card carry a small **F** button.
 
 ## Core cards first
 
@@ -48,7 +52,7 @@ Finish a review and you get a **share card** for the deck, with its own page to 
 
 ## Free vs. subscription
 
-You get a real taste before subscribing: free decks offer a generous preview, and paid decks let you sample cards in Browse. A **Pro / Pro+** subscription unlocks every deck, every mode, and unlimited study. (Certifications and Soft Skills decks are **Pro+**.)
+You get a real taste before subscribing: free decks offer a generous preview, and paid decks let you sample cards in Browse. The **Try free** row under each category on the [Flashcards](https://www.cheatgrid.com/flashcards) page lists the free decks. A **Pro / Pro+** subscription unlocks every deck, every mode, and unlimited study. (Certifications and Soft Skills decks are **Pro+**.)
 
 ## Tips
 

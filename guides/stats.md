@@ -13,9 +13,10 @@ Stats is split into tabs, in the same order as the main menu, so each kind of st
 - **Flashcards:** every deck you've studied, with reviews done, how much of the deck you've learned, time spent, XP, and when you last studied it.
 - **Cookbooks:** every recipe you've started, which cookbook it belongs to, how many steps you've ticked, when you finished it (if you have), and the XP it earned you, plus your cookbook badges below the table.
 - **Roadmaps:** every roadmap you've started, how far along you are, and the XP its milestones earned you.
+- **Checklists:** every checklist you've used, how many times you've **finished** each, the checks done in your current go, when you last used and last finished it, and the XP it paid.
 - **Life Skills:** every page you've read, your reading time and XP (time plus the bonuses for pages, topics and life areas), plus your Life Skills badges below the table.
 
-Each tab is grouped by category and you can **search and filter** to find a specific topic fast. **Click any column header** to sort a table by it, and **drag the categories** in the side panel to arrange them however you like. Every tab also has a 🔥 chip showing how many **streak points** you've earned from that activity all-time (reading cheat sheets, exploring the Concept Maps, practice tests, flashcards, finishing recipes, or reading Life Skills pages). It keeps counting even if your current streak resets, and it links straight to your **[Streak](streaks.md)** page.
+Each tab is grouped by category and you can **search and filter** to find a specific topic fast. **Click any column header** to sort a table by it, and **drag the categories** in the side panel to arrange them however you like. Every tab also has a 🔥 chip showing how many **streak points** you've earned from that activity all-time (reading cheat sheets, exploring the Concept Maps, practice tests, flashcards, finishing recipes, earning XP from checklists, or reading Life Skills pages). It keeps counting even if your current streak resets, and it links straight to your **[Streak](streaks.md)** page.
 
 ## How time and XP are counted
 

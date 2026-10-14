@@ -4,7 +4,7 @@ Our content is written to be scanned and drilled. That's the job: a cheat-sheet 
 
 Sometimes you don't, and then you're stuck. That's what **Explain** is for. Tap it and you get a plain-language walkthrough written for someone meeting the subject for the first time, with a real example instead of an abstract one.
 
-It's on cheat sheets, flashcards, practice tests, certifications, roadmaps, cookbook recipes, Life Skills pages, the Concept Maps and My Vault, and it always explains **whatever it's sitting next to**.
+It's on cheat sheets, flashcards, practice tests, certifications, roadmaps, cookbook recipes, Life Skills pages, checklists, the Concept Maps and My Vault, and it always explains **whatever it's sitting next to**.
 
 ## Where to find it
 
@@ -39,6 +39,8 @@ Look for the small ✨ button. It's icon only, so it stays out of the way, and i
 
 **On Life Skills pages:** for the whole page, and beside its groups, lines, checklist items and myths.
 
+**On checklists:** Summarize for the whole checklist, and Explain beside each moment and each check. It takes your answers to the questions at the top into account. On a **locked** checklist the moments and the first check of each get the buttons too, and the explanation uses **only what that preview shows**; Summarize waits until you can open the whole checklist.
+
 **On the Concept Maps:** **Explain this link**, when you open the link between two sheets (press **↔** next to a partner). It tells you how the two fit together: which part of the idea each piece of the tool handles, one real case walked through step by step, what the tool still leaves up to you, and which rows in each sheet to read next. It only uses the rows you can see. Inside that window every matched pair of rows has its own **Explain this pair** too: is it really the same thing, the idea on its own, then how the tool does it, with a small example you can try and how to check it worked (say, **Broadcast Join** in Big Data beside **Broadcast joins** in Databricks).
 
 **In My Vault:** on every saved row and on each saved topic's table.
@@ -52,6 +54,7 @@ Every explanation is written to the same rules:
 - **Plain words.** Jargon gets explained the moment it appears, in the same sentence. No assumed background.
 - **Real examples, not placeholders.** Actual numbers, actual filenames, actual values, with the result shown. `17 // 5 -> 3` teaches something; `x // y` doesn't.
 - **Short and structured.** Bullets and short sections, never a wall of text. Long enough to actually land, short enough to read.
+- **Easy to skim.** Each section has its own small heading, and inside it the one or two words that carry the point are in bold. Read just the bold and you still get the gist.
 - **The general rule at the end.** A concrete example on its own doesn't transfer to the next problem, so each explanation steps back to the principle it demonstrates.
 - **No filler.** It starts with the answer and stops when it's finished. No "great question", no summary of what it just said.
 
@@ -80,6 +83,7 @@ You can also drag any edge or corner of the panel to resize it. The size you pic
 | Plan | AI explanations |
 | --- | --- |
 | Free account | 15 in total |
+| Free Pro+ trial | 15 for the whole trial |
 | Pro | 300 a month, up to 60 in a day |
 | Pro+ | 500 a month, up to 100 in a day |
 

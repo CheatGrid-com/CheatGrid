@@ -20,7 +20,7 @@ Use the toggle at the top of any topic:
 - **Exam:** exam conditions with no feedback until the end, and picks auto-advance. Best for testing yourself for real.
 - **Browse:** read every question and answer with the explanations visible, searchable, with an "On This Page" outline. Best for a quick review or a skim before an exam.
 
-When you finish an **Exam**, you get a results screen with your **score and percentage**, your **time**, and the **XP** you earned. Tap **See your answers** for a full per-question breakdown, with a side **Questions** panel that marks each one right or wrong and jumps you straight to it.
+When you finish a test, you get a results screen with your **score and percentage**, your **time**, and the **XP** you earned. Tap **See your answers** for a full per-question breakdown (an **Exam** opens it for you, with a side **Questions** panel that marks each one right or wrong and jumps you straight to it). Want just the ones you got wrong? Tap **Review mistakes**, or switch the breakdown between **All** and **Incorrect only**.
 
 ## QA Flashcards
 
@@ -42,7 +42,7 @@ The page says "someone scored 92% on LangChain", never your name. There is no pr
 
 ## Free vs. subscription
 
-**Free topics** are fully playable, with every mode and every question. **Paid topics** are previewable once you're signed in: you get the **whole first section** of the first test in Practice and Browse, so you finish something real rather than stopping mid-way, while Exam mode stays locked. A **Pro / Pro+** subscription unlocks every test in full. (Certifications and Soft Skills are **Pro+**.)
+**Free topics** are fully playable, with every mode and every question. The **Try free** row under each category on the [Practice Tests](https://www.cheatgrid.com/practice-tests) page lists them. **Paid topics** are previewable once you're signed in: you get the **whole first section** of the first test in Practice and Browse, so you finish something real rather than stopping mid-way, while Exam mode stays locked. A **Pro / Pro+** subscription unlocks every test in full. (Certifications and Soft Skills are **Pro+**.)
 
 ## Tips
 

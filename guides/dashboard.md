@@ -6,7 +6,7 @@ Everything on it is **your** numbers only. There are no leaderboards and no comp
 
 ## How the page is laid out
 
-The page is grouped by **what each number is about**, and every group has its own colour: cheat sheets are blue, practice tests orange, flashcards green, cookbooks pink, and violet is used for the parts that cover all four at once. The strip of buttons at the top jumps you straight to a group, and the dots on those buttons are the colour key.
+The page is grouped by **what each number is about**, and every group has its own colour: cheat sheets are blue, practice tests orange, flashcards green, cookbooks pink, and violet is used for the parts that cover all four at once. Each group sits on its own tinted background with a coloured edge down its side, so as you scroll you can see the moment you move into the next one. On a computer, the **On this page** panel down the left side lists every group in its colour, opens the one you are in to show its panels, and jumps you to any of them (the arrow at its top tucks it away). On a phone, the strip of buttons at the top does the same job.
 
 ### Overview (violet)
 
@@ -54,6 +54,14 @@ Once you have tried at least one **[recipe](https://www.cheatgrid.com/cookbooks)
 - **Pick up where you left off, closest to a badge, and recently finished:** the same shortcuts the Cookbooks hub gives you, right here on your dashboard.
 
 If you have not tried a recipe yet, this section stays out of the way with one line pointing you at the **[Cookbooks](https://www.cheatgrid.com/cookbooks)** page instead of a wall of zeroes.
+
+### Life Skills (gold)
+
+The Life Skills pages you have read, how many topics you have touched, your badges and the page to pick up next.
+
+### Checklists (olive)
+
+How many checklists you have **finished** and how often, the checks you have done, and what is **half done**, each with a link to carry on where you stopped. Your checklist badges are counted here too.
 
 ### Everything together (violet)
 
